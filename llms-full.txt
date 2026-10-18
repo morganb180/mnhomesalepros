@@ -1,0 +1,122 @@
+# MN Home Sale Pros
+
+> MN Home Sale Pros is a free directory of Minnesota home-sale inspection professionals: MPCA-licensed SSTS (septic) inspectors, MDH-licensed radon testers and mitigators, and city-licensed Truth-in-Sale-of-Housing (TISH) evaluators, organized by county.
+
+It is for Minnesota sellers, buyers and agents dealing with septic compliance inspections at transfer, radon disclosure and testing, and city point-of-sale (TISH) evaluations. For Minneapolis, we link the city's official evaluator finder. Every page has a Markdown version: replace the trailing slash with `.md` (home: https://mnhomesalepros.com/index.md).
+
+## Directory
+- [Minnesota Home Sale Inspectors by County](https://mnhomesalepros.com/counties/)
+- [MPCA-Licensed SSTS (Septic) Inspectors in Minnesota](https://mnhomesalepros.com/septic-inspectors/): MPCA SSTS
+- [Minnesota Radon at Home Sale & MDH-Licensed Radon Pros](https://mnhomesalepros.com/radon/): MDH radon + disclosure law
+- [Minnesota Truth-in-Sale of Housing (TISH) & Point-of-Sale Inspections](https://mnhomesalepros.com/truth-in-sale-of-housing/): TISH hub
+
+## About
+- [About MN Home Sale Pros](https://mnhomesalepros.com/about/)
+- [About Our Data](https://mnhomesalepros.com/about-our-data/)
+- [How We Verify Listings](https://mnhomesalepros.com/how-we-verify/): verification steps and dates
+- [List, Claim, Correct or Remove a Listing](https://mnhomesalepros.com/list-your-business/)
+- [Contact](https://mnhomesalepros.com/contact/)
+- [Privacy Policy](https://mnhomesalepros.com/privacy/)
+
+## Optional
+- [llms-full.txt](https://mnhomesalepros.com/llms-full.txt): every page on the site
+- [Sitemap](https://mnhomesalepros.com/sitemap.xml)
+
+## County pages
+- [Septic Inspectors & Radon Pros in Aitkin County, MN: 8 Licensed](https://mnhomesalepros.com/county/aitkin/)
+- [Septic Inspectors & Radon Pros in Anoka County, MN: 18 Licensed](https://mnhomesalepros.com/county/anoka/)
+- [Septic Inspectors & Radon Pros in Becker County, MN: 15 Licensed](https://mnhomesalepros.com/county/becker/)
+- [Septic Inspectors & Radon Pros in Beltrami County, MN: 9 Licensed](https://mnhomesalepros.com/county/beltrami/)
+- [Septic Inspectors & Radon Pros in Big Stone County, MN: 1 Licensed](https://mnhomesalepros.com/county/big-stone/)
+- [Septic Inspectors & Radon Pros in Blue Earth County, MN: 9 Licensed](https://mnhomesalepros.com/county/blue-earth/)
+- [Septic Inspectors & Radon Pros in Brown County, MN: 3 Licensed](https://mnhomesalepros.com/county/brown/)
+- [Septic Inspectors & Radon Pros in Carlton County, MN: 6 Licensed](https://mnhomesalepros.com/county/carlton/)
+- [Septic Inspectors & Radon Pros in Carver County, MN: 6 Licensed](https://mnhomesalepros.com/county/carver/)
+- [Septic Inspectors & Radon Pros in Cass County, MN: 15 Licensed](https://mnhomesalepros.com/county/cass/)
+- [Septic Inspectors & Radon Pros in Chippewa County, MN: 3 Licensed](https://mnhomesalepros.com/county/chippewa/)
+- [Septic Inspectors & Radon Pros in Chisago County, MN: 5 Licensed](https://mnhomesalepros.com/county/chisago/)
+- [Septic Inspectors & Radon Pros in Clay County, MN: 2 Licensed](https://mnhomesalepros.com/county/clay/)
+- [Septic Inspectors & Radon Pros in Clearwater County, MN: 1 Licensed](https://mnhomesalepros.com/county/clearwater/)
+- [Septic Inspectors & Radon Pros in Cook County, MN: 2 Licensed](https://mnhomesalepros.com/county/cook/)
+- [Septic Inspectors & Radon Pros in Cottonwood County, MN: 1 Licensed](https://mnhomesalepros.com/county/cottonwood/)
+- [Septic Inspectors & Radon Pros in Crow Wing County, MN: 15 Licensed](https://mnhomesalepros.com/county/crow-wing/)
+- [Septic Inspectors & Radon Pros in Dakota County, MN: 22 Licensed](https://mnhomesalepros.com/county/dakota/)
+- [Septic Inspectors & Radon Pros in Dodge County, MN: 6 Licensed](https://mnhomesalepros.com/county/dodge/)
+- [Septic Inspectors & Radon Pros in Douglas County, MN: 6 Licensed](https://mnhomesalepros.com/county/douglas/)
+- [Septic Inspectors & Radon Pros in Faribault County, MN: 2 Licensed](https://mnhomesalepros.com/county/faribault/)
+- [Septic Inspectors & Radon Pros in Fillmore County, MN: 4 Licensed](https://mnhomesalepros.com/county/fillmore/)
+- [Septic Inspectors & Radon Pros in Freeborn County, MN: 4 Licensed](https://mnhomesalepros.com/county/freeborn/)
+- [Septic Inspectors & Radon Pros in Goodhue County, MN: 8 Licensed](https://mnhomesalepros.com/county/goodhue/)
+- [Septic Inspectors & Radon Pros in Grant County, MN: 3 Licensed](https://mnhomesalepros.com/county/grant/)
+- [Septic Inspectors & Radon Pros in Hennepin County, MN: 69 Licensed](https://mnhomesalepros.com/county/hennepin/)
+- [Septic Inspectors & Radon Pros in Houston County, MN: 4 Licensed](https://mnhomesalepros.com/county/houston/)
+- [Septic Inspectors & Radon Pros in Hubbard County, MN: 7 Licensed](https://mnhomesalepros.com/county/hubbard/)
+- [Septic Inspectors & Radon Pros in Isanti County, MN: 10 Licensed](https://mnhomesalepros.com/county/isanti/)
+- [Septic Inspectors & Radon Pros in Itasca County, MN: 12 Licensed](https://mnhomesalepros.com/county/itasca/)
+- [Septic Inspectors & Radon Pros in Jackson County, MN: 1 Licensed](https://mnhomesalepros.com/county/jackson/)
+- [Septic Inspectors & Radon Pros in Kanabec County, MN: 4 Licensed](https://mnhomesalepros.com/county/kanabec/)
+- [Septic Inspectors & Radon Pros in Kandiyohi County, MN: 8 Licensed](https://mnhomesalepros.com/county/kandiyohi/)
+- [Septic Inspectors & Radon Pros in Koochiching County, MN: 1 Licensed](https://mnhomesalepros.com/county/koochiching/)
+- [Septic Inspectors & Radon Pros in Lac qui Parle County, MN: 1 Licensed](https://mnhomesalepros.com/county/lac-qui-parle/)
+- [Septic Inspectors & Radon Pros in Lake County, MN: 3 Licensed](https://mnhomesalepros.com/county/lake/)
+- [Septic Inspectors & Radon Pros in Lake of the Woods County, MN: 2 Licensed](https://mnhomesalepros.com/county/lake-of-the-woods/)
+- [Septic Inspectors & Radon Pros in Le Sueur County, MN: 9 Licensed](https://mnhomesalepros.com/county/le-sueur/)
+- [Septic Inspectors & Radon Pros in Lincoln County, MN: 2 Licensed](https://mnhomesalepros.com/county/lincoln/)
+- [Septic Inspectors & Radon Pros in Lyon County, MN: 9 Licensed](https://mnhomesalepros.com/county/lyon/)
+- [Septic Inspectors & Radon Pros in Mahnomen County, MN: 1 Licensed](https://mnhomesalepros.com/county/mahnomen/)
+- [Septic Inspectors & Radon Pros in Martin County, MN: 2 Licensed](https://mnhomesalepros.com/county/martin/)
+- [Septic Inspectors & Radon Pros in McLeod County, MN: 5 Licensed](https://mnhomesalepros.com/county/mcleod/)
+- [Septic Inspectors & Radon Pros in Meeker County, MN: 1 Licensed](https://mnhomesalepros.com/county/meeker/)
+- [Septic Inspectors & Radon Pros in Mille Lacs County, MN: 8 Licensed](https://mnhomesalepros.com/county/mille-lacs/)
+- [Septic Inspectors & Radon Pros in Morrison County, MN: 11 Licensed](https://mnhomesalepros.com/county/morrison/)
+- [Septic Inspectors & Radon Pros in Mower County, MN: 4 Licensed](https://mnhomesalepros.com/county/mower/)
+- [Septic Inspectors & Radon Pros in Murray County, MN: 1 Licensed](https://mnhomesalepros.com/county/murray/)
+- [Septic Inspectors & Radon Pros in Nicollet County, MN: 4 Licensed](https://mnhomesalepros.com/county/nicollet/)
+- [Septic Inspectors & Radon Pros in Nobles County, MN: 1 Licensed](https://mnhomesalepros.com/county/nobles/)
+- [Septic Inspectors & Radon Pros in Olmsted County, MN: 17 Licensed](https://mnhomesalepros.com/county/olmsted/)
+- [Septic Inspectors & Radon Pros in Otter Tail County, MN: 19 Licensed](https://mnhomesalepros.com/county/otter-tail/)
+- [Septic Inspectors & Radon Pros in Pine County, MN: 10 Licensed](https://mnhomesalepros.com/county/pine/)
+- [Septic Inspectors & Radon Pros in Pipestone County, MN: 2 Licensed](https://mnhomesalepros.com/county/pipestone/)
+- [Septic Inspectors & Radon Pros in Polk County, MN: 3 Licensed](https://mnhomesalepros.com/county/polk/)
+- [Septic Inspectors & Radon Pros in Pope County, MN: 1 Licensed](https://mnhomesalepros.com/county/pope/)
+- [Septic Inspectors & Radon Pros in Ramsey County, MN: 16 Licensed](https://mnhomesalepros.com/county/ramsey/)
+- [Septic Inspectors & Radon Pros in Red Lake County, MN: 1 Licensed](https://mnhomesalepros.com/county/red-lake/)
+- [Septic Inspectors & Radon Pros in Redwood County, MN: 1 Licensed](https://mnhomesalepros.com/county/redwood/)
+- [Septic Inspectors & Radon Pros in Rice County, MN: 11 Licensed](https://mnhomesalepros.com/county/rice/)
+- [Septic Inspectors & Radon Pros in Rock County, MN: 1 Licensed](https://mnhomesalepros.com/county/rock/)
+- [Septic Inspectors & Radon Pros in Roseau County, MN: 2 Licensed](https://mnhomesalepros.com/county/roseau/)
+- [Septic Inspectors & Radon Pros in Saint Louis County, MN: 24 Licensed](https://mnhomesalepros.com/county/saint-louis/)
+- [Septic Inspectors & Radon Pros in Scott County, MN: 12 Licensed](https://mnhomesalepros.com/county/scott/)
+- [Septic Inspectors & Radon Pros in Sherburne County, MN: 17 Licensed](https://mnhomesalepros.com/county/sherburne/)
+- [Septic Inspectors & Radon Pros in St. Louis County, MN: 6 Licensed](https://mnhomesalepros.com/county/st-louis/)
+- [Septic Inspectors & Radon Pros in Stearns County, MN: 14 Licensed](https://mnhomesalepros.com/county/stearns/)
+- [Septic Inspectors & Radon Pros in Steele County, MN: 7 Licensed](https://mnhomesalepros.com/county/steele/)
+- [Septic Inspectors & Radon Pros in Stevens County, MN: 1 Licensed](https://mnhomesalepros.com/county/stevens/)
+- [Septic Inspectors & Radon Pros in Todd County, MN: 5 Licensed](https://mnhomesalepros.com/county/todd/)
+- [Septic Inspectors & Radon Pros in Wabasha County, MN: 6 Licensed](https://mnhomesalepros.com/county/wabasha/)
+- [Septic Inspectors & Radon Pros in Wadena County, MN: 2 Licensed](https://mnhomesalepros.com/county/wadena/)
+- [Septic Inspectors & Radon Pros in Waseca County, MN: 1 Licensed](https://mnhomesalepros.com/county/waseca/)
+- [Septic Inspectors & Radon Pros in Washington County, MN: 11 Licensed](https://mnhomesalepros.com/county/washington/)
+- [Septic Inspectors & Radon Pros in Wilkin County, MN: 1 Licensed](https://mnhomesalepros.com/county/wilkin/)
+- [Septic Inspectors & Radon Pros in Winona County, MN: 3 Licensed](https://mnhomesalepros.com/county/winona/)
+- [Septic Inspectors & Radon Pros in Wright County, MN: 10 Licensed](https://mnhomesalepros.com/county/wright/)
+
+## Pages
+- [Minnesota Home Sale Inspectors by County](https://mnhomesalepros.com/counties/)
+- [MN Home Sale Pros: Septic, Radon & TISH Inspectors in Minnesota](https://mnhomesalepros.com/)
+- [About Our Data](https://mnhomesalepros.com/about-our-data/)
+- [About MN Home Sale Pros](https://mnhomesalepros.com/about/)
+- [Contact](https://mnhomesalepros.com/contact/)
+- [Privacy Policy](https://mnhomesalepros.com/privacy/)
+- [How We Make Money](https://mnhomesalepros.com/how-we-make-money/)
+- [List, Claim, Correct or Remove a Listing](https://mnhomesalepros.com/list-your-business/)
+- [How We Verify Listings](https://mnhomesalepros.com/how-we-verify/)
+
+## Guides
+- [MPCA-Licensed SSTS (Septic) Inspectors in Minnesota](https://mnhomesalepros.com/septic-inspectors/)
+- [Minnesota Radon at Home Sale & MDH-Licensed Radon Pros](https://mnhomesalepros.com/radon/)
+
+## TISH
+- [Saint Paul TISH Evaluators (Truth-in-Sale of Housing)](https://mnhomesalepros.com/truth-in-sale-of-housing/saint-paul/)
+- [Minneapolis TISH Evaluations: Guide & Finding an Evaluator](https://mnhomesalepros.com/truth-in-sale-of-housing/minneapolis/)
+- [Minnesota Truth-in-Sale of Housing (TISH) & Point-of-Sale Inspections](https://mnhomesalepros.com/truth-in-sale-of-housing/)

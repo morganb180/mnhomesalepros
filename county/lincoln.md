@@ -1,0 +1,55 @@
+---
+title: "Septic Inspectors & Radon Pros in Lincoln County, MN: 2 Licensed | MN Home Sale Pros"
+description: "2 MPCA-licensed SSTS inspectors and 0 MDH-licensed radon pros based in Lincoln County, Minnesota, for home sales."
+canonical: https://mnhomesalepros.com/county/lincoln/
+---
+
+[Home](https://mnhomesalepros.com/) › [Counties](https://mnhomesalepros.com/counties/) › Lincoln County
+
+# Septic inspectors and radon pros in Lincoln County, MN
+
+2 MPCA-licensed SSTS inspector businesses and 0 MDH-licensed radon businesses list an address in Lincoln County. Many work across counties, and most radon pros list a statewide service area.
+
+Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
+
+## SSTS (septic) inspectors (2)
+
+✔ MPCA SSTS licensed Inspector
+
+### REO Enterprises LLC
+
+3451 200th Ave, Canby, MN 56220  
+☎ [(507) 530-7307](tel:5075307307)  
+✉ rolsen@co.lincoln.mn.us
+
+Certified staff: Robert E Olsen  
+Also licensed: Designer  
+License L4215, expires 2027-03-21 · bonded, insured  
+Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL4215)
+
+✔ MPCA SSTS licensed InspectorIntermediate Inspector
+
+### K L Septic
+
+1783 County Hwy 8, Tyler, MN 56178  
+☎ [(507) 530-3857](tel:5075303857)  
+✉ klseptic@gmail.com
+
+Certified staff: Kurt M Larsen  
+Also licensed: Designer, Service provider  
+License L1842, expires 2027-04-27 · bonded, insured  
+Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL1842)
+
+## Radon
+
+No MDH-licensed radon businesses list a Lincoln County address. See [statewide radon pros](https://mnhomesalepros.com/radon/).
+
+Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
+
+## Neighboring counties
+
+[Lyon County](https://mnhomesalepros.com/county/lyon/) · [Pipestone County](https://mnhomesalepros.com/county/pipestone/)
+
+## Guides
+
+[Septic (SSTS) at sale](https://mnhomesalepros.com/septic-inspectors/) · [Radon at sale](https://mnhomesalepros.com/radon/) · [Truth-in-Sale of Housing](https://mnhomesalepros.com/truth-in-sale-of-housing/)

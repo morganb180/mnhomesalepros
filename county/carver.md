@@ -1,0 +1,114 @@
+---
+title: "Septic Inspectors & Radon Pros in Carver County, MN: 6 Licensed | MN Home Sale Pros"
+description: "2 MPCA-licensed SSTS inspectors and 4 MDH-licensed radon pros based in Carver County, Minnesota, for home sales."
+canonical: https://mnhomesalepros.com/county/carver/
+---
+
+[Home](https://mnhomesalepros.com/) › [Counties](https://mnhomesalepros.com/counties/) › Carver County
+
+# Septic inspectors and radon pros in Carver County, MN
+
+2 MPCA-licensed SSTS inspector businesses and 4 MDH-licensed radon businesses list an address in Carver County. Many work across counties, and most radon pros list a statewide service area.
+
+Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
+
+## SSTS (septic) inspectors (2)
+
+✔ MPCA SSTS licensed Inspector
+
+### Stantec Consulting Services Inc.
+
+PO Box 249, Maple Plain, MN 55359  
+☎ [(763) 479-4200](tel:7634794200)
+
+Certified staff: Eric M Blasing, Matthew T Summers PSS  
+Also licensed: Designer  
+License L4165, expires 2029-08-02 · bonded, insured  
+Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL4165)
+
+✔ MPCA SSTS licensed InspectorIntermediate InspectorAdvanced Inspector
+
+### Halling Engineering, Inc.
+
+1121 Landings Ln, Watertown, MN 55388  
+☎ [(952) 440-1680](tel:9524401680)  
+✉ grhalling@hallingeng.com
+
+Certified staff: Gregory R Halling PE  
+Also licensed: Designer  
+License L340, expires 2027-04-19 · bonded, insured  
+Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL340)
+
+## Radon testing and mitigation (4)
+
+✔ MDH radon license Measurement
+
+### Branch Property Investigations
+
+7460 Frontier Trail, Chanhassen, MN 55317  
+☎ [(612) 440-8466](tel:6124408466)  
+🌐 [branchinvestigations.com](https://www.branchinvestigations.com)
+
+4 MDH-licensed professionals
+
+* Daniel Haugh (RMEA-00554)
+* Mark Comparato (RMEA-00636)
+* Thomas Geoffroy (RMEA-00030)
+* Todd Nelson (RMEA-00346)
+
+Service area (per MDH): 50 miles  
+Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/serviceProviders.jsf), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=M042)
+
+✔ MDH radon license MeasurementMitigation
+
+### MN Radon Experts
+
+8501 Powers Pl, Chanhassen, MN 55317  
+☎ [(612) 578-0456](tel:6125780456)
+
+1 MDH-licensed professional
+
+* Joe Welu (RMITS-00050)
+
+Service area (per MDH): Statewide  
+Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/serviceProviders.jsf), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=M162)
+
+✔ MDH radon license Measurement
+
+### Holm Inspections LLC
+
+314 Shady Ln, Nya, MN 55397  
+☎ [(507) 276-4238](tel:5072764238)  
+🌐 [holm-inspections.com](https://holm-inspections.com)
+
+1 MDH-licensed professional
+
+* Paul Holm (RMEA-00258)
+
+Service area (per MDH): Statewide  
+Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/serviceProviders.jsf), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=M098)
+
+✔ MDH radon license Measurement
+
+### HomeSpex of Minnesota LLC
+
+1843 Campfire Dr E, Waconia, MN 55387  
+☎ [(507) 381-1418](tel:5073811418)  
+🌐 [homespexmn.com](https://www.homespexmn.com)
+
+1 MDH-licensed professional
+
+* Rod Reinhardt (RMEA-00318)
+
+Service area (per MDH): Statewide  
+Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/serviceProviders.jsf), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=M109)
+
+Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
+
+## Neighboring counties
+
+[Hennepin County](https://mnhomesalepros.com/county/hennepin/) · [McLeod County](https://mnhomesalepros.com/county/mcleod/) · [Scott County](https://mnhomesalepros.com/county/scott/) · [Wright County](https://mnhomesalepros.com/county/wright/)
+
+## Guides
+
+[Septic (SSTS) at sale](https://mnhomesalepros.com/septic-inspectors/) · [Radon at sale](https://mnhomesalepros.com/radon/) · [Truth-in-Sale of Housing](https://mnhomesalepros.com/truth-in-sale-of-housing/)

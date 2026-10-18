@@ -1,0 +1,23 @@
+# MN Home Sale Pros
+
+> MN Home Sale Pros is a free directory of Minnesota home-sale inspection professionals: MPCA-licensed SSTS (septic) inspectors, MDH-licensed radon testers and mitigators, and city-licensed Truth-in-Sale-of-Housing (TISH) evaluators, organized by county.
+
+It is for Minnesota sellers, buyers and agents dealing with septic compliance inspections at transfer, radon disclosure and testing, and city point-of-sale (TISH) evaluations. For Minneapolis, we link the city's official evaluator finder. Every page has a Markdown version: replace the trailing slash with `.md` (home: https://mnhomesalepros.com/index.md).
+
+## Directory
+- [Minnesota Home Sale Inspectors by County](https://mnhomesalepros.com/counties/)
+- [MPCA-Licensed SSTS (Septic) Inspectors in Minnesota](https://mnhomesalepros.com/septic-inspectors/): MPCA SSTS
+- [Minnesota Radon at Home Sale & MDH-Licensed Radon Pros](https://mnhomesalepros.com/radon/): MDH radon + disclosure law
+- [Minnesota Truth-in-Sale of Housing (TISH) & Point-of-Sale Inspections](https://mnhomesalepros.com/truth-in-sale-of-housing/): TISH hub
+
+## About
+- [About MN Home Sale Pros](https://mnhomesalepros.com/about/)
+- [About Our Data](https://mnhomesalepros.com/about-our-data/)
+- [How We Verify Listings](https://mnhomesalepros.com/how-we-verify/): verification steps and dates
+- [List, Claim, Correct or Remove a Listing](https://mnhomesalepros.com/list-your-business/)
+- [Contact](https://mnhomesalepros.com/contact/)
+- [Privacy Policy](https://mnhomesalepros.com/privacy/)
+
+## Optional
+- [llms-full.txt](https://mnhomesalepros.com/llms-full.txt): every page on the site
+- [Sitemap](https://mnhomesalepros.com/sitemap.xml)
