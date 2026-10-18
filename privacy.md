@@ -1,32 +1,56 @@
 ---
 title: "Privacy Policy | MN Home Sale Pros"
-description: "What MN Home Sale Pros collects (very little), how listing requests are handled, and your choices."
+description: "Privacy policy for MN Home Sale Pros: what quote requests collect, who receives them, and what we keep."
 canonical: https://mnhomesalepros.com/privacy/
 ---
 
 # Privacy policy
 
-Last updated: October 13, 2026. This policy covers MN Home Sale Pros (mnhomesalepros.com, "we").
+Updated Oct 18, 2026. This policy covers MN Home Sale Pros (mnhomesalepros.com, "we"), operated by MN Home Sale Pros, 26141 Red Corral Rd, Laguna Hills, CA 92653.
 
-## What we collect
+**What changed on Oct 18, 2026:** MN Home Sale Pros now takes quote requests. We keep a copy of each quote request (the details you submit, the pros it went to and the date) to run and improve the service. We don't sell it. The quote form also has a separate, optional box (unchecked by default) for home-sale tips and offers from MN Home Sale Pros; we only send those to people who check it. See "Tips and offers" below.
 
-* **Listing requests and messages:** the listing request form opens your own email app; we receive only what you send us by email, and use it to verify and process the request.
-* **Server logs:** our host keeps standard request logs (IP address, browser, pages requested) for security and reliability.
-* We don't use analytics or advertising cookies, and we don't run third-party trackers.
+## Quote requests
 
-## Business listings
+* **What you enter:** your name, email, optionally your phone, the ZIP code of the property, the service you need and an optional note.
+* **Who gets it:** when you check the consent box and submit, we send your request by email to **up to 3 licensed Minnesota pros** that offer that service near that ZIP code. Only those pros get your contact details. We email you a list of the pros we contacted.
+* **What we keep:** we keep a copy of each quote request: the details you submit (your name, email, phone if given, ZIP code, the service you need and any note), the pros it went to and the date. We use it to run and improve the service, and we don't sell it. We only use it to send you home-sale tips and offers if you opt in (below). Our server also keeps routing records: a request ID, the date and time, state, first three digits of your ZIP, the service requested and which pros were contacted. These records are kept for up to about 13 months.
+* **Email delivery:** requests are sent through our email provider, SendGrid (Twilio), which processes the message to deliver it and keeps delivery logs under its own retention policy. Pros that receive your request keep it under their own policies; contact them directly to ask them to delete it.
+* **Spam protection:** the form uses Cloudflare Turnstile and per-connection rate limits. To rate-limit, we keep a one-way hash of your IP address for about an hour.
 
-Listings come from public licensing or certification records (see [About our data](https://mnhomesalepros.com/about-our-data/)). Professionals can claim, correct or ask to remove their listing at any time.
+## Tips and offers (optional)
+
+* **Only with your opt-in:** the quote form has a second, optional box, unchecked by default: "Also send me home-sale tips and offers from MN Home Sale Pros." Your quote request goes through whether or not you check it.
+* **What we store if you opt in:** your name, email, phone (if you gave one), ZIP code, the service you asked about and the date you opted in, plus which pro you picked (if any), the page you used and the version of the opt-in wording you agreed to. We use it to send you home-sale tips and offers from MN Home Sale Pros. We don't store your IP address with it.
+* **Unsubscribe or delete:** you can unsubscribe at any time, or ask us to delete your details, by emailing hello@mnhomesalepros.com.
+* **Not sold:** we don't sell this list.
+
+## Clicks on contact links
+
+When you click a listing's phone, website or email link, your browser sends us an anonymous count (listing ID and link type only) so we can show pros how many people contacted them each month. No cookies or personal data are involved.
+
+## Listing claims and corrections
+
+The listing request form opens your own email app; we receive only what you send us, and use it to verify and process the request.
+
+## Usage data
+
+Our host keeps standard server logs (IP address, browser, pages requested) for security and reliability. We don't use analytics or advertising cookies, and we don't run third-party trackers.
 
 ## What we don't do
 
-* We don't sell personal information.
-* We don't share your messages except with service providers that host the site and deliver email.
+* We don't sell your personal information.
+* We don't share quote requests with anyone other than the matched pros and our service providers (Cloudflare for hosting and form processing, SendGrid for email delivery, Google for the email inbox where we keep our copy of each request).
+* We don't text or call you, and pros don't get permission to text you through this form.
+
+## Business listings
+
+Listings come from public licensing or certification records (see [About our data](/about-our-data/)). Pros receive homeowner requests by email; every request email has a one-click link to stop receiving them, and pros can claim, correct or remove their listing at any time.
 
 ## Your choices
 
-To ask what we hold about you, or to delete it, email [hello@mnhomesalepros.com](mailto:hello@mnhomesalepros.com).
+Questions or deletion requests: email [hello@mnhomesalepros.com](mailto:hello@mnhomesalepros.com) or use the [contact page](/contact/). Email us to have our copy of your quote request deleted, or, if you opted in to tips and offers, to unsubscribe or have your stored details deleted. We can't retrieve or delete what the pros received; contact the pros listed in your confirmation email.
 
-## Changes
+## Changes to this policy
 
-We'll post changes here and update the date above.
+We will post any changes here and update the date above. Material changes to how quote requests are shared will be highlighted at the top of this page before they take effect.

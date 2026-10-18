@@ -1,0 +1,20 @@
+---
+title: "Granite City Environmental, LLC, Saint Cloud, MN | MN Home Sale Pros"
+description: "Granite City Environmental, LLC: Septic (SSTS) inspection in Saint Cloud, MN. Licence details, contact and quotes."
+canonical: https://mnhomesalepros.com/firms/granite-city-environmental-llc-sl3683/
+---
+
+# Granite City Environmental, LLC
+
+* Septic (SSTS) inspection
+* Saint Cloud, MN (Sherburne County)
+* Phone: (320) 253-5411
+* Email: clint@granitecityenv.com
+* Address: PO Box 1382, Saint Cloud, MN 56302
+* MPCA SSTS licence L3683: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-03-24)
+* Also licensed: Designer, Service provider
+* bonded · insured
+
+Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL3683
+
+Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL3683
