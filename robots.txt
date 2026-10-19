@@ -1,5 +1,4 @@
-# MN Home Sale Pros (DRAFT): AI agents and crawlers are welcome. Markdown: /llms.txt, /llms-full.txt and a .md twin of every page.
-# Pages carry <meta name=robots content=noindex> until launch.
+# MN Home Sale Pros: AI agents and crawlers are welcome. Markdown: /llms.txt, /llms-full.txt and a .md twin of every page.
 
 User-agent: GPTBot
 Allow: /
