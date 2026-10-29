@@ -1,6 +1,6 @@
 ---
 title: "Glacial Lakes Radon LLC, Alexandria, MN | MN Home Sale Pros"
-description: "Glacial Lakes Radon LLC: Radon measurement, Radon mitigation in Alexandria, MN. Licence details, contact and quotes."
+description: "Glacial Lakes Radon in Alexandria, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/glacial-lakes-radon-llc-m084/
 ---
 

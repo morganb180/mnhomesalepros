@@ -1,6 +1,6 @@
 ---
-title: "Prairie Home Inspections, Forest Lake, MN | MN Home Sale Pros"
-description: "Prairie Home Inspections: Radon measurement in Forest Lake, MN. Licence details, contact and quotes."
+title: "Prairie Home Inspections: Radon Testing, Forest Lake MN"
+description: "Prairie Home Inspections in Forest Lake, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/prairie-home-inspections-m185/
 ---
 

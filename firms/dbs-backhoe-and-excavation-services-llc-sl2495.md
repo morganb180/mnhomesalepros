@@ -1,6 +1,6 @@
 ---
-title: "DBS Backhoe and Excavation Services, LLC, Brooks, MN | MN Home Sale Pros"
-description: "DBS Backhoe and Excavation Services, LLC: Septic (SSTS) inspection in Brooks, MN. Licence details, contact and quotes."
+title: "DBS Backhoe and Excavation Services, LLC, Brooks MN"
+description: "DBS Backhoe and Excavation Services in Brooks, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/dbs-backhoe-and-excavation-services-llc-sl2495/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ende Septic Service, Rogers, MN | MN Home Sale Pros"
-description: "Ende Septic Service: Septic (SSTS) inspection in Rogers, MN. Licence details, contact and quotes."
+description: "Ende Septic Service in Rogers, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/ende-septic-service-sl2654/
 ---
 

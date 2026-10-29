@@ -1,6 +1,6 @@
 ---
 title: "Low Radon LLC, Prior Lake, MN | MN Home Sale Pros"
-description: "Low Radon LLC: Radon measurement, Radon mitigation in Prior Lake, MN. Licence details, contact and quotes."
+description: "Low Radon LLC in Prior Lake, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/low-radon-llc-m152/
 ---
 

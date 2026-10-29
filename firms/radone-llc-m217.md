@@ -1,6 +1,6 @@
 ---
 title: "Radone LLC, Minneapolis, MN | MN Home Sale Pros"
-description: "Radone LLC: Radon measurement, Radon mitigation in Minneapolis, MN. Licence details, contact and quotes."
+description: "Radone LLC in Minneapolis, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/radone-llc-m217/
 ---
 

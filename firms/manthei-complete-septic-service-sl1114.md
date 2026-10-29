@@ -1,6 +1,6 @@
 ---
-title: "Manthei Complete Septic Service, Wabasha, MN | MN Home Sale Pros"
-description: "Manthei Complete Septic Service: Septic (SSTS) inspection in Wabasha, MN. Licence details, contact and quotes."
+title: "Manthei Complete Septic Service, Wabasha MN"
+description: "Manthei Complete Septic Service in Wabasha, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/manthei-complete-septic-service-sl1114/
 ---
 

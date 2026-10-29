@@ -1,6 +1,6 @@
 ---
-title: "Stenger Excavating LLC, Detroit Lakes, MN | MN Home Sale Pros"
-description: "Stenger Excavating LLC: Septic (SSTS) inspection in Detroit Lakes, MN. Licence details, contact and quotes."
+title: "Stenger Excavating LLC: Septic Inspector, Detroit Lakes MN"
+description: "Stenger Excavating LLC in Detroit Lakes, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/stenger-excavating-llc-sl553/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "All listed pros | MN Home Sale Pros"
-description: "Every licensed Minnesota pro listed on MN Home Sale Pros, A to Z."
+description: "Every MN Home Sale Pros listing, A to Z: 639 MPCA septic inspectors, MDH radon testers, mitigators and labs, and Saint Paul TISH evaluators."
 canonical: https://mnhomesalepros.com/firms/
 ---
 

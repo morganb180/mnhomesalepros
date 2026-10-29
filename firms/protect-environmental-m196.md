@@ -1,6 +1,6 @@
 ---
 title: "Protect Environmental, Louisville, KY | MN Home Sale Pros"
-description: "Protect Environmental: Radon measurement, Radon mitigation in Louisville, KY. Licence details, contact and quotes."
+description: "Protect Environmental in Louisville, KY: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/protect-environmental-m196/
 ---
 

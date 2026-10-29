@@ -1,6 +1,6 @@
 ---
 title: "Nordic Inspections, Fargo, ND | MN Home Sale Pros"
-description: "Nordic Inspections: Radon measurement, Radon mitigation in Fargo, ND. Licence details, contact and quotes."
+description: "Nordic Inspections in Fargo, ND: MDH licensed for radon measurement and radon mitigation. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/nordic-inspections-m167/
 ---
 

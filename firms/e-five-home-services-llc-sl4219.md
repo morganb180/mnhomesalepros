@@ -1,6 +1,6 @@
 ---
 title: "E Five Home Services LLC, Finlayson, MN | MN Home Sale Pros"
-description: "E Five Home Services LLC: Septic (SSTS) inspection in Finlayson, MN. Licence details, contact and quotes."
+description: "E Five Home Services LLC in Finlayson, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/e-five-home-services-llc-sl4219/
 ---
 

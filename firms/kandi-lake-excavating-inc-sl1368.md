@@ -1,6 +1,6 @@
 ---
-title: "Kandi-Lake Excavating, Inc., Lake Lillian, MN | MN Home Sale Pros"
-description: "Kandi-Lake Excavating, Inc.: Septic (SSTS) inspection in Lake Lillian, MN. Licence details, contact and quotes."
+title: "Kandi-Lake Excavating: Septic Inspector, Lake Lillian MN"
+description: "Kandi-Lake Excavating in Lake Lillian, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/kandi-lake-excavating-inc-sl1368/
 ---
 

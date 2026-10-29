@@ -1,6 +1,6 @@
 ---
 title: "Adamski Builders LLC, Duluth, MN | MN Home Sale Pros"
-description: "Adamski Builders LLC: Radon mitigation in Duluth, MN. Licence details, contact and quotes."
+description: "Adamski Builders LLC in Duluth, MN: MDH licensed for radon mitigation. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/adamski-builders-llc-m009/
 ---
 

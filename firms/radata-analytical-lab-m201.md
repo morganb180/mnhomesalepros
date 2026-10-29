@@ -1,6 +1,6 @@
 ---
 title: "RAdata Analytical Lab, Flanders, NJ | MN Home Sale Pros"
-description: "RAdata Analytical Lab: Radon analysis laboratory in Flanders, NJ. Licence details, contact and quotes."
+description: "RAdata Analytical Lab in Flanders, NJ: MDH licensed for radon analysis laboratory. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/radata-analytical-lab-m201/
 ---
 

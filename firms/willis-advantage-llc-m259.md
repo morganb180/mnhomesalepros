@@ -1,6 +1,6 @@
 ---
 title: "Willis Advantage LLC, Faribault, MN | MN Home Sale Pros"
-description: "Willis Advantage LLC: Radon measurement in Faribault, MN. Licence details, contact and quotes."
+description: "Willis Advantage LLC in Faribault, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/willis-advantage-llc-m259/
 ---
 

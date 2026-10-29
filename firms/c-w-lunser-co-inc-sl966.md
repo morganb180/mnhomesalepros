@@ -1,6 +1,6 @@
 ---
 title: "C. W. Lunser Co., Inc., Saint Cloud, MN | MN Home Sale Pros"
-description: "C. W. Lunser Co., Inc.: Septic (SSTS) inspection in Saint Cloud, MN. Licence details, contact and quotes."
+description: "C. W. Lunser Co., Inc. in Saint Cloud, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/c-w-lunser-co-inc-sl966/
 ---
 

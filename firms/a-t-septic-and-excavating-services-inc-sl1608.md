@@ -1,6 +1,6 @@
 ---
-title: "A & T Septic and Excavating Services Inc, Spicer, MN | MN Home Sale Pros"
-description: "A & T Septic and Excavating Services Inc: Septic (SSTS) inspection in Spicer, MN. Licence details, contact and quotes."
+title: "A & T Septic and Excavating Services Inc, Spicer MN"
+description: "A & T Septic and Excavating Services in Spicer, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/a-t-septic-and-excavating-services-inc-sl1608/
 ---
 

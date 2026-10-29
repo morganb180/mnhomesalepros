@@ -1,6 +1,6 @@
 ---
 title: "Inspector Rob Agency LLC, Superior, WI | MN Home Sale Pros"
-description: "Inspector Rob Agency LLC: Radon measurement in Superior, WI. Licence details, contact and quotes."
+description: "Inspector Rob Agency LLC in Superior, WI: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/inspector-rob-agency-llc-m127/
 ---
 

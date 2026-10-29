@@ -1,6 +1,6 @@
 ---
-title: "Advanced Home Inspections LLC, Onalaska, WI | MN Home Sale Pros"
-description: "Advanced Home Inspections LLC: Radon measurement in Onalaska, WI. Licence details, contact and quotes."
+title: "Advanced Home Inspections LLC: Radon Testing, Onalaska WI"
+description: "Advanced Home Inspections LLC in Onalaska, WI: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/advanced-home-inspections-llc-m012/
 ---
 

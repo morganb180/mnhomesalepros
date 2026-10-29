@@ -1,6 +1,6 @@
 ---
 title: "Unlimited Siteworks LLC, Faribault, MN | MN Home Sale Pros"
-description: "Unlimited Siteworks LLC: Septic (SSTS) inspection in Faribault, MN. Licence details, contact and quotes."
+description: "Unlimited Siteworks LLC in Faribault, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/unlimited-siteworks-llc-sl4417/
 ---
 

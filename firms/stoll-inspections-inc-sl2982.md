@@ -1,6 +1,6 @@
 ---
 title: "Stoll Inspections, Inc., Dent, MN | MN Home Sale Pros"
-description: "Stoll Inspections, Inc.: Septic (SSTS) inspection in Dent, MN. Licence details, contact and quotes."
+description: "Stoll Inspections, Inc. in Dent, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/stoll-inspections-inc-sl2982/
 ---
 

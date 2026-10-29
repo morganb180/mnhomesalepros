@@ -1,6 +1,6 @@
 ---
-title: "Blue Door Home Inspections LLC, Grand Forks, ND | MN Home Sale Pros"
-description: "Blue Door Home Inspections LLC: Radon measurement in Grand Forks, ND. Licence details, contact and quotes."
+title: "Blue Door Home Inspections: Radon Testing, Grand Forks ND"
+description: "Blue Door Home Inspections LLC in Grand Forks, ND: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/blue-door-home-inspections-llc-m038/
 ---
 

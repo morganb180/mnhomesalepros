@@ -1,6 +1,6 @@
 ---
 title: "Pillar To Post, Bemidji, MN | MN Home Sale Pros"
-description: "Pillar To Post: Radon measurement in Bemidji, MN. Licence details, contact and quotes."
+description: "Pillar To Post in Bemidji, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/pillar-to-post-m178/
 ---
 

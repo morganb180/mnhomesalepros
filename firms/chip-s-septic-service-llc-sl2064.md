@@ -1,6 +1,6 @@
 ---
-title: "Chip's Septic Service, LLC, Lester Prairie, MN | MN Home Sale Pros"
-description: "Chip's Septic Service, LLC: Septic (SSTS) inspection in Lester Prairie, MN. Licence details, contact and quotes."
+title: "Chip's Septic Service: Septic Inspector, Lester Prairie MN"
+description: "Chip's Septic Service in Lester Prairie, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/chip-s-septic-service-llc-sl2064/
 ---
 

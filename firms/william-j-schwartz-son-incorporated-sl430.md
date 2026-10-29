@@ -1,6 +1,6 @@
 ---
-title: "William J Schwartz & Son Incorporated, Bovey, MN | MN Home Sale Pros"
-description: "William J Schwartz & Son Incorporated: Septic (SSTS) inspection in Bovey, MN. Licence details, contact and quotes."
+title: "William J Schwartz & Son: Septic Inspector, Bovey MN"
+description: "William J Schwartz & Son in Bovey, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/william-j-schwartz-son-incorporated-sl430/
 ---
 

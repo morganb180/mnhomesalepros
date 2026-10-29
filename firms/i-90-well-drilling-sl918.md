@@ -1,6 +1,6 @@
 ---
 title: "I-90 Well Drilling, Blue Earth, MN | MN Home Sale Pros"
-description: "I-90 Well Drilling: Septic (SSTS) inspection in Blue Earth, MN. Licence details, contact and quotes."
+description: "I-90 Well Drilling in Blue Earth, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/i-90-well-drilling-sl918/
 ---
 

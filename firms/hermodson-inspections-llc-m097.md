@@ -1,6 +1,6 @@
 ---
 title: "Hermodson Inspections LLC, Blaine, MN | MN Home Sale Pros"
-description: "Hermodson Inspections LLC: Radon measurement in Blaine, MN. Licence details, contact and quotes."
+description: "Hermodson Inspections LLC in Blaine, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/hermodson-inspections-llc-m097/
 ---
 

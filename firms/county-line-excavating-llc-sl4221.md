@@ -1,6 +1,6 @@
 ---
 title: "County Line Excavating LLC, Gaylord, MN | MN Home Sale Pros"
-description: "County Line Excavating LLC: Septic (SSTS) inspection in Gaylord, MN. Licence details, contact and quotes."
+description: "County Line Excavating LLC in Gaylord, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/county-line-excavating-llc-sl4221/
 ---
 

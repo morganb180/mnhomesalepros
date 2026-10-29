@@ -1,6 +1,6 @@
 ---
 title: "Radon Solutions, Mankato, MN | MN Home Sale Pros"
-description: "Radon Solutions: Radon measurement, Radon mitigation in Mankato, MN. Licence details, contact and quotes."
+description: "Radon Solutions in Mankato, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/radon-solutions-m214/
 ---
 

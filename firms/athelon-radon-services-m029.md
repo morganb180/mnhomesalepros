@@ -1,6 +1,6 @@
 ---
 title: "Athelon Radon Services, Rochester, MN | MN Home Sale Pros"
-description: "Athelon Radon Services: Radon measurement, Radon mitigation in Rochester, MN. Licence details, contact and quotes."
+description: "Athelon Radon Services in Rochester, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/athelon-radon-services-m029/
 ---
 

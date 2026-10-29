@@ -1,6 +1,6 @@
 ---
 title: "Mark Wettlaufer, Cushing, MN | MN Home Sale Pros"
-description: "Mark Wettlaufer: Septic (SSTS) inspection in Cushing, MN. Licence details, contact and quotes."
+description: "Mark Wettlaufer in Cushing, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/mark-wettlaufer-sl2463/
 ---
 

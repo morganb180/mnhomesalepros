@@ -1,6 +1,6 @@
 ---
-title: "Ten Thirty Environmental Solutions, SBC, Blaine, MN | MN Home Sale Pros"
-description: "Ten Thirty Environmental Solutions, SBC: Septic (SSTS) inspection in Blaine, MN. Licence details, contact and quotes."
+title: "Ten Thirty Environmental Solutions, SBC, Blaine MN"
+description: "Ten Thirty Environmental Solutions, SBC in Blaine, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/ten-thirty-environmental-solutions-sbc-sl4082/
 ---
 

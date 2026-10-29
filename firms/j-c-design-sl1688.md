@@ -1,6 +1,6 @@
 ---
 title: "J C Design, Iron Junction, MN | MN Home Sale Pros"
-description: "J C Design: Septic (SSTS) inspection in Iron Junction, MN. Licence details, contact and quotes."
+description: "J C Design in Iron Junction, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/j-c-design-sl1688/
 ---
 

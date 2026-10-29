@@ -1,6 +1,6 @@
 ---
-title: "Martin Joyce Septic Service Inc., Merrifield, MN | MN Home Sale Pros"
-description: "Martin Joyce Septic Service Inc.: Septic (SSTS) inspection in Merrifield, MN. Licence details, contact and quotes."
+title: "Martin Joyce Septic Service: Septic Inspector, Merrifield MN"
+description: "Martin Joyce Septic Service in Merrifield, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/martin-joyce-septic-service-inc-sl2129/
 ---
 

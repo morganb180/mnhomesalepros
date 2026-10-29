@@ -1,6 +1,6 @@
 ---
 title: "Spectrum Research, Inc., Duluth, MN | MN Home Sale Pros"
-description: "Spectrum Research, Inc.: Septic (SSTS) inspection in Duluth, MN. Licence details, contact and quotes."
+description: "Spectrum Research, Inc. in Duluth, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/spectrum-research-inc-sl2215/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Ohm Septic Design & Inspection LLC, Audubon, MN | MN Home Sale Pros"
-description: "Ohm Septic Design & Inspection LLC: Septic (SSTS) inspection in Audubon, MN. Licence details, contact and quotes."
+title: "Ohm Septic Design & Inspection: Septic Inspector, Audubon MN"
+description: "Ohm Septic Design & Inspection in Audubon, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/ohm-septic-design-inspection-llc-sl4423/
 ---
 

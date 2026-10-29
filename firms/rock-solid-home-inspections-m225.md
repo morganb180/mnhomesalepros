@@ -1,6 +1,6 @@
 ---
-title: "Rock Solid Home Inspections, Maple Grove, MN | MN Home Sale Pros"
-description: "Rock Solid Home Inspections: Radon measurement in Maple Grove, MN. Licence details, contact and quotes."
+title: "Rock Solid Home Inspections: Radon Testing, Maple Grove MN"
+description: "Rock Solid Home Inspections in Maple Grove, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/rock-solid-home-inspections-m225/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Coleman Home Inspections LLC, Esko, MN | MN Home Sale Pros"
-description: "Coleman Home Inspections LLC: Radon measurement in Esko, MN. Licence details, contact and quotes."
+description: "Coleman Home Inspections LLC in Esko, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/coleman-home-inspections-llc-m056/
 ---
 

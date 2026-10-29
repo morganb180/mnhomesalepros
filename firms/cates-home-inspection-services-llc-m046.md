@@ -1,6 +1,6 @@
 ---
-title: "Cates Home Inspection Services LLC, Prior Lake, MN | MN Home Sale Pros"
-description: "Cates Home Inspection Services LLC: Radon measurement in Prior Lake, MN. Licence details, contact and quotes."
+title: "Cates Home Inspection Services: Radon Testing, Prior Lake MN"
+description: "Cates Home Inspection Services LLC in Prior Lake, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/cates-home-inspection-services-llc-m046/
 ---
 

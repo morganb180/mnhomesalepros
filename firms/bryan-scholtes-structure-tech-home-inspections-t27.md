@@ -1,5 +1,5 @@
 ---
-title: "Bryan Scholtes (Structure Tech Home Inspections), Saint Paul, MN | MN Home Sale Pros"
+title: "Bryan Scholtes (Structure Tech Home Inspections)"
 description: "Bryan Scholtes (Structure Tech Home Inspections): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/bryan-scholtes-structure-tech-home-inspections-t27/
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Logan's Excavating Inc., Milaca, MN | MN Home Sale Pros"
-description: "Logan's Excavating Inc.: Septic (SSTS) inspection in Milaca, MN. Licence details, contact and quotes."
+description: "Logan's Excavating Inc. in Milaca, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/logan-s-excavating-inc-sl4030/
 ---
 

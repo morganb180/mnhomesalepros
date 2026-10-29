@@ -1,6 +1,6 @@
 ---
 title: "Metro Mitigation, Cottage Grove, MN | MN Home Sale Pros"
-description: "Metro Mitigation: Radon measurement, Radon mitigation in Cottage Grove, MN. Licence details, contact and quotes."
+description: "Metro Mitigation in Cottage Grove, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/metro-mitigation-m157/
 ---
 

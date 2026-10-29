@@ -1,6 +1,6 @@
 ---
 title: "SWAT Environmental, New Berlin, WI | MN Home Sale Pros"
-description: "SWAT Environmental: Radon mitigation in New Berlin, WI. Licence details, contact and quotes."
+description: "SWAT Environmental in New Berlin, WI: MDH licensed for radon mitigation. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/swat-environmental-m240/
 ---
 

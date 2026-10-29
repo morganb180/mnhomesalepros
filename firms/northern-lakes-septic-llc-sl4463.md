@@ -1,6 +1,6 @@
 ---
 title: "Northern Lakes Septic LLC, Duluth, MN | MN Home Sale Pros"
-description: "Northern Lakes Septic LLC: Septic (SSTS) inspection in Duluth, MN. Licence details, contact and quotes."
+description: "Northern Lakes Septic LLC in Duluth, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/northern-lakes-septic-llc-sl4463/
 ---
 

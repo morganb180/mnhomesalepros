@@ -1,6 +1,6 @@
 ---
 title: "LBS Home Inspection, Minneapolis, MN | MN Home Sale Pros"
-description: "LBS Home Inspection: Radon measurement in Minneapolis, MN. Licence details, contact and quotes."
+description: "LBS Home Inspection in Minneapolis, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/lbs-home-inspection-m146/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Altra Onsite Services LLC, Princeton, MN | MN Home Sale Pros"
-description: "Altra Onsite Services LLC: Septic (SSTS) inspection in Princeton, MN. Licence details, contact and quotes."
+description: "Altra Onsite Services LLC in Princeton, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/altra-onsite-services-llc-sl4487/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Dirt Diggers Contracting Inc, New Prague, MN | MN Home Sale Pros"
-description: "Dirt Diggers Contracting Inc: Septic (SSTS) inspection in New Prague, MN. Licence details, contact and quotes."
+title: "Dirt Diggers Contracting: Septic Inspector, New Prague MN"
+description: "Dirt Diggers Contracting in New Prague, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/dirt-diggers-contracting-inc-sl790/
 ---
 

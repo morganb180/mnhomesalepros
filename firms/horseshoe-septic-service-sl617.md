@@ -1,6 +1,6 @@
 ---
-title: "Horseshoe Septic Service, Browerville, MN | MN Home Sale Pros"
-description: "Horseshoe Septic Service: Septic (SSTS) inspection in Browerville, MN. Licence details, contact and quotes."
+title: "Horseshoe Septic Service: Septic Inspector, Browerville MN"
+description: "Horseshoe Septic Service in Browerville, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/horseshoe-septic-service-sl617/
 ---
 

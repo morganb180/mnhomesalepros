@@ -1,6 +1,6 @@
 ---
 title: "Homtech Inc, Apple Valley, MN | MN Home Sale Pros"
-description: "Homtech Inc: Radon measurement in Apple Valley, MN. Licence details, contact and quotes."
+description: "Homtech Inc in Apple Valley, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/homtech-inc-m112/
 ---
 

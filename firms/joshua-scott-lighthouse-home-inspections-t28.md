@@ -1,5 +1,5 @@
 ---
-title: "Joshua Scott (Lighthouse Home Inspections), Saint Paul, MN | MN Home Sale Pros"
+title: "Joshua Scott (Lighthouse Home Inspections), Saint Paul MN"
 description: "Joshua Scott (Lighthouse Home Inspections): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/joshua-scott-lighthouse-home-inspections-t28/
 ---

@@ -1,6 +1,6 @@
 ---
-title: "B and C Plumbing and Heating Inc, Eyota, MN | MN Home Sale Pros"
-description: "B and C Plumbing and Heating Inc: Radon mitigation in Eyota, MN. Licence details, contact and quotes."
+title: "B and C Plumbing and Heating Inc: Radon Mitigation, Eyota MN"
+description: "B and C Plumbing and Heating Inc in Eyota, MN: MDH licensed for radon mitigation. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/b-and-c-plumbing-and-heating-inc-m031/
 ---
 

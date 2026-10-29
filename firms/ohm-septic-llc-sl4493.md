@@ -1,6 +1,6 @@
 ---
 title: "Ohm Septic LLC, Grand Rapids, MN | MN Home Sale Pros"
-description: "Ohm Septic LLC: Septic (SSTS) inspection in Grand Rapids, MN. Licence details, contact and quotes."
+description: "Ohm Septic LLC in Grand Rapids, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/ohm-septic-llc-sl4493/
 ---
 

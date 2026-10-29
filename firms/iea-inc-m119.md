@@ -1,6 +1,6 @@
 ---
 title: "Iea Inc, Mankato, MN | MN Home Sale Pros"
-description: "Iea Inc: Radon measurement in Mankato, MN. Licence details, contact and quotes."
+description: "Iea Inc in Mankato, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/iea-inc-m119/
 ---
 

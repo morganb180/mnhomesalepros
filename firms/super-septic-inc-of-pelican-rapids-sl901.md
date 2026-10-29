@@ -1,5 +1,5 @@
 ---
-title: "Super Septic Inc of Pelican Rapids, Pelican Rapids, MN | MN Home Sale Pros"
+title: "Super Septic Inc of Pelican Rapids, Pelican Rapids MN"
 description: "Super Septic Inc of Pelican Rapids: Septic (SSTS) inspection in Pelican Rapids, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/super-septic-inc-of-pelican-rapids-sl901/
 ---

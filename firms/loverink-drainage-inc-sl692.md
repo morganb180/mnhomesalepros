@@ -1,6 +1,6 @@
 ---
 title: "Loverink Drainage Inc, Hollandale, MN | MN Home Sale Pros"
-description: "Loverink Drainage Inc: Septic (SSTS) inspection in Hollandale, MN. Licence details, contact and quotes."
+description: "Loverink Drainage Inc in Hollandale, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/loverink-drainage-inc-sl692/
 ---
 

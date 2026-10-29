@@ -1,6 +1,6 @@
 ---
 title: "Dwella Inspections, Fargo, ND | MN Home Sale Pros"
-description: "Dwella Inspections: Radon measurement in Fargo, ND. Licence details, contact and quotes."
+description: "Dwella Inspections in Fargo, ND: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/dwella-inspections-m067/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ness Backhoe Inc, Ashby, MN | MN Home Sale Pros"
-description: "Ness Backhoe Inc: Septic (SSTS) inspection in Ashby, MN. Licence details, contact and quotes."
+description: "Ness Backhoe Inc in Ashby, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/ness-backhoe-inc-sl3839/
 ---
 

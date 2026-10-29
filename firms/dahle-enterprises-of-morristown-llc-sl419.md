@@ -1,6 +1,6 @@
 ---
-title: "Dahle Enterprises of Morristown LLC, Morristown, MN | MN Home Sale Pros"
-description: "Dahle Enterprises of Morristown LLC: Septic (SSTS) inspection in Morristown, MN. Licence details, contact and quotes."
+title: "Dahle Enterprises of Morristown LLC, Morristown MN"
+description: "Dahle Enterprises of Morristown in Morristown, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/dahle-enterprises-of-morristown-llc-sl419/
 ---
 

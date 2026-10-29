@@ -1,6 +1,6 @@
 ---
 title: "Barr Engineering Co, Bloomington, MN | MN Home Sale Pros"
-description: "Barr Engineering Co: Radon measurement, Radon mitigation in Bloomington, MN. Licence details, contact and quotes."
+description: "Barr Engineering Co in Bloomington, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/barr-engineering-co-m032/
 ---
 

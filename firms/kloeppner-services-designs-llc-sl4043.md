@@ -1,6 +1,6 @@
 ---
-title: "Kloeppner Services & Designs LLC, Shoreview, MN | MN Home Sale Pros"
-description: "Kloeppner Services & Designs LLC: Septic (SSTS) inspection in Shoreview, MN. Licence details, contact and quotes."
+title: "Kloeppner Services & Designs: Septic Inspector, Shoreview MN"
+description: "Kloeppner Services & Designs in Shoreview, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/kloeppner-services-designs-llc-sl4043/
 ---
 

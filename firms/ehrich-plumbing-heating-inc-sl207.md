@@ -1,6 +1,6 @@
 ---
-title: "Ehrich Plumbing & Heating Inc, Elmore, MN | MN Home Sale Pros"
-description: "Ehrich Plumbing & Heating Inc: Septic (SSTS) inspection in Elmore, MN. Licence details, contact and quotes."
+title: "Ehrich Plumbing & Heating Inc: Septic Inspector, Elmore MN"
+description: "Ehrich Plumbing & Heating Inc in Elmore, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/ehrich-plumbing-heating-inc-sl207/
 ---
 

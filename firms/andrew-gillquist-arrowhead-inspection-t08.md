@@ -1,5 +1,5 @@
 ---
-title: "Andrew Gillquist (Arrowhead Inspection), Saint Paul, MN | MN Home Sale Pros"
+title: "Andrew Gillquist (Arrowhead Inspection), Saint Paul MN"
 description: "Andrew Gillquist (Arrowhead Inspection): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/andrew-gillquist-arrowhead-inspection-t08/
 ---

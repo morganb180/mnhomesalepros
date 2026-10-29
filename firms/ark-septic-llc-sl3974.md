@@ -1,6 +1,6 @@
 ---
 title: "Ark Septic LLC, Zimmerman, MN | MN Home Sale Pros"
-description: "Ark Septic LLC: Septic (SSTS) inspection in Zimmerman, MN. Licence details, contact and quotes."
+description: "Ark Septic LLC in Zimmerman, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/ark-septic-llc-sl3974/
 ---
 

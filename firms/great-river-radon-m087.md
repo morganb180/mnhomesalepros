@@ -1,6 +1,6 @@
 ---
 title: "Great River Radon, Minneapolis, MN | MN Home Sale Pros"
-description: "Great River Radon: Radon measurement, Radon mitigation in Minneapolis, MN. Licence details, contact and quotes."
+description: "Great River Radon in Minneapolis, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/great-river-radon-m087/
 ---
 

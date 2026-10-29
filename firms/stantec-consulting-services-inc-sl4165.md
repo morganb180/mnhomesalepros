@@ -1,6 +1,6 @@
 ---
-title: "Stantec Consulting Services Inc., Maple Plain, MN | MN Home Sale Pros"
-description: "Stantec Consulting Services Inc.: Septic (SSTS) inspection in Maple Plain, MN. Licence details, contact and quotes."
+title: "Stantec Consulting Services Inc., Maple Plain MN"
+description: "Stantec Consulting Services in Maple Plain, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/stantec-consulting-services-inc-sl4165/
 ---
 

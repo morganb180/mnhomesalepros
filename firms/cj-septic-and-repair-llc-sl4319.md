@@ -1,6 +1,6 @@
 ---
 title: "CJ Septic and Repair LLC, Proctor, MN | MN Home Sale Pros"
-description: "CJ Septic and Repair LLC: Septic (SSTS) inspection in Proctor, MN. Licence details, contact and quotes."
+description: "CJ Septic and Repair LLC in Proctor, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/cj-septic-and-repair-llc-sl4319/
 ---
 

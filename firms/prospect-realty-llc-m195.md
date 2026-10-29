@@ -1,6 +1,6 @@
 ---
 title: "Prospect Realty LLC, Minneapolis, MN | MN Home Sale Pros"
-description: "Prospect Realty LLC: Radon measurement, Radon mitigation in Minneapolis, MN. Licence details, contact and quotes."
+description: "Prospect Realty in Minneapolis, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/prospect-realty-llc-m195/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Baier Construction Inc, Springfield, MN | MN Home Sale Pros"
-description: "Baier Construction Inc: Septic (SSTS) inspection in Springfield, MN. Licence details, contact and quotes."
+description: "Baier Construction Inc in Springfield, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/baier-construction-inc-sl3190/
 ---
 

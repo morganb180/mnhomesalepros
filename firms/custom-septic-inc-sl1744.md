@@ -1,6 +1,6 @@
 ---
 title: "Custom Septic Inc, Menahga, MN | MN Home Sale Pros"
-description: "Custom Septic Inc: Septic (SSTS) inspection in Menahga, MN. Licence details, contact and quotes."
+description: "Custom Septic Inc in Menahga, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/custom-septic-inc-sl1744/
 ---
 

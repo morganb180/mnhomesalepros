@@ -1,6 +1,6 @@
 ---
-title: "R. T. Excavating & Services, Inc., Le Center, MN | MN Home Sale Pros"
-description: "R. T. Excavating & Services, Inc.: Septic (SSTS) inspection in Le Center, MN. Licence details, contact and quotes."
+title: "R. T. Excavating & Services: Septic Inspector, Le Center MN"
+description: "R. T. Excavating & Services in Le Center, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/r-t-excavating-services-inc-sl3191/
 ---
 

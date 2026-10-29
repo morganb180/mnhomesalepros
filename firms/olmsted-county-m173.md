@@ -1,6 +1,6 @@
 ---
 title: "Olmsted County, Rochester, MN | MN Home Sale Pros"
-description: "Olmsted County: Radon analysis laboratory in Rochester, MN. Licence details, contact and quotes."
+description: "Olmsted County in Rochester, MN: MDH licensed for radon analysis laboratory. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/olmsted-county-m173/
 ---
 

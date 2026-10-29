@@ -1,6 +1,6 @@
 ---
 title: "Radon Mitigation LLC, Maple Lake, MN | MN Home Sale Pros"
-description: "Radon Mitigation LLC: Radon mitigation in Maple Lake, MN. Licence details, contact and quotes."
+description: "Radon Mitigation LLC in Maple Lake, MN: MDH licensed for radon mitigation. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/radon-mitigation-llc-m208/
 ---
 

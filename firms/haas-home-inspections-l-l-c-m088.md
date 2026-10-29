@@ -1,6 +1,6 @@
 ---
-title: "Haas Home Inspections L.L.C, Courtland, MN | MN Home Sale Pros"
-description: "Haas Home Inspections L.L.C: Radon measurement in Courtland, MN. Licence details, contact and quotes."
+title: "Haas Home Inspections L.L.C: Radon Testing, Courtland MN"
+description: "Haas Home Inspections L.L.C in Courtland, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/haas-home-inspections-l-l-c-m088/
 ---
 

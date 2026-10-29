@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in Morrison County, MN: 11 Licensed | MN Home Sale Pros"
-description: "11 MPCA-licensed SSTS inspectors and 0 MDH-licensed radon pros based in Morrison County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in Morrison County, MN"
+description: "Morrison County, MN: 11 MPCA-licensed septic (SSTS) inspectors and 0 MDH-licensed radon businesses with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/morrison/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://mnhomesalepros.com/county/morrison/
 
 # Septic inspectors and radon pros in Morrison County, MN
 
+**Quick answer:** For sellers, buyers and agents in Morrison County, MN: MN Home Sale Pros lists 11 MPCA-licensed SSTS (septic) inspector businesses and 0 MDH-licensed radon businesses with an address in Morrison County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
 11 MPCA-licensed SSTS inspector businesses and 0 MDH-licensed radon businesses list an address in Morrison County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors (11)
+## Who does septic (SSTS) inspections in Morrison County, MN? (11)
+
+11 MPCA-licensed SSTS inspector businesses list an address in Morrison County. Ask the county or city SSTS office whether a transfer inspection applies.
 
 ✔ MPCA SSTS licensed Inspector
 
@@ -155,13 +159,13 @@ Also licensed: Maintainer, Service provider
 License L3318, expires 2027-04-19 · bonded, insured  
 Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL3318)
 
-## Radon
+## Who does radon testing in Morrison County, MN?
 
 No MDH-licensed radon businesses list a Morrison County address. See [statewide radon pros](https://mnhomesalepros.com/radon/).
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
-## Neighboring counties
+## Which counties border Morrison County, MN?
 
 [Cass County](https://mnhomesalepros.com/county/cass/) · [Crow Wing County](https://mnhomesalepros.com/county/crow-wing/) · [Mille Lacs County](https://mnhomesalepros.com/county/mille-lacs/) · [Stearns County](https://mnhomesalepros.com/county/stearns/) · [Todd County](https://mnhomesalepros.com/county/todd/)
 

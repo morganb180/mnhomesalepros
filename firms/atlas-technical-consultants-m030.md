@@ -1,6 +1,6 @@
 ---
 title: "Atlas Technical Consultants, Fridley, MN | MN Home Sale Pros"
-description: "Atlas Technical Consultants: Radon measurement in Fridley, MN. Licence details, contact and quotes."
+description: "Atlas Technical Consultants in Fridley, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/atlas-technical-consultants-m030/
 ---
 

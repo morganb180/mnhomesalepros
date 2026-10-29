@@ -1,6 +1,6 @@
 ---
 title: "Steve Waytashek, Pierz, MN | MN Home Sale Pros"
-description: "Steve Waytashek: Septic (SSTS) inspection in Pierz, MN. Licence details, contact and quotes."
+description: "Steve Waytashek in Pierz, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/steve-waytashek-sl241/
 ---
 

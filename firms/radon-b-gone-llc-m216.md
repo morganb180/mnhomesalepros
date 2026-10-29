@@ -1,6 +1,6 @@
 ---
 title: "Radon-B-Gone LLC, Sunburg, MN | MN Home Sale Pros"
-description: "Radon-B-Gone LLC: Radon measurement, Radon mitigation in Sunburg, MN. Licence details, contact and quotes."
+description: "Radon-B-Gone LLC in Sunburg, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/radon-b-gone-llc-m216/
 ---
 

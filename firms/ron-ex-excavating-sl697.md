@@ -1,6 +1,6 @@
 ---
 title: "Ron Ex Excavating, Grand Rapids, MN | MN Home Sale Pros"
-description: "Ron Ex Excavating: Septic (SSTS) inspection in Grand Rapids, MN. Licence details, contact and quotes."
+description: "Ron Ex Excavating in Grand Rapids, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/ron-ex-excavating-sl697/
 ---
 

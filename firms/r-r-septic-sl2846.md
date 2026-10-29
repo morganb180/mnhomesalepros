@@ -1,6 +1,6 @@
 ---
 title: "R & R Septic, Onamia, MN | MN Home Sale Pros"
-description: "R & R Septic: Septic (SSTS) inspection in Onamia, MN. Licence details, contact and quotes."
+description: "R & R Septic in Onamia, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/r-r-septic-sl2846/
 ---
 

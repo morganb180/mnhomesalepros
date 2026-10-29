@@ -1,6 +1,6 @@
 ---
 title: "Twin Cities Radon Services, Otsego, MN | MN Home Sale Pros"
-description: "Twin Cities Radon Services: Radon mitigation in Otsego, MN. Licence details, contact and quotes."
+description: "Twin Cities Radon Services in Otsego, MN: MDH licensed for radon mitigation. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/twin-cities-radon-services-m249/
 ---
 

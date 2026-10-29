@@ -1,6 +1,6 @@
 ---
-title: "Emerging Technical Group Inc, Hibbing, MN | MN Home Sale Pros"
-description: "Emerging Technical Group Inc: Septic (SSTS) inspection in Hibbing, MN. Licence details, contact and quotes."
+title: "Emerging Technical Group Inc: Septic Inspector, Hibbing MN"
+description: "Emerging Technical Group Inc in Hibbing, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/emerging-technical-group-inc-sl2386/
 ---
 

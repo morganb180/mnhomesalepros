@@ -1,6 +1,6 @@
 ---
 title: "Clints Excavating LLC, Saint Cloud, MN | MN Home Sale Pros"
-description: "Clints Excavating LLC: Septic (SSTS) inspection in Saint Cloud, MN. Licence details, contact and quotes."
+description: "Clints Excavating LLC in Saint Cloud, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/clints-excavating-llc-sl772/
 ---
 

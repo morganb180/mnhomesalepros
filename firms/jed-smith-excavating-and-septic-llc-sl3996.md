@@ -1,6 +1,6 @@
 ---
-title: "Jed Smith Excavating and Septic LLC, Grand Marais, MN | MN Home Sale Pros"
-description: "Jed Smith Excavating and Septic LLC: Septic (SSTS) inspection in Grand Marais, MN. Licence details, contact and quotes."
+title: "Jed Smith Excavating and Septic LLC, Grand Marais MN"
+description: "Jed Smith Excavating and Septic in Grand Marais, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/jed-smith-excavating-and-septic-llc-sl3996/
 ---
 

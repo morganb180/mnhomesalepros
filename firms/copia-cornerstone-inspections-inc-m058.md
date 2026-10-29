@@ -1,6 +1,6 @@
 ---
-title: "Copia/Cornerstone Inspections Inc, Minneapolis, MN | MN Home Sale Pros"
-description: "Copia/Cornerstone Inspections Inc: Radon measurement in Minneapolis, MN. Licence details, contact and quotes."
+title: "Copia/Cornerstone Inspections: Radon Testing, Minneapolis MN"
+description: "Copia/Cornerstone Inspections Inc in Minneapolis, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/copia-cornerstone-inspections-inc-m058/
 ---
 

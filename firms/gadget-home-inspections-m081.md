@@ -1,6 +1,6 @@
 ---
 title: "Gadget Home Inspections, St. Paul, MN | MN Home Sale Pros"
-description: "Gadget Home Inspections: Radon measurement in St. Paul, MN. Licence details, contact and quotes."
+description: "Gadget Home Inspections in St. Paul, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/gadget-home-inspections-m081/
 ---
 

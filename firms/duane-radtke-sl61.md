@@ -1,6 +1,6 @@
 ---
 title: "Duane Radtke, Hutchinson, MN | MN Home Sale Pros"
-description: "Duane Radtke: Septic (SSTS) inspection in Hutchinson, MN. Licence details, contact and quotes."
+description: "Duane Radtke in Hutchinson, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/duane-radtke-sl61/
 ---
 

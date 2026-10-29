@@ -1,6 +1,6 @@
 ---
 title: "Ron Prosch and Associates, Rockford, MN | MN Home Sale Pros"
-description: "Ron Prosch and Associates: Radon measurement, Radon mitigation in Rockford, MN. Licence details, contact and quotes."
+description: "Ron Prosch and Associates in Rockford, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/ron-prosch-and-associates-m227/
 ---
 

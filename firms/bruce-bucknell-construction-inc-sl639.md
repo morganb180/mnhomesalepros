@@ -1,6 +1,6 @@
 ---
-title: "Bruce Bucknell Construction, Inc., Racine, MN | MN Home Sale Pros"
-description: "Bruce Bucknell Construction, Inc.: Septic (SSTS) inspection in Racine, MN. Licence details, contact and quotes."
+title: "Bruce Bucknell Construction: Septic Inspector, Racine MN"
+description: "Bruce Bucknell Construction in Racine, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/bruce-bucknell-construction-inc-sl639/
 ---
 

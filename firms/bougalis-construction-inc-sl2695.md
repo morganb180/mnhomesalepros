@@ -1,6 +1,6 @@
 ---
 title: "Bougalis Construction Inc, Hibbing, MN | MN Home Sale Pros"
-description: "Bougalis Construction Inc: Septic (SSTS) inspection in Hibbing, MN. Licence details, contact and quotes."
+description: "Bougalis Construction Inc in Hibbing, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/bougalis-construction-inc-sl2695/
 ---
 

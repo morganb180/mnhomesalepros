@@ -1,6 +1,6 @@
 ---
-title: "Al's Seasonal Services, LLC, Little Falls, MN | MN Home Sale Pros"
-description: "Al's Seasonal Services, LLC: Septic (SSTS) inspection in Little Falls, MN. Licence details, contact and quotes."
+title: "Al's Seasonal Services: Septic Inspector, Little Falls MN"
+description: "Al's Seasonal Services in Little Falls, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/al-s-seasonal-services-llc-sl4181/
 ---
 

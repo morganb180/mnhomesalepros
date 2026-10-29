@@ -1,5 +1,5 @@
 ---
-title: "Call It Home Properties LLC, Belle Plaine, MN | MN Home Sale Pros"
+title: "Call It Home Properties LLC, Belle Plaine MN"
 description: "Call It Home Properties LLC: Radon measurement, Radon mitigation in Belle Plaine, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/call-it-home-properties-llc-m044/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Radiation Safety Services Inc dba RSSI, Morton Grove, IL | MN Home Sale Pros"
+title: "Radiation Safety Services Inc dba RSSI, Morton Grove IL"
 description: "Radiation Safety Services Inc dba RSSI: Radon analysis laboratory in Morton Grove, IL. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/radiation-safety-services-inc-dba-rssi-m202/
 ---

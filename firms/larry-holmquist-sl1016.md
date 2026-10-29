@@ -1,6 +1,6 @@
 ---
 title: "Larry Holmquist, Grand Rapids, MN | MN Home Sale Pros"
-description: "Larry Holmquist: Septic (SSTS) inspection in Grand Rapids, MN. Licence details, contact and quotes."
+description: "Larry Holmquist in Grand Rapids, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/larry-holmquist-sl1016/
 ---
 

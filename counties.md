@@ -1,6 +1,6 @@
 ---
 title: "Minnesota Home Sale Inspectors by County | MN Home Sale Pros"
-description: "Browse MPCA septic (SSTS) inspectors and MDH radon pros by Minnesota county."
+description: "Browse MPCA-licensed septic (SSTS) inspectors and MDH-licensed radon pros in all 77 Minnesota counties, with the number of listings in each county."
 canonical: https://mnhomesalepros.com/counties/
 ---
 

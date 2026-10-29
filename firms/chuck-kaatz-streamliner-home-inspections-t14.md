@@ -1,5 +1,5 @@
 ---
-title: "Chuck Kaatz (Streamliner Home Inspections), Saint Paul, MN | MN Home Sale Pros"
+title: "Chuck Kaatz (Streamliner Home Inspections), Saint Paul MN"
 description: "Chuck Kaatz (Streamliner Home Inspections): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/chuck-kaatz-streamliner-home-inspections-t14/
 ---

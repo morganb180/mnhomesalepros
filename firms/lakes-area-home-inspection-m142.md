@@ -1,6 +1,6 @@
 ---
-title: "Lakes Area Home Inspection, Fergus Falls, MN | MN Home Sale Pros"
-description: "Lakes Area Home Inspection: Radon measurement in Fergus Falls, MN. Licence details, contact and quotes."
+title: "Lakes Area Home Inspection: Radon Testing, Fergus Falls MN"
+description: "Lakes Area Home Inspection in Fergus Falls, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/lakes-area-home-inspection-m142/
 ---
 

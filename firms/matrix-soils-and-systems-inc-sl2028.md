@@ -1,6 +1,6 @@
 ---
-title: "MATRIX Soils and Systems, Inc., Rice Lake, MN | MN Home Sale Pros"
-description: "MATRIX Soils and Systems, Inc.: Septic (SSTS) inspection in Rice Lake, MN. Licence details, contact and quotes."
+title: "MATRIX Soils and Systems: Septic Inspector, Rice Lake MN"
+description: "MATRIX Soils and Systems in Rice Lake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/matrix-soils-and-systems-inc-sl2028/
 ---
 

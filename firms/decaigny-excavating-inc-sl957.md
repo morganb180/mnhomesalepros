@@ -1,6 +1,6 @@
 ---
 title: "DeCaigny Excavating Inc, Sawyer, MN | MN Home Sale Pros"
-description: "DeCaigny Excavating Inc: Septic (SSTS) inspection in Sawyer, MN. Licence details, contact and quotes."
+description: "DeCaigny Excavating Inc in Sawyer, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/decaigny-excavating-inc-sl957/
 ---
 

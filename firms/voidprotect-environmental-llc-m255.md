@@ -1,5 +1,5 @@
 ---
-title: "VOIDProtect Environmental, LLC, Louisville, KY | MN Home Sale Pros"
+title: "VOIDProtect Environmental, LLC, Louisville KY"
 description: "VOIDProtect Environmental, LLC: Radon measurement, Radon mitigation in Louisville, KY. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/voidprotect-environmental-llc-m255/
 ---

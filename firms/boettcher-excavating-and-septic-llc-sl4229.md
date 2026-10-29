@@ -1,6 +1,6 @@
 ---
-title: "Boettcher Excavating and Septic LLC, Cambridge, MN | MN Home Sale Pros"
-description: "Boettcher Excavating and Septic LLC: Septic (SSTS) inspection in Cambridge, MN. Licence details, contact and quotes."
+title: "Boettcher Excavating and Septic LLC, Cambridge MN"
+description: "Boettcher Excavating and Septic in Cambridge, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/boettcher-excavating-and-septic-llc-sl4229/
 ---
 

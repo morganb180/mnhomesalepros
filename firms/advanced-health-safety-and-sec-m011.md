@@ -1,5 +1,5 @@
 ---
-title: "Advanced Health Safety and Sec, Balaton, MN | MN Home Sale Pros"
+title: "Advanced Health Safety and Sec, Balaton MN"
 description: "Advanced Health Safety and Sec: Radon measurement, Radon mitigation in Balaton, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/advanced-health-safety-and-sec-m011/
 ---

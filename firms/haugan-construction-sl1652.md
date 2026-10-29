@@ -1,6 +1,6 @@
 ---
 title: "Haugan Construction, Two Harbors, MN | MN Home Sale Pros"
-description: "Haugan Construction: Septic (SSTS) inspection in Two Harbors, MN. Licence details, contact and quotes."
+description: "Haugan Construction in Two Harbors, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/haugan-construction-sl1652/
 ---
 

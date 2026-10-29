@@ -1,6 +1,6 @@
 ---
-title: "West Egg Inspections and Home Services LLC, Apple Valley, MN | MN Home Sale Pros"
-description: "West Egg Inspections and Home Services LLC: Radon measurement in Apple Valley, MN. Licence details, contact and quotes."
+title: "West Egg Inspections and Home Services LLC, Apple Valley MN"
+description: "West Egg Inspections and Home Services in Apple Valley, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/west-egg-inspections-and-home-services-llc-m257/
 ---
 

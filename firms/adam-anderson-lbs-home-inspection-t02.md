@@ -1,6 +1,6 @@
 ---
-title: "Adam Anderson (LBS Home Inspection), Saint Paul, MN | MN Home Sale Pros"
-description: "Adam Anderson (LBS Home Inspection): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
+title: "Adam Anderson (LBS Home Inspection), Saint Paul MN"
+description: "Adam Anderson (LBS Home Inspection), Saint Paul, MN: City of Saint Paul licensed for Saint Paul TISH evaluation. Licence details and the City of Saint."
 canonical: https://mnhomesalepros.com/firms/adam-anderson-lbs-home-inspection-t02/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Precision Septic Services LLC, Alden, MN | MN Home Sale Pros"
-description: "Precision Septic Services LLC: Septic (SSTS) inspection in Alden, MN. Licence details, contact and quotes."
+description: "Precision Septic Services LLC in Alden, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/precision-septic-services-llc-sl2125/
 ---
 

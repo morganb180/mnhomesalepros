@@ -1,6 +1,6 @@
 ---
-title: "Elwood Design and Sewer Installation LLC, Ogilvie, MN | MN Home Sale Pros"
-description: "Elwood Design and Sewer Installation LLC: Septic (SSTS) inspection in Ogilvie, MN. Licence details, contact and quotes."
+title: "Elwood Design and Sewer Installation LLC, Ogilvie MN"
+description: "Elwood Design and Sewer Installation in Ogilvie, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/elwood-design-and-sewer-installation-llc-sl1090/
 ---
 

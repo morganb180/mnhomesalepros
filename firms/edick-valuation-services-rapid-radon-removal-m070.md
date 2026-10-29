@@ -1,5 +1,5 @@
 ---
-title: "Edick Valuation Services & Rapid Radon Removal, Rogers, MN | MN Home Sale Pros"
+title: "Edick Valuation Services & Rapid Radon Removal, Rogers MN"
 description: "Edick Valuation Services & Rapid Radon Removal: Radon measurement, Radon mitigation in Rogers, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/edick-valuation-services-rapid-radon-removal-m070/
 ---

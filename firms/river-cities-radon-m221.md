@@ -1,6 +1,6 @@
 ---
 title: "River Cities Radon, Moorhead, MN | MN Home Sale Pros"
-description: "River Cities Radon: Radon measurement, Radon mitigation in Moorhead, MN. Licence details, contact and quotes."
+description: "River Cities Radon in Moorhead, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/river-cities-radon-m221/
 ---
 

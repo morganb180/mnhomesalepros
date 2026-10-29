@@ -1,6 +1,6 @@
 ---
 title: "Home Doctors LLC, Rochester, MN | MN Home Sale Pros"
-description: "Home Doctors LLC: Radon measurement in Rochester, MN. Licence details, contact and quotes."
+description: "Home Doctors LLC in Rochester, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/home-doctors-llc-m100/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "3-D Construction & Enterprise LLLP, Cloquet, MN | MN Home Sale Pros"
-description: "3-D Construction & Enterprise LLLP: Septic (SSTS) inspection in Cloquet, MN. Licence details, contact and quotes."
+title: "3-D Construction & Enterprise LLLP, Cloquet MN"
+description: "3-D Construction & Enterprise LLLP in Cloquet, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/3-d-construction-enterprise-lllp-sl233/
 ---
 

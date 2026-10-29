@@ -1,5 +1,5 @@
 ---
-title: "Minnesota Radon at Home Sale & MDH-Licensed Radon Pros | MN Home Sale Pros"
+title: "Minnesota Radon at Home Sale & MDH-Licensed Radon Pros"
 description: "Minnesota's Radon Awareness Act disclosure for home sales, plus 265 MDH-licensed radon testing, mitigation and lab businesses by county."
 canonical: https://mnhomesalepros.com/radon/
 ---
@@ -54,7 +54,9 @@ canonical: https://mnhomesalepros.com/radon/
 * [Winona](https://mnhomesalepros.com/county/winona/) (2)
 * [Wright](https://mnhomesalepros.com/county/wright/) (6)
 
-## Based out of state (42)
+## Which MDH-licensed radon businesses are based outside Minnesota? (42)
+
+42 of the 265 MDH-licensed radon businesses on this page list an address outside Minnesota.
 
 ✔ MDH radon license Analysis Laboratory
 

@@ -1,6 +1,6 @@
 ---
 title: "Hagemeier Excavating LLC, Albany, MN | MN Home Sale Pros"
-description: "Hagemeier Excavating LLC: Septic (SSTS) inspection in Albany, MN. Licence details, contact and quotes."
+description: "Hagemeier Excavating LLC in Albany, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/hagemeier-excavating-llc-sl3877/
 ---
 

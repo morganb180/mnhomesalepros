@@ -1,6 +1,6 @@
 ---
 title: "Dig-It Inc., Goodland, MN | MN Home Sale Pros"
-description: "Dig-It Inc.: Septic (SSTS) inspection in Goodland, MN. Licence details, contact and quotes."
+description: "Dig-It Inc. in Goodland, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/dig-it-inc-sl3979/
 ---
 

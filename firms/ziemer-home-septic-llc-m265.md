@@ -1,6 +1,6 @@
 ---
 title: "Ziemer Home & Septic LLC, Belgrade, MN | MN Home Sale Pros"
-description: "Ziemer Home & Septic LLC: Radon measurement in Belgrade, MN. Licence details, contact and quotes."
+description: "Ziemer Home & Septic LLC in Belgrade, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/ziemer-home-septic-llc-m265/
 ---
 

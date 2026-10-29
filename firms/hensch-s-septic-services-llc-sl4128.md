@@ -1,6 +1,6 @@
 ---
-title: "Hensch's Septic Services LLC, Crookston, MN | MN Home Sale Pros"
-description: "Hensch's Septic Services LLC: Septic (SSTS) inspection in Crookston, MN. Licence details, contact and quotes."
+title: "Hensch's Septic Services LLC: Septic Inspector, Crookston MN"
+description: "Hensch's Septic Services in Crookston, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/hensch-s-septic-services-llc-sl4128/
 ---
 

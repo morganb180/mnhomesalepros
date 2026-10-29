@@ -1,6 +1,6 @@
 ---
 title: "Tru-Mitigation, East Bethel, MN | MN Home Sale Pros"
-description: "Tru-Mitigation: Radon measurement, Radon mitigation in East Bethel, MN. Licence details, contact and quotes."
+description: "Tru-Mitigation in East Bethel, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/tru-mitigation-m246/
 ---
 

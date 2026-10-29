@@ -1,6 +1,6 @@
 ---
 title: "Heartland Mechanical Inc, Balaton, MN | MN Home Sale Pros"
-description: "Heartland Mechanical Inc: Septic (SSTS) inspection in Balaton, MN. Licence details, contact and quotes."
+description: "Heartland Mechanical Inc in Balaton, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/heartland-mechanical-inc-sl328/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Radon Be Gone, Maple Grove, MN | MN Home Sale Pros"
-description: "Radon Be Gone: Radon measurement in Maple Grove, MN. Licence details, contact and quotes."
+description: "Radon Be Gone in Maple Grove, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/radon-be-gone-m205/
 ---
 

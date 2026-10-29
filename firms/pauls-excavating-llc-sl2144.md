@@ -1,6 +1,6 @@
 ---
 title: "Pauls Excavating LLC, Saint Cloud, MN | MN Home Sale Pros"
-description: "Pauls Excavating LLC: Septic (SSTS) inspection in Saint Cloud, MN. Licence details, contact and quotes."
+description: "Pauls Excavating LLC in Saint Cloud, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/pauls-excavating-llc-sl2144/
 ---
 

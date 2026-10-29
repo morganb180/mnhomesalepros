@@ -1,6 +1,6 @@
 ---
-title: "Northland Septic Maintenance Inc, Backus, MN | MN Home Sale Pros"
-description: "Northland Septic Maintenance Inc: Septic (SSTS) inspection in Backus, MN. Licence details, contact and quotes."
+title: "Northland Septic Maintenance: Septic Inspector, Backus MN"
+description: "Northland Septic Maintenance in Backus, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/northland-septic-maintenance-inc-sl549/
 ---
 

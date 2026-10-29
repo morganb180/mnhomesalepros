@@ -1,6 +1,6 @@
 ---
-title: "Todd Kremer (Inspecta-Homes, Inc.), Saint Paul, MN | MN Home Sale Pros"
-description: "Todd Kremer (Inspecta-Homes, Inc.): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
+title: "Todd Kremer (Inspecta-Homes, Inc.), Saint Paul MN"
+description: "Todd Kremer (Inspecta-Homes, Inc.), Saint Paul, MN: City of Saint Paul licensed for Saint Paul TISH evaluation. Licence details and the City of Saint Paul."
 canonical: https://mnhomesalepros.com/firms/todd-kremer-inspecta-homes-inc-t18/
 ---
 

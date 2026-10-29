@@ -1,6 +1,6 @@
 ---
-title: "McClure Plumbing & Heating Inc, Luverne, MN | MN Home Sale Pros"
-description: "McClure Plumbing & Heating Inc: Septic (SSTS) inspection in Luverne, MN. Licence details, contact and quotes."
+title: "McClure Plumbing & Heating Inc: Septic Inspector, Luverne MN"
+description: "McClure Plumbing & Heating in Luverne, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/mcclure-plumbing-heating-inc-sl3012/
 ---
 

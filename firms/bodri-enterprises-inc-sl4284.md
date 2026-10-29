@@ -1,6 +1,6 @@
 ---
 title: "Bodri Enterprises, Inc., Cook, MN | MN Home Sale Pros"
-description: "Bodri Enterprises, Inc.: Septic (SSTS) inspection in Cook, MN. Licence details, contact and quotes."
+description: "Bodri Enterprises, Inc. in Cook, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/bodri-enterprises-inc-sl4284/
 ---
 

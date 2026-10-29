@@ -1,5 +1,5 @@
 ---
-title: "Roger Pass (Home Inspections By Roger Pass), Saint Paul, MN | MN Home Sale Pros"
+title: "Roger Pass (Home Inspections By Roger Pass), Saint Paul MN"
 description: "Roger Pass (Home Inspections By Roger Pass): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/roger-pass-home-inspections-by-roger-pass-t24/
 ---

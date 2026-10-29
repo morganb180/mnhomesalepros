@@ -1,6 +1,6 @@
 ---
-title: "Rum River Construction Consultants, Princeton, MN | MN Home Sale Pros"
-description: "Rum River Construction Consultants: Septic (SSTS) inspection in Princeton, MN. Licence details, contact and quotes."
+title: "Rum River Construction Consultants, Princeton MN"
+description: "Rum River Construction Consultants in Princeton, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/rum-river-construction-consultants-sl4036/
 ---
 

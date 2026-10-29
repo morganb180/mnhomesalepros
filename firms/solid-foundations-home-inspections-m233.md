@@ -1,6 +1,6 @@
 ---
-title: "Solid Foundations Home Inspections, Golden Valley, MN | MN Home Sale Pros"
-description: "Solid Foundations Home Inspections: Radon measurement in Golden Valley, MN. Licence details, contact and quotes."
+title: "Solid Foundations Home Inspections, Golden Valley MN"
+description: "Solid Foundations Home Inspections in Golden Valley, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/solid-foundations-home-inspections-m233/
 ---
 

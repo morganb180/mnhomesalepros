@@ -1,6 +1,6 @@
 ---
 title: "Radon Removal Inc, Plymouth, MN | MN Home Sale Pros"
-description: "Radon Removal Inc: Radon mitigation in Plymouth, MN. Licence details, contact and quotes."
+description: "Radon Removal Inc in Plymouth, MN: MDH licensed for radon mitigation. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/radon-removal-inc-m212/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Swampthing Environmental LLC, Duluth, MN | MN Home Sale Pros"
-description: "Swampthing Environmental LLC: Septic (SSTS) inspection in Duluth, MN. Licence details, contact and quotes."
+description: "Swampthing Environmental LLC in Duluth, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/swampthing-environmental-llc-sl2142/
 ---
 

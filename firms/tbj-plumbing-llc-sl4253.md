@@ -1,6 +1,6 @@
 ---
 title: "TBJ Plumbing LLC, Laporte, MN | MN Home Sale Pros"
-description: "TBJ Plumbing LLC: Septic (SSTS) inspection in Laporte, MN. Licence details, contact and quotes."
+description: "TBJ Plumbing LLC in Laporte, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/tbj-plumbing-llc-sl4253/
 ---
 

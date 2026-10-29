@@ -1,6 +1,6 @@
 ---
 title: "HomeSpex of Minnesota LLC, Waconia, MN | MN Home Sale Pros"
-description: "HomeSpex of Minnesota LLC: Radon measurement in Waconia, MN. Licence details, contact and quotes."
+description: "HomeSpex of Minnesota LLC in Waconia, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/homespex-of-minnesota-llc-m109/
 ---
 

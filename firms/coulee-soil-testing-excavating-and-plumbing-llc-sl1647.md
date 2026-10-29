@@ -1,5 +1,5 @@
 ---
-title: "Coulee Soil Testing Excavating and Plumbing LLC, Stoddard, WI | MN Home Sale Pros"
+title: "Coulee Soil Testing Excavating and Plumbing LLC, Stoddard WI"
 description: "Coulee Soil Testing Excavating and Plumbing LLC: Septic (SSTS) inspection in Stoddard, WI. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/coulee-soil-testing-excavating-and-plumbing-llc-sl1647/
 ---

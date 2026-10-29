@@ -1,6 +1,6 @@
 ---
 title: "Great North Home Inspection, Outing, MN | MN Home Sale Pros"
-description: "Great North Home Inspection: Radon measurement in Outing, MN. Licence details, contact and quotes."
+description: "Great North Home Inspection in Outing, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/great-north-home-inspection-m086/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Slick Nick Septic LLC, Hackensack, MN | MN Home Sale Pros"
-description: "Slick Nick Septic LLC: Septic (SSTS) inspection in Hackensack, MN. Licence details, contact and quotes."
+description: "Slick Nick Septic LLC in Hackensack, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/slick-nick-septic-llc-sl4307/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Steve James Excavating, Inc., Owatonna, MN | MN Home Sale Pros"
-description: "Steve James Excavating, Inc.: Septic (SSTS) inspection in Owatonna, MN. Licence details, contact and quotes."
+title: "Steve James Excavating, Inc.: Septic Inspector, Owatonna MN"
+description: "Steve James Excavating in Owatonna, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/steve-james-excavating-inc-sl4317/
 ---
 

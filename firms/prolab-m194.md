@@ -1,6 +1,6 @@
 ---
 title: "ProLab, Weston, FL | MN Home Sale Pros"
-description: "ProLab: Radon analysis laboratory in Weston, FL. Licence details, contact and quotes."
+description: "ProLab in Weston, FL: MDH licensed for radon analysis laboratory. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/prolab-m194/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Horizon Inspections LLC, Detroit Lakes, MN | MN Home Sale Pros"
-description: "Horizon Inspections LLC: Radon measurement in Detroit Lakes, MN. Licence details, contact and quotes."
+title: "Horizon Inspections LLC: Radon Testing, Detroit Lakes MN"
+description: "Horizon Inspections LLC in Detroit Lakes, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/horizon-inspections-llc-m113/
 ---
 

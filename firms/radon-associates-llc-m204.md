@@ -1,6 +1,6 @@
 ---
 title: "Radon Associates LLC, New Richmond, WI | MN Home Sale Pros"
-description: "Radon Associates LLC: Radon measurement, Radon mitigation in New Richmond, WI. Licence details, contact and quotes."
+description: "Radon Associates in New Richmond, WI: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/radon-associates-llc-m204/
 ---
 

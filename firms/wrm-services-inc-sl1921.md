@@ -1,6 +1,6 @@
 ---
 title: "WRM Services Inc., Kimball, MN | MN Home Sale Pros"
-description: "WRM Services Inc.: Septic (SSTS) inspection in Kimball, MN. Licence details, contact and quotes."
+description: "WRM Services Inc. in Kimball, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/wrm-services-inc-sl1921/
 ---
 

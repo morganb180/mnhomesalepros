@@ -1,5 +1,5 @@
 ---
-title: "Boening Brothers Construction Service LLP, Mapleton, MN | MN Home Sale Pros"
+title: "Boening Brothers Construction Service LLP, Mapleton MN"
 description: "Boening Brothers Construction Service LLP: Septic (SSTS) inspection in Mapleton, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/boening-brothers-construction-service-llp-sl146/
 ---

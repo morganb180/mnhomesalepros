@@ -1,6 +1,6 @@
 ---
-title: "Vareberg Backhoe Services, Detroit Lakes, MN | MN Home Sale Pros"
-description: "Vareberg Backhoe Services: Septic (SSTS) inspection in Detroit Lakes, MN. Licence details, contact and quotes."
+title: "Vareberg Backhoe Services, Detroit Lakes MN"
+description: "Vareberg Backhoe Services in Detroit Lakes, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/vareberg-backhoe-services-sl1910/
 ---
 

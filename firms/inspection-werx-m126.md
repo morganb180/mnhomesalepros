@@ -1,6 +1,6 @@
 ---
 title: "Inspection WerX, Webster, MN | MN Home Sale Pros"
-description: "Inspection WerX: Radon measurement in Webster, MN. Licence details, contact and quotes."
+description: "Inspection WerX in Webster, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/inspection-werx-m126/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Deweys Septic Service LLC, Lake Park, MN | MN Home Sale Pros"
-description: "Deweys Septic Service LLC: Septic (SSTS) inspection in Lake Park, MN. Licence details, contact and quotes."
+description: "Deweys Septic Service LLC in Lake Park, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/deweys-septic-service-llc-sl2884/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Pick's Septic and Excavating, LLC, Pierz, MN | MN Home Sale Pros"
-description: "Pick's Septic and Excavating, LLC: Septic (SSTS) inspection in Pierz, MN. Licence details, contact and quotes."
+title: "Pick's Septic and Excavating: Septic Inspector, Pierz MN"
+description: "Pick's Septic and Excavating in Pierz, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/pick-s-septic-and-excavating-llc-sl4277/
 ---
 

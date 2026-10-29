@@ -1,6 +1,6 @@
 ---
 title: "HomeTeam Inspection Service, Andover, MN | MN Home Sale Pros"
-description: "HomeTeam Inspection Service: Radon measurement in Andover, MN. Licence details, contact and quotes."
+description: "HomeTeam Inspection Service in Andover, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/hometeam-inspection-service-m111/
 ---
 

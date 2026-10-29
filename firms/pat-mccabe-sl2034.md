@@ -1,6 +1,6 @@
 ---
 title: "Pat McCabe, Cleveland, MN | MN Home Sale Pros"
-description: "Pat McCabe: Septic (SSTS) inspection in Cleveland, MN. Licence details, contact and quotes."
+description: "Pat McCabe in Cleveland, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/pat-mccabe-sl2034/
 ---
 

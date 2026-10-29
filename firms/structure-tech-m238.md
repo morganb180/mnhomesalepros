@@ -1,6 +1,6 @@
 ---
 title: "Structure Tech, St. Louis Park, MN | MN Home Sale Pros"
-description: "Structure Tech: Radon measurement in St. Louis Park, MN. Licence details, contact and quotes."
+description: "Structure Tech in St. Louis Park, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/structure-tech-m238/
 ---
 

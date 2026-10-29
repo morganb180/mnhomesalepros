@@ -1,6 +1,6 @@
 ---
-title: "Plains to Lakes Home Inspections LLC, Detroit Lakes, MN | MN Home Sale Pros"
-description: "Plains to Lakes Home Inspections LLC: Radon measurement in Detroit Lakes, MN. Licence details, contact and quotes."
+title: "Plains to Lakes Home Inspections LLC, Detroit Lakes MN"
+description: "Plains to Lakes Home Inspections in Detroit Lakes, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/plains-to-lakes-home-inspections-llc-m183/
 ---
 

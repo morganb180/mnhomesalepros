@@ -1,6 +1,6 @@
 ---
 title: "Racer Construction Inc, Osage, MN | MN Home Sale Pros"
-description: "Racer Construction Inc: Septic (SSTS) inspection in Osage, MN. Licence details, contact and quotes."
+description: "Racer Construction Inc in Osage, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/racer-construction-inc-sl2122/
 ---
 

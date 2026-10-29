@@ -1,6 +1,6 @@
 ---
 title: "M & M Contractors, LLC, Breckenridge, MN | MN Home Sale Pros"
-description: "M & M Contractors, LLC: Septic (SSTS) inspection in Breckenridge, MN. Licence details, contact and quotes."
+description: "M & M Contractors, LLC in Breckenridge, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/m-m-contractors-llc-sl2961/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "1st Defense Radon, Cottage Grove, MN | MN Home Sale Pros"
-description: "1st Defense Radon: Radon measurement, Radon mitigation in Cottage Grove, MN. Licence details, contact and quotes."
+description: "1st Defense Radon in Cottage Grove, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/1st-defense-radon-m001/
 ---
 

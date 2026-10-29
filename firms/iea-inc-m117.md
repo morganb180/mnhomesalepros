@@ -1,6 +1,6 @@
 ---
 title: "IEA Inc, Brainerd, MN | MN Home Sale Pros"
-description: "IEA Inc: Radon measurement in Brainerd, MN. Licence details, contact and quotes."
+description: "IEA Inc in Brainerd, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/iea-inc-m117/
 ---
 

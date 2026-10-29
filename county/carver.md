@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in Carver County, MN: 6 Licensed | MN Home Sale Pros"
-description: "2 MPCA-licensed SSTS inspectors and 4 MDH-licensed radon pros based in Carver County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in Carver County, MN"
+description: "Carver County, MN: 2 MPCA-licensed septic (SSTS) inspectors and 4 MDH-licensed radon businesses with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/carver/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://mnhomesalepros.com/county/carver/
 
 # Septic inspectors and radon pros in Carver County, MN
 
+**Quick answer:** For sellers, buyers and agents in Carver County, MN: MN Home Sale Pros lists 2 MPCA-licensed SSTS (septic) inspector businesses and 4 MDH-licensed radon businesses with an address in Carver County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
 2 MPCA-licensed SSTS inspector businesses and 4 MDH-licensed radon businesses list an address in Carver County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors (2)
+## Who does septic (SSTS) inspections in Carver County, MN? (2)
+
+2 MPCA-licensed SSTS inspector businesses list an address in Carver County. Ask the county or city SSTS office whether a transfer inspection applies.
 
 ✔ MPCA SSTS licensed Inspector
 
@@ -39,7 +43,9 @@ Also licensed: Designer
 License L340, expires 2027-04-19 · bonded, insured  
 Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL340)
 
-## Radon testing and mitigation (4)
+## Who does radon testing and mitigation in Carver County, MN? (4)
+
+4 MDH-licensed radon businesses list an address in Carver County. Most radon pros list a statewide service area.
 
 ✔ MDH radon license Measurement
 
@@ -105,7 +111,7 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
-## Neighboring counties
+## Which counties border Carver County, MN?
 
 [Hennepin County](https://mnhomesalepros.com/county/hennepin/) · [McLeod County](https://mnhomesalepros.com/county/mcleod/) · [Scott County](https://mnhomesalepros.com/county/scott/) · [Wright County](https://mnhomesalepros.com/county/wright/)
 

@@ -1,6 +1,6 @@
 ---
 title: "Air Chek, Mills River, NC | MN Home Sale Pros"
-description: "Air Chek: Radon analysis laboratory in Mills River, NC. Licence details, contact and quotes."
+description: "Air Chek in Mills River, NC: MDH licensed for radon analysis laboratory. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/air-chek-m015/
 ---
 

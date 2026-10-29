@@ -1,6 +1,6 @@
 ---
-title: "Dayton's Bluff Neighborhood Housing Services, St. Paul, MN | MN Home Sale Pros"
-description: "Dayton's Bluff Neighborhood Housing Services: Radon measurement in St. Paul, MN. Licence details, contact and quotes."
+title: "Dayton's Bluff Neighborhood Housing Services, St. Paul MN"
+description: "Dayton's Bluff Neighborhood Housing Services in St. Paul, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/dayton-s-bluff-neighborhood-housing-services-m061/
 ---
 

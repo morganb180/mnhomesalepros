@@ -1,6 +1,6 @@
 ---
 title: "Grund Septic Services LLC, Aitkin, MN | MN Home Sale Pros"
-description: "Grund Septic Services LLC: Septic (SSTS) inspection in Aitkin, MN. Licence details, contact and quotes."
+description: "Grund Septic Services LLC in Aitkin, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/grund-septic-services-llc-sl4450/
 ---
 

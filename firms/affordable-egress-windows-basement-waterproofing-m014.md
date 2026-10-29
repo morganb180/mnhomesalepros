@@ -1,5 +1,5 @@
 ---
-title: "Affordable Egress Windows & Basement Waterproofing, Medina, MN | MN Home Sale Pros"
+title: "Affordable Egress Windows & Basement Waterproofing"
 description: "Affordable Egress Windows & Basement Waterproofing: Radon measurement, Radon mitigation in Medina, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/affordable-egress-windows-basement-waterproofing-m014/
 ---

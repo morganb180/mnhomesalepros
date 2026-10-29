@@ -1,6 +1,6 @@
 ---
 title: "Mama T's Septic Service, LLC, Milaca, MN | MN Home Sale Pros"
-description: "Mama T's Septic Service, LLC: Septic (SSTS) inspection in Milaca, MN. Licence details, contact and quotes."
+description: "Mama T's Septic Service, LLC in Milaca, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/mama-t-s-septic-service-llc-sl2615/
 ---
 

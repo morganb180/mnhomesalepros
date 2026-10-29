@@ -1,6 +1,6 @@
 ---
-title: "JH Inspection & Design LLC, Brook Park, MN | MN Home Sale Pros"
-description: "JH Inspection & Design LLC: Septic (SSTS) inspection in Brook Park, MN. Licence details, contact and quotes."
+title: "JH Inspection & Design LLC: Septic Inspector, Brook Park MN"
+description: "JH Inspection & Design in Brook Park, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/jh-inspection-design-llc-sl4097/
 ---
 

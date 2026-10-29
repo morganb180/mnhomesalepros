@@ -1,6 +1,6 @@
 ---
-title: "Hough Inc of Detroit Lakes, Detroit Lakes, MN | MN Home Sale Pros"
-description: "Hough Inc of Detroit Lakes: Septic (SSTS) inspection in Detroit Lakes, MN. Licence details, contact and quotes."
+title: "Hough Inc of Detroit Lakes, Detroit Lakes MN"
+description: "Hough Inc of Detroit Lakes in Detroit Lakes, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/hough-inc-of-detroit-lakes-sl770/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Soderstrom's Sales & Service, Inc., Isanti, MN | MN Home Sale Pros"
-description: "Soderstrom's Sales & Service, Inc.: Septic (SSTS) inspection in Isanti, MN. Licence details, contact and quotes."
+title: "Soderstrom's Sales & Service: Septic Inspector, Isanti MN"
+description: "Soderstrom's Sales & Service in Isanti, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/soderstrom-s-sales-service-inc-sl444/
 ---
 

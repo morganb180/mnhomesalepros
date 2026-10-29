@@ -1,6 +1,6 @@
 ---
 title: "Total Outdoor Solutions LLC, Isanti, MN | MN Home Sale Pros"
-description: "Total Outdoor Solutions LLC: Septic (SSTS) inspection in Isanti, MN. Licence details, contact and quotes."
+description: "Total Outdoor Solutions LLC in Isanti, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/total-outdoor-solutions-llc-sl4203/
 ---
 

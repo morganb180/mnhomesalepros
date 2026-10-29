@@ -1,6 +1,6 @@
 ---
-title: "Advanced Septic Solutions, Inc., Montgomery, MN | MN Home Sale Pros"
-description: "Advanced Septic Solutions, Inc.: Septic (SSTS) inspection in Montgomery, MN. Licence details, contact and quotes."
+title: "Advanced Septic Solutions: Septic Inspector, Montgomery MN"
+description: "Advanced Septic Solutions in Montgomery, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/advanced-septic-solutions-inc-sl4331/
 ---
 

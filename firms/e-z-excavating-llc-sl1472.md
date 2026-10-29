@@ -1,6 +1,6 @@
 ---
 title: "E-Z Excavating LLC, Mora, MN | MN Home Sale Pros"
-description: "E-Z Excavating LLC: Septic (SSTS) inspection in Mora, MN. Licence details, contact and quotes."
+description: "E-Z Excavating LLC in Mora, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/e-z-excavating-llc-sl1472/
 ---
 

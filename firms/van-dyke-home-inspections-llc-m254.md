@@ -1,6 +1,6 @@
 ---
-title: "Van Dyke Home Inspections LLC, Duluth, MN | MN Home Sale Pros"
-description: "Van Dyke Home Inspections LLC: Radon measurement in Duluth, MN. Licence details, contact and quotes."
+title: "Van Dyke Home Inspections LLC: Radon Testing, Duluth MN"
+description: "Van Dyke Home Inspections LLC in Duluth, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/van-dyke-home-inspections-llc-m254/
 ---
 

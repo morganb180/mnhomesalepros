@@ -1,6 +1,6 @@
 ---
-title: "RMS Radon Mitigation Systems, Plymouth, MN | MN Home Sale Pros"
-description: "RMS Radon Mitigation Systems: Radon measurement, Radon mitigation in Plymouth, MN. Licence details, contact and quotes."
+title: "RMS Radon Mitigation Systems, Plymouth MN"
+description: "RMS Radon Mitigation Systems in Plymouth, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/rms-radon-mitigation-systems-m223/
 ---
 

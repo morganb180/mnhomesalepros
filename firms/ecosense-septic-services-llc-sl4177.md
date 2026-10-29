@@ -1,6 +1,6 @@
 ---
 title: "EcoSense Septic Services, LLC, Welch, MN | MN Home Sale Pros"
-description: "EcoSense Septic Services, LLC: Septic (SSTS) inspection in Welch, MN. Licence details, contact and quotes."
+description: "EcoSense Septic Services, LLC in Welch, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/ecosense-septic-services-llc-sl4177/
 ---
 

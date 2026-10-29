@@ -1,6 +1,6 @@
 ---
 title: "SS Septic Solutions LLC, Hastings, MN | MN Home Sale Pros"
-description: "SS Septic Solutions LLC: Septic (SSTS) inspection in Hastings, MN. Licence details, contact and quotes."
+description: "SS Septic Solutions LLC in Hastings, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/ss-septic-solutions-llc-sl4137/
 ---
 

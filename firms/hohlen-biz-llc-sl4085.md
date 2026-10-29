@@ -1,6 +1,6 @@
 ---
 title: "Hohlen Biz, LLC, Saint Cloud, MN | MN Home Sale Pros"
-description: "Hohlen Biz, LLC: Septic (SSTS) inspection in Saint Cloud, MN. Licence details, contact and quotes."
+description: "Hohlen Biz, LLC in Saint Cloud, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/hohlen-biz-llc-sl4085/
 ---
 

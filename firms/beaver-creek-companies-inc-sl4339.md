@@ -1,6 +1,6 @@
 ---
-title: "Beaver Creek Companies Inc., Farmington, MN | MN Home Sale Pros"
-description: "Beaver Creek Companies Inc.: Septic (SSTS) inspection in Farmington, MN. Licence details, contact and quotes."
+title: "Beaver Creek Companies Inc.: Septic Inspector, Farmington MN"
+description: "Beaver Creek Companies in Farmington, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/beaver-creek-companies-inc-sl4339/
 ---
 

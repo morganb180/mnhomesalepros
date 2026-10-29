@@ -1,6 +1,6 @@
 ---
-title: "Quality Air & Water, d.b.a. Des Moines Radon, LLC, Des, IA | MN Home Sale Pros"
-description: "Quality Air & Water, d.b.a. Des Moines Radon, LLC: Radon measurement in Des, IA. Licence details, contact and quotes."
+title: "Quality Air & Water, d.b.a. Des Moines Radon, LLC, Des IA"
+description: "Quality Air & Water, d.b.a. Des Moines Radon in Des, IA: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/quality-air-water-d-b-a-des-moines-radon-llc-m197/
 ---
 

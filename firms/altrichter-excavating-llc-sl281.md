@@ -1,6 +1,6 @@
 ---
 title: "Altrichter Excavating, LLC, Cushing, MN | MN Home Sale Pros"
-description: "Altrichter Excavating, LLC: Septic (SSTS) inspection in Cushing, MN. Licence details, contact and quotes."
+description: "Altrichter Excavating, LLC in Cushing, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/altrichter-excavating-llc-sl281/
 ---
 

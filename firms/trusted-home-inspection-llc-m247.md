@@ -1,6 +1,6 @@
 ---
-title: "Trusted Home Inspection LLC, Apple Valley, MN | MN Home Sale Pros"
-description: "Trusted Home Inspection LLC: Radon measurement in Apple Valley, MN. Licence details, contact and quotes."
+title: "Trusted Home Inspection LLC: Radon Testing, Apple Valley MN"
+description: "Trusted Home Inspection LLC in Apple Valley, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/trusted-home-inspection-llc-m247/
 ---
 

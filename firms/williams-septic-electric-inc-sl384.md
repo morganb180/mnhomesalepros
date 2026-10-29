@@ -1,6 +1,6 @@
 ---
-title: "Williams Septic & Electric Inc, Squaw Lake, MN | MN Home Sale Pros"
-description: "Williams Septic & Electric Inc: Septic (SSTS) inspection in Squaw Lake, MN. Licence details, contact and quotes."
+title: "Williams Septic & Electric: Septic Inspector, Squaw Lake MN"
+description: "Williams Septic & Electric in Squaw Lake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/williams-septic-electric-inc-sl384/
 ---
 

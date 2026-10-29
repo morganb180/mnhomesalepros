@@ -1,6 +1,6 @@
 ---
 title: "David Michael Engdahl, Isle, MN | MN Home Sale Pros"
-description: "David Michael Engdahl: Septic (SSTS) inspection in Isle, MN. Licence details, contact and quotes."
+description: "David Michael Engdahl in Isle, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/david-michael-engdahl-sl2006/
 ---
 

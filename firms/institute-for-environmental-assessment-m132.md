@@ -1,6 +1,6 @@
 ---
-title: "Institute for Environmental Assessment, Marshall, MN | MN Home Sale Pros"
-description: "Institute for Environmental Assessment: Radon measurement in Marshall, MN. Licence details, contact and quotes."
+title: "Institute for Environmental Assessment, Marshall MN"
+description: "Institute for Environmental Assessment in Marshall, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/institute-for-environmental-assessment-m132/
 ---
 

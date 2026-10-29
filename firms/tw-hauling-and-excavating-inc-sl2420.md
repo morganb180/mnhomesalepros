@@ -1,6 +1,6 @@
 ---
-title: "TW Hauling and Excavating, Inc., Zimmerman, MN | MN Home Sale Pros"
-description: "TW Hauling and Excavating, Inc.: Septic (SSTS) inspection in Zimmerman, MN. Licence details, contact and quotes."
+title: "TW Hauling and Excavating: Septic Inspector, Zimmerman MN"
+description: "TW Hauling and Excavating in Zimmerman, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/tw-hauling-and-excavating-inc-sl2420/
 ---
 

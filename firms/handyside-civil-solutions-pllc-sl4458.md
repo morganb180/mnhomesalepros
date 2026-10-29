@@ -1,6 +1,6 @@
 ---
-title: "Handyside Civil Solutions PLLC, Lengby, MN | MN Home Sale Pros"
-description: "Handyside Civil Solutions PLLC: Septic (SSTS) inspection in Lengby, MN. Licence details, contact and quotes."
+title: "Handyside Civil Solutions PLLC: Septic Inspector, Lengby MN"
+description: "Handyside Civil Solutions in Lengby, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/handyside-civil-solutions-pllc-sl4458/
 ---
 

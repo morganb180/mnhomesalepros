@@ -1,5 +1,5 @@
 ---
-title: "Pillar to Post Home Inspectors - The Voyager Team, Battle Lake, MN | MN Home Sale Pros"
+title: "Pillar to Post Home Inspectors - The Voyager Team"
 description: "Pillar to Post Home Inspectors - The Voyager Team: Radon measurement in Battle Lake, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/pillar-to-post-home-inspectors-the-voyager-team-m181/
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Northern Testing, LLC, Motley, MN | MN Home Sale Pros"
-description: "Northern Testing, LLC: Septic (SSTS) inspection in Motley, MN. Licence details, contact and quotes."
+description: "Northern Testing, LLC in Motley, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/northern-testing-llc-sl243/
 ---
 

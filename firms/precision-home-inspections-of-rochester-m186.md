@@ -1,6 +1,6 @@
 ---
-title: "Precision Home Inspections of Rochester, Rochester, MN | MN Home Sale Pros"
-description: "Precision Home Inspections of Rochester: Radon measurement in Rochester, MN. Licence details, contact and quotes."
+title: "Precision Home Inspections of Rochester, Rochester MN"
+description: "Precision Home Inspections of Rochester in Rochester, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/precision-home-inspections-of-rochester-m186/
 ---
 

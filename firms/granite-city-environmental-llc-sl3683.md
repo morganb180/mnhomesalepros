@@ -1,6 +1,6 @@
 ---
-title: "Granite City Environmental, LLC, Saint Cloud, MN | MN Home Sale Pros"
-description: "Granite City Environmental, LLC: Septic (SSTS) inspection in Saint Cloud, MN. Licence details, contact and quotes."
+title: "Granite City Environmental: Septic Inspector, Saint Cloud MN"
+description: "Granite City Environmental in Saint Cloud, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/granite-city-environmental-llc-sl3683/
 ---
 

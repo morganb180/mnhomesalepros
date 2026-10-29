@@ -1,6 +1,6 @@
 ---
 title: "STS Plumbing and Heating LLP, Mabel, MN | MN Home Sale Pros"
-description: "STS Plumbing and Heating LLP: Septic (SSTS) inspection in Mabel, MN. Licence details, contact and quotes."
+description: "STS Plumbing and Heating LLP in Mabel, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/sts-plumbing-and-heating-llp-sl2521/
 ---
 

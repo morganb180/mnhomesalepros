@@ -1,6 +1,6 @@
 ---
 title: "Ecosense, Inc., San Jose, CA | MN Home Sale Pros"
-description: "Ecosense, Inc.: Radon analysis laboratory in San Jose, CA. Licence details, contact and quotes."
+description: "Ecosense, Inc. in San Jose, CA: MDH licensed for radon analysis laboratory. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/ecosense-inc-m069/
 ---
 

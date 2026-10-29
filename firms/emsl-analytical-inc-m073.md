@@ -1,6 +1,6 @@
 ---
 title: "EMSL Analytical Inc, Cinnaminson, NJ | MN Home Sale Pros"
-description: "EMSL Analytical Inc: Radon analysis laboratory in Cinnaminson, NJ. Licence details, contact and quotes."
+description: "EMSL Analytical Inc in Cinnaminson, NJ: MDH licensed for radon analysis laboratory. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/emsl-analytical-inc-m073/
 ---
 

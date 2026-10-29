@@ -1,6 +1,6 @@
 ---
 title: "Absolute Septic Inc., Milaca, MN | MN Home Sale Pros"
-description: "Absolute Septic Inc.: Septic (SSTS) inspection in Milaca, MN. Licence details, contact and quotes."
+description: "Absolute Septic Inc. in Milaca, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/absolute-septic-inc-sl2633/
 ---
 

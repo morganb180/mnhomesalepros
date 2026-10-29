@@ -1,6 +1,6 @@
 ---
-title: "Voight Electric & Construction Inc, Goodhue, MN | MN Home Sale Pros"
-description: "Voight Electric & Construction Inc: Septic (SSTS) inspection in Goodhue, MN. Licence details, contact and quotes."
+title: "Voight Electric & Construction: Septic Inspector, Goodhue MN"
+description: "Voight Electric & Construction in Goodhue, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/voight-electric-construction-inc-sl3330/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Home In Sight Inspections, Plymouth, MN | MN Home Sale Pros"
-description: "Home In Sight Inspections: Radon measurement in Plymouth, MN. Licence details, contact and quotes."
+description: "Home In Sight Inspections in Plymouth, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/home-in-sight-inspections-m101/
 ---
 

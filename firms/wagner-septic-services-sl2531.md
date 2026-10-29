@@ -1,6 +1,6 @@
 ---
 title: "Wagner Septic Services, Cleveland, MN | MN Home Sale Pros"
-description: "Wagner Septic Services: Septic (SSTS) inspection in Cleveland, MN. Licence details, contact and quotes."
+description: "Wagner Septic Services in Cleveland, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/wagner-septic-services-sl2531/
 ---
 

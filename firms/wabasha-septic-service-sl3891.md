@@ -1,6 +1,6 @@
 ---
 title: "Wabasha Septic Service, Kellogg, MN | MN Home Sale Pros"
-description: "Wabasha Septic Service: Septic (SSTS) inspection in Kellogg, MN. Licence details, contact and quotes."
+description: "Wabasha Septic Service in Kellogg, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/wabasha-septic-service-sl3891/
 ---
 

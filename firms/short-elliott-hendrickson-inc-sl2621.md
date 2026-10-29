@@ -1,6 +1,6 @@
 ---
-title: "Short-Elliott-Hendrickson Inc, Vadnais Heights, MN | MN Home Sale Pros"
-description: "Short-Elliott-Hendrickson Inc: Septic (SSTS) inspection in Vadnais Heights, MN. Licence details, contact and quotes."
+title: "Short-Elliott-Hendrickson Inc, Vadnais Heights MN"
+description: "Short-Elliott-Hendrickson in Vadnais Heights, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/short-elliott-hendrickson-inc-sl2621/
 ---
 

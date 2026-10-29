@@ -1,6 +1,6 @@
 ---
-title: "Kopack Home Inspections LLC, Northfield, MN | MN Home Sale Pros"
-description: "Kopack Home Inspections LLC: Radon measurement in Northfield, MN. Licence details, contact and quotes."
+title: "Kopack Home Inspections LLC: Radon Testing, Northfield MN"
+description: "Kopack Home Inspections LLC in Northfield, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/kopack-home-inspections-llc-m140/
 ---
 

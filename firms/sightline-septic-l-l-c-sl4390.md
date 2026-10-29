@@ -1,6 +1,6 @@
 ---
-title: "Sightline Septic L.L.C., New Brighton, MN | MN Home Sale Pros"
-description: "Sightline Septic L.L.C.: Septic (SSTS) inspection in New Brighton, MN. Licence details, contact and quotes."
+title: "Sightline Septic L.L.C.: Septic Inspector, New Brighton MN"
+description: "Sightline Septic L.L.C. in New Brighton, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/sightline-septic-l-l-c-sl4390/
 ---
 

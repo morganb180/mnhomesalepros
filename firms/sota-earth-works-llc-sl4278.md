@@ -1,6 +1,6 @@
 ---
 title: "Sota Earth Works LLC, Zimmerman, MN | MN Home Sale Pros"
-description: "Sota Earth Works LLC: Septic (SSTS) inspection in Zimmerman, MN. Licence details, contact and quotes."
+description: "Sota Earth Works LLC in Zimmerman, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/sota-earth-works-llc-sl4278/
 ---
 

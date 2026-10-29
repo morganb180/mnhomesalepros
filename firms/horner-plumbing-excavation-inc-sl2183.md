@@ -1,6 +1,6 @@
 ---
-title: "Horner Plumbing & Excavation Inc, Warroad, MN | MN Home Sale Pros"
-description: "Horner Plumbing & Excavation Inc: Septic (SSTS) inspection in Warroad, MN. Licence details, contact and quotes."
+title: "Horner Plumbing & Excavation: Septic Inspector, Warroad MN"
+description: "Horner Plumbing & Excavation in Warroad, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/horner-plumbing-excavation-inc-sl2183/
 ---
 

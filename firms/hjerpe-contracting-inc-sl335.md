@@ -1,6 +1,6 @@
 ---
 title: "Hjerpe Contracting Inc, Hutchinson, MN | MN Home Sale Pros"
-description: "Hjerpe Contracting Inc: Septic (SSTS) inspection in Hutchinson, MN. Licence details, contact and quotes."
+description: "Hjerpe Contracting Inc in Hutchinson, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/hjerpe-contracting-inc-sl335/
 ---
 

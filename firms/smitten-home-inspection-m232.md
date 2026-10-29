@@ -1,6 +1,6 @@
 ---
-title: "Smitten Home Inspection, Brooklyn Park, MN | MN Home Sale Pros"
-description: "Smitten Home Inspection: Radon measurement in Brooklyn Park, MN. Licence details, contact and quotes."
+title: "Smitten Home Inspection: Radon Testing, Brooklyn Park MN"
+description: "Smitten Home Inspection in Brooklyn Park, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/smitten-home-inspection-m232/
 ---
 

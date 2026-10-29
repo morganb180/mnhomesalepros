@@ -1,6 +1,6 @@
 ---
 title: "Soderville, Inc, Soderville, MN | MN Home Sale Pros"
-description: "Soderville, Inc: Septic (SSTS) inspection in Soderville, MN. Licence details, contact and quotes."
+description: "Soderville, Inc in Soderville, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/soderville-inc-sl600/
 ---
 

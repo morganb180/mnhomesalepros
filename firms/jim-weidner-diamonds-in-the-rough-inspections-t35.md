@@ -1,5 +1,5 @@
 ---
-title: "Jim Weidner (Diamonds In The Rough Inspections), Saint Paul, MN | MN Home Sale Pros"
+title: "Jim Weidner (Diamonds In The Rough Inspections)"
 description: "Jim Weidner (Diamonds In The Rough Inspections): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/jim-weidner-diamonds-in-the-rough-inspections-t35/
 ---

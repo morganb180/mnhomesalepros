@@ -1,6 +1,6 @@
 ---
-title: "Critical Hit Design & Inspection LLC, Cloquet, MN | MN Home Sale Pros"
-description: "Critical Hit Design & Inspection LLC: Septic (SSTS) inspection in Cloquet, MN. Licence details, contact and quotes."
+title: "Critical Hit Design & Inspection LLC, Cloquet MN"
+description: "Critical Hit Design & Inspection in Cloquet, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/critical-hit-design-inspection-llc-sl4454/
 ---
 

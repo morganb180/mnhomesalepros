@@ -1,6 +1,6 @@
 ---
-title: "Oakridge Construction Inc, New London, MN | MN Home Sale Pros"
-description: "Oakridge Construction Inc: Septic (SSTS) inspection in New London, MN. Licence details, contact and quotes."
+title: "Oakridge Construction Inc: Septic Inspector, New London MN"
+description: "Oakridge Construction Inc in New London, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/oakridge-construction-inc-sl2543/
 ---
 

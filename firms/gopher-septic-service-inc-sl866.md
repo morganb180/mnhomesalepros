@@ -1,6 +1,6 @@
 ---
 title: "Gopher Septic Service Inc, Rochester, MN | MN Home Sale Pros"
-description: "Gopher Septic Service Inc: Septic (SSTS) inspection in Rochester, MN. Licence details, contact and quotes."
+description: "Gopher Septic Service Inc in Rochester, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/gopher-septic-service-inc-sl866/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Keith Pumper Plumbing and Heating, Dundas, MN | MN Home Sale Pros"
-description: "Keith Pumper Plumbing and Heating: Radon mitigation in Dundas, MN. Licence details, contact and quotes."
+title: "Keith Pumper Plumbing and Heating, Dundas MN"
+description: "Keith Pumper Plumbing and Heating in Dundas, MN: MDH licensed for radon mitigation. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/keith-pumper-plumbing-and-heating-m138/
 ---
 

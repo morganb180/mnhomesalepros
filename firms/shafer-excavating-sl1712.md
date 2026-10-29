@@ -1,6 +1,6 @@
 ---
 title: "Shafer Excavating, Hackensack, MN | MN Home Sale Pros"
-description: "Shafer Excavating: Septic (SSTS) inspection in Hackensack, MN. Licence details, contact and quotes."
+description: "Shafer Excavating in Hackensack, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/shafer-excavating-sl1712/
 ---
 

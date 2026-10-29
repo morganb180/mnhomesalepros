@@ -1,6 +1,6 @@
 ---
 title: "How We Make Money | MN Home Sale Pros"
-description: "How MN Home Sale Pros is funded today and later, and the rules for labeled paid placements."
+description: "How MN Home Sale Pros is funded today and in future, and the rules for clearly labelled paid placements next to the full free list of licensed pros."
 canonical: https://mnhomesalepros.com/how-we-make-money/
 ---
 

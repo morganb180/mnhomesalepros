@@ -1,6 +1,6 @@
 ---
 title: "P & L Excavating LLC, Albert Lea, MN | MN Home Sale Pros"
-description: "P & L Excavating LLC: Septic (SSTS) inspection in Albert Lea, MN. Licence details, contact and quotes."
+description: "P & L Excavating LLC in Albert Lea, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/p-l-excavating-llc-sl4152/
 ---
 

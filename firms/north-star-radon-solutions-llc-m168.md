@@ -1,5 +1,5 @@
 ---
-title: "North Star Radon Solutions LLC, Oakdale, MN | MN Home Sale Pros"
+title: "North Star Radon Solutions LLC, Oakdale MN"
 description: "North Star Radon Solutions LLC: Radon measurement, Radon mitigation in Oakdale, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/north-star-radon-solutions-llc-m168/
 ---

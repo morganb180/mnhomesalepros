@@ -1,5 +1,5 @@
 ---
-title: "Bill Yares (Twin Cities Home Evaluations), Saint Paul, MN | MN Home Sale Pros"
+title: "Bill Yares (Twin Cities Home Evaluations), Saint Paul MN"
 description: "Bill Yares (Twin Cities Home Evaluations): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/bill-yares-twin-cities-home-evaluations-t37/
 ---

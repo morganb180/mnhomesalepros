@@ -1,6 +1,6 @@
 ---
 title: "Mid MN Septic Services, Hutchinson, MN | MN Home Sale Pros"
-description: "Mid MN Septic Services: Septic (SSTS) inspection in Hutchinson, MN. Licence details, contact and quotes."
+description: "Mid MN Septic Services in Hutchinson, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/mid-mn-septic-services-sl1686/
 ---
 

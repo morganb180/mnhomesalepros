@@ -1,6 +1,6 @@
 ---
-title: "Mulvihill Excavating Inc, Cannon Falls, MN | MN Home Sale Pros"
-description: "Mulvihill Excavating Inc: Septic (SSTS) inspection in Cannon Falls, MN. Licence details, contact and quotes."
+title: "Mulvihill Excavating Inc: Septic Inspector, Cannon Falls MN"
+description: "Mulvihill Excavating in Cannon Falls, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/mulvihill-excavating-inc-sl121/
 ---
 

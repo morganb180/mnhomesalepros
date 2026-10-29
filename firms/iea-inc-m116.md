@@ -1,6 +1,6 @@
 ---
 title: "IEA Inc, Brooklyn Park, MN | MN Home Sale Pros"
-description: "IEA Inc: Radon measurement in Brooklyn Park, MN. Licence details, contact and quotes."
+description: "IEA Inc in Brooklyn Park, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/iea-inc-m116/
 ---
 

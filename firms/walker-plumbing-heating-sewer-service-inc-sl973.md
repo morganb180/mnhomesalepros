@@ -1,5 +1,5 @@
 ---
-title: "Walker Plumbing Heating & Sewer Service Inc, Villard, MN | MN Home Sale Pros"
+title: "Walker Plumbing Heating & Sewer Service Inc, Villard MN"
 description: "Walker Plumbing Heating & Sewer Service Inc: Septic (SSTS) inspection in Villard, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/walker-plumbing-heating-sewer-service-inc-sl973/
 ---

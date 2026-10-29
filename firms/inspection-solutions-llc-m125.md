@@ -1,6 +1,6 @@
 ---
-title: "Inspection Solutions LLC, St. Bonifacius, MN | MN Home Sale Pros"
-description: "Inspection Solutions LLC: Radon measurement in St. Bonifacius, MN. Licence details, contact and quotes."
+title: "Inspection Solutions LLC: Radon Testing, St. Bonifacius MN"
+description: "Inspection Solutions LLC in St. Bonifacius, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/inspection-solutions-llc-m125/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in St. Louis County, MN: 6 Licensed | MN Home Sale Pros"
-description: "0 MPCA-licensed SSTS inspectors and 6 MDH-licensed radon pros based in St. Louis County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in St. Louis County, MN"
+description: "St. Louis County, MN: 0 MPCA-licensed septic (SSTS) inspectors and 6 MDH-licensed radon businesses with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/st-louis/
 ---
 
@@ -8,15 +8,17 @@ canonical: https://mnhomesalepros.com/county/st-louis/
 
 # Septic inspectors and radon pros in St. Louis County, MN
 
+**Quick answer:** For sellers, buyers and agents in St. Louis County, MN: MN Home Sale Pros lists 0 MPCA-licensed SSTS (septic) inspector businesses and 6 MDH-licensed radon businesses with an address in St. Louis County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
 0 MPCA-licensed SSTS inspector businesses and 6 MDH-licensed radon businesses list an address in St. Louis County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors
+## Who does septic (SSTS) inspections in St. Louis County, MN?
 
 None list a St. Louis County address. Use the [statewide list](https://mnhomesalepros.com/septic-inspectors/) or the [MPCA search](https://webapp.pca.state.mn.us/ssts/business-search), which can filter by service county.
 
-## Radon testing and mitigation (6)
+## Who does radon testing and mitigation in St. Louis County, MN? (6)
 
 ✔ MDH radon license Mitigation
 
@@ -107,7 +109,7 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
-## Neighboring counties
+## Which counties border St. Louis County, MN?
 
 [Aitkin County](https://mnhomesalepros.com/county/aitkin/) · [Carlton County](https://mnhomesalepros.com/county/carlton/) · [Itasca County](https://mnhomesalepros.com/county/itasca/) · [Koochiching County](https://mnhomesalepros.com/county/koochiching/) · [Lake County](https://mnhomesalepros.com/county/lake/)
 

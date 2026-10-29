@@ -1,6 +1,6 @@
 ---
 title: "RC Fields LLC, Maple Grove, MN | MN Home Sale Pros"
-description: "RC Fields LLC: Radon measurement, Radon mitigation in Maple Grove, MN. Licence details, contact and quotes."
+description: "RC Fields in Maple Grove, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/rc-fields-llc-m219/
 ---
 

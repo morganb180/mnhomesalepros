@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in Scott County, MN: 12 Licensed | MN Home Sale Pros"
-description: "5 MPCA-licensed SSTS inspectors and 7 MDH-licensed radon pros based in Scott County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in Scott County, MN"
+description: "Scott County, MN: 5 MPCA-licensed septic (SSTS) inspectors and 7 MDH-licensed radon businesses with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/scott/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://mnhomesalepros.com/county/scott/
 
 # Septic inspectors and radon pros in Scott County, MN
 
+**Quick answer:** For sellers, buyers and agents in Scott County, MN: MN Home Sale Pros lists 5 MPCA-licensed SSTS (septic) inspector businesses and 7 MDH-licensed radon businesses with an address in Scott County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
 5 MPCA-licensed SSTS inspector businesses and 7 MDH-licensed radon businesses list an address in Scott County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors (5)
+## Who does septic (SSTS) inspections in Scott County, MN? (5)
+
+5 MPCA-licensed SSTS inspector businesses list an address in Scott County. Ask the county or city SSTS office whether a transfer inspection applies.
 
 ✔ MPCA SSTS licensed Inspector
 
@@ -79,7 +83,9 @@ Also licensed: Designer
 License L2003, expires 2027-04-14 · bonded, insured  
 Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL2003)
 
-## Radon testing and mitigation (7)
+## Who does radon testing and mitigation in Scott County, MN? (7)
+
+7 MDH-licensed radon businesses list an address in Scott County. Most radon pros list a statewide service area.
 
 ✔ MDH radon license MeasurementMitigation
 
@@ -185,7 +191,7 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
-## Neighboring counties
+## Which counties border Scott County, MN?
 
 [Carver County](https://mnhomesalepros.com/county/carver/) · [Dakota County](https://mnhomesalepros.com/county/dakota/) · [Hennepin County](https://mnhomesalepros.com/county/hennepin/) · [Le Sueur County](https://mnhomesalepros.com/county/le-sueur/) · [Rice County](https://mnhomesalepros.com/county/rice/)
 

@@ -1,6 +1,6 @@
 ---
-title: "Tri-County Septic Inspections, Motley, MN | MN Home Sale Pros"
-description: "Tri-County Septic Inspections: Septic (SSTS) inspection in Motley, MN. Licence details, contact and quotes."
+title: "Tri-County Septic Inspections: Septic Inspector, Motley MN"
+description: "Tri-County Septic Inspections in Motley, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/tri-county-septic-inspections-sl2776/
 ---
 

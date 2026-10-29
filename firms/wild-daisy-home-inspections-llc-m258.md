@@ -1,6 +1,6 @@
 ---
-title: "Wild Daisy Home Inspections LLC, Hudson, WI | MN Home Sale Pros"
-description: "Wild Daisy Home Inspections LLC: Radon measurement in Hudson, WI. Licence details, contact and quotes."
+title: "Wild Daisy Home Inspections LLC: Radon Testing, Hudson WI"
+description: "Wild Daisy Home Inspections LLC in Hudson, WI: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/wild-daisy-home-inspections-llc-m258/
 ---
 

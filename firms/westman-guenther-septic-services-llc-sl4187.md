@@ -1,6 +1,6 @@
 ---
-title: "Westman Guenther Septic Services LLC, Jordan, MN | MN Home Sale Pros"
-description: "Westman Guenther Septic Services LLC: Septic (SSTS) inspection in Jordan, MN. Licence details, contact and quotes."
+title: "Westman Guenther Septic Services LLC, Jordan MN"
+description: "Westman Guenther Septic Services in Jordan, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/westman-guenther-septic-services-llc-sl4187/
 ---
 

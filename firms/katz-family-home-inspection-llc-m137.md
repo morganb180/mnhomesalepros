@@ -1,6 +1,6 @@
 ---
-title: "Katz Family Home Inspection LLC, Edina, MN | MN Home Sale Pros"
-description: "Katz Family Home Inspection LLC: Radon measurement in Edina, MN. Licence details, contact and quotes."
+title: "Katz Family Home Inspection LLC: Radon Testing, Edina MN"
+description: "Katz Family Home Inspection LLC in Edina, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/katz-family-home-inspection-llc-m137/
 ---
 

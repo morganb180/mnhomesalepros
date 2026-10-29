@@ -1,6 +1,6 @@
 ---
 title: "Cass Lake Sewer Service, Laporte, MN | MN Home Sale Pros"
-description: "Cass Lake Sewer Service: Septic (SSTS) inspection in Laporte, MN. Licence details, contact and quotes."
+description: "Cass Lake Sewer Service in Laporte, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/cass-lake-sewer-service-sl267/
 ---
 

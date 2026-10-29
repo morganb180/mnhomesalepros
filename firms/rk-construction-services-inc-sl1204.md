@@ -1,6 +1,6 @@
 ---
-title: "RK Construction Services, Inc., Marcell, MN | MN Home Sale Pros"
-description: "RK Construction Services, Inc.: Septic (SSTS) inspection in Marcell, MN. Licence details, contact and quotes."
+title: "RK Construction Services, Inc.: Septic Inspector, Marcell MN"
+description: "RK Construction Services in Marcell, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/rk-construction-services-inc-sl1204/
 ---
 

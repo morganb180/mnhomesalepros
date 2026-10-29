@@ -1,6 +1,6 @@
 ---
 title: "Environmental Scientific, Donnelly, MN | MN Home Sale Pros"
-description: "Environmental Scientific: Septic (SSTS) inspection in Donnelly, MN. Licence details, contact and quotes."
+description: "Environmental Scientific in Donnelly, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/environmental-scientific-sl2196/
 ---
 

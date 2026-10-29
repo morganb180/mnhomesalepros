@@ -1,6 +1,6 @@
 ---
 title: "Viitas Excavating Inc, Cook, MN | MN Home Sale Pros"
-description: "Viitas Excavating Inc: Septic (SSTS) inspection in Cook, MN. Licence details, contact and quotes."
+description: "Viitas Excavating Inc in Cook, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/viitas-excavating-inc-sl1724/
 ---
 

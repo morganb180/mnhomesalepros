@@ -1,6 +1,6 @@
 ---
-title: "Precision Design & Inspection LLC, Grand Rapids, MN | MN Home Sale Pros"
-description: "Precision Design & Inspection LLC: Septic (SSTS) inspection in Grand Rapids, MN. Licence details, contact and quotes."
+title: "Precision Design & Inspection LLC, Grand Rapids MN"
+description: "Precision Design & Inspection in Grand Rapids, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/precision-design-inspection-llc-sl4199/
 ---
 

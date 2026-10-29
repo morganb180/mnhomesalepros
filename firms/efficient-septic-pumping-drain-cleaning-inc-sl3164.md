@@ -1,5 +1,5 @@
 ---
-title: "Efficient Septic Pumping & Drain Cleaning, Inc, New London, MN | MN Home Sale Pros"
+title: "Efficient Septic Pumping & Drain Cleaning, New London MN"
 description: "Efficient Septic Pumping & Drain Cleaning, Inc: Septic (SSTS) inspection in New London, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/efficient-septic-pumping-drain-cleaning-inc-sl3164/
 ---

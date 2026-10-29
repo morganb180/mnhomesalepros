@@ -1,5 +1,5 @@
 ---
-title: "AmeriSpec Home Inspections, Bloomington Office, Bloomington, MN | MN Home Sale Pros"
+title: "AmeriSpec Home Inspections, Bloomington Office"
 description: "AmeriSpec Home Inspections, Bloomington Office: Radon measurement in Bloomington, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/amerispec-home-inspections-bloomington-office-m023/
 ---

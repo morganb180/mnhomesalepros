@@ -1,6 +1,6 @@
 ---
 title: "Integri-Spec LLC, Winona, MN | MN Home Sale Pros"
-description: "Integri-Spec LLC: Radon measurement in Winona, MN. Licence details, contact and quotes."
+description: "Integri-Spec LLC in Winona, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/integri-spec-llc-m133/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Kirk Flom Septic Service, Faribault, MN | MN Home Sale Pros"
-description: "Kirk Flom Septic Service: Septic (SSTS) inspection in Faribault, MN. Licence details, contact and quotes."
+description: "Kirk Flom Septic Service in Faribault, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/kirk-flom-septic-service-sl2401/
 ---
 

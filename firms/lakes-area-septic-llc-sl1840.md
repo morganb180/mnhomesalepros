@@ -1,6 +1,6 @@
 ---
 title: "Lakes Area Septic LLC, Crosslake, MN | MN Home Sale Pros"
-description: "Lakes Area Septic LLC: Septic (SSTS) inspection in Crosslake, MN. Licence details, contact and quotes."
+description: "Lakes Area Septic LLC in Crosslake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/lakes-area-septic-llc-sl1840/
 ---
 

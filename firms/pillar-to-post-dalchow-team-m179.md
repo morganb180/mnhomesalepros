@@ -1,6 +1,6 @@
 ---
 title: "Pillar to Post Dalchow Team, Hudson, WI | MN Home Sale Pros"
-description: "Pillar to Post Dalchow Team: Radon measurement in Hudson, WI. Licence details, contact and quotes."
+description: "Pillar to Post Dalchow Team in Hudson, WI: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/pillar-to-post-dalchow-team-m179/
 ---
 

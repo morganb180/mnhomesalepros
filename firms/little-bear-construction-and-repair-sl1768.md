@@ -1,6 +1,6 @@
 ---
-title: "Little Bear Construction and Repair, Cook, MN | MN Home Sale Pros"
-description: "Little Bear Construction and Repair: Septic (SSTS) inspection in Cook, MN. Licence details, contact and quotes."
+title: "Little Bear Construction and Repair, Cook MN"
+description: "Little Bear Construction and Repair in Cook, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/little-bear-construction-and-repair-sl1768/
 ---
 

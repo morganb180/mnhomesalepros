@@ -1,6 +1,6 @@
 ---
-title: "Institute for Environmental Assessment, Mountain Iron, MN | MN Home Sale Pros"
-description: "Institute for Environmental Assessment: Radon measurement in Mountain Iron, MN. Licence details, contact and quotes."
+title: "Institute for Environmental Assessment, Mountain Iron MN"
+description: "Institute for Environmental Assessment in Mountain Iron, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/institute-for-environmental-assessment-m128/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Certified Home Inspections LLC, Prior lake, MN | MN Home Sale Pros"
-description: "Certified Home Inspections LLC: Radon measurement in Prior lake, MN. Licence details, contact and quotes."
+title: "Certified Home Inspections LLC: Radon Testing, Prior lake MN"
+description: "Certified Home Inspections LLC in Prior lake, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/certified-home-inspections-llc-m048/
 ---
 

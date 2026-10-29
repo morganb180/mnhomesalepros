@@ -1,6 +1,6 @@
 ---
 title: "Healthy Homes, Bloomington, MN | MN Home Sale Pros"
-description: "Healthy Homes: Radon measurement in Bloomington, MN. Licence details, contact and quotes."
+description: "Healthy Homes in Bloomington, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/healthy-homes-m093/
 ---
 

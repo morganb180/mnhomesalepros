@@ -1,6 +1,6 @@
 ---
 title: "Cubed B LLC, Lake Park, MN | MN Home Sale Pros"
-description: "Cubed B LLC: Septic (SSTS) inspection in Lake Park, MN. Licence details, contact and quotes."
+description: "Cubed B LLC in Lake Park, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/cubed-b-llc-sl4142/
 ---
 

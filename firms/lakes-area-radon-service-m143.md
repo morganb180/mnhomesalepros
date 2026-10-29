@@ -1,6 +1,6 @@
 ---
 title: "Lakes Area Radon Service, Laporte, MN | MN Home Sale Pros"
-description: "Lakes Area Radon Service: Radon measurement, Radon mitigation in Laporte, MN. Licence details, contact and quotes."
+description: "Lakes Area Radon Service in Laporte, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/lakes-area-radon-service-m143/
 ---
 

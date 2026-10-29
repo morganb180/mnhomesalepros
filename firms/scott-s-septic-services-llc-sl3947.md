@@ -1,6 +1,6 @@
 ---
 title: "Scott's Septic Services LLC, Ashby, MN | MN Home Sale Pros"
-description: "Scott's Septic Services LLC: Septic (SSTS) inspection in Ashby, MN. Licence details, contact and quotes."
+description: "Scott's Septic Services LLC in Ashby, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/scott-s-septic-services-llc-sl3947/
 ---
 

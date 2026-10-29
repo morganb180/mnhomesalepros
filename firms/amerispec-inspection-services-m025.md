@@ -1,6 +1,6 @@
 ---
-title: "Amerispec Inspection Services, Maple Grove, MN | MN Home Sale Pros"
-description: "Amerispec Inspection Services: Radon measurement in Maple Grove, MN. Licence details, contact and quotes."
+title: "Amerispec Inspection Services: Radon Testing, Maple Grove MN"
+description: "Amerispec Inspection Services in Maple Grove, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/amerispec-inspection-services-m025/
 ---
 

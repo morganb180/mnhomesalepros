@@ -1,6 +1,6 @@
 ---
-title: "Schirmers Percolation Testing, Inc, Saint Michael, MN | MN Home Sale Pros"
-description: "Schirmers Percolation Testing, Inc: Septic (SSTS) inspection in Saint Michael, MN. Licence details, contact and quotes."
+title: "Schirmers Percolation Testing, Inc, Saint Michael MN"
+description: "Schirmers Percolation Testing in Saint Michael, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/schirmers-percolation-testing-inc-sl394/
 ---
 

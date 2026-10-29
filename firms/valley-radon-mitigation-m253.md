@@ -1,6 +1,6 @@
 ---
 title: "Valley Radon Mitigation, Fargo, ND | MN Home Sale Pros"
-description: "Valley Radon Mitigation: Radon mitigation in Fargo, ND. Licence details, contact and quotes."
+description: "Valley Radon Mitigation in Fargo, ND: MDH licensed for radon mitigation. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/valley-radon-mitigation-m253/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "XRF Testing Services, Inc., Edina, MN | MN Home Sale Pros"
-description: "XRF Testing Services, Inc.: Radon measurement in Edina, MN. Licence details, contact and quotes."
+description: "XRF Testing Services, Inc. in Edina, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/xrf-testing-services-inc-m264/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Mark Zlotnick Construction, Ashby, MN | MN Home Sale Pros"
-description: "Mark Zlotnick Construction: Radon measurement, Radon mitigation in Ashby, MN. Licence details, contact and quotes."
+description: "Mark Zlotnick Construction in Ashby, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/mark-zlotnick-construction-m156/
 ---
 

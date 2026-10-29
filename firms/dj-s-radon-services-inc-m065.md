@@ -1,6 +1,6 @@
 ---
 title: "DJ's Radon Services, Inc., Perham, MN | MN Home Sale Pros"
-description: "DJ's Radon Services, Inc.: Radon measurement, Radon mitigation in Perham, MN. Licence details, contact and quotes."
+description: "DJ's Radon Services in Perham, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/dj-s-radon-services-inc-m065/
 ---
 

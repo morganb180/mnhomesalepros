@@ -1,6 +1,6 @@
 ---
 title: "Radonova, Lombard, IL | MN Home Sale Pros"
-description: "Radonova: Radon analysis laboratory in Lombard, IL. Licence details, contact and quotes."
+description: "Radonova in Lombard, IL: MDH licensed for radon analysis laboratory. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/radonova-m218/
 ---
 

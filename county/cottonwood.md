@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in Cottonwood County, MN: 1 Licensed | MN Home Sale Pros"
-description: "1 MPCA-licensed SSTS inspectors and 0 MDH-licensed radon pros based in Cottonwood County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in Cottonwood County, MN"
+description: "Cottonwood County, MN: 1 MPCA-licensed septic (SSTS) inspector and 0 MDH-licensed radon businesses with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/cottonwood/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://mnhomesalepros.com/county/cottonwood/
 
 # Septic inspectors and radon pros in Cottonwood County, MN
 
-1 MPCA-licensed SSTS inspector businesses and 0 MDH-licensed radon businesses list an address in Cottonwood County. Many work across counties, and most radon pros list a statewide service area.
+**Quick answer:** For sellers, buyers and agents in Cottonwood County, MN: MN Home Sale Pros lists 1 MPCA-licensed SSTS (septic) inspector business and 0 MDH-licensed radon businesses with an address in Cottonwood County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
+1 MPCA-licensed SSTS inspector business and 0 MDH-licensed radon businesses list an address in Cottonwood County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors (1)
+## Who does septic (SSTS) inspections in Cottonwood County, MN? (1)
+
+1 MPCA-licensed SSTS inspector business lists an address in Cottonwood County. Ask the county or city SSTS office whether a transfer inspection applies.
 
 ✔ MPCA SSTS licensed Inspector
 
@@ -27,13 +31,13 @@ Also licensed: Designer, Installer, Pipelayer
 License L435, expires 2028-03-23 · bonded, insured  
 Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL435)
 
-## Radon
+## Who does radon testing in Cottonwood County, MN?
 
 No MDH-licensed radon businesses list a Cottonwood County address. See [statewide radon pros](https://mnhomesalepros.com/radon/).
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
-## Neighboring counties
+## Which counties border Cottonwood County, MN?
 
 [Brown County](https://mnhomesalepros.com/county/brown/) · [Jackson County](https://mnhomesalepros.com/county/jackson/) · [Murray County](https://mnhomesalepros.com/county/murray/) · [Nobles County](https://mnhomesalepros.com/county/nobles/) · [Redwood County](https://mnhomesalepros.com/county/redwood/)
 

@@ -1,6 +1,6 @@
 ---
 title: "Cloquet Constructors, Cloquet, MN | MN Home Sale Pros"
-description: "Cloquet Constructors: Septic (SSTS) inspection in Cloquet, MN. Licence details, contact and quotes."
+description: "Cloquet Constructors in Cloquet, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/cloquet-constructors-sl941/
 ---
 

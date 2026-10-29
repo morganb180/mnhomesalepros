@@ -1,6 +1,6 @@
 ---
 title: "American Waterworks, Rochester, MN | MN Home Sale Pros"
-description: "American Waterworks: Radon measurement, Radon mitigation in Rochester, MN. Licence details, contact and quotes."
+description: "American Waterworks in Rochester, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/american-waterworks-m022/
 ---
 

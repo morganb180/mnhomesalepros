@@ -1,6 +1,6 @@
 ---
 title: "Roberts Excavating LLC, Askov, MN | MN Home Sale Pros"
-description: "Roberts Excavating LLC: Septic (SSTS) inspection in Askov, MN. Licence details, contact and quotes."
+description: "Roberts Excavating LLC in Askov, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/roberts-excavating-llc-sl1572/
 ---
 

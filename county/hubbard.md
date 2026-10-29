@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in Hubbard County, MN: 7 Licensed | MN Home Sale Pros"
-description: "4 MPCA-licensed SSTS inspectors and 3 MDH-licensed radon pros based in Hubbard County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in Hubbard County, MN"
+description: "Hubbard County, MN: 4 MPCA-licensed septic (SSTS) inspectors and 3 MDH-licensed radon businesses with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/hubbard/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://mnhomesalepros.com/county/hubbard/
 
 # Septic inspectors and radon pros in Hubbard County, MN
 
+**Quick answer:** For sellers, buyers and agents in Hubbard County, MN: MN Home Sale Pros lists 4 MPCA-licensed SSTS (septic) inspector businesses and 3 MDH-licensed radon businesses with an address in Hubbard County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
 4 MPCA-licensed SSTS inspector businesses and 3 MDH-licensed radon businesses list an address in Hubbard County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors (4)
+## Who does septic (SSTS) inspections in Hubbard County, MN? (4)
+
+4 MPCA-licensed SSTS inspector businesses list an address in Hubbard County. Ask the county or city SSTS office whether a transfer inspection applies.
 
 ✔ MPCA SSTS licensed Inspector
 
@@ -66,7 +70,9 @@ Also licensed: Designer
 License L1867, expires 2027-05-22 · bonded, insured  
 Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL1867)
 
-## Radon testing and mitigation (3)
+## Who does radon testing and mitigation in Hubbard County, MN? (3)
+
+3 MDH-licensed radon businesses list an address in Hubbard County. Most radon pros list a statewide service area.
 
 ✔ MDH radon license Measurement
 
@@ -113,7 +119,7 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
-## Neighboring counties
+## Which counties border Hubbard County, MN?
 
 [Becker County](https://mnhomesalepros.com/county/becker/) · [Beltrami County](https://mnhomesalepros.com/county/beltrami/) · [Cass County](https://mnhomesalepros.com/county/cass/) · [Clearwater County](https://mnhomesalepros.com/county/clearwater/) · [Wadena County](https://mnhomesalepros.com/county/wadena/)
 

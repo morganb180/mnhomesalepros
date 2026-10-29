@@ -1,6 +1,6 @@
 ---
 title: "Karvakko Engineering, Inc., Bemidji, MN | MN Home Sale Pros"
-description: "Karvakko Engineering, Inc.: Septic (SSTS) inspection in Bemidji, MN. Licence details, contact and quotes."
+description: "Karvakko Engineering, Inc. in Bemidji, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/karvakko-engineering-inc-sl3984/
 ---
 

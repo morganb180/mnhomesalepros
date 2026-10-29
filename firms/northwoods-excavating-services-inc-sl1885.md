@@ -1,6 +1,6 @@
 ---
-title: "Northwoods Excavating Services Inc., Bovey, MN | MN Home Sale Pros"
-description: "Northwoods Excavating Services Inc.: Septic (SSTS) inspection in Bovey, MN. Licence details, contact and quotes."
+title: "Northwoods Excavating Services: Septic Inspector, Bovey MN"
+description: "Northwoods Excavating Services in Bovey, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/northwoods-excavating-services-inc-sl1885/
 ---
 

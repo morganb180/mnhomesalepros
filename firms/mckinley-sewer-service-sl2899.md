@@ -1,6 +1,6 @@
 ---
 title: "McKinley Sewer Service, Prior Lake, MN | MN Home Sale Pros"
-description: "McKinley Sewer Service: Septic (SSTS) inspection in Prior Lake, MN. Licence details, contact and quotes."
+description: "McKinley Sewer Service in Prior Lake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/mckinley-sewer-service-sl2899/
 ---
 

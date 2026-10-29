@@ -1,6 +1,6 @@
 ---
 title: "Halling Engineering, Inc., Watertown, MN | MN Home Sale Pros"
-description: "Halling Engineering, Inc.: Septic (SSTS) inspection in Watertown, MN. Licence details, contact and quotes."
+description: "Halling Engineering, Inc. in Watertown, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/halling-engineering-inc-sl340/
 ---
 

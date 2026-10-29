@@ -1,6 +1,6 @@
 ---
 title: "Scarcely Ltd, Marshall, MN | MN Home Sale Pros"
-description: "Scarcely Ltd: Radon measurement, Radon mitigation in Marshall, MN. Licence details, contact and quotes."
+description: "Scarcely Ltd in Marshall, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/scarcely-ltd-m229/
 ---
 

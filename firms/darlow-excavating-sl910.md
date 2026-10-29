@@ -1,6 +1,6 @@
 ---
 title: "Darlow Excavating, McGregor, MN | MN Home Sale Pros"
-description: "Darlow Excavating: Septic (SSTS) inspection in McGregor, MN. Licence details, contact and quotes."
+description: "Darlow Excavating in McGregor, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/darlow-excavating-sl910/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Tessa's Septic Design & Inspection LLC, Laporte, MN | MN Home Sale Pros"
-description: "Tessa's Septic Design & Inspection LLC: Septic (SSTS) inspection in Laporte, MN. Licence details, contact and quotes."
+title: "Tessa's Septic Design & Inspection LLC, Laporte MN"
+description: "Tessa's Septic Design & Inspection in Laporte, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/tessa-s-septic-design-inspection-llc-sl4267/
 ---
 

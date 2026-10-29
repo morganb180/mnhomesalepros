@@ -1,5 +1,5 @@
 ---
-title: "Professional House Doctors of MN LLC, Deerwood, MN | MN Home Sale Pros"
+title: "Professional House Doctors of MN LLC, Deerwood MN"
 description: "Professional House Doctors of MN LLC: Radon measurement, Radon mitigation in Deerwood, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/professional-house-doctors-of-mn-llc-m193/
 ---

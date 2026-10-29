@@ -1,6 +1,6 @@
 ---
 title: "Melzark Sewer & Excavation, Askov, MN | MN Home Sale Pros"
-description: "Melzark Sewer & Excavation: Septic (SSTS) inspection in Askov, MN. Licence details, contact and quotes."
+description: "Melzark Sewer & Excavation in Askov, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/melzark-sewer-excavation-sl368/
 ---
 

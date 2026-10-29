@@ -1,6 +1,6 @@
 ---
-title: "Peace of Mind Home Inspections Inc, Maple Grove, MN | MN Home Sale Pros"
-description: "Peace of Mind Home Inspections Inc: Radon measurement in Maple Grove, MN. Licence details, contact and quotes."
+title: "Peace of Mind Home Inspections Inc, Maple Grove MN"
+description: "Peace of Mind Home Inspections in Maple Grove, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/peace-of-mind-home-inspections-inc-m176/
 ---
 

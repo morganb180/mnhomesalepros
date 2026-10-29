@@ -1,6 +1,6 @@
 ---
-title: "Hauscheck Inspections & Engineering, Columbia Heights, MN | MN Home Sale Pros"
-description: "Hauscheck Inspections & Engineering: Radon measurement in Columbia Heights, MN. Licence details, contact and quotes."
+title: "Hauscheck Inspections & Engineering, Columbia Heights MN"
+description: "Hauscheck Inspections & Engineering in Columbia Heights, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/hauscheck-inspections-engineering-m089/
 ---
 

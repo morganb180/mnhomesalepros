@@ -1,6 +1,6 @@
 ---
-title: "Get free quotes | MN Home Sale Pros"
-description: "Send one request to up to 3 licensed Minnesota pros near you."
+title: "Get Free Quotes from Licensed Minnesota Pros"
+description: "Send one request to up to 3 licensed septic inspectors, radon pros or Saint Paul TISH evaluators near you. Free, no obligation."
 canonical: https://mnhomesalepros.com/get-quotes/
 ---
 

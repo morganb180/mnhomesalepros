@@ -1,5 +1,5 @@
 ---
-title: "Alan Copia (Cornerstone Inspections), Saint Paul, MN | MN Home Sale Pros"
+title: "Alan Copia (Cornerstone Inspections), Saint Paul MN"
 description: "Alan Copia (Cornerstone Inspections): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/alan-copia-cornerstone-inspections-t05/
 ---

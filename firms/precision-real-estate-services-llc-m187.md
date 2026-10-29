@@ -1,6 +1,6 @@
 ---
-title: "Precision Real Estate Services LLC, Savage, MN | MN Home Sale Pros"
-description: "Precision Real Estate Services LLC: Radon measurement in Savage, MN. Licence details, contact and quotes."
+title: "Precision Real Estate Services LLC: Radon Testing, Savage MN"
+description: "Precision Real Estate Services LLC in Savage, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/precision-real-estate-services-llc-m187/
 ---
 

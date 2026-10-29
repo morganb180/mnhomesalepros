@@ -1,6 +1,6 @@
 ---
 title: "Don Umthun, Nevis, MN | MN Home Sale Pros"
-description: "Don Umthun: Septic (SSTS) inspection in Nevis, MN. Licence details, contact and quotes."
+description: "Don Umthun in Nevis, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/don-umthun-sl1867/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Burns Construction Inc, Le Sueur, MN | MN Home Sale Pros"
-description: "Burns Construction Inc: Septic (SSTS) inspection in Le Sueur, MN. Licence details, contact and quotes."
+description: "Burns Construction Inc in Le Sueur, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/burns-construction-inc-sl29/
 ---
 

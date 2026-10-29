@@ -1,6 +1,6 @@
 ---
 title: "Farley Sewer Systems, McGregor, MN | MN Home Sale Pros"
-description: "Farley Sewer Systems: Septic (SSTS) inspection in McGregor, MN. Licence details, contact and quotes."
+description: "Farley Sewer Systems in McGregor, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/farley-sewer-systems-sl1919/
 ---
 

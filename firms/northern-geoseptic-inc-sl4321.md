@@ -1,6 +1,6 @@
 ---
 title: "Northern Geoseptic Inc, Ely, MN | MN Home Sale Pros"
-description: "Northern Geoseptic Inc: Septic (SSTS) inspection in Ely, MN. Licence details, contact and quotes."
+description: "Northern Geoseptic Inc in Ely, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/northern-geoseptic-inc-sl4321/
 ---
 

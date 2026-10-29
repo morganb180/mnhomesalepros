@@ -1,6 +1,6 @@
 ---
 title: "Iverson Home Inspection, Kasson, MN | MN Home Sale Pros"
-description: "Iverson Home Inspection: Radon measurement in Kasson, MN. Licence details, contact and quotes."
+description: "Iverson Home Inspection in Kasson, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/iverson-home-inspection-m134/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Rotz Septic and Excavating Inc., Elk River, MN | MN Home Sale Pros"
-description: "Rotz Septic and Excavating Inc.: Septic (SSTS) inspection in Elk River, MN. Licence details, contact and quotes."
+title: "Rotz Septic and Excavating: Septic Inspector, Elk River MN"
+description: "Rotz Septic and Excavating in Elk River, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/rotz-septic-and-excavating-inc-sl3987/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Leustek Sand & Gravel Company, Chisholm, MN | MN Home Sale Pros"
-description: "Leustek Sand & Gravel Company: Septic (SSTS) inspection in Chisholm, MN. Licence details, contact and quotes."
+title: "Leustek Sand & Gravel Company: Septic Inspector, Chisholm MN"
+description: "Leustek Sand & Gravel in Chisholm, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/leustek-sand-gravel-company-sl558/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Enviro Pump Plus, Balaton, MN | MN Home Sale Pros"
-description: "Enviro Pump Plus: Septic (SSTS) inspection in Balaton, MN. Licence details, contact and quotes."
+description: "Enviro Pump Plus in Balaton, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/enviro-pump-plus-sl3989/
 ---
 

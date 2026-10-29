@@ -1,6 +1,6 @@
 ---
-title: "Peppermint Creek Services LLC, Baudette, MN | MN Home Sale Pros"
-description: "Peppermint Creek Services LLC: Septic (SSTS) inspection in Baudette, MN. Licence details, contact and quotes."
+title: "Peppermint Creek Services LLC: Septic Inspector, Baudette MN"
+description: "Peppermint Creek Services in Baudette, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/peppermint-creek-services-llc-sl4534/
 ---
 

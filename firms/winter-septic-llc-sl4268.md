@@ -1,6 +1,6 @@
 ---
 title: "Winter Septic LLC, Walker, MN | MN Home Sale Pros"
-description: "Winter Septic LLC: Septic (SSTS) inspection in Walker, MN. Licence details, contact and quotes."
+description: "Winter Septic LLC in Walker, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/winter-septic-llc-sl4268/
 ---
 

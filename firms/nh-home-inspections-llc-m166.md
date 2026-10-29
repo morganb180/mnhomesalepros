@@ -1,6 +1,6 @@
 ---
 title: "NH Home Inspections LLC, Mora, MN | MN Home Sale Pros"
-description: "NH Home Inspections LLC: Radon measurement in Mora, MN. Licence details, contact and quotes."
+description: "NH Home Inspections LLC in Mora, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/nh-home-inspections-llc-m166/
 ---
 

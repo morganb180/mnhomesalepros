@@ -1,6 +1,6 @@
 ---
 title: "Glenn’s Fix It LLC, Hibbing, MN | MN Home Sale Pros"
-description: "Glenn’s Fix It LLC: Radon measurement, Radon mitigation in Hibbing, MN. Licence details, contact and quotes."
+description: "Glenn’s Fix It in Hibbing, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/glenn-s-fix-it-llc-m085/
 ---
 

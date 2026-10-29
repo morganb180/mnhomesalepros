@@ -1,6 +1,6 @@
 ---
 title: "W Roberts Excavating, LLC, Pengilly, MN | MN Home Sale Pros"
-description: "W Roberts Excavating, LLC: Septic (SSTS) inspection in Pengilly, MN. Licence details, contact and quotes."
+description: "W Roberts Excavating, LLC in Pengilly, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/w-roberts-excavating-llc-sl919/
 ---
 

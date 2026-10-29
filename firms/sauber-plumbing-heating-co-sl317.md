@@ -1,6 +1,6 @@
 ---
-title: "Sauber Plumbing & Heating Co, Farmington, MN | MN Home Sale Pros"
-description: "Sauber Plumbing & Heating Co: Septic (SSTS) inspection in Farmington, MN. Licence details, contact and quotes."
+title: "Sauber Plumbing & Heating Co, Farmington MN"
+description: "Sauber Plumbing & Heating Co in Farmington, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/sauber-plumbing-heating-co-sl317/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "City of Minneapolis - Health Department, Minneapolis, MN | MN Home Sale Pros"
-description: "City of Minneapolis - Health Department: Radon measurement in Minneapolis, MN. Licence details, contact and quotes."
+title: "City of Minneapolis - Health Department, Minneapolis MN"
+description: "City of Minneapolis - Health Department in Minneapolis, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/city-of-minneapolis-health-department-m053/
 ---
 

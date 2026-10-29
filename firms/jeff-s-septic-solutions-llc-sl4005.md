@@ -1,6 +1,6 @@
 ---
-title: "Jeff's Septic Solutions, LLC, Clara City, MN | MN Home Sale Pros"
-description: "Jeff's Septic Solutions, LLC: Septic (SSTS) inspection in Clara City, MN. Licence details, contact and quotes."
+title: "Jeff's Septic Solutions: Septic Inspector, Clara City MN"
+description: "Jeff's Septic Solutions in Clara City, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/jeff-s-septic-solutions-llc-sl4005/
 ---
 

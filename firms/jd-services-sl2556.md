@@ -1,6 +1,6 @@
 ---
 title: "JD Services, Little Falls, MN | MN Home Sale Pros"
-description: "JD Services: Septic (SSTS) inspection in Little Falls, MN. Licence details, contact and quotes."
+description: "JD Services in Little Falls, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/jd-services-sl2556/
 ---
 

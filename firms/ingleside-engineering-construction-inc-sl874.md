@@ -1,6 +1,6 @@
 ---
-title: "Ingleside Engineering & Construction Inc, Loretto, MN | MN Home Sale Pros"
-description: "Ingleside Engineering & Construction Inc: Septic (SSTS) inspection in Loretto, MN. Licence details, contact and quotes."
+title: "Ingleside Engineering & Construction Inc, Loretto MN"
+description: "Ingleside Engineering & Construction in Loretto, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/ingleside-engineering-construction-inc-sl874/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ferrell Excavating Inc, Maple Lake, MN | MN Home Sale Pros"
-description: "Ferrell Excavating Inc: Septic (SSTS) inspection in Maple Lake, MN. Licence details, contact and quotes."
+description: "Ferrell Excavating Inc in Maple Lake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/ferrell-excavating-inc-sl489/
 ---
 

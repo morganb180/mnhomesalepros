@@ -1,6 +1,6 @@
 ---
 title: "Watab Inc, Saint Joseph, MN | MN Home Sale Pros"
-description: "Watab Inc: Septic (SSTS) inspection in Saint Joseph, MN. Licence details, contact and quotes."
+description: "Watab Inc in Saint Joseph, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/watab-inc-sl2116/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Pillar to Post Home Inspectors, Bemidji, MN | MN Home Sale Pros"
-description: "Pillar to Post Home Inspectors: Radon measurement in Bemidji, MN. Licence details, contact and quotes."
+title: "Pillar to Post Home Inspectors: Radon Testing, Bemidji MN"
+description: "Pillar to Post Home Inspectors in Bemidji, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/pillar-to-post-home-inspectors-m180/
 ---
 

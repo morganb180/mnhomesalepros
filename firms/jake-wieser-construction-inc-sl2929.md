@@ -1,6 +1,6 @@
 ---
-title: "Jake Wieser Construction, Inc., Houston, MN | MN Home Sale Pros"
-description: "Jake Wieser Construction, Inc.: Septic (SSTS) inspection in Houston, MN. Licence details, contact and quotes."
+title: "Jake Wieser Construction, Inc.: Septic Inspector, Houston MN"
+description: "Jake Wieser Construction in Houston, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/jake-wieser-construction-inc-sl2929/
 ---
 

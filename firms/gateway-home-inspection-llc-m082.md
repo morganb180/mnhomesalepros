@@ -1,6 +1,6 @@
 ---
-title: "Gateway Home Inspection LLC, Big Lake, MN | MN Home Sale Pros"
-description: "Gateway Home Inspection LLC: Radon measurement in Big Lake, MN. Licence details, contact and quotes."
+title: "Gateway Home Inspection LLC: Radon Testing, Big Lake MN"
+description: "Gateway Home Inspection LLC in Big Lake, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/gateway-home-inspection-llc-m082/
 ---
 

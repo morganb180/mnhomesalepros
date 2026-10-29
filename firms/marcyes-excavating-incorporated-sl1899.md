@@ -1,6 +1,6 @@
 ---
-title: "Marcyes Excavating Incorporated, Long Prairie, MN | MN Home Sale Pros"
-description: "Marcyes Excavating Incorporated: Septic (SSTS) inspection in Long Prairie, MN. Licence details, contact and quotes."
+title: "Marcyes Excavating: Septic Inspector, Long Prairie MN"
+description: "Marcyes Excavating in Long Prairie, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/marcyes-excavating-incorporated-sl1899/
 ---
 

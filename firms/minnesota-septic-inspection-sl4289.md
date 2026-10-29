@@ -1,6 +1,6 @@
 ---
-title: "Minnesota Septic Inspection, Randolph, MN | MN Home Sale Pros"
-description: "Minnesota Septic Inspection: Septic (SSTS) inspection in Randolph, MN. Licence details, contact and quotes."
+title: "Minnesota Septic Inspection: Septic Inspector, Randolph MN"
+description: "Minnesota Septic Inspection in Randolph, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/minnesota-septic-inspection-sl4289/
 ---
 

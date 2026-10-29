@@ -1,6 +1,6 @@
 ---
-title: "Pillar To Post. The Cornerstone Team., Minneapolis, MN | MN Home Sale Pros"
-description: "Pillar To Post. The Cornerstone Team.: Radon measurement in Minneapolis, MN. Licence details, contact and quotes."
+title: "Pillar To Post. The Cornerstone Team., Minneapolis MN"
+description: "Pillar To Post. The Cornerstone Team. in Minneapolis, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/pillar-to-post-the-cornerstone-team-m182/
 ---
 

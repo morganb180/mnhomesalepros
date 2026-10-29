@@ -1,6 +1,6 @@
 ---
 title: "Radalink Inc, Atlanta, GA | MN Home Sale Pros"
-description: "Radalink Inc: Radon analysis laboratory in Atlanta, GA. Licence details, contact and quotes."
+description: "Radalink Inc in Atlanta, GA: MDH licensed for radon analysis laboratory. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/radalink-inc-m200/
 ---
 

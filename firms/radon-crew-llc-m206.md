@@ -1,6 +1,6 @@
 ---
 title: "Radon Crew, LLC, Garretson, SD | MN Home Sale Pros"
-description: "Radon Crew, LLC: Radon measurement, Radon mitigation in Garretson, SD. Licence details, contact and quotes."
+description: "Radon Crew in Garretson, SD: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/radon-crew-llc-m206/
 ---
 

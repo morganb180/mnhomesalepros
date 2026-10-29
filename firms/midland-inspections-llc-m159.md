@@ -1,6 +1,6 @@
 ---
 title: "Midland Inspections LLC, Woodbury, MN | MN Home Sale Pros"
-description: "Midland Inspections LLC: Radon measurement in Woodbury, MN. Licence details, contact and quotes."
+description: "Midland Inspections LLC in Woodbury, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/midland-inspections-llc-m159/
 ---
 

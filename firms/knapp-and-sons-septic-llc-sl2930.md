@@ -1,6 +1,6 @@
 ---
 title: "Knapp and Sons Septic LLC, Milaca, MN | MN Home Sale Pros"
-description: "Knapp and Sons Septic LLC: Septic (SSTS) inspection in Milaca, MN. Licence details, contact and quotes."
+description: "Knapp and Sons Septic LLC in Milaca, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/knapp-and-sons-septic-llc-sl2930/
 ---
 

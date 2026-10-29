@@ -1,6 +1,6 @@
 ---
 title: "Hartert Septic Service Inc, Kellogg, MN | MN Home Sale Pros"
-description: "Hartert Septic Service Inc: Septic (SSTS) inspection in Kellogg, MN. Licence details, contact and quotes."
+description: "Hartert Septic Service Inc in Kellogg, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/hartert-septic-service-inc-sl1199/
 ---
 

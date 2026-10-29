@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in Cass County, MN: 15 Licensed | MN Home Sale Pros"
-description: "14 MPCA-licensed SSTS inspectors and 1 MDH-licensed radon pros based in Cass County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in Cass County, MN"
+description: "Cass County, MN: 14 MPCA-licensed septic (SSTS) inspectors and 1 MDH-licensed radon business with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/cass/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://mnhomesalepros.com/county/cass/
 
 # Septic inspectors and radon pros in Cass County, MN
 
-14 MPCA-licensed SSTS inspector businesses and 1 MDH-licensed radon businesses list an address in Cass County. Many work across counties, and most radon pros list a statewide service area.
+**Quick answer:** For sellers, buyers and agents in Cass County, MN: MN Home Sale Pros lists 14 MPCA-licensed SSTS (septic) inspector businesses and 1 MDH-licensed radon business with an address in Cass County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
+14 MPCA-licensed SSTS inspector businesses and 1 MDH-licensed radon business list an address in Cass County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors (14)
+## Who does septic (SSTS) inspections in Cass County, MN? (14)
+
+14 MPCA-licensed SSTS inspector businesses list an address in Cass County. Ask the county or city SSTS office whether a transfer inspection applies.
 
 ✔ MPCA SSTS licensed InspectorIntermediate InspectorAdvanced Inspector
 
@@ -191,7 +195,9 @@ Also licensed: Designer
 License L4268, expires 2026-11-01 · bonded, insured  
 Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL4268)
 
-## Radon testing and mitigation (1)
+## Who does radon testing and mitigation in Cass County, MN? (1)
+
+1 MDH-licensed radon business lists an address in Cass County. Most radon pros list a statewide service area.
 
 ✔ MDH radon license Measurement
 
@@ -209,7 +215,7 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
-## Neighboring counties
+## Which counties border Cass County, MN?
 
 [Aitkin County](https://mnhomesalepros.com/county/aitkin/) · [Beltrami County](https://mnhomesalepros.com/county/beltrami/) · [Crow Wing County](https://mnhomesalepros.com/county/crow-wing/) · [Hubbard County](https://mnhomesalepros.com/county/hubbard/) · [Itasca County](https://mnhomesalepros.com/county/itasca/) · [Morrison County](https://mnhomesalepros.com/county/morrison/) · [Todd County](https://mnhomesalepros.com/county/todd/) · [Wadena County](https://mnhomesalepros.com/county/wadena/)
 

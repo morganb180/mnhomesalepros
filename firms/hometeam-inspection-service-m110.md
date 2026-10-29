@@ -1,6 +1,6 @@
 ---
-title: "HomeTeam Inspection Service, Pequot Lakes, MN | MN Home Sale Pros"
-description: "HomeTeam Inspection Service: Radon measurement in Pequot Lakes, MN. Licence details, contact and quotes."
+title: "HomeTeam Inspection Service: Radon Testing, Pequot Lakes MN"
+description: "HomeTeam Inspection Service in Pequot Lakes, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/hometeam-inspection-service-m110/
 ---
 

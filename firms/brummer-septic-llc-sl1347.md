@@ -1,6 +1,6 @@
 ---
 title: "Brummer Septic LLC, Brainerd, MN | MN Home Sale Pros"
-description: "Brummer Septic LLC: Septic (SSTS) inspection in Brainerd, MN. Licence details, contact and quotes."
+description: "Brummer Septic LLC in Brainerd, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/brummer-septic-llc-sl1347/
 ---
 

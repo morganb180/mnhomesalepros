@@ -1,6 +1,6 @@
 ---
-title: "Advanced Property Inspection Inc, New London, MN | MN Home Sale Pros"
-description: "Advanced Property Inspection Inc: Septic (SSTS) inspection in New London, MN. Licence details, contact and quotes."
+title: "Advanced Property Inspection Inc, New London MN"
+description: "Advanced Property Inspection in New London, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/advanced-property-inspection-inc-sl3852/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Statema Backhoe Service LLC, Browerville, MN | MN Home Sale Pros"
-description: "Statema Backhoe Service LLC: Septic (SSTS) inspection in Browerville, MN. Licence details, contact and quotes."
+title: "Statema Backhoe Service: Septic Inspector, Browerville MN"
+description: "Statema Backhoe Service in Browerville, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/statema-backhoe-service-llc-sl895/
 ---
 

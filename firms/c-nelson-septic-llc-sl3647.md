@@ -1,6 +1,6 @@
 ---
 title: "C Nelson Septic LLC, Houston, MN | MN Home Sale Pros"
-description: "C Nelson Septic LLC: Septic (SSTS) inspection in Houston, MN. Licence details, contact and quotes."
+description: "C Nelson Septic LLC in Houston, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/c-nelson-septic-llc-sl3647/
 ---
 

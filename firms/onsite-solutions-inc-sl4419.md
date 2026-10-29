@@ -1,6 +1,6 @@
 ---
 title: "Onsite Solutions Inc., Burnsville, MN | MN Home Sale Pros"
-description: "Onsite Solutions Inc.: Septic (SSTS) inspection in Burnsville, MN. Licence details, contact and quotes."
+description: "Onsite Solutions Inc. in Burnsville, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/onsite-solutions-inc-sl4419/
 ---
 

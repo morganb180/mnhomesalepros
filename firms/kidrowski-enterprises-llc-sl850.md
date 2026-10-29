@@ -1,6 +1,6 @@
 ---
-title: "Kidrowski Enterprises LLC, Clara City, MN | MN Home Sale Pros"
-description: "Kidrowski Enterprises LLC: Septic (SSTS) inspection in Clara City, MN. Licence details, contact and quotes."
+title: "Kidrowski Enterprises LLC: Septic Inspector, Clara City MN"
+description: "Kidrowski Enterprises LLC in Clara City, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/kidrowski-enterprises-llc-sl850/
 ---
 

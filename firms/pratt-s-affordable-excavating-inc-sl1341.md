@@ -1,6 +1,6 @@
 ---
-title: "Pratt's Affordable Excavating Inc, Merrifield, MN | MN Home Sale Pros"
-description: "Pratt's Affordable Excavating Inc: Septic (SSTS) inspection in Merrifield, MN. Licence details, contact and quotes."
+title: "Pratt's Affordable Excavating Inc, Merrifield MN"
+description: "Pratt's Affordable Excavating in Merrifield, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/pratt-s-affordable-excavating-inc-sl1341/
 ---
 

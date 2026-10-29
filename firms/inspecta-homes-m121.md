@@ -1,6 +1,6 @@
 ---
 title: "Inspecta-Homes, St. Paul, MN | MN Home Sale Pros"
-description: "Inspecta-Homes: Radon measurement in St. Paul, MN. Licence details, contact and quotes."
+description: "Inspecta-Homes in St. Paul, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/inspecta-homes-m121/
 ---
 

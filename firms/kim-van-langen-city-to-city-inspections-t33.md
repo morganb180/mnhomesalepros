@@ -1,5 +1,5 @@
 ---
-title: "Kim Van Langen (City to City Inspections), Saint Paul, MN | MN Home Sale Pros"
+title: "Kim Van Langen (City to City Inspections), Saint Paul MN"
 description: "Kim Van Langen (City to City Inspections): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/kim-van-langen-city-to-city-inspections-t33/
 ---

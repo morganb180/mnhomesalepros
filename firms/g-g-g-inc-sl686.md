@@ -1,6 +1,6 @@
 ---
 title: "G G G Inc., Chatfield, MN | MN Home Sale Pros"
-description: "G G G Inc.: Septic (SSTS) inspection in Chatfield, MN. Licence details, contact and quotes."
+description: "G G G Inc. in Chatfield, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/g-g-g-inc-sl686/
 ---
 

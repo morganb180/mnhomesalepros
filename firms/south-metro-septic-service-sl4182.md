@@ -1,6 +1,6 @@
 ---
-title: "South Metro Septic Service, Belle Plaine, MN | MN Home Sale Pros"
-description: "South Metro Septic Service: Septic (SSTS) inspection in Belle Plaine, MN. Licence details, contact and quotes."
+title: "South Metro Septic Service, Belle Plaine MN"
+description: "South Metro Septic Service in Belle Plaine, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/south-metro-septic-service-sl4182/
 ---
 

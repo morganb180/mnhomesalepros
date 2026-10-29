@@ -1,6 +1,6 @@
 ---
-title: "Clay Thompson (Dream House Inc), Saint Paul, MN | MN Home Sale Pros"
-description: "Clay Thompson (Dream House Inc): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
+title: "Clay Thompson (Dream House Inc), Saint Paul MN"
+description: "Clay Thompson (Dream House Inc), Saint Paul, MN: City of Saint Paul licensed for Saint Paul TISH evaluation. Licence details and the City of Saint Paul."
 canonical: https://mnhomesalepros.com/firms/clay-thompson-dream-house-inc-t30/
 ---
 

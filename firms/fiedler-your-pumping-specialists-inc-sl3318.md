@@ -1,6 +1,6 @@
 ---
-title: "Fiedler Your Pumping Specialists, Inc., Royalton, MN | MN Home Sale Pros"
-description: "Fiedler Your Pumping Specialists, Inc.: Septic (SSTS) inspection in Royalton, MN. Licence details, contact and quotes."
+title: "Fiedler Your Pumping Specialists, Inc., Royalton MN"
+description: "Fiedler Your Pumping Specialists in Royalton, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/fiedler-your-pumping-specialists-inc-sl3318/
 ---
 

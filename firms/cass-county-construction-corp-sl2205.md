@@ -1,6 +1,6 @@
 ---
-title: "Cass County Construction Corp, Outing, MN | MN Home Sale Pros"
-description: "Cass County Construction Corp: Septic (SSTS) inspection in Outing, MN. Licence details, contact and quotes."
+title: "Cass County Construction Corp: Septic Inspector, Outing MN"
+description: "Cass County Construction Corp in Outing, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/cass-county-construction-corp-sl2205/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "ACB Estate Services, St. Paul, MN | MN Home Sale Pros"
-description: "ACB Estate Services: Radon measurement, Radon mitigation in St. Paul, MN. Licence details, contact and quotes."
+description: "ACB Estate Services in St. Paul, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/acb-estate-services-m004/
 ---
 

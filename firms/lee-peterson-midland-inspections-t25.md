@@ -1,6 +1,6 @@
 ---
-title: "Lee Peterson (Midland Inspections), Saint Paul, MN | MN Home Sale Pros"
-description: "Lee Peterson (Midland Inspections): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
+title: "Lee Peterson (Midland Inspections), Saint Paul MN"
+description: "Lee Peterson (Midland Inspections), Saint Paul, MN: City of Saint Paul licensed for Saint Paul TISH evaluation. Licence details and the City of Saint Paul."
 canonical: https://mnhomesalepros.com/firms/lee-peterson-midland-inspections-t25/
 ---
 

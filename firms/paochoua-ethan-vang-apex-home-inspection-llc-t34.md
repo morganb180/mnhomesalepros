@@ -1,5 +1,5 @@
 ---
-title: "Paochoua 'Ethan' Vang (APEX Home Inspection LLC), Saint Paul, MN | MN Home Sale Pros"
+title: "Paochoua 'Ethan' Vang (APEX Home Inspection LLC)"
 description: "Paochoua 'Ethan' Vang (APEX Home Inspection LLC): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/paochoua-ethan-vang-apex-home-inspection-llc-t34/
 ---

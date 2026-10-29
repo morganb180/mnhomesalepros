@@ -1,6 +1,6 @@
 ---
 title: "KP Home Inspections, Clear Lake, MN | MN Home Sale Pros"
-description: "KP Home Inspections: Radon measurement in Clear Lake, MN. Licence details, contact and quotes."
+description: "KP Home Inspections in Clear Lake, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/kp-home-inspections-m141/
 ---
 

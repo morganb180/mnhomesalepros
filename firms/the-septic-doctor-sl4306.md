@@ -1,6 +1,6 @@
 ---
 title: "The Septic Doctor, Sandstone, MN | MN Home Sale Pros"
-description: "The Septic Doctor: Septic (SSTS) inspection in Sandstone, MN. Licence details, contact and quotes."
+description: "The Septic Doctor in Sandstone, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/the-septic-doctor-sl4306/
 ---
 

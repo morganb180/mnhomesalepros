@@ -1,6 +1,6 @@
 ---
 title: "A1 Radon Services LLC, Eden Prairie, MN | MN Home Sale Pros"
-description: "A1 Radon Services LLC: Radon measurement, Radon mitigation in Eden Prairie, MN. Licence details, contact and quotes."
+description: "A1 Radon Services in Eden Prairie, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/a1-radon-services-llc-m003/
 ---
 

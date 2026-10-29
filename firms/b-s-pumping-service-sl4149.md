@@ -1,6 +1,6 @@
 ---
 title: "B's Pumping Service, Farmington, MN | MN Home Sale Pros"
-description: "B's Pumping Service: Septic (SSTS) inspection in Farmington, MN. Licence details, contact and quotes."
+description: "B's Pumping Service in Farmington, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/b-s-pumping-service-sl4149/
 ---
 

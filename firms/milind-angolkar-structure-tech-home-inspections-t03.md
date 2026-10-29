@@ -1,5 +1,5 @@
 ---
-title: "Milind Angolkar (Structure Tech Home Inspections), Saint Paul, MN | MN Home Sale Pros"
+title: "Milind Angolkar (Structure Tech Home Inspections)"
 description: "Milind Angolkar (Structure Tech Home Inspections): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/milind-angolkar-structure-tech-home-inspections-t03/
 ---

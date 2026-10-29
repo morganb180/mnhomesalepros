@@ -1,6 +1,6 @@
 ---
-title: "Lake Area Construction, Inc., Williams, MN | MN Home Sale Pros"
-description: "Lake Area Construction, Inc.: Septic (SSTS) inspection in Williams, MN. Licence details, contact and quotes."
+title: "Lake Area Construction, Inc.: Septic Inspector, Williams MN"
+description: "Lake Area Construction in Williams, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/lake-area-construction-inc-sl1428/
 ---
 

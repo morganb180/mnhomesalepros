@@ -1,6 +1,6 @@
 ---
-title: "Sowada Environmental Services LLC, Cold Spring, MN | MN Home Sale Pros"
-description: "Sowada Environmental Services LLC: Radon measurement in Cold Spring, MN. Licence details, contact and quotes."
+title: "Sowada Environmental Services: Radon Testing, Cold Spring MN"
+description: "Sowada Environmental Services LLC in Cold Spring, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/sowada-environmental-services-llc-m235/
 ---
 

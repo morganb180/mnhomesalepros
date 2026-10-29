@@ -1,6 +1,6 @@
 ---
-title: "Heiderscheidt Digging Inc, Sleepy Eye, MN | MN Home Sale Pros"
-description: "Heiderscheidt Digging Inc: Septic (SSTS) inspection in Sleepy Eye, MN. Licence details, contact and quotes."
+title: "Heiderscheidt Digging Inc: Septic Inspector, Sleepy Eye MN"
+description: "Heiderscheidt Digging Inc in Sleepy Eye, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/heiderscheidt-digging-inc-sl72/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Bolton & Menk, Inc., Rochester, MN | MN Home Sale Pros"
-description: "Bolton & Menk, Inc.: Septic (SSTS) inspection in Rochester, MN. Licence details, contact and quotes."
+description: "Bolton & Menk, Inc. in Rochester, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/bolton-menk-inc-sl1241/
 ---
 

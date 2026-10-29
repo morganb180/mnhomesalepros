@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in Otter Tail County, MN: 19 Licensed | MN Home Sale Pros"
-description: "12 MPCA-licensed SSTS inspectors and 7 MDH-licensed radon pros based in Otter Tail County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in Otter Tail County, MN"
+description: "Otter Tail County, MN: 12 MPCA-licensed septic (SSTS) inspectors and 7 MDH-licensed radon businesses with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/otter-tail/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://mnhomesalepros.com/county/otter-tail/
 
 # Septic inspectors and radon pros in Otter Tail County, MN
 
+**Quick answer:** For sellers, buyers and agents in Otter Tail County, MN: MN Home Sale Pros lists 12 MPCA-licensed SSTS (septic) inspector businesses and 7 MDH-licensed radon businesses with an address in Otter Tail County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
 12 MPCA-licensed SSTS inspector businesses and 7 MDH-licensed radon businesses list an address in Otter Tail County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors (12)
+## Who does septic (SSTS) inspections in Otter Tail County, MN? (12)
+
+12 MPCA-licensed SSTS inspector businesses list an address in Otter Tail County. Ask the county or city SSTS office whether a transfer inspection applies.
 
 ✔ MPCA SSTS licensed Inspector
 
@@ -168,7 +172,9 @@ Also licensed: Designer, Installer, Pipelayer
 License L1933, expires 2026-10-19 · bonded, insured  
 Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL1933)
 
-## Radon testing and mitigation (7)
+## Who does radon testing and mitigation in Otter Tail County, MN? (7)
+
+7 MDH-licensed radon businesses list an address in Otter Tail County. Most radon pros list a statewide service area.
 
 ✔ MDH radon license Measurement
 

@@ -1,6 +1,6 @@
 ---
-title: "Residential Inspection Service, Edina, MN | MN Home Sale Pros"
-description: "Residential Inspection Service: Radon measurement in Edina, MN. Licence details, contact and quotes."
+title: "Residential Inspection Service: Radon Testing, Edina MN"
+description: "Residential Inspection Service in Edina, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/residential-inspection-service-m220/
 ---
 

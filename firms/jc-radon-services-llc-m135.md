@@ -1,6 +1,6 @@
 ---
 title: "JC Radon Services LLC, Fountain City, WI | MN Home Sale Pros"
-description: "JC Radon Services LLC: Radon measurement, Radon mitigation in Fountain City, WI. Licence details, contact and quotes."
+description: "JC Radon Services in Fountain City, WI: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/jc-radon-services-llc-m135/
 ---
 

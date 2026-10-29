@@ -1,6 +1,6 @@
 ---
-title: "J R Bruender Construction Inc, Eagle Lake, MN | MN Home Sale Pros"
-description: "J R Bruender Construction Inc: Septic (SSTS) inspection in Eagle Lake, MN. Licence details, contact and quotes."
+title: "J R Bruender Construction: Septic Inspector, Eagle Lake MN"
+description: "J R Bruender Construction in Eagle Lake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/j-r-bruender-construction-inc-sl57/
 ---
 

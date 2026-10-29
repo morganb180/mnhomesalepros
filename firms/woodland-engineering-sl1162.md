@@ -1,6 +1,6 @@
 ---
 title: "Woodland Engineering, Maplewood, MN | MN Home Sale Pros"
-description: "Woodland Engineering: Septic (SSTS) inspection in Maplewood, MN. Licence details, contact and quotes."
+description: "Woodland Engineering in Maplewood, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/woodland-engineering-sl1162/
 ---
 

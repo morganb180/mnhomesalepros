@@ -1,6 +1,6 @@
 ---
 title: "WJB Enterprises, Andover, MN | MN Home Sale Pros"
-description: "WJB Enterprises: Radon measurement in Andover, MN. Licence details, contact and quotes."
+description: "WJB Enterprises in Andover, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/wjb-enterprises-m262/
 ---
 

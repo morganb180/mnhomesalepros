@@ -1,6 +1,6 @@
 ---
 title: "Mike Moser (M. J. Moser), Saint Paul, MN | MN Home Sale Pros"
-description: "Mike Moser (M. J. Moser): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
+description: "Mike Moser (M. J. Moser), Saint Paul, MN: City of Saint Paul licensed for Saint Paul TISH evaluation. Licence details and the City of Saint Paul source."
 canonical: https://mnhomesalepros.com/firms/mike-moser-m-j-moser-t23/
 ---
 

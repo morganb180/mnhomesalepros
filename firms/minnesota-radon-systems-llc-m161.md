@@ -1,5 +1,5 @@
 ---
-title: "Minnesota Radon Systems LLC, Minneapolis, MN | MN Home Sale Pros"
+title: "Minnesota Radon Systems LLC, Minneapolis MN"
 description: "Minnesota Radon Systems LLC: Radon measurement, Radon mitigation in Minneapolis, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/minnesota-radon-systems-llc-m161/
 ---

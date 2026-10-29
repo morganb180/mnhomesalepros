@@ -1,6 +1,6 @@
 ---
-title: "Rosevold Inspection Services, Princeton, MN | MN Home Sale Pros"
-description: "Rosevold Inspection Services: Septic (SSTS) inspection in Princeton, MN. Licence details, contact and quotes."
+title: "Rosevold Inspection Services: Septic Inspector, Princeton MN"
+description: "Rosevold Inspection Services in Princeton, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/rosevold-inspection-services-sl1790/
 ---
 

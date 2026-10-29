@@ -1,6 +1,6 @@
 ---
-title: "Elwood Septic Professionals, LLC, Alexandria, MN | MN Home Sale Pros"
-description: "Elwood Septic Professionals, LLC: Septic (SSTS) inspection in Alexandria, MN. Licence details, contact and quotes."
+title: "Elwood Septic Professionals: Septic Inspector, Alexandria MN"
+description: "Elwood Septic Professionals in Alexandria, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/elwood-septic-professionals-llc-sl2820/
 ---
 

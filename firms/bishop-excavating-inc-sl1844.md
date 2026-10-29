@@ -1,6 +1,6 @@
 ---
-title: "Bishop Excavating Inc, Blooming Prairie, MN | MN Home Sale Pros"
-description: "Bishop Excavating Inc: Septic (SSTS) inspection in Blooming Prairie, MN. Licence details, contact and quotes."
+title: "Bishop Excavating Inc: Septic Inspector, Blooming Prairie MN"
+description: "Bishop Excavating in Blooming Prairie, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/bishop-excavating-inc-sl1844/
 ---
 

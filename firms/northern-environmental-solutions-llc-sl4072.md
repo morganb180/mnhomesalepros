@@ -1,6 +1,6 @@
 ---
-title: "Northern Environmental Solutions LLC, Duluth, MN | MN Home Sale Pros"
-description: "Northern Environmental Solutions LLC: Septic (SSTS) inspection in Duluth, MN. Licence details, contact and quotes."
+title: "Northern Environmental Solutions LLC, Duluth MN"
+description: "Northern Environmental Solutions in Duluth, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/northern-environmental-solutions-llc-sl4072/
 ---
 

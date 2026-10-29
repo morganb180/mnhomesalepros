@@ -1,6 +1,6 @@
 ---
 title: "R & M Backhoe Service, Medford, MN | MN Home Sale Pros"
-description: "R & M Backhoe Service: Septic (SSTS) inspection in Medford, MN. Licence details, contact and quotes."
+description: "R & M Backhoe Service in Medford, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/r-m-backhoe-service-sl181/
 ---
 

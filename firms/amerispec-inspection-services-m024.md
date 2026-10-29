@@ -1,6 +1,6 @@
 ---
-title: "AmeriSpec Inspection Services, Minneapolis, MN | MN Home Sale Pros"
-description: "AmeriSpec Inspection Services: Radon measurement in Minneapolis, MN. Licence details, contact and quotes."
+title: "AmeriSpec Inspection Services: Radon Testing, Minneapolis MN"
+description: "AmeriSpec Inspection Services in Minneapolis, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/amerispec-inspection-services-m024/
 ---
 

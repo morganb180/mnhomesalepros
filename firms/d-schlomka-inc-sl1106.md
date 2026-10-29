@@ -1,6 +1,6 @@
 ---
 title: "D. Schlomka Inc., Hinckley, MN | MN Home Sale Pros"
-description: "D. Schlomka Inc.: Septic (SSTS) inspection in Hinckley, MN. Licence details, contact and quotes."
+description: "D. Schlomka Inc. in Hinckley, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/d-schlomka-inc-sl1106/
 ---
 

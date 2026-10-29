@@ -1,6 +1,6 @@
 ---
 title: "Midwest Sewer Services, Grant, MN | MN Home Sale Pros"
-description: "Midwest Sewer Services: Septic (SSTS) inspection in Grant, MN. Licence details, contact and quotes."
+description: "Midwest Sewer Services in Grant, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/midwest-sewer-services-sl2896/
 ---
 

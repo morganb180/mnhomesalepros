@@ -1,6 +1,6 @@
 ---
 title: "Des Moines Radon, Des Moines, IA | MN Home Sale Pros"
-description: "Des Moines Radon: Radon measurement in Des Moines, IA. Licence details, contact and quotes."
+description: "Des Moines Radon in Des Moines, IA: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/des-moines-radon-m063/
 ---
 

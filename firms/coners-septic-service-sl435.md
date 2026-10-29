@@ -1,6 +1,6 @@
 ---
 title: "Coners Septic Service, Mountain Lake, MN | MN Home Sale Pros"
-description: "Coners Septic Service: Septic (SSTS) inspection in Mountain Lake, MN. Licence details, contact and quotes."
+description: "Coners Septic Service in Mountain Lake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/coners-septic-service-sl435/
 ---
 

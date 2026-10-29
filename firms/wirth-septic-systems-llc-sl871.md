@@ -1,6 +1,6 @@
 ---
-title: "Wirth Septic Systems LLC, Dodge Center, MN | MN Home Sale Pros"
-description: "Wirth Septic Systems LLC: Septic (SSTS) inspection in Dodge Center, MN. Licence details, contact and quotes."
+title: "Wirth Septic Systems LLC: Septic Inspector, Dodge Center MN"
+description: "Wirth Septic Systems in Dodge Center, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/wirth-septic-systems-llc-sl871/
 ---
 

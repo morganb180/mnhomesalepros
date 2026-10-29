@@ -1,6 +1,6 @@
 ---
 title: "Bauer Restoration, Faribault, MN | MN Home Sale Pros"
-description: "Bauer Restoration: Radon measurement, Radon mitigation in Faribault, MN. Licence details, contact and quotes."
+description: "Bauer Restoration in Faribault, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/bauer-restoration-m033/
 ---
 

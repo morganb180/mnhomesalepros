@@ -1,6 +1,6 @@
 ---
 title: "David R. Brown, Woodbury, MN | MN Home Sale Pros"
-description: "David R. Brown: Septic (SSTS) inspection in Woodbury, MN. Licence details, contact and quotes."
+description: "David R. Brown in Woodbury, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/david-r-brown-sl3649/
 ---
 

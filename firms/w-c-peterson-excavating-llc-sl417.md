@@ -1,6 +1,6 @@
 ---
-title: "W C Peterson Excavating LLC, Federal Dam, MN | MN Home Sale Pros"
-description: "W C Peterson Excavating LLC: Septic (SSTS) inspection in Federal Dam, MN. Licence details, contact and quotes."
+title: "W C Peterson Excavating: Septic Inspector, Federal Dam MN"
+description: "W C Peterson Excavating in Federal Dam, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/w-c-peterson-excavating-llc-sl417/
 ---
 

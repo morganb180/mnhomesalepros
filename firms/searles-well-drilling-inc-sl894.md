@@ -1,6 +1,6 @@
 ---
 title: "Searles Well Drilling Inc, New Ulm, MN | MN Home Sale Pros"
-description: "Searles Well Drilling Inc: Septic (SSTS) inspection in New Ulm, MN. Licence details, contact and quotes."
+description: "Searles Well Drilling Inc in New Ulm, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/searles-well-drilling-inc-sl894/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "KDI Services LLC, Bemidji, MN | MN Home Sale Pros"
-description: "KDI Services LLC: Septic (SSTS) inspection in Bemidji, MN. Licence details, contact and quotes."
+description: "KDI Services LLC in Bemidji, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/kdi-services-llc-sl4412/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Lashinski Service, Inc., Ham Lake, MN | MN Home Sale Pros"
-description: "Lashinski Service, Inc.: Septic (SSTS) inspection in Ham Lake, MN. Licence details, contact and quotes."
+description: "Lashinski Service, Inc. in Ham Lake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/lashinski-service-inc-sl4266/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Selly Excavating Inc, Le Center, MN | MN Home Sale Pros"
-description: "Selly Excavating Inc: Septic (SSTS) inspection in Le Center, MN. Licence details, contact and quotes."
+description: "Selly Excavating Inc in Le Center, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/selly-excavating-inc-sl3627/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Partner Engineering and Science, Inc., Edina, MN | MN Home Sale Pros"
-description: "Partner Engineering and Science, Inc.: Radon measurement in Edina, MN. Licence details, contact and quotes."
+title: "Partner Engineering and Science: Radon Testing, Edina MN"
+description: "Partner Engineering and Science, Inc. in Edina, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/partner-engineering-and-science-inc-m175/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "A1 Backhoe & Septic Service LLC, Bemidji, MN | MN Home Sale Pros"
-description: "A1 Backhoe & Septic Service LLC: Septic (SSTS) inspection in Bemidji, MN. Licence details, contact and quotes."
+title: "A1 Backhoe & Septic Service: Septic Inspector, Bemidji MN"
+description: "A1 Backhoe & Septic Service in Bemidji, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/a1-backhoe-septic-service-llc-sl4134/
 ---
 

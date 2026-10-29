@@ -1,6 +1,6 @@
 ---
 title: "Kirchner Siding and Window, Owatonna, MN | MN Home Sale Pros"
-description: "Kirchner Siding and Window: Radon measurement, Radon mitigation in Owatonna, MN. Licence details, contact and quotes."
+description: "Kirchner Siding and Window in Owatonna, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/kirchner-siding-and-window-m139/
 ---
 

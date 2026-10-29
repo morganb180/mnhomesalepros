@@ -1,6 +1,6 @@
 ---
-title: "Suburban Home Inspections Inc, Woodbury, MN | MN Home Sale Pros"
-description: "Suburban Home Inspections Inc: Radon measurement in Woodbury, MN. Licence details, contact and quotes."
+title: "Suburban Home Inspections Inc: Radon Testing, Woodbury MN"
+description: "Suburban Home Inspections Inc in Woodbury, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/suburban-home-inspections-inc-m239/
 ---
 

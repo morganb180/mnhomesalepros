@@ -1,6 +1,6 @@
 ---
 title: "Home Inspections Plus Inc, Rochester, MN | MN Home Sale Pros"
-description: "Home Inspections Plus Inc: Radon measurement in Rochester, MN. Licence details, contact and quotes."
+description: "Home Inspections Plus Inc in Rochester, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/home-inspections-plus-inc-m102/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "K L Septic, Tyler, MN | MN Home Sale Pros"
-description: "K L Septic: Septic (SSTS) inspection in Tyler, MN. Licence details, contact and quotes."
+description: "K L Septic in Tyler, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/k-l-septic-sl1842/
 ---
 

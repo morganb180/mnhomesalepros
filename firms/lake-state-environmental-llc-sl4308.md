@@ -1,6 +1,6 @@
 ---
-title: "Lake State Environmental LLC, Faribault, MN | MN Home Sale Pros"
-description: "Lake State Environmental LLC: Septic (SSTS) inspection in Faribault, MN. Licence details, contact and quotes."
+title: "Lake State Environmental LLC: Septic Inspector, Faribault MN"
+description: "Lake State Environmental in Faribault, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/lake-state-environmental-llc-sl4308/
 ---
 

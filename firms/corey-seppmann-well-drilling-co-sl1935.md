@@ -1,6 +1,6 @@
 ---
-title: "Corey Seppmann Well Drilling Co, Mankato, MN | MN Home Sale Pros"
-description: "Corey Seppmann Well Drilling Co: Septic (SSTS) inspection in Mankato, MN. Licence details, contact and quotes."
+title: "Corey Seppmann Well Drilling Co, Mankato MN"
+description: "Corey Seppmann Well Drilling Co in Mankato, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/corey-seppmann-well-drilling-co-sl1935/
 ---
 

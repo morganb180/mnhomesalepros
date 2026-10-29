@@ -1,5 +1,5 @@
 ---
-title: "Doug Hastings (Cities Inspection Service Inc.), Saint Paul, MN | MN Home Sale Pros"
+title: "Doug Hastings (Cities Inspection Service Inc.)"
 description: "Doug Hastings (Cities Inspection Service Inc.): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/doug-hastings-cities-inspection-service-inc-t10/
 ---

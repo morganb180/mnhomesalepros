@@ -1,6 +1,6 @@
 ---
-title: "Cardinal Pumping & Drain Cleaning, Inc, Winona, MN | MN Home Sale Pros"
-description: "Cardinal Pumping & Drain Cleaning, Inc: Septic (SSTS) inspection in Winona, MN. Licence details, contact and quotes."
+title: "Cardinal Pumping & Drain Cleaning, Inc, Winona MN"
+description: "Cardinal Pumping & Drain Cleaning in Winona, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/cardinal-pumping-drain-cleaning-inc-sl1811/
 ---
 

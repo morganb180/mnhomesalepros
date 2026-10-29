@@ -1,5 +1,5 @@
 ---
-title: "Patrick Leahy (Accuspec Home Inspections), Saint Paul, MN | MN Home Sale Pros"
+title: "Patrick Leahy (Accuspec Home Inspections), Saint Paul MN"
 description: "Patrick Leahy (Accuspec Home Inspections): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/patrick-leahy-accuspec-home-inspections-t19/
 ---

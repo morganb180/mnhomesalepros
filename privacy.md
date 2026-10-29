@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy | MN Home Sale Pros"
-description: "Privacy policy for MN Home Sale Pros: what quote requests collect, who receives them, and what we keep."
+description: "Privacy policy for MN Home Sale Pros: what quote requests collect, who receives them, what we keep, and the choices you have about your information."
 canonical: https://mnhomesalepros.com/privacy/
 ---
 

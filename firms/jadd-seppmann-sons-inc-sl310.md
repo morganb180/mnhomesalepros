@@ -1,6 +1,6 @@
 ---
 title: "Jadd Seppmann & Sons Inc, Mankato, MN | MN Home Sale Pros"
-description: "Jadd Seppmann & Sons Inc: Septic (SSTS) inspection in Mankato, MN. Licence details, contact and quotes."
+description: "Jadd Seppmann & Sons Inc in Mankato, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/jadd-seppmann-sons-inc-sl310/
 ---
 

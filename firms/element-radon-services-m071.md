@@ -1,6 +1,6 @@
 ---
 title: "Element Radon Services, Grand Forks, ND | MN Home Sale Pros"
-description: "Element Radon Services: Radon measurement, Radon mitigation in Grand Forks, ND. Licence details, contact and quotes."
+description: "Element Radon Services in Grand Forks, ND: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/element-radon-services-m071/
 ---
 

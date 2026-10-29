@@ -1,6 +1,6 @@
 ---
 title: "Langer Construction Inc, Wilson, WI | MN Home Sale Pros"
-description: "Langer Construction Inc: Radon measurement, Radon mitigation in Wilson, WI. Licence details, contact and quotes."
+description: "Langer Construction in Wilson, WI: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/langer-construction-inc-m145/
 ---
 

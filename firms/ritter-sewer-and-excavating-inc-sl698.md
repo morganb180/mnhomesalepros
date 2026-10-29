@@ -1,6 +1,6 @@
 ---
-title: "Ritter Sewer and Excavating Inc, Aitkin, MN | MN Home Sale Pros"
-description: "Ritter Sewer and Excavating Inc: Septic (SSTS) inspection in Aitkin, MN. Licence details, contact and quotes."
+title: "Ritter Sewer and Excavating Inc: Septic Inspector, Aitkin MN"
+description: "Ritter Sewer and Excavating in Aitkin, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/ritter-sewer-and-excavating-inc-sl698/
 ---
 

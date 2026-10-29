@@ -1,6 +1,6 @@
 ---
 title: "Bob's Lakeside Septic, Battle Lake, MN | MN Home Sale Pros"
-description: "Bob's Lakeside Septic: Septic (SSTS) inspection in Battle Lake, MN. Licence details, contact and quotes."
+description: "Bob's Lakeside Septic in Battle Lake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/bob-s-lakeside-septic-sl4358/
 ---
 

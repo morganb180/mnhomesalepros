@@ -1,6 +1,6 @@
 ---
 title: "The Javelin Group Inc, Eden Prairie, MN | MN Home Sale Pros"
-description: "The Javelin Group Inc: Radon measurement in Eden Prairie, MN. Licence details, contact and quotes."
+description: "The Javelin Group Inc in Eden Prairie, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/the-javelin-group-inc-m241/
 ---
 

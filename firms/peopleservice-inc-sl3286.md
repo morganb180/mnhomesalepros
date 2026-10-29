@@ -1,6 +1,6 @@
 ---
 title: "PeopleService, Inc., Omaha, NE | MN Home Sale Pros"
-description: "PeopleService, Inc.: Septic (SSTS) inspection in Omaha, NE. Licence details, contact and quotes."
+description: "PeopleService, Inc. in Omaha, NE: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/peopleservice-inc-sl3286/
 ---
 

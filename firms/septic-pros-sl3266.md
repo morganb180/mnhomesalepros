@@ -1,6 +1,6 @@
 ---
 title: "Septic Pros, La Crescent, MN | MN Home Sale Pros"
-description: "Septic Pros: Septic (SSTS) inspection in La Crescent, MN. Licence details, contact and quotes."
+description: "Septic Pros in La Crescent, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/septic-pros-sl3266/
 ---
 

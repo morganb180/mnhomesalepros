@@ -1,6 +1,6 @@
 ---
 title: "Bohn Well Drilling Company, Jordan, MN | MN Home Sale Pros"
-description: "Bohn Well Drilling Company: Septic (SSTS) inspection in Jordan, MN. Licence details, contact and quotes."
+description: "Bohn Well Drilling Company in Jordan, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/bohn-well-drilling-company-sl1043/
 ---
 

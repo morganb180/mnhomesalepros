@@ -1,6 +1,6 @@
 ---
 title: "Maki Trucking Inc., Cloquet, MN | MN Home Sale Pros"
-description: "Maki Trucking Inc.: Septic (SSTS) inspection in Cloquet, MN. Licence details, contact and quotes."
+description: "Maki Trucking Inc. in Cloquet, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/maki-trucking-inc-sl4121/
 ---
 

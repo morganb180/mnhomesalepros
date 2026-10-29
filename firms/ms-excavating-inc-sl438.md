@@ -1,6 +1,6 @@
 ---
 title: "MS Excavating Inc, New Prague, MN | MN Home Sale Pros"
-description: "MS Excavating Inc: Septic (SSTS) inspection in New Prague, MN. Licence details, contact and quotes."
+description: "MS Excavating Inc in New Prague, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/ms-excavating-inc-sl438/
 ---
 

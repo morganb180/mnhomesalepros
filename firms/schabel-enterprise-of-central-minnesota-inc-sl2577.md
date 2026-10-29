@@ -1,5 +1,5 @@
 ---
-title: "Schabel Enterprise of Central Minnesota Inc, South Haven, MN | MN Home Sale Pros"
+title: "Schabel Enterprise of Central Minnesota Inc, South Haven MN"
 description: "Schabel Enterprise of Central Minnesota Inc: Septic (SSTS) inspection in South Haven, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/schabel-enterprise-of-central-minnesota-inc-sl2577/
 ---

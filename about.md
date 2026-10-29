@@ -1,6 +1,6 @@
 ---
 title: "About MN Home Sale Pros | MN Home Sale Pros"
-description: "What MN Home Sale Pros is, who it's for, where its information comes from and how it's funded."
+description: "What MN Home Sale Pros is, who it is for, who operates it, where its Minnesota licence data comes from and how the free directory is funded."
 canonical: https://mnhomesalepros.com/about/
 ---
 
@@ -19,6 +19,10 @@ See [about our data](https://mnhomesalepros.com/about-our-data/).
 * Listings are rebuilt from the official source files on each refresh; every listing shows its source and retrieval date.
 * Rules and cost guides link the statute, regulation, agency page or official fee schedule they rely on. Where we couldn't confirm something from an official source, we say so or leave it out.
 * Nothing here is legal advice. Requirements change, so confirm with the agency or town before you act.
+
+## Who operates MN Home Sale Pros
+
+MN Home Sale Pros (mnhomesalepros.com) is operated by MN Home Sale Pros, the same operator named in our [privacy policy](https://mnhomesalepros.com/privacy/). Contact us through the [contact page](https://mnhomesalepros.com/contact/).
 
 ## Independence
 

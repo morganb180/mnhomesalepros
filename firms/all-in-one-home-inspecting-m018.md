@@ -1,6 +1,6 @@
 ---
-title: "All-in-One Home Inspecting, Cottage Grove, MN | MN Home Sale Pros"
-description: "All-in-One Home Inspecting: Radon measurement in Cottage Grove, MN. Licence details, contact and quotes."
+title: "All-in-One Home Inspecting: Radon Testing, Cottage Grove MN"
+description: "All-in-One Home Inspecting in Cottage Grove, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/all-in-one-home-inspecting-m018/
 ---
 

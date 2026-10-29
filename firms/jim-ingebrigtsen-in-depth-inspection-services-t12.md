@@ -1,5 +1,5 @@
 ---
-title: "Jim Ingebrigtsen (In-Depth Inspection Services), Saint Paul, MN | MN Home Sale Pros"
+title: "Jim Ingebrigtsen (In-Depth Inspection Services)"
 description: "Jim Ingebrigtsen (In-Depth Inspection Services): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/jim-ingebrigtsen-in-depth-inspection-services-t12/
 ---

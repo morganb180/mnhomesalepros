@@ -1,6 +1,6 @@
 ---
-title: "Timber Lakes Septic Service, Inc., Aitkin, MN | MN Home Sale Pros"
-description: "Timber Lakes Septic Service, Inc.: Septic (SSTS) inspection in Aitkin, MN. Licence details, contact and quotes."
+title: "Timber Lakes Septic Service: Septic Inspector, Aitkin MN"
+description: "Timber Lakes Septic Service in Aitkin, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/timber-lakes-septic-service-inc-sl455/
 ---
 

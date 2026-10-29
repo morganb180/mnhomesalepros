@@ -1,6 +1,6 @@
 ---
 title: "PHB Excavating LLC, Motley, MN | MN Home Sale Pros"
-description: "PHB Excavating LLC: Septic (SSTS) inspection in Motley, MN. Licence details, contact and quotes."
+description: "PHB Excavating LLC in Motley, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/phb-excavating-llc-sl2053/
 ---
 

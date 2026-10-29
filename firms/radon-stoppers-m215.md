@@ -1,6 +1,6 @@
 ---
 title: "Radon Stoppers, Monticello, MN | MN Home Sale Pros"
-description: "Radon Stoppers: Radon mitigation in Monticello, MN. Licence details, contact and quotes."
+description: "Radon Stoppers in Monticello, MN: MDH licensed for radon mitigation. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/radon-stoppers-m215/
 ---
 

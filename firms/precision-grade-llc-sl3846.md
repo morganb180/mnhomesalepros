@@ -1,6 +1,6 @@
 ---
 title: "Precision Grade LLC, Willow River, MN | MN Home Sale Pros"
-description: "Precision Grade LLC: Septic (SSTS) inspection in Willow River, MN. Licence details, contact and quotes."
+description: "Precision Grade LLC in Willow River, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/precision-grade-llc-sl3846/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Admiral Radon & Mechanical Services, Savage, MN | MN Home Sale Pros"
+title: "Admiral Radon & Mechanical Services, Savage MN"
 description: "Admiral Radon & Mechanical Services: Radon measurement, Radon mitigation in Savage, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/admiral-radon-mechanical-services-m010/
 ---

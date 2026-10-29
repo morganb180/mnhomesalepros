@@ -1,6 +1,6 @@
 ---
 title: "Ramberg Soil Consulting, Pine City, MN | MN Home Sale Pros"
-description: "Ramberg Soil Consulting: Septic (SSTS) inspection in Pine City, MN. Licence details, contact and quotes."
+description: "Ramberg Soil Consulting in Pine City, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/ramberg-soil-consulting-sl2113/
 ---
 

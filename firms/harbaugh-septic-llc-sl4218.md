@@ -1,6 +1,6 @@
 ---
 title: "Harbaugh Septic LLC, Mantorville, MN | MN Home Sale Pros"
-description: "Harbaugh Septic LLC: Septic (SSTS) inspection in Mantorville, MN. Licence details, contact and quotes."
+description: "Harbaugh Septic LLC in Mantorville, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/harbaugh-septic-llc-sl4218/
 ---
 

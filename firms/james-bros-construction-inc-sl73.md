@@ -1,6 +1,6 @@
 ---
 title: "James Bros Construction Inc, Elysian, MN | MN Home Sale Pros"
-description: "James Bros Construction Inc: Septic (SSTS) inspection in Elysian, MN. Licence details, contact and quotes."
+description: "James Bros Construction Inc in Elysian, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/james-bros-construction-inc-sl73/
 ---
 

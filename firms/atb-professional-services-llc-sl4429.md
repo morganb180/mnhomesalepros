@@ -1,6 +1,6 @@
 ---
-title: "ATB Professional Services, LLC, Northfield, MN | MN Home Sale Pros"
-description: "ATB Professional Services, LLC: Septic (SSTS) inspection in Northfield, MN. Licence details, contact and quotes."
+title: "ATB Professional Services: Septic Inspector, Northfield MN"
+description: "ATB Professional Services in Northfield, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/atb-professional-services-llc-sl4429/
 ---
 

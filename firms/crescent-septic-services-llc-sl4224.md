@@ -1,6 +1,6 @@
 ---
-title: "Crescent Septic Services LLC, Elizabeth, MN | MN Home Sale Pros"
-description: "Crescent Septic Services LLC: Septic (SSTS) inspection in Elizabeth, MN. Licence details, contact and quotes."
+title: "Crescent Septic Services LLC: Septic Inspector, Elizabeth MN"
+description: "Crescent Septic Services in Elizabeth, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/crescent-septic-services-llc-sl4224/
 ---
 

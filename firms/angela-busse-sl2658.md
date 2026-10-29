@@ -1,6 +1,6 @@
 ---
 title: "Angela Busse, Saint Cloud, MN | MN Home Sale Pros"
-description: "Angela Busse: Septic (SSTS) inspection in Saint Cloud, MN. Licence details, contact and quotes."
+description: "Angela Busse in Saint Cloud, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/angela-busse-sl2658/
 ---
 

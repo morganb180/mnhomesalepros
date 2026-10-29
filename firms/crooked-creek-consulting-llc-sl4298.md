@@ -1,6 +1,6 @@
 ---
-title: "Crooked Creek Consulting LLC, Hinckley, MN | MN Home Sale Pros"
-description: "Crooked Creek Consulting LLC: Septic (SSTS) inspection in Hinckley, MN. Licence details, contact and quotes."
+title: "Crooked Creek Consulting LLC: Septic Inspector, Hinckley MN"
+description: "Crooked Creek Consulting in Hinckley, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/crooked-creek-consulting-llc-sl4298/
 ---
 

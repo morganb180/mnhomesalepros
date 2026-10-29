@@ -1,6 +1,6 @@
 ---
-title: "Environmental Testing and Consulting, Romulus, MI | MN Home Sale Pros"
-description: "Environmental Testing and Consulting: Radon measurement in Romulus, MI. Licence details, contact and quotes."
+title: "Environmental Testing and Consulting, Romulus MI"
+description: "Environmental Testing and Consulting in Romulus, MI: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/environmental-testing-and-consulting-m076/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Aaron Haase (Heartland Inspections), Saint Paul, MN | MN Home Sale Pros"
-description: "Aaron Haase (Heartland Inspections): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
+title: "Aaron Haase (Heartland Inspections), Saint Paul MN"
+description: "Aaron Haase (Heartland Inspections), Saint Paul, MN: City of Saint Paul licensed for Saint Paul TISH evaluation. Licence details and the City of Saint."
 canonical: https://mnhomesalepros.com/firms/aaron-haase-heartland-inspections-t09/
 ---
 

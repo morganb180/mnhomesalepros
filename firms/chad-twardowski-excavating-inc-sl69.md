@@ -1,6 +1,6 @@
 ---
-title: "Chad Twardowski Excavating Inc, Long Prairie, MN | MN Home Sale Pros"
-description: "Chad Twardowski Excavating Inc: Septic (SSTS) inspection in Long Prairie, MN. Licence details, contact and quotes."
+title: "Chad Twardowski Excavating Inc, Long Prairie MN"
+description: "Chad Twardowski Excavating in Long Prairie, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/chad-twardowski-excavating-inc-sl69/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in Roseau County, MN: 2 Licensed | MN Home Sale Pros"
-description: "2 MPCA-licensed SSTS inspectors and 0 MDH-licensed radon pros based in Roseau County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in Roseau County, MN"
+description: "Roseau County, MN: 2 MPCA-licensed septic (SSTS) inspectors and 0 MDH-licensed radon businesses with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/roseau/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://mnhomesalepros.com/county/roseau/
 
 # Septic inspectors and radon pros in Roseau County, MN
 
+**Quick answer:** For sellers, buyers and agents in Roseau County, MN: MN Home Sale Pros lists 2 MPCA-licensed SSTS (septic) inspector businesses and 0 MDH-licensed radon businesses with an address in Roseau County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
 2 MPCA-licensed SSTS inspector businesses and 0 MDH-licensed radon businesses list an address in Roseau County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors (2)
+## Who does septic (SSTS) inspections in Roseau County, MN? (2)
+
+2 MPCA-licensed SSTS inspector businesses list an address in Roseau County. Ask the county or city SSTS office whether a transfer inspection applies.
 
 ✔ MPCA SSTS licensed Inspector
 
@@ -39,13 +43,13 @@ Also licensed: Designer, Installer, Pipelayer
 License L2183, expires 2027-05-24 · bonded, insured  
 Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL2183)
 
-## Radon
+## Who does radon testing in Roseau County, MN?
 
 No MDH-licensed radon businesses list a Roseau County address. See [statewide radon pros](https://mnhomesalepros.com/radon/).
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
-## Neighboring counties
+## Which counties border Roseau County, MN?
 
 [Beltrami County](https://mnhomesalepros.com/county/beltrami/) · [Lake of the Woods County](https://mnhomesalepros.com/county/lake-of-the-woods/)
 

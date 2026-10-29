@@ -1,5 +1,5 @@
 ---
-title: "Ed Eklin Septic System Design & Inspection LLC, White Bear Lake, MN | MN Home Sale Pros"
+title: "Ed Eklin Septic System Design & Inspection"
 description: "Ed Eklin Septic System Design & Inspection LLC: Septic (SSTS) inspection in White Bear Lake, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/ed-eklin-septic-system-design-inspection-llc-sl3321/
 ---

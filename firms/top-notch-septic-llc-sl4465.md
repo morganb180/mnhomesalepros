@@ -1,6 +1,6 @@
 ---
 title: "Top Notch Septic LLC, Backus, MN | MN Home Sale Pros"
-description: "Top Notch Septic LLC: Septic (SSTS) inspection in Backus, MN. Licence details, contact and quotes."
+description: "Top Notch Septic LLC in Backus, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/top-notch-septic-llc-sl4465/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Stewart Septic System Services, Fulda, MN | MN Home Sale Pros"
-description: "Stewart Septic System Services: Septic (SSTS) inspection in Fulda, MN. Licence details, contact and quotes."
+title: "Stewart Septic System Services: Septic Inspector, Fulda MN"
+description: "Stewart Septic System Services in Fulda, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/stewart-septic-system-services-sl3062/
 ---
 

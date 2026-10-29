@@ -1,6 +1,6 @@
 ---
 title: "5 Star Excavating LLC, West Concord, MN | MN Home Sale Pros"
-description: "5 Star Excavating LLC: Septic (SSTS) inspection in West Concord, MN. Licence details, contact and quotes."
+description: "5 Star Excavating LLC in West Concord, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/5-star-excavating-llc-sl4250/
 ---
 

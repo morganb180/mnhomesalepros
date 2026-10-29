@@ -1,6 +1,6 @@
 ---
 title: "TJ Radon, South St Paul, MN | MN Home Sale Pros"
-description: "TJ Radon: Radon measurement in South St Paul, MN. Licence details, contact and quotes."
+description: "TJ Radon in South St Paul, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/tj-radon-m244/
 ---
 

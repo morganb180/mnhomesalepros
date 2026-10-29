@@ -1,6 +1,6 @@
 ---
 title: "Healthy Homes, Maplewood, MN | MN Home Sale Pros"
-description: "Healthy Homes: Radon measurement, Radon mitigation in Maplewood, MN. Licence details, contact and quotes."
+description: "Healthy Homes in Maplewood, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/healthy-homes-m092/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Ross Seifert Septic Service, LLC, Pelican Rapids, MN | MN Home Sale Pros"
-description: "Ross Seifert Septic Service, LLC: Septic (SSTS) inspection in Pelican Rapids, MN. Licence details, contact and quotes."
+title: "Ross Seifert Septic Service, LLC, Pelican Rapids MN"
+description: "Ross Seifert Septic Service in Pelican Rapids, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/ross-seifert-septic-service-llc-sl1322/
 ---
 

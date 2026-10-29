@@ -1,6 +1,6 @@
 ---
 title: "H & R Septic Design, Bemidji, MN | MN Home Sale Pros"
-description: "H & R Septic Design: Septic (SSTS) inspection in Bemidji, MN. Licence details, contact and quotes."
+description: "H & R Septic Design in Bemidji, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/h-r-septic-design-sl3106/
 ---
 

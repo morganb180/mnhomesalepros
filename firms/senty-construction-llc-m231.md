@@ -1,6 +1,6 @@
 ---
 title: "Senty Construction LLC, Grand Marais, MN | MN Home Sale Pros"
-description: "Senty Construction LLC: Radon measurement in Grand Marais, MN. Licence details, contact and quotes."
+description: "Senty Construction LLC in Grand Marais, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/senty-construction-llc-m231/
 ---
 

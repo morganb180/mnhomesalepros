@@ -1,6 +1,6 @@
 ---
 title: "Lakewood Septic Services, LLC, Ashby, MN | MN Home Sale Pros"
-description: "Lakewood Septic Services, LLC: Septic (SSTS) inspection in Ashby, MN. Licence details, contact and quotes."
+description: "Lakewood Septic Services, LLC in Ashby, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/lakewood-septic-services-llc-sl4288/
 ---
 

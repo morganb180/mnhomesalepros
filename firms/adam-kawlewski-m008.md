@@ -1,6 +1,6 @@
 ---
 title: "Adam Kawlewski, Inver Grove Heights, MN | MN Home Sale Pros"
-description: "Adam Kawlewski: Radon measurement in Inver Grove Heights, MN. Licence details, contact and quotes."
+description: "Adam Kawlewski in Inver Grove Heights, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/adam-kawlewski-m008/
 ---
 

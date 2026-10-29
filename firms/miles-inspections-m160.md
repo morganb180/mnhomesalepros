@@ -1,6 +1,6 @@
 ---
 title: "Miles Inspections, Hudson, WI | MN Home Sale Pros"
-description: "Miles Inspections: Radon measurement in Hudson, WI. Licence details, contact and quotes."
+description: "Miles Inspections in Hudson, WI: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/miles-inspections-m160/
 ---
 

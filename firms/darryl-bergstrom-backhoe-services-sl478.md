@@ -1,6 +1,6 @@
 ---
-title: "Darryl Bergstrom Backhoe Services, Rochert, MN | MN Home Sale Pros"
-description: "Darryl Bergstrom Backhoe Services: Septic (SSTS) inspection in Rochert, MN. Licence details, contact and quotes."
+title: "Darryl Bergstrom Backhoe Services, Rochert MN"
+description: "Darryl Bergstrom Backhoe Services in Rochert, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/darryl-bergstrom-backhoe-services-sl478/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Steinbrecher Companies Inc, Zimmerman, MN | MN Home Sale Pros"
-description: "Steinbrecher Companies Inc: Septic (SSTS) inspection in Zimmerman, MN. Licence details, contact and quotes."
+title: "Steinbrecher Companies Inc: Septic Inspector, Zimmerman MN"
+description: "Steinbrecher Companies Inc in Zimmerman, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/steinbrecher-companies-inc-sl2851/
 ---
 

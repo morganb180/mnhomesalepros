@@ -1,6 +1,6 @@
 ---
 title: "P S Excavating LLC, New Richland, MN | MN Home Sale Pros"
-description: "P S Excavating LLC: Septic (SSTS) inspection in New Richland, MN. Licence details, contact and quotes."
+description: "P S Excavating LLC in New Richland, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/p-s-excavating-llc-sl4256/
 ---
 

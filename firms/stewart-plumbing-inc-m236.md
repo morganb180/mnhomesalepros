@@ -1,6 +1,6 @@
 ---
 title: "Stewart Plumbing Inc, Rogers, MN | MN Home Sale Pros"
-description: "Stewart Plumbing Inc: Radon mitigation in Rogers, MN. Licence details, contact and quotes."
+description: "Stewart Plumbing Inc in Rogers, MN: MDH licensed for radon mitigation. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/stewart-plumbing-inc-m236/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Benson Septic Service, Welch, MN | MN Home Sale Pros"
-description: "Benson Septic Service: Septic (SSTS) inspection in Welch, MN. Licence details, contact and quotes."
+description: "Benson Septic Service in Welch, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/benson-septic-service-sl190/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Up North Radon LLC, Fergus Falls, MN | MN Home Sale Pros"
-description: "Up North Radon LLC: Radon measurement, Radon mitigation in Fergus Falls, MN. Licence details, contact and quotes."
+description: "Up North Radon in Fergus Falls, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/up-north-radon-llc-m251/
 ---
 

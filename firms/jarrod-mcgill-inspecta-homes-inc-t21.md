@@ -1,5 +1,5 @@
 ---
-title: "Jarrod McGill (Inspecta-Homes, Inc.), Saint Paul, MN | MN Home Sale Pros"
+title: "Jarrod McGill (Inspecta-Homes, Inc.), Saint Paul MN"
 description: "Jarrod McGill (Inspecta-Homes, Inc.): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/jarrod-mcgill-inspecta-homes-inc-t21/
 ---

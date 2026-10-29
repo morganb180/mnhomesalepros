@@ -1,5 +1,5 @@
 ---
-title: "Problem Solved H.I.S.LLC, Vadnais Heights, MN | MN Home Sale Pros"
+title: "Problem Solved H.I.S.LLC, Vadnais Heights MN"
 description: "Problem Solved H.I.S.LLC: Radon measurement, Radon mitigation in Vadnais Heights, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/problem-solved-h-i-s-llc-m192/
 ---

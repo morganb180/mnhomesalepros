@@ -1,6 +1,6 @@
 ---
 title: "Acer Home Inspections, Stillwater, MN | MN Home Sale Pros"
-description: "Acer Home Inspections: Radon measurement in Stillwater, MN. Licence details, contact and quotes."
+description: "Acer Home Inspections in Stillwater, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/acer-home-inspections-m007/
 ---
 

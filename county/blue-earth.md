@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in Blue Earth County, MN: 9 Licensed | MN Home Sale Pros"
-description: "5 MPCA-licensed SSTS inspectors and 4 MDH-licensed radon pros based in Blue Earth County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in Blue Earth County, MN"
+description: "Blue Earth County, MN: 5 MPCA-licensed septic (SSTS) inspectors and 4 MDH-licensed radon businesses with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/blue-earth/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://mnhomesalepros.com/county/blue-earth/
 
 # Septic inspectors and radon pros in Blue Earth County, MN
 
+**Quick answer:** For sellers, buyers and agents in Blue Earth County, MN: MN Home Sale Pros lists 5 MPCA-licensed SSTS (septic) inspector businesses and 4 MDH-licensed radon businesses with an address in Blue Earth County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
 5 MPCA-licensed SSTS inspector businesses and 4 MDH-licensed radon businesses list an address in Blue Earth County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors (5)
+## Who does septic (SSTS) inspections in Blue Earth County, MN? (5)
+
+5 MPCA-licensed SSTS inspector businesses list an address in Blue Earth County. Ask the county or city SSTS office whether a transfer inspection applies.
 
 ✔ MPCA SSTS licensed Inspector
 
@@ -79,7 +83,9 @@ Also licensed: Designer
 License L1241, expires 2029-08-11 · bonded, insured  
 Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL1241)
 
-## Radon testing and mitigation (4)
+## Who does radon testing and mitigation in Blue Earth County, MN? (4)
+
+4 MDH-licensed radon businesses list an address in Blue Earth County. Most radon pros list a statewide service area.
 
 ✔ MDH radon license MeasurementMitigation
 
@@ -142,7 +148,7 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
-## Neighboring counties
+## Which counties border Blue Earth County, MN?
 
 [Brown County](https://mnhomesalepros.com/county/brown/) · [Faribault County](https://mnhomesalepros.com/county/faribault/) · [Le Sueur County](https://mnhomesalepros.com/county/le-sueur/) · [Martin County](https://mnhomesalepros.com/county/martin/) · [Nicollet County](https://mnhomesalepros.com/county/nicollet/) · [Waseca County](https://mnhomesalepros.com/county/waseca/)
 

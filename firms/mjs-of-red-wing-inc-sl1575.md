@@ -1,6 +1,6 @@
 ---
 title: "MJS of Red Wing Inc, Red Wing, MN | MN Home Sale Pros"
-description: "MJS of Red Wing Inc: Septic (SSTS) inspection in Red Wing, MN. Licence details, contact and quotes."
+description: "MJS of Red Wing Inc in Red Wing, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/mjs-of-red-wing-inc-sl1575/
 ---
 

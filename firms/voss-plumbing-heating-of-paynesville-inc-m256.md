@@ -1,5 +1,5 @@
 ---
-title: "Voss Plumbing & Heating of Paynesville Inc, Paynesville, MN | MN Home Sale Pros"
+title: "Voss Plumbing & Heating of Paynesville Inc, Paynesville MN"
 description: "Voss Plumbing & Heating of Paynesville Inc: Radon measurement, Radon mitigation in Paynesville, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/voss-plumbing-heating-of-paynesville-inc-m256/
 ---

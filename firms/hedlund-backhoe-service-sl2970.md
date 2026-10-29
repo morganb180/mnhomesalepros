@@ -1,6 +1,6 @@
 ---
 title: "Hedlund Backhoe Service, McIntosh, MN | MN Home Sale Pros"
-description: "Hedlund Backhoe Service: Septic (SSTS) inspection in McIntosh, MN. Licence details, contact and quotes."
+description: "Hedlund Backhoe Service in McIntosh, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/hedlund-backhoe-service-sl2970/
 ---
 

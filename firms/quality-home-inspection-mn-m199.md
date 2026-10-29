@@ -1,6 +1,6 @@
 ---
-title: "Quality Home Inspection MN, Waterville, MN | MN Home Sale Pros"
-description: "Quality Home Inspection MN: Radon measurement in Waterville, MN. Licence details, contact and quotes."
+title: "Quality Home Inspection MN: Radon Testing, Waterville MN"
+description: "Quality Home Inspection MN in Waterville, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/quality-home-inspection-mn-m199/
 ---
 

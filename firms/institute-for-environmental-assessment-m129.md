@@ -1,6 +1,6 @@
 ---
-title: "Institute for Environmental Assessment, Brooklyn Park, MN | MN Home Sale Pros"
-description: "Institute for Environmental Assessment: Radon measurement in Brooklyn Park, MN. Licence details, contact and quotes."
+title: "Institute for Environmental Assessment, Brooklyn Park MN"
+description: "Institute for Environmental Assessment in Brooklyn Park, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/institute-for-environmental-assessment-m129/
 ---
 

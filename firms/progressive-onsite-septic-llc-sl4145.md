@@ -1,6 +1,6 @@
 ---
-title: "Progressive Onsite Septic LLC, Zimmerman, MN | MN Home Sale Pros"
-description: "Progressive Onsite Septic LLC: Septic (SSTS) inspection in Zimmerman, MN. Licence details, contact and quotes."
+title: "Progressive Onsite Septic: Septic Inspector, Zimmerman MN"
+description: "Progressive Onsite Septic in Zimmerman, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/progressive-onsite-septic-llc-sl4145/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Thompson Inspections, Roseville, MN | MN Home Sale Pros"
-description: "Thompson Inspections: Radon measurement in Roseville, MN. Licence details, contact and quotes."
+description: "Thompson Inspections in Roseville, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/thompson-inspections-m242/
 ---
 

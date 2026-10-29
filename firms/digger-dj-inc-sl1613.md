@@ -1,6 +1,6 @@
 ---
 title: "Digger DJ, Inc., Duluth, MN | MN Home Sale Pros"
-description: "Digger DJ, Inc.: Septic (SSTS) inspection in Duluth, MN. Licence details, contact and quotes."
+description: "Digger DJ, Inc. in Duluth, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/digger-dj-inc-sl1613/
 ---
 

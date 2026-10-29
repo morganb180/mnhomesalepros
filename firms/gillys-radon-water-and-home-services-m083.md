@@ -1,6 +1,6 @@
 ---
-title: "Gillys Radon, water and home services, Grand Rapids, MN | MN Home Sale Pros"
-description: "Gillys Radon, water and home services: Radon measurement in Grand Rapids, MN. Licence details, contact and quotes."
+title: "Gillys Radon, water and home services, Grand Rapids MN"
+description: "Gillys Radon, water and home services in Grand Rapids, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/gillys-radon-water-and-home-services-m083/
 ---
 

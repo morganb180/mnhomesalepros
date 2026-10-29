@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in Aitkin County, MN: 8 Licensed | MN Home Sale Pros"
-description: "8 MPCA-licensed SSTS inspectors and 0 MDH-licensed radon pros based in Aitkin County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in Aitkin County, MN"
+description: "Aitkin County, MN: 8 MPCA-licensed septic (SSTS) inspectors and 0 MDH-licensed radon businesses with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/aitkin/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://mnhomesalepros.com/county/aitkin/
 
 # Septic inspectors and radon pros in Aitkin County, MN
 
+**Quick answer:** For sellers, buyers and agents in Aitkin County, MN: MN Home Sale Pros lists 8 MPCA-licensed SSTS (septic) inspector businesses and 0 MDH-licensed radon businesses with an address in Aitkin County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
 8 MPCA-licensed SSTS inspector businesses and 0 MDH-licensed radon businesses list an address in Aitkin County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors (8)
+## Who does septic (SSTS) inspections in Aitkin County, MN? (8)
+
+8 MPCA-licensed SSTS inspector businesses list an address in Aitkin County. Ask the county or city SSTS office whether a transfer inspection applies.
 
 ✔ MPCA SSTS licensed Inspector
 
@@ -117,13 +121,13 @@ Also licensed: Designer, Installer, Pipelayer
 License L1919, expires 2029-08-09 · bonded, insured  
 Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL1919)
 
-## Radon
+## Who does radon testing in Aitkin County, MN?
 
-No MDH-licensed radon businesses list a Aitkin County address. See [statewide radon pros](https://mnhomesalepros.com/radon/).
+No MDH-licensed radon businesses list an Aitkin County address. See [statewide radon pros](https://mnhomesalepros.com/radon/).
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
-## Neighboring counties
+## Which counties border Aitkin County, MN?
 
 [Carlton County](https://mnhomesalepros.com/county/carlton/) · [Cass County](https://mnhomesalepros.com/county/cass/) · [Crow Wing County](https://mnhomesalepros.com/county/crow-wing/) · [Itasca County](https://mnhomesalepros.com/county/itasca/) · [Kanabec County](https://mnhomesalepros.com/county/kanabec/) · [Mille Lacs County](https://mnhomesalepros.com/county/mille-lacs/) · [Pine County](https://mnhomesalepros.com/county/pine/) · [St. Louis County](https://mnhomesalepros.com/county/st-louis/)
 

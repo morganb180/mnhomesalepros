@@ -1,6 +1,6 @@
 ---
 title: "PriorityLab, LLC, Fort Lauderdale, FL | MN Home Sale Pros"
-description: "PriorityLab, LLC: Radon analysis laboratory in Fort Lauderdale, FL. Licence details, contact and quotes."
+description: "PriorityLab, LLC in Fort Lauderdale, FL: MDH licensed for radon analysis laboratory. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/prioritylab-llc-m189/
 ---
 

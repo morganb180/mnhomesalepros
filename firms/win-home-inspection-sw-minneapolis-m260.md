@@ -1,6 +1,6 @@
 ---
-title: "WIN Home Inspection SW Minneapolis, Minneapolis, MN | MN Home Sale Pros"
-description: "WIN Home Inspection SW Minneapolis: Radon measurement in Minneapolis, MN. Licence details, contact and quotes."
+title: "WIN Home Inspection SW Minneapolis, Minneapolis MN"
+description: "WIN Home Inspection SW Minneapolis in Minneapolis, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/win-home-inspection-sw-minneapolis-m260/
 ---
 

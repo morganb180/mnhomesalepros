@@ -1,6 +1,6 @@
 ---
-title: "Everest Home Inspectors Inc, Minneapolis, MN | MN Home Sale Pros"
-description: "Everest Home Inspectors Inc: Radon measurement in Minneapolis, MN. Licence details, contact and quotes."
+title: "Everest Home Inspectors Inc: Radon Testing, Minneapolis MN"
+description: "Everest Home Inspectors Inc in Minneapolis, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/everest-home-inspectors-inc-m078/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Lenspection Building Inspections LLC, Coon Rapids, MN | MN Home Sale Pros"
-description: "Lenspection Building Inspections LLC: Radon measurement in Coon Rapids, MN. Licence details, contact and quotes."
+title: "Lenspection Building Inspections LLC, Coon Rapids MN"
+description: "Lenspection Building Inspections in Coon Rapids, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/lenspection-building-inspections-llc-m149/
 ---
 

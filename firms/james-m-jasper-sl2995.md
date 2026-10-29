@@ -1,6 +1,6 @@
 ---
 title: "James M Jasper, Jackson, MN | MN Home Sale Pros"
-description: "James M Jasper: Septic (SSTS) inspection in Jackson, MN. Licence details, contact and quotes."
+description: "James M Jasper in Jackson, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/james-m-jasper-sl2995/
 ---
 

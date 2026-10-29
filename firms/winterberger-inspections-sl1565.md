@@ -1,6 +1,6 @@
 ---
 title: "Winterberger Inspections, Osage, MN | MN Home Sale Pros"
-description: "Winterberger Inspections: Septic (SSTS) inspection in Osage, MN. Licence details, contact and quotes."
+description: "Winterberger Inspections in Osage, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/winterberger-inspections-sl1565/
 ---
 

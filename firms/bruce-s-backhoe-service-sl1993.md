@@ -1,6 +1,6 @@
 ---
 title: "Bruce's Backhoe Service, Goodhue, MN | MN Home Sale Pros"
-description: "Bruce's Backhoe Service: Septic (SSTS) inspection in Goodhue, MN. Licence details, contact and quotes."
+description: "Bruce's Backhoe Service in Goodhue, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/bruce-s-backhoe-service-sl1993/
 ---
 

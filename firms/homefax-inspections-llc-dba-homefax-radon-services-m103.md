@@ -1,5 +1,5 @@
 ---
-title: "Homefax Inspections LLC dba Homefax Radon Services, Plymouth, MN | MN Home Sale Pros"
+title: "Homefax Inspections LLC dba Homefax Radon Services"
 description: "Homefax Inspections LLC dba Homefax Radon Services: Radon measurement in Plymouth, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/homefax-inspections-llc-dba-homefax-radon-services-m103/
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Great Northern Septic, LLC, Crookston, MN | MN Home Sale Pros"
-description: "Great Northern Septic, LLC: Septic (SSTS) inspection in Crookston, MN. Licence details, contact and quotes."
+title: "Great Northern Septic, LLC: Septic Inspector, Crookston MN"
+description: "Great Northern Septic, LLC in Crookston, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/great-northern-septic-llc-sl4100/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Scoles Equipment Co dba Scoles Construction, Buffalo, MN | MN Home Sale Pros"
-description: "Scoles Equipment Co dba Scoles Construction: Radon mitigation in Buffalo, MN. Licence details, contact and quotes."
+title: "Scoles Equipment Co dba Scoles Construction, Buffalo MN"
+description: "Scoles Equipment Co dba Scoles Construction in Buffalo, MN: MDH licensed for radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/scoles-equipment-co-dba-scoles-construction-m230/
 ---
 

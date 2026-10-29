@@ -1,6 +1,6 @@
 ---
 title: "Holm Inspections LLC, Nya, MN | MN Home Sale Pros"
-description: "Holm Inspections LLC: Radon measurement in Nya, MN. Licence details, contact and quotes."
+description: "Holm Inspections LLC in Nya, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/holm-inspections-llc-m098/
 ---
 

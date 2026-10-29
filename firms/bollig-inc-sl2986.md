@@ -1,6 +1,6 @@
 ---
 title: "Bollig, Inc., Willmar, MN | MN Home Sale Pros"
-description: "Bollig, Inc.: Septic (SSTS) inspection in Willmar, MN. Licence details, contact and quotes."
+description: "Bollig, Inc. in Willmar, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/bollig-inc-sl2986/
 ---
 

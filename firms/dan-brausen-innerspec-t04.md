@@ -1,6 +1,6 @@
 ---
 title: "Dan Brausen (Innerspec), Saint Paul, MN | MN Home Sale Pros"
-description: "Dan Brausen (Innerspec): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
+description: "Dan Brausen (Innerspec), Saint Paul, MN: City of Saint Paul licensed for Saint Paul TISH evaluation. Licence details and the City of Saint Paul source."
 canonical: https://mnhomesalepros.com/firms/dan-brausen-innerspec-t04/
 ---
 

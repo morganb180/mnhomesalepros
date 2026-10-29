@@ -1,6 +1,6 @@
 ---
-title: "Schueller's Septic Solutions, LLC, Fergus Falls, MN | MN Home Sale Pros"
-description: "Schueller's Septic Solutions, LLC: Septic (SSTS) inspection in Fergus Falls, MN. Licence details, contact and quotes."
+title: "Schueller's Septic Solutions, LLC, Fergus Falls MN"
+description: "Schueller's Septic Solutions in Fergus Falls, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/schueller-s-septic-solutions-llc-sl2945/
 ---
 

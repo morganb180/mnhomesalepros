@@ -1,6 +1,6 @@
 ---
 title: "MN Radon Experts, Chanhassen, MN | MN Home Sale Pros"
-description: "MN Radon Experts: Radon measurement, Radon mitigation in Chanhassen, MN. Licence details, contact and quotes."
+description: "MN Radon Experts in Chanhassen, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/mn-radon-experts-m162/
 ---
 

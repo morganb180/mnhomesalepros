@@ -1,6 +1,6 @@
 ---
 title: "Tim Sukke Excavating Inc, Carlos, MN | MN Home Sale Pros"
-description: "Tim Sukke Excavating Inc: Septic (SSTS) inspection in Carlos, MN. Licence details, contact and quotes."
+description: "Tim Sukke Excavating Inc in Carlos, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/tim-sukke-excavating-inc-sl2110/
 ---
 

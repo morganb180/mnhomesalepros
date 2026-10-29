@@ -1,6 +1,6 @@
 ---
 title: "X2 Home Solutions, Saint Paul, MN | MN Home Sale Pros"
-description: "X2 Home Solutions: Radon measurement in Saint Paul, MN. Licence details, contact and quotes."
+description: "X2 Home Solutions in Saint Paul, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/x2-home-solutions-m263/
 ---
 

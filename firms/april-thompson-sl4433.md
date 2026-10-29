@@ -1,6 +1,6 @@
 ---
 title: "April Thompson, Pine River, MN | MN Home Sale Pros"
-description: "April Thompson: Septic (SSTS) inspection in Pine River, MN. Licence details, contact and quotes."
+description: "April Thompson in Pine River, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/april-thompson-sl4433/
 ---
 

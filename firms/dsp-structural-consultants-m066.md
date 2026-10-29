@@ -1,6 +1,6 @@
 ---
-title: "DSP Structural Consultants, Rochester, MN | MN Home Sale Pros"
-description: "DSP Structural Consultants: Radon measurement in Rochester, MN. Licence details, contact and quotes."
+title: "DSP Structural Consultants: Radon Testing, Rochester MN"
+description: "DSP Structural Consultants in Rochester, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/dsp-structural-consultants-m066/
 ---
 

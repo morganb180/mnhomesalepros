@@ -1,6 +1,6 @@
 ---
 title: "Kapus Excavating LLC, Pierz, MN | MN Home Sale Pros"
-description: "Kapus Excavating LLC: Septic (SSTS) inspection in Pierz, MN. Licence details, contact and quotes."
+description: "Kapus Excavating LLC in Pierz, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/kapus-excavating-llc-sl4285/
 ---
 

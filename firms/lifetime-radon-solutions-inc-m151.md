@@ -1,6 +1,6 @@
 ---
-title: "Lifetime Radon Solutions Inc, Brookfield, WI | MN Home Sale Pros"
-description: "Lifetime Radon Solutions Inc: Radon mitigation in Brookfield, WI. Licence details, contact and quotes."
+title: "Lifetime Radon Solutions: Radon Mitigation, Brookfield WI"
+description: "Lifetime Radon Solutions Inc in Brookfield, WI: MDH licensed for radon mitigation. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/lifetime-radon-solutions-inc-m151/
 ---
 

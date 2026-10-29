@@ -1,6 +1,6 @@
 ---
 title: "Cedar Septic and Sewer LLC, Cedar, MN | MN Home Sale Pros"
-description: "Cedar Septic and Sewer LLC: Septic (SSTS) inspection in Cedar, MN. Licence details, contact and quotes."
+description: "Cedar Septic and Sewer LLC in Cedar, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/cedar-septic-and-sewer-llc-sl4150/
 ---
 

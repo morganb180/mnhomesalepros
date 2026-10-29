@@ -1,5 +1,5 @@
 ---
-title: "Blue Line Radon Testing and Mitigation, Coon Rapids, MN | MN Home Sale Pros"
+title: "Blue Line Radon Testing and Mitigation, Coon Rapids MN"
 description: "Blue Line Radon Testing and Mitigation: Radon measurement, Radon mitigation in Coon Rapids, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/blue-line-radon-testing-and-mitigation-m039/
 ---

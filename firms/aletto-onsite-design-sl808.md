@@ -1,6 +1,6 @@
 ---
 title: "Aletto Onsite/Design, Walker, MN | MN Home Sale Pros"
-description: "Aletto Onsite/Design: Septic (SSTS) inspection in Walker, MN. Licence details, contact and quotes."
+description: "Aletto Onsite/Design in Walker, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/aletto-onsite-design-sl808/
 ---
 

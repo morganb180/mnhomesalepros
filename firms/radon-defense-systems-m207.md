@@ -1,6 +1,6 @@
 ---
 title: "Radon Defense Systems, Cannon Falls, MN | MN Home Sale Pros"
-description: "Radon Defense Systems: Radon measurement, Radon mitigation in Cannon Falls, MN. Licence details, contact and quotes."
+description: "Radon Defense Systems in Cannon Falls, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/radon-defense-systems-m207/
 ---
 

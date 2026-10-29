@@ -1,6 +1,6 @@
 ---
-title: "Twin Cities Home Evaulations Inc, St. Paul, MN | MN Home Sale Pros"
-description: "Twin Cities Home Evaulations Inc: Radon measurement in St. Paul, MN. Licence details, contact and quotes."
+title: "Twin Cities Home Evaulations Inc: Radon Testing, St. Paul MN"
+description: "Twin Cities Home Evaulations Inc in St. Paul, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/twin-cities-home-evaulations-inc-m248/
 ---
 

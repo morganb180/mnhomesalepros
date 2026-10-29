@@ -1,6 +1,6 @@
 ---
 title: "Jeff Schanche, Side Lake, MN | MN Home Sale Pros"
-description: "Jeff Schanche: Septic (SSTS) inspection in Side Lake, MN. Licence details, contact and quotes."
+description: "Jeff Schanche in Side Lake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/jeff-schanche-sl4053/
 ---
 

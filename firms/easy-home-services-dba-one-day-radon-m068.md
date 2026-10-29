@@ -1,5 +1,5 @@
 ---
-title: "Easy Home Services DBA One Day Radon, Minneapolis, MN | MN Home Sale Pros"
+title: "Easy Home Services DBA One Day Radon, Minneapolis MN"
 description: "Easy Home Services DBA One Day Radon: Radon measurement, Radon mitigation in Minneapolis, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/easy-home-services-dba-one-day-radon-m068/
 ---

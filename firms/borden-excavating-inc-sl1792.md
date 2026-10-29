@@ -1,6 +1,6 @@
 ---
 title: "Borden Excavating Inc, Merrifield, MN | MN Home Sale Pros"
-description: "Borden Excavating Inc: Septic (SSTS) inspection in Merrifield, MN. Licence details, contact and quotes."
+description: "Borden Excavating Inc in Merrifield, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/borden-excavating-inc-sl1792/
 ---
 

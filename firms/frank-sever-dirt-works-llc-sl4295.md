@@ -1,6 +1,6 @@
 ---
-title: "Frank Sever Dirt Works, LLC, Chisholm, MN | MN Home Sale Pros"
-description: "Frank Sever Dirt Works, LLC: Septic (SSTS) inspection in Chisholm, MN. Licence details, contact and quotes."
+title: "Frank Sever Dirt Works, LLC: Septic Inspector, Chisholm MN"
+description: "Frank Sever Dirt Works, LLC in Chisholm, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/frank-sever-dirt-works-llc-sl4295/
 ---
 

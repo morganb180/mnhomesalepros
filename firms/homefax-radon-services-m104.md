@@ -1,6 +1,6 @@
 ---
 title: "Homefax Radon Services, Minneapolis, MN | MN Home Sale Pros"
-description: "Homefax Radon Services: Radon measurement in Minneapolis, MN. Licence details, contact and quotes."
+description: "Homefax Radon Services in Minneapolis, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/homefax-radon-services-m104/
 ---
 

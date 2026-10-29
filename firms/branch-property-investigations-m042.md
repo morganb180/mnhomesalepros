@@ -1,6 +1,6 @@
 ---
-title: "Branch Property Investigations, Chanhassen, MN | MN Home Sale Pros"
-description: "Branch Property Investigations: Radon measurement in Chanhassen, MN. Licence details, contact and quotes."
+title: "Branch Property Investigations: Radon Testing, Chanhassen MN"
+description: "Branch Property Investigations in Chanhassen, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/branch-property-investigations-m042/
 ---
 

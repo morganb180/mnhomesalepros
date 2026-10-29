@@ -1,6 +1,6 @@
 ---
 title: "Greg Lillemon, Ashby, MN | MN Home Sale Pros"
-description: "Greg Lillemon: Septic (SSTS) inspection in Ashby, MN. Licence details, contact and quotes."
+description: "Greg Lillemon in Ashby, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/greg-lillemon-sl1224/
 ---
 

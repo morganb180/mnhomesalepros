@@ -1,6 +1,6 @@
 ---
 title: "BBG Assessments LLC, Dallas, TX | MN Home Sale Pros"
-description: "BBG Assessments LLC: Radon measurement in Dallas, TX. Licence details, contact and quotes."
+description: "BBG Assessments LLC in Dallas, TX: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/bbg-assessments-llc-m034/
 ---
 

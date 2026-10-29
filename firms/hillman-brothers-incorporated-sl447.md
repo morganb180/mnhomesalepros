@@ -1,6 +1,6 @@
 ---
-title: "Hillman Brothers Incorporated, Odessa, MN | MN Home Sale Pros"
-description: "Hillman Brothers Incorporated: Septic (SSTS) inspection in Odessa, MN. Licence details, contact and quotes."
+title: "Hillman Brothers Incorporated: Septic Inspector, Odessa MN"
+description: "Hillman Brothers Incorporated in Odessa, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/hillman-brothers-incorporated-sl447/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "A1 Services Inc, Eveleth, MN | MN Home Sale Pros"
-description: "A1 Services Inc: Septic (SSTS) inspection in Eveleth, MN. Licence details, contact and quotes."
+description: "A1 Services Inc in Eveleth, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/a1-services-inc-sl315/
 ---
 

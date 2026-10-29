@@ -1,6 +1,6 @@
 ---
-title: "Maschler Septic Consultants, Brainerd, MN | MN Home Sale Pros"
-description: "Maschler Septic Consultants: Septic (SSTS) inspection in Brainerd, MN. Licence details, contact and quotes."
+title: "Maschler Septic Consultants: Septic Inspector, Brainerd MN"
+description: "Maschler Septic Consultants in Brainerd, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/maschler-septic-consultants-sl2264/
 ---
 

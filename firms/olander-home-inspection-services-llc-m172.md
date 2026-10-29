@@ -1,6 +1,6 @@
 ---
-title: "Olander Home Inspection Services LLC, Red Wing, MN | MN Home Sale Pros"
-description: "Olander Home Inspection Services LLC: Radon measurement in Red Wing, MN. Licence details, contact and quotes."
+title: "Olander Home Inspection Services: Radon Testing, Red Wing MN"
+description: "Olander Home Inspection Services LLC in Red Wing, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/olander-home-inspection-services-llc-m172/
 ---
 

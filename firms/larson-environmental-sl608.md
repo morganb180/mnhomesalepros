@@ -1,6 +1,6 @@
 ---
 title: "Larson Environmental, Bemidji, MN | MN Home Sale Pros"
-description: "Larson Environmental: Septic (SSTS) inspection in Bemidji, MN. Licence details, contact and quotes."
+description: "Larson Environmental in Bemidji, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/larson-environmental-sl608/
 ---
 

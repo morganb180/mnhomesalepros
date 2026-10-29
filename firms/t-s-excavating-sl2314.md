@@ -1,6 +1,6 @@
 ---
 title: "T&S Excavating, Pequot Lakes, MN | MN Home Sale Pros"
-description: "T&S Excavating: Septic (SSTS) inspection in Pequot Lakes, MN. Licence details, contact and quotes."
+description: "T&S Excavating in Pequot Lakes, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/t-s-excavating-sl2314/
 ---
 

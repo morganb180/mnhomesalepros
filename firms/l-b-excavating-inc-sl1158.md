@@ -1,6 +1,6 @@
 ---
 title: "L & B Excavating Inc, Menahga, MN | MN Home Sale Pros"
-description: "L & B Excavating Inc: Septic (SSTS) inspection in Menahga, MN. Licence details, contact and quotes."
+description: "L & B Excavating Inc in Menahga, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/l-b-excavating-inc-sl1158/
 ---
 

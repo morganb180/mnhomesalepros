@@ -1,6 +1,6 @@
 ---
-title: "Legend Technical Services Inc, St. Paul, MN | MN Home Sale Pros"
-description: "Legend Technical Services Inc: Radon measurement in St. Paul, MN. Licence details, contact and quotes."
+title: "Legend Technical Services Inc: Radon Testing, St. Paul MN"
+description: "Legend Technical Services Inc in St. Paul, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/legend-technical-services-inc-m148/
 ---
 

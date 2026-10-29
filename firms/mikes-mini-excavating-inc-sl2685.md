@@ -1,6 +1,6 @@
 ---
 title: "Mikes Mini Excavating, Inc, Fulda, MN | MN Home Sale Pros"
-description: "Mikes Mini Excavating, Inc: Septic (SSTS) inspection in Fulda, MN. Licence details, contact and quotes."
+description: "Mikes Mini Excavating, Inc in Fulda, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/mikes-mini-excavating-inc-sl2685/
 ---
 

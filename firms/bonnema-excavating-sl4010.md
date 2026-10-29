@@ -1,6 +1,6 @@
 ---
 title: "Bonnema Excavating, Raymond, MN | MN Home Sale Pros"
-description: "Bonnema Excavating: Septic (SSTS) inspection in Raymond, MN. Licence details, contact and quotes."
+description: "Bonnema Excavating in Raymond, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/bonnema-excavating-sl4010/
 ---
 

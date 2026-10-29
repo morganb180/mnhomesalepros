@@ -1,5 +1,5 @@
 ---
-title: "Larry Kirby (Northland Property Services, Inc), Saint Paul, MN | MN Home Sale Pros"
+title: "Larry Kirby (Northland Property Services, Inc)"
 description: "Larry Kirby (Northland Property Services, Inc): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/larry-kirby-northland-property-services-inc-t16/
 ---

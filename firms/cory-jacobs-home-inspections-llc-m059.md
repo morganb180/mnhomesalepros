@@ -1,6 +1,6 @@
 ---
-title: "Cory Jacobs Home Inspections LLC, Saint Anthony, MN | MN Home Sale Pros"
-description: "Cory Jacobs Home Inspections LLC: Radon measurement in Saint Anthony, MN. Licence details, contact and quotes."
+title: "Cory Jacobs Home Inspections LLC, Saint Anthony MN"
+description: "Cory Jacobs Home Inspections in Saint Anthony, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/cory-jacobs-home-inspections-llc-m059/
 ---
 

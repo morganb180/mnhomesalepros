@@ -1,6 +1,6 @@
 ---
 title: "Ellingson Drainage Inc, West Concord, MN | MN Home Sale Pros"
-description: "Ellingson Drainage Inc: Septic (SSTS) inspection in West Concord, MN. Licence details, contact and quotes."
+description: "Ellingson Drainage Inc in West Concord, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/ellingson-drainage-inc-sl77/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Diamonds In The Rough Home Inspections, Minneapolis, MN | MN Home Sale Pros"
-description: "Diamonds In The Rough Home Inspections: Radon measurement in Minneapolis, MN. Licence details, contact and quotes."
+title: "Diamonds In The Rough Home Inspections, Minneapolis MN"
+description: "Diamonds In The Rough Home Inspections in Minneapolis, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/diamonds-in-the-rough-home-inspections-m064/
 ---
 

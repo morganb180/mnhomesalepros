@@ -1,6 +1,6 @@
 ---
-title: "Hofschulte Backhoe and Septic LLC, Elgin, MN | MN Home Sale Pros"
-description: "Hofschulte Backhoe and Septic LLC: Septic (SSTS) inspection in Elgin, MN. Licence details, contact and quotes."
+title: "Hofschulte Backhoe and Septic: Septic Inspector, Elgin MN"
+description: "Hofschulte Backhoe and Septic in Elgin, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/hofschulte-backhoe-and-septic-llc-sl836/
 ---
 

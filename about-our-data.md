@@ -1,6 +1,6 @@
 ---
 title: "About Our Data | MN Home Sale Pros"
-description: "Where the listings come from, the source terms, and how the data was cleaned."
+description: "Where MN Home Sale Pros listings come from: MPCA SSTS, MDH radon and Saint Paul TISH records, retrieval dates, source terms and how the data was cleaned."
 canonical: https://mnhomesalepros.com/about-our-data/
 ---
 

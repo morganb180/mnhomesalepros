@@ -1,6 +1,6 @@
 ---
-title: "National Property Inspections, Sartell, MN | MN Home Sale Pros"
-description: "National Property Inspections: Radon measurement in Sartell, MN. Licence details, contact and quotes."
+title: "National Property Inspections: Radon Testing, Sartell MN"
+description: "National Property Inspections in Sartell, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/national-property-inspections-m165/
 ---
 

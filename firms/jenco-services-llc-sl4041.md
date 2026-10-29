@@ -1,6 +1,6 @@
 ---
 title: "JenCo Services, LLC, Frazee, MN | MN Home Sale Pros"
-description: "JenCo Services, LLC: Septic (SSTS) inspection in Frazee, MN. Licence details, contact and quotes."
+description: "JenCo Services, LLC in Frazee, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/jenco-services-llc-sl4041/
 ---
 

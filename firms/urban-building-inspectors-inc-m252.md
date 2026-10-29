@@ -1,6 +1,6 @@
 ---
-title: "Urban Building Inspectors Inc, Golden Valley, MN | MN Home Sale Pros"
-description: "Urban Building Inspectors Inc: Radon measurement in Golden Valley, MN. Licence details, contact and quotes."
+title: "Urban Building Inspectors: Radon Testing, Golden Valley MN"
+description: "Urban Building Inspectors Inc in Golden Valley, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/urban-building-inspectors-inc-m252/
 ---
 

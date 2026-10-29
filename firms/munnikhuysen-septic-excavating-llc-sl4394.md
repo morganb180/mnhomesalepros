@@ -1,5 +1,5 @@
 ---
-title: "Munnikhuysen Septic & Excavating LLC, Dodge Center, MN | MN Home Sale Pros"
+title: "Munnikhuysen Septic & Excavating LLC, Dodge Center MN"
 description: "Munnikhuysen Septic & Excavating LLC: Septic (SSTS) inspection in Dodge Center, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/munnikhuysen-septic-excavating-llc-sl4394/
 ---

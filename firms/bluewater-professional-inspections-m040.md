@@ -1,6 +1,6 @@
 ---
-title: "Bluewater Professional Inspections, Duluth, MN | MN Home Sale Pros"
-description: "Bluewater Professional Inspections: Radon measurement in Duluth, MN. Licence details, contact and quotes."
+title: "Bluewater Professional Inspections: Radon Testing, Duluth MN"
+description: "Bluewater Professional Inspections in Duluth, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/bluewater-professional-inspections-m040/
 ---
 

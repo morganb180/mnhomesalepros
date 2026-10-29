@@ -1,6 +1,6 @@
 ---
 title: "Al Hanson Excavating, Alexandria, MN | MN Home Sale Pros"
-description: "Al Hanson Excavating: Septic (SSTS) inspection in Alexandria, MN. Licence details, contact and quotes."
+description: "Al Hanson Excavating in Alexandria, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/al-hanson-excavating-sl337/
 ---
 

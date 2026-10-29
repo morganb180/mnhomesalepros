@@ -1,6 +1,6 @@
 ---
 title: "City of Minneapolis, Minneapolis, MN | MN Home Sale Pros"
-description: "City of Minneapolis: Radon measurement in Minneapolis, MN. Licence details, contact and quotes."
+description: "City of Minneapolis in Minneapolis, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/city-of-minneapolis-m051/
 ---
 

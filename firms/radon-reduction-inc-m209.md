@@ -1,6 +1,6 @@
 ---
 title: "Radon Reduction Inc, Minnetonka, MN | MN Home Sale Pros"
-description: "Radon Reduction Inc: Radon measurement, Radon mitigation in Minnetonka, MN. Licence details, contact and quotes."
+description: "Radon Reduction in Minnetonka, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/radon-reduction-inc-m209/
 ---
 

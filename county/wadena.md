@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in Wadena County, MN: 2 Licensed | MN Home Sale Pros"
-description: "2 MPCA-licensed SSTS inspectors and 0 MDH-licensed radon pros based in Wadena County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in Wadena County, MN"
+description: "Wadena County, MN: 2 MPCA-licensed septic (SSTS) inspectors and 0 MDH-licensed radon businesses with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/wadena/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://mnhomesalepros.com/county/wadena/
 
 # Septic inspectors and radon pros in Wadena County, MN
 
+**Quick answer:** For sellers, buyers and agents in Wadena County, MN: MN Home Sale Pros lists 2 MPCA-licensed SSTS (septic) inspector businesses and 0 MDH-licensed radon businesses with an address in Wadena County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
 2 MPCA-licensed SSTS inspector businesses and 0 MDH-licensed radon businesses list an address in Wadena County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors (2)
+## Who does septic (SSTS) inspections in Wadena County, MN? (2)
+
+2 MPCA-licensed SSTS inspector businesses list an address in Wadena County. Ask the county or city SSTS office whether a transfer inspection applies.
 
 ✔ MPCA SSTS licensed Inspector
 
@@ -40,13 +44,13 @@ Also licensed: Designer, Installer, Maintainer, Pipelayer
 License L1158, expires 2027-05-22 · bonded, insured  
 Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL1158)
 
-## Radon
+## Who does radon testing in Wadena County, MN?
 
 No MDH-licensed radon businesses list a Wadena County address. See [statewide radon pros](https://mnhomesalepros.com/radon/).
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
-## Neighboring counties
+## Which counties border Wadena County, MN?
 
 [Becker County](https://mnhomesalepros.com/county/becker/) · [Cass County](https://mnhomesalepros.com/county/cass/) · [Hubbard County](https://mnhomesalepros.com/county/hubbard/) · [Otter Tail County](https://mnhomesalepros.com/county/otter-tail/) · [Todd County](https://mnhomesalepros.com/county/todd/)
 

@@ -1,6 +1,6 @@
 ---
 title: "Roisum LLC, Erhard, MN | MN Home Sale Pros"
-description: "Roisum LLC: Septic (SSTS) inspection in Erhard, MN. Licence details, contact and quotes."
+description: "Roisum LLC in Erhard, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/roisum-llc-sl4095/
 ---
 

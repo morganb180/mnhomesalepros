@@ -1,6 +1,6 @@
 ---
 title: "Certified Radon Solutions, Rochester, MN | MN Home Sale Pros"
-description: "Certified Radon Solutions: Radon measurement, Radon mitigation in Rochester, MN. Licence details, contact and quotes."
+description: "Certified Radon Solutions in Rochester, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/certified-radon-solutions-m049/
 ---
 

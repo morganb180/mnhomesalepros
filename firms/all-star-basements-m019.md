@@ -1,6 +1,6 @@
 ---
 title: "All-Star Basements, Rochester, MN | MN Home Sale Pros"
-description: "All-Star Basements: Radon measurement, Radon mitigation in Rochester, MN. Licence details, contact and quotes."
+description: "All-Star Basements in Rochester, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/all-star-basements-m019/
 ---
 

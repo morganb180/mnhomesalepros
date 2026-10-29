@@ -1,6 +1,6 @@
 ---
 title: "Chaps Home Inspection, Elkton, MN | MN Home Sale Pros"
-description: "Chaps Home Inspection: Radon measurement in Elkton, MN. Licence details, contact and quotes."
+description: "Chaps Home Inspection in Elkton, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/chaps-home-inspection-m050/
 ---
 

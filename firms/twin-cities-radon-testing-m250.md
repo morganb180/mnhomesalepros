@@ -1,6 +1,6 @@
 ---
-title: "Twin Cities Radon Testing, Brooklyn Center, MN | MN Home Sale Pros"
-description: "Twin Cities Radon Testing: Radon measurement in Brooklyn Center, MN. Licence details, contact and quotes."
+title: "Twin Cities Radon Testing: Radon Testing, Brooklyn Center MN"
+description: "Twin Cities Radon Testing in Brooklyn Center, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/twin-cities-radon-testing-m250/
 ---
 

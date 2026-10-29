@@ -1,6 +1,6 @@
 ---
 title: "Bedrock Radon Mitigation, Buffalo, MN | MN Home Sale Pros"
-description: "Bedrock Radon Mitigation: Radon measurement, Radon mitigation in Buffalo, MN. Licence details, contact and quotes."
+description: "Bedrock Radon Mitigation in Buffalo, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/bedrock-radon-mitigation-m035/
 ---
 

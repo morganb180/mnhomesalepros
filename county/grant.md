@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in Grant County, MN: 3 Licensed | MN Home Sale Pros"
-description: "2 MPCA-licensed SSTS inspectors and 1 MDH-licensed radon pros based in Grant County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in Grant County, MN"
+description: "Grant County, MN: 2 MPCA-licensed septic (SSTS) inspectors and 1 MDH-licensed radon business with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/grant/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://mnhomesalepros.com/county/grant/
 
 # Septic inspectors and radon pros in Grant County, MN
 
-2 MPCA-licensed SSTS inspector businesses and 1 MDH-licensed radon businesses list an address in Grant County. Many work across counties, and most radon pros list a statewide service area.
+**Quick answer:** For sellers, buyers and agents in Grant County, MN: MN Home Sale Pros lists 2 MPCA-licensed SSTS (septic) inspector businesses and 1 MDH-licensed radon business with an address in Grant County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
+2 MPCA-licensed SSTS inspector businesses and 1 MDH-licensed radon business list an address in Grant County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors (2)
+## Who does septic (SSTS) inspections in Grant County, MN? (2)
+
+2 MPCA-licensed SSTS inspector businesses list an address in Grant County. Ask the county or city SSTS office whether a transfer inspection applies.
 
 ✔ MPCA SSTS licensed Inspector
 
@@ -40,7 +44,9 @@ Also licensed: Designer, Maintainer, Service provider
 License L3947, expires 2027-05-10 · bonded, insured  
 Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL3947)
 
-## Radon testing and mitigation (1)
+## Who does radon testing and mitigation in Grant County, MN? (1)
+
+1 MDH-licensed radon business lists an address in Grant County. Most radon pros list a statewide service area.
 
 ✔ MDH radon license MeasurementMitigation
 
@@ -58,7 +64,7 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
-## Neighboring counties
+## Which counties border Grant County, MN?
 
 [Douglas County](https://mnhomesalepros.com/county/douglas/) · [Otter Tail County](https://mnhomesalepros.com/county/otter-tail/) · [Pope County](https://mnhomesalepros.com/county/pope/) · [Stevens County](https://mnhomesalepros.com/county/stevens/) · [Wilkin County](https://mnhomesalepros.com/county/wilkin/)
 

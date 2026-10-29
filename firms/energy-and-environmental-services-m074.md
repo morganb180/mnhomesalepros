@@ -1,6 +1,6 @@
 ---
-title: "Energy and Environmental Services, Farmington, MN | MN Home Sale Pros"
-description: "Energy and Environmental Services: Radon mitigation in Farmington, MN. Licence details, contact and quotes."
+title: "Energy and Environmental Services, Farmington MN"
+description: "Energy and Environmental Services in Farmington, MN: MDH licensed for radon mitigation. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/energy-and-environmental-services-m074/
 ---
 

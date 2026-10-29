@@ -1,5 +1,5 @@
 ---
-title: "Jeff Manders (Gadget Home Inspections), Saint Paul, MN | MN Home Sale Pros"
+title: "Jeff Manders (Gadget Home Inspections), Saint Paul MN"
 description: "Jeff Manders (Gadget Home Inspections): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/jeff-manders-gadget-home-inspections-t20/
 ---

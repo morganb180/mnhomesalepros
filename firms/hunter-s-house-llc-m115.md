@@ -1,6 +1,6 @@
 ---
 title: "Hunter's House LLC, Owatonna, MN | MN Home Sale Pros"
-description: "Hunter's House LLC: Radon measurement in Owatonna, MN. Licence details, contact and quotes."
+description: "Hunter's House LLC in Owatonna, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/hunter-s-house-llc-m115/
 ---
 

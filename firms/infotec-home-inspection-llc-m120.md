@@ -1,6 +1,6 @@
 ---
-title: "INFOTEC Home Inspection LLC, Hutchinson, MN | MN Home Sale Pros"
-description: "INFOTEC Home Inspection LLC: Radon measurement in Hutchinson, MN. Licence details, contact and quotes."
+title: "INFOTEC Home Inspection LLC: Radon Testing, Hutchinson MN"
+description: "INFOTEC Home Inspection LLC in Hutchinson, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/infotec-home-inspection-llc-m120/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "DH Contracting LLC, Littlefork, MN | MN Home Sale Pros"
-description: "DH Contracting LLC: Septic (SSTS) inspection in Littlefork, MN. Licence details, contact and quotes."
+description: "DH Contracting LLC in Littlefork, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/dh-contracting-llc-sl1316/
 ---
 

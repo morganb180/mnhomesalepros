@@ -1,6 +1,6 @@
 ---
-title: "Healthy Homes Home Inspection, Altura, MN | MN Home Sale Pros"
-description: "Healthy Homes Home Inspection: Radon measurement in Altura, MN. Licence details, contact and quotes."
+title: "Healthy Homes Home Inspection: Radon Testing, Altura MN"
+description: "Healthy Homes Home Inspection in Altura, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/healthy-homes-home-inspection-m094/
 ---
 

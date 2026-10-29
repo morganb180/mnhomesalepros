@@ -1,6 +1,6 @@
 ---
 title: "Mann Valley LLC, River Falls, WI | MN Home Sale Pros"
-description: "Mann Valley LLC: Radon measurement in River Falls, WI. Licence details, contact and quotes."
+description: "Mann Valley LLC in River Falls, WI: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/mann-valley-llc-m154/
 ---
 

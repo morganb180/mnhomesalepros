@@ -1,6 +1,6 @@
 ---
 title: "Clean Air Dynamics, Rochester, MN | MN Home Sale Pros"
-description: "Clean Air Dynamics: Radon measurement, Radon mitigation in Rochester, MN. Licence details, contact and quotes."
+description: "Clean Air Dynamics in Rochester, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/clean-air-dynamics-m054/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Northside Septic Service LLC, Bethel, MN | MN Home Sale Pros"
-description: "Northside Septic Service LLC: Septic (SSTS) inspection in Bethel, MN. Licence details, contact and quotes."
+description: "Northside Septic Service LLC in Bethel, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/northside-septic-service-llc-sl930/
 ---
 

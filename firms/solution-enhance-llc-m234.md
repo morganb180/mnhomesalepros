@@ -1,6 +1,6 @@
 ---
 title: "Solution Enhance LLC, East Bethel, MN | MN Home Sale Pros"
-description: "Solution Enhance LLC: Radon measurement, Radon mitigation in East Bethel, MN. Licence details, contact and quotes."
+description: "Solution Enhance in East Bethel, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/solution-enhance-llc-m234/
 ---
 

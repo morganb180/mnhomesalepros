@@ -1,6 +1,6 @@
 ---
 title: "Double D Gravel Inc., Pipestone, MN | MN Home Sale Pros"
-description: "Double D Gravel Inc.: Septic (SSTS) inspection in Pipestone, MN. Licence details, contact and quotes."
+description: "Double D Gravel Inc. in Pipestone, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/double-d-gravel-inc-sl4237/
 ---
 

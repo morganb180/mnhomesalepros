@@ -1,6 +1,6 @@
 ---
 title: "MG Home Inspections, Minneota, MN | MN Home Sale Pros"
-description: "MG Home Inspections: Radon measurement in Minneota, MN. Licence details, contact and quotes."
+description: "MG Home Inspections in Minneota, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/mg-home-inspections-m158/
 ---
 

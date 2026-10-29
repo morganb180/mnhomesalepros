@@ -1,6 +1,6 @@
 ---
-title: "Armstrong Home Inspection Service, LLC, Cloquet, MN | MN Home Sale Pros"
-description: "Armstrong Home Inspection Service, LLC: Radon measurement in Cloquet, MN. Licence details, contact and quotes."
+title: "Armstrong Home Inspection Service: Radon Testing, Cloquet MN"
+description: "Armstrong Home Inspection Service in Cloquet, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/armstrong-home-inspection-service-llc-m027/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "L&R Septic, LLC, Dalbo, MN | MN Home Sale Pros"
-description: "L&R Septic, LLC: Septic (SSTS) inspection in Dalbo, MN. Licence details, contact and quotes."
+description: "L&R Septic, LLC in Dalbo, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/l-r-septic-llc-sl4185/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in Todd County, MN: 5 Licensed | MN Home Sale Pros"
-description: "5 MPCA-licensed SSTS inspectors and 0 MDH-licensed radon pros based in Todd County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in Todd County, MN"
+description: "Todd County, MN: 5 MPCA-licensed septic (SSTS) inspectors and 0 MDH-licensed radon businesses with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/todd/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://mnhomesalepros.com/county/todd/
 
 # Septic inspectors and radon pros in Todd County, MN
 
+**Quick answer:** For sellers, buyers and agents in Todd County, MN: MN Home Sale Pros lists 5 MPCA-licensed SSTS (septic) inspector businesses and 0 MDH-licensed radon businesses with an address in Todd County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
 5 MPCA-licensed SSTS inspector businesses and 0 MDH-licensed radon businesses list an address in Todd County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors (5)
+## Who does septic (SSTS) inspections in Todd County, MN? (5)
+
+5 MPCA-licensed SSTS inspector businesses list an address in Todd County. Ask the county or city SSTS office whether a transfer inspection applies.
 
 ✔ MPCA SSTS licensed Inspector
 
@@ -79,13 +83,13 @@ Also licensed: Designer, Installer, Pipelayer
 License L1899, expires 2027-06-17 · bonded, insured  
 Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL1899)
 
-## Radon
+## Who does radon testing in Todd County, MN?
 
 No MDH-licensed radon businesses list a Todd County address. See [statewide radon pros](https://mnhomesalepros.com/radon/).
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
-## Neighboring counties
+## Which counties border Todd County, MN?
 
 [Becker County](https://mnhomesalepros.com/county/becker/) · [Cass County](https://mnhomesalepros.com/county/cass/) · [Clay County](https://mnhomesalepros.com/county/clay/) · [Douglas County](https://mnhomesalepros.com/county/douglas/) · [Grant County](https://mnhomesalepros.com/county/grant/) · [Morrison County](https://mnhomesalepros.com/county/morrison/) · [Otter Tail County](https://mnhomesalepros.com/county/otter-tail/) · [Stearns County](https://mnhomesalepros.com/county/stearns/) · [Wadena County](https://mnhomesalepros.com/county/wadena/) · [Wilkin County](https://mnhomesalepros.com/county/wilkin/)
 

@@ -1,6 +1,6 @@
 ---
 title: "Don Loken Drainage Inc, Owatonna, MN | MN Home Sale Pros"
-description: "Don Loken Drainage Inc: Septic (SSTS) inspection in Owatonna, MN. Licence details, contact and quotes."
+description: "Don Loken Drainage Inc in Owatonna, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/don-loken-drainage-inc-sl450/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "BT Services LLC, Brainerd, MN | MN Home Sale Pros"
-description: "BT Services LLC: Septic (SSTS) inspection in Brainerd, MN. Licence details, contact and quotes."
+description: "BT Services LLC in Brainerd, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/bt-services-llc-sl2088/
 ---
 

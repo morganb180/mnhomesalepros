@@ -1,6 +1,6 @@
 ---
-title: "HomeSight Inspection Inc, Inver Grove Heights, MN | MN Home Sale Pros"
-description: "HomeSight Inspection Inc: Radon measurement in Inver Grove Heights, MN. Licence details, contact and quotes."
+title: "HomeSight Inspection: Radon Testing, Inver Grove Heights MN"
+description: "HomeSight Inspection Inc in Inver Grove Heights, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/homesight-inspection-inc-m108/
 ---
 

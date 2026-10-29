@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in Brown County, MN: 3 Licensed | MN Home Sale Pros"
-description: "3 MPCA-licensed SSTS inspectors and 0 MDH-licensed radon pros based in Brown County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in Brown County, MN"
+description: "Brown County, MN: 3 MPCA-licensed septic (SSTS) inspectors and 0 MDH-licensed radon businesses with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/brown/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://mnhomesalepros.com/county/brown/
 
 # Septic inspectors and radon pros in Brown County, MN
 
+**Quick answer:** For sellers, buyers and agents in Brown County, MN: MN Home Sale Pros lists 3 MPCA-licensed SSTS (septic) inspector businesses and 0 MDH-licensed radon businesses with an address in Brown County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
 3 MPCA-licensed SSTS inspector businesses and 0 MDH-licensed radon businesses list an address in Brown County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors (3)
+## Who does septic (SSTS) inspections in Brown County, MN? (3)
+
+3 MPCA-licensed SSTS inspector businesses list an address in Brown County. Ask the county or city SSTS office whether a transfer inspection applies.
 
 ✔ MPCA SSTS licensed InspectorIntermediate InspectorAdvanced Inspector
 
@@ -53,13 +57,13 @@ Also licensed: Designer, Installer, Pipelayer
 License L3190, expires 2027-04-17 · bonded, insured  
 Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL3190)
 
-## Radon
+## Who does radon testing in Brown County, MN?
 
 No MDH-licensed radon businesses list a Brown County address. See [statewide radon pros](https://mnhomesalepros.com/radon/).
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
-## Neighboring counties
+## Which counties border Brown County, MN?
 
 [Blue Earth County](https://mnhomesalepros.com/county/blue-earth/) · [Cottonwood County](https://mnhomesalepros.com/county/cottonwood/) · [Nicollet County](https://mnhomesalepros.com/county/nicollet/) · [Redwood County](https://mnhomesalepros.com/county/redwood/)
 

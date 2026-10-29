@@ -1,6 +1,6 @@
 ---
 title: "Camden Valley Home Inspections, Lynd, MN | MN Home Sale Pros"
-description: "Camden Valley Home Inspections: Radon measurement in Lynd, MN. Licence details, contact and quotes."
+description: "Camden Valley Home Inspections in Lynd, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/camden-valley-home-inspections-m045/
 ---
 

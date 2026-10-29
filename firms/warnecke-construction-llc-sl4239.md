@@ -1,6 +1,6 @@
 ---
-title: "Warnecke Construction LLC, Silver Bay, MN | MN Home Sale Pros"
-description: "Warnecke Construction LLC: Septic (SSTS) inspection in Silver Bay, MN. Licence details, contact and quotes."
+title: "Warnecke Construction LLC: Septic Inspector, Silver Bay MN"
+description: "Warnecke Construction LLC in Silver Bay, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/warnecke-construction-llc-sl4239/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Central Minnesota Radon, Alexandria, MN | MN Home Sale Pros"
-description: "Central Minnesota Radon: Radon measurement, Radon mitigation in Alexandria, MN. Licence details, contact and quotes."
+description: "Central Minnesota Radon in Alexandria, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/central-minnesota-radon-m047/
 ---
 

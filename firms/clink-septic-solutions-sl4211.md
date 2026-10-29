@@ -1,6 +1,6 @@
 ---
 title: "Clink Septic Solutions, Sauk Centre, MN | MN Home Sale Pros"
-description: "Clink Septic Solutions: Septic (SSTS) inspection in Sauk Centre, MN. Licence details, contact and quotes."
+description: "Clink Septic Solutions in Sauk Centre, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/clink-septic-solutions-sl4211/
 ---
 

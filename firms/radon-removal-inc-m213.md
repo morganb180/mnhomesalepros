@@ -1,6 +1,6 @@
 ---
 title: "Radon Removal Inc, Maple Grove, MN | MN Home Sale Pros"
-description: "Radon Removal Inc: Radon mitigation in Maple Grove, MN. Licence details, contact and quotes."
+description: "Radon Removal Inc in Maple Grove, MN: MDH licensed for radon mitigation. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/radon-removal-inc-m213/
 ---
 

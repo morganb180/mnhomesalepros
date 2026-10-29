@@ -1,5 +1,5 @@
 ---
-title: "Polar Home Inspections LLC, Pelican Rapids, MN | MN Home Sale Pros"
+title: "Polar Home Inspections LLC, Pelican Rapids MN"
 description: "Polar Home Inspections LLC: Radon measurement, Radon mitigation in Pelican Rapids, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/polar-home-inspections-llc-m184/
 ---

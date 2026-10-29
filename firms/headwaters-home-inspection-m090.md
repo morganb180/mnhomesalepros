@@ -1,6 +1,6 @@
 ---
 title: "Headwaters Home Inspection, Laporte, MN | MN Home Sale Pros"
-description: "Headwaters Home Inspection: Radon measurement in Laporte, MN. Licence details, contact and quotes."
+description: "Headwaters Home Inspection in Laporte, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/headwaters-home-inspection-m090/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Consulting Solutions Inc., Chicago, IL | MN Home Sale Pros"
-description: "Consulting Solutions Inc.: Radon measurement in Chicago, IL. Licence details, contact and quotes."
+description: "Consulting Solutions Inc. in Chicago, IL: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/consulting-solutions-inc-m057/
 ---
 

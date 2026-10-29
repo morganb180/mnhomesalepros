@@ -1,6 +1,6 @@
 ---
 title: "Ohm Excavating LLC, Audubon, MN | MN Home Sale Pros"
-description: "Ohm Excavating LLC: Septic (SSTS) inspection in Audubon, MN. Licence details, contact and quotes."
+description: "Ohm Excavating LLC in Audubon, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/ohm-excavating-llc-sl4034/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Zimmerman Diversified Services, Inc., Richmond, MN | MN Home Sale Pros"
-description: "Zimmerman Diversified Services, Inc.: Septic (SSTS) inspection in Richmond, MN. Licence details, contact and quotes."
+title: "Zimmerman Diversified Services, Inc., Richmond MN"
+description: "Zimmerman Diversified Services in Richmond, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/zimmerman-diversified-services-inc-sl1001/
 ---
 

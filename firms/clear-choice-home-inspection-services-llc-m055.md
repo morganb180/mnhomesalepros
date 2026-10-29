@@ -1,5 +1,5 @@
 ---
-title: "Clear Choice Home Inspection Services, LLC, Buffalo, MN | MN Home Sale Pros"
+title: "Clear Choice Home Inspection Services, LLC, Buffalo MN"
 description: "Clear Choice Home Inspection Services, LLC: Radon measurement, Radon mitigation in Buffalo, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/clear-choice-home-inspection-services-llc-m055/
 ---

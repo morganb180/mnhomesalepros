@@ -1,6 +1,6 @@
 ---
 title: "MJL Contracting Inc, Isanti, MN | MN Home Sale Pros"
-description: "MJL Contracting Inc: Septic (SSTS) inspection in Isanti, MN. Licence details, contact and quotes."
+description: "MJL Contracting Inc in Isanti, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/mjl-contracting-inc-sl2449/
 ---
 

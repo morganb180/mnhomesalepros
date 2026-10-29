@@ -1,6 +1,6 @@
 ---
 title: "How We Verify Listings | MN Home Sale Pros"
-description: "How MN Home Sale Pros builds and checks its listings: sources, retrieval dates, what we verify and what we don't."
+description: "How MN Home Sale Pros builds and checks its listings: official MPCA, MDH and Saint Paul sources, retrieval dates, what we verify and what we do not."
 canonical: https://mnhomesalepros.com/how-we-verify/
 ---
 

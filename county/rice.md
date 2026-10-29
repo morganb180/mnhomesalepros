@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in Rice County, MN: 11 Licensed | MN Home Sale Pros"
-description: "6 MPCA-licensed SSTS inspectors and 5 MDH-licensed radon pros based in Rice County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in Rice County, MN"
+description: "Rice County, MN: 6 MPCA-licensed septic (SSTS) inspectors and 5 MDH-licensed radon businesses with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/rice/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://mnhomesalepros.com/county/rice/
 
 # Septic inspectors and radon pros in Rice County, MN
 
+**Quick answer:** For sellers, buyers and agents in Rice County, MN: MN Home Sale Pros lists 6 MPCA-licensed SSTS (septic) inspector businesses and 5 MDH-licensed radon businesses with an address in Rice County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
 6 MPCA-licensed SSTS inspector businesses and 5 MDH-licensed radon businesses list an address in Rice County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors (6)
+## Who does septic (SSTS) inspections in Rice County, MN? (6)
+
+6 MPCA-licensed SSTS inspector businesses list an address in Rice County. Ask the county or city SSTS office whether a transfer inspection applies.
 
 ✔ MPCA SSTS licensed Inspector
 
@@ -91,7 +95,9 @@ Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer
 License L438, expires 2027-02-03 · bonded, insured  
 Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL438)
 
-## Radon testing and mitigation (5)
+## Who does radon testing and mitigation in Rice County, MN? (5)
+
+5 MDH-licensed radon businesses list an address in Rice County. Most radon pros list a statewide service area.
 
 ✔ MDH radon license Mitigation
 
@@ -170,7 +176,7 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
-## Neighboring counties
+## Which counties border Rice County, MN?
 
 [Dakota County](https://mnhomesalepros.com/county/dakota/) · [Dodge County](https://mnhomesalepros.com/county/dodge/) · [Goodhue County](https://mnhomesalepros.com/county/goodhue/) · [Le Sueur County](https://mnhomesalepros.com/county/le-sueur/) · [Scott County](https://mnhomesalepros.com/county/scott/) · [Steele County](https://mnhomesalepros.com/county/steele/) · [Waseca County](https://mnhomesalepros.com/county/waseca/)
 

@@ -1,6 +1,6 @@
 ---
-title: "Four Diamonds Home Inspection, LLC, Welcome, MN | MN Home Sale Pros"
-description: "Four Diamonds Home Inspection, LLC: Radon measurement in Welcome, MN. Licence details, contact and quotes."
+title: "Four Diamonds Home Inspection: Radon Testing, Welcome MN"
+description: "Four Diamonds Home Inspection, LLC in Welcome, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/four-diamonds-home-inspection-llc-m080/
 ---
 

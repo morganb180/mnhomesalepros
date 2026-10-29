@@ -1,5 +1,5 @@
 ---
-title: "Tim Igoe (Insight Home Inspections LLC), Saint Paul, MN | MN Home Sale Pros"
+title: "Tim Igoe (Insight Home Inspections LLC), Saint Paul MN"
 description: "Tim Igoe (Insight Home Inspections LLC): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/tim-igoe-insight-home-inspections-llc-t11/
 ---

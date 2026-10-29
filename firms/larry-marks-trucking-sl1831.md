@@ -1,6 +1,6 @@
 ---
 title: "Larry Marks Trucking, Babbitt, MN | MN Home Sale Pros"
-description: "Larry Marks Trucking: Septic (SSTS) inspection in Babbitt, MN. Licence details, contact and quotes."
+description: "Larry Marks Trucking in Babbitt, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/larry-marks-trucking-sl1831/
 ---
 

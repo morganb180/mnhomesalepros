@@ -1,6 +1,6 @@
 ---
 title: "Deming Home Inspections, Owatonna, MN | MN Home Sale Pros"
-description: "Deming Home Inspections: Radon measurement in Owatonna, MN. Licence details, contact and quotes."
+description: "Deming Home Inspections in Owatonna, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/deming-home-inspections-m062/
 ---
 

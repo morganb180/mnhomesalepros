@@ -1,5 +1,5 @@
 ---
-title: "MPCA-Licensed SSTS (Septic) Inspectors in Minnesota | MN Home Sale Pros"
+title: "MPCA-Licensed SSTS (Septic) Inspectors in Minnesota"
 description: "All 337 MPCA-licensed SSTS inspector businesses with current licenses, by county, for septic compliance inspections at sale."
 canonical: https://mnhomesalepros.com/septic-inspectors/
 ---
@@ -87,7 +87,9 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 * [Winona](https://mnhomesalepros.com/county/winona/) (1)
 * [Wright](https://mnhomesalepros.com/county/wright/) (4)
 
-## Based out of state (2)
+## Which MPCA-licensed septic inspectors are based outside Minnesota? (2)
+
+2 of the 337 MPCA-licensed SSTS inspector businesses on this page list an address outside Minnesota.
 
 ✔ MPCA SSTS licensed Inspector
 

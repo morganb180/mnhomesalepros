@@ -1,5 +1,5 @@
 ---
-title: "Brogard Plumbing Heating and Excavating Inc, Henning, MN | MN Home Sale Pros"
+title: "Brogard Plumbing Heating and Excavating Inc, Henning MN"
 description: "Brogard Plumbing Heating and Excavating Inc: Septic (SSTS) inspection in Henning, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/brogard-plumbing-heating-and-excavating-inc-sl1332/
 ---

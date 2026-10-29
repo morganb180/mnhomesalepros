@@ -1,6 +1,6 @@
 ---
-title: "Inspection Services Of Minnesota, Saint Louis Park, MN | MN Home Sale Pros"
-description: "Inspection Services Of Minnesota: Radon measurement in Saint Louis Park, MN. Licence details, contact and quotes."
+title: "Inspection Services Of Minnesota, Saint Louis Park MN"
+description: "Inspection Services Of Minnesota in Saint Louis Park, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/inspection-services-of-minnesota-m124/
 ---
 

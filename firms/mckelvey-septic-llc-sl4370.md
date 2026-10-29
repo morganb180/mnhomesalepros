@@ -1,6 +1,6 @@
 ---
 title: "McKelvey Septic LLC, Browerville, MN | MN Home Sale Pros"
-description: "McKelvey Septic LLC: Septic (SSTS) inspection in Browerville, MN. Licence details, contact and quotes."
+description: "McKelvey Septic LLC in Browerville, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/mckelvey-septic-llc-sl4370/
 ---
 

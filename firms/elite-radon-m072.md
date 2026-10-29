@@ -1,6 +1,6 @@
 ---
 title: "Elite Radon, Maplewood, MN | MN Home Sale Pros"
-description: "Elite Radon: Radon measurement, Radon mitigation in Maplewood, MN. Licence details, contact and quotes."
+description: "Elite Radon in Maplewood, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/elite-radon-m072/
 ---
 

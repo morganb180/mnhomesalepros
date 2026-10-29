@@ -1,6 +1,6 @@
 ---
-title: "Northwoods Home Inspection Group LLC, Kenyon, MN | MN Home Sale Pros"
-description: "Northwoods Home Inspection Group LLC: Radon measurement in Kenyon, MN. Licence details, contact and quotes."
+title: "Northwoods Home Inspection Group: Radon Testing, Kenyon MN"
+description: "Northwoods Home Inspection Group LLC in Kenyon, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/northwoods-home-inspection-group-llc-m169/
 ---
 

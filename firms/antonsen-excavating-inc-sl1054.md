@@ -1,6 +1,6 @@
 ---
 title: "Antonsen Excavating Inc, Deerwood, MN | MN Home Sale Pros"
-description: "Antonsen Excavating Inc: Septic (SSTS) inspection in Deerwood, MN. Licence details, contact and quotes."
+description: "Antonsen Excavating Inc in Deerwood, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/antonsen-excavating-inc-sl1054/
 ---
 

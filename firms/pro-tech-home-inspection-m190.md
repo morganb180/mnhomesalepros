@@ -1,6 +1,6 @@
 ---
-title: "Pro-Tech Home Inspection, Pelican Rapids, MN | MN Home Sale Pros"
-description: "Pro-Tech Home Inspection: Radon measurement in Pelican Rapids, MN. Licence details, contact and quotes."
+title: "Pro-Tech Home Inspection: Radon Testing, Pelican Rapids MN"
+description: "Pro-Tech Home Inspection in Pelican Rapids, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/pro-tech-home-inspection-m190/
 ---
 

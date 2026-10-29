@@ -1,6 +1,6 @@
 ---
 title: "Ameradon Services LLC, Mankato, MN | MN Home Sale Pros"
-description: "Ameradon Services LLC: Radon measurement, Radon mitigation in Mankato, MN. Licence details, contact and quotes."
+description: "Ameradon Services in Mankato, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/ameradon-services-llc-m020/
 ---
 

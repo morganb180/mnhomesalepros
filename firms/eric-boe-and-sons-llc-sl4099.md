@@ -1,6 +1,6 @@
 ---
 title: "Eric Boe and Sons LLC, Rose Creek, MN | MN Home Sale Pros"
-description: "Eric Boe and Sons LLC: Septic (SSTS) inspection in Rose Creek, MN. Licence details, contact and quotes."
+description: "Eric Boe and Sons LLC in Rose Creek, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/eric-boe-and-sons-llc-sl4099/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Underground Designs LLC, Pequot Lakes, MN | MN Home Sale Pros"
-description: "Underground Designs LLC: Septic (SSTS) inspection in Pequot Lakes, MN. Licence details, contact and quotes."
+title: "Underground Designs LLC: Septic Inspector, Pequot Lakes MN"
+description: "Underground Designs LLC in Pequot Lakes, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/underground-designs-llc-sl2951/
 ---
 

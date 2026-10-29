@@ -1,6 +1,6 @@
 ---
 title: "Dakota Radon Services, Horace, ND | MN Home Sale Pros"
-description: "Dakota Radon Services: Radon measurement, Radon mitigation in Horace, ND. Licence details, contact and quotes."
+description: "Dakota Radon Services in Horace, ND: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/dakota-radon-services-m060/
 ---
 

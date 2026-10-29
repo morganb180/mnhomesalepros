@@ -1,6 +1,6 @@
 ---
 title: "Hulstein Excavating LLC, Edgerton, MN | MN Home Sale Pros"
-description: "Hulstein Excavating LLC: Septic (SSTS) inspection in Edgerton, MN. Licence details, contact and quotes."
+description: "Hulstein Excavating LLC in Edgerton, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/hulstein-excavating-llc-sl:3909/
 ---
 

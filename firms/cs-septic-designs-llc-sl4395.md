@@ -1,6 +1,6 @@
 ---
 title: "CS Septic Designs, LLC, Pierz, MN | MN Home Sale Pros"
-description: "CS Septic Designs, LLC: Septic (SSTS) inspection in Pierz, MN. Licence details, contact and quotes."
+description: "CS Septic Designs, LLC in Pierz, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/cs-septic-designs-llc-sl4395/
 ---
 

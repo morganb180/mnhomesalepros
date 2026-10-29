@@ -1,6 +1,6 @@
 ---
-title: "Angstrom Analytical Inc., St. Louis Park, MN | MN Home Sale Pros"
-description: "Angstrom Analytical Inc.: Radon measurement in St. Louis Park, MN. Licence details, contact and quotes."
+title: "Angstrom Analytical Inc.: Radon Testing, St. Louis Park MN"
+description: "Angstrom Analytical Inc. in St. Louis Park, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/angstrom-analytical-inc-m026/
 ---
 

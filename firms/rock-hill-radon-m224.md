@@ -1,6 +1,6 @@
 ---
 title: "Rock Hill Radon, Esko, MN | MN Home Sale Pros"
-description: "Rock Hill Radon: Radon measurement, Radon mitigation in Esko, MN. Licence details, contact and quotes."
+description: "Rock Hill Radon in Esko, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/rock-hill-radon-m224/
 ---
 

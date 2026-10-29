@@ -1,6 +1,6 @@
 ---
 title: "Radon Armor LLC, Inver Grove Heights, MN | MN Home Sale Pros"
-description: "Radon Armor LLC: Radon mitigation in Inver Grove Heights, MN. Licence details, contact and quotes."
+description: "Radon Armor LLC in Inver Grove Heights, MN: MDH licensed for radon mitigation. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/radon-armor-llc-m203/
 ---
 

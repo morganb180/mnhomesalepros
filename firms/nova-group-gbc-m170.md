@@ -1,6 +1,6 @@
 ---
 title: "Nova Group, GBC, St. Louis Park, MN | MN Home Sale Pros"
-description: "Nova Group, GBC: Radon measurement in St. Louis Park, MN. Licence details, contact and quotes."
+description: "Nova Group, GBC in St. Louis Park, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/nova-group-gbc-m170/
 ---
 

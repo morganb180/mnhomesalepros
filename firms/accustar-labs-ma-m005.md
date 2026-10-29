@@ -1,6 +1,6 @@
 ---
 title: "Accustar Labs - MA, Ward Hill, MA | MN Home Sale Pros"
-description: "Accustar Labs - MA: Radon analysis laboratory in Ward Hill, MA. Licence details, contact and quotes."
+description: "Accustar Labs - MA in Ward Hill, MA: MDH licensed for radon analysis laboratory. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/accustar-labs-ma-m005/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Landmark Environmental, Bloomington, MN | MN Home Sale Pros"
-description: "Landmark Environmental: Radon measurement, Radon mitigation in Bloomington, MN. Licence details, contact and quotes."
+description: "Landmark Environmental in Bloomington, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/landmark-environmental-m144/
 ---
 

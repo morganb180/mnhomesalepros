@@ -1,6 +1,6 @@
 ---
 title: "SCC LLC, Longville, MN | MN Home Sale Pros"
-description: "SCC LLC: Septic (SSTS) inspection in Longville, MN. Licence details, contact and quotes."
+description: "SCC LLC in Longville, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/scc-llc-sl4245/
 ---
 

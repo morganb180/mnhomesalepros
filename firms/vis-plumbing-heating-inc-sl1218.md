@@ -1,6 +1,6 @@
 ---
-title: "VIS Plumbing & Heating Inc, Lanesboro, MN | MN Home Sale Pros"
-description: "VIS Plumbing & Heating Inc: Septic (SSTS) inspection in Lanesboro, MN. Licence details, contact and quotes."
+title: "VIS Plumbing & Heating Inc: Septic Inspector, Lanesboro MN"
+description: "VIS Plumbing & Heating Inc in Lanesboro, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/vis-plumbing-heating-inc-sl1218/
 ---
 

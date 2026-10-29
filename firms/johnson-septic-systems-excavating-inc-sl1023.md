@@ -1,6 +1,6 @@
 ---
-title: "Johnson Septic Systems & Excavating, Inc., Milaca, MN | MN Home Sale Pros"
-description: "Johnson Septic Systems & Excavating, Inc.: Septic (SSTS) inspection in Milaca, MN. Licence details, contact and quotes."
+title: "Johnson Septic Systems & Excavating, Inc., Milaca MN"
+description: "Johnson Septic Systems & Excavating in Milaca, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/johnson-septic-systems-excavating-inc-sl1023/
 ---
 

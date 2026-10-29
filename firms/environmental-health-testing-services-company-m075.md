@@ -1,5 +1,5 @@
 ---
-title: "Environmental Health Testing Services Company, Saint Louis Park, MN | MN Home Sale Pros"
+title: "Environmental Health Testing Services, Saint Louis Park MN"
 description: "Environmental Health Testing Services Company: Radon measurement in Saint Louis Park, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/environmental-health-testing-services-company-m075/
 ---

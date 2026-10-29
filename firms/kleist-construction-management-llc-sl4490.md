@@ -1,6 +1,6 @@
 ---
-title: "Kleist Construction Management LLC, Hastings, MN | MN Home Sale Pros"
-description: "Kleist Construction Management LLC: Septic (SSTS) inspection in Hastings, MN. Licence details, contact and quotes."
+title: "Kleist Construction Management LLC, Hastings MN"
+description: "Kleist Construction Management in Hastings, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/kleist-construction-management-llc-sl4490/
 ---
 

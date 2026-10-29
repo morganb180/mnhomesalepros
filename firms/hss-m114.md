@@ -1,6 +1,6 @@
 ---
 title: "Hss, Wyoming, MN | MN Home Sale Pros"
-description: "Hss: Radon measurement, Radon mitigation in Wyoming, MN. Licence details, contact and quotes."
+description: "Hss in Wyoming, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/hss-m114/
 ---
 

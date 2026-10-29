@@ -1,6 +1,6 @@
 ---
 title: "Al Nystrom Construction LLC, Remer, MN | MN Home Sale Pros"
-description: "Al Nystrom Construction LLC: Septic (SSTS) inspection in Remer, MN. Licence details, contact and quotes."
+description: "Al Nystrom Construction LLC in Remer, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/al-nystrom-construction-llc-sl1676/
 ---
 

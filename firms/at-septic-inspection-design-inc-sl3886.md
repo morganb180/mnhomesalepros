@@ -1,6 +1,6 @@
 ---
-title: "AT Septic Inspection & Design Inc, Rush City, MN | MN Home Sale Pros"
-description: "AT Septic Inspection & Design Inc: Septic (SSTS) inspection in Rush City, MN. Licence details, contact and quotes."
+title: "AT Septic Inspection & Design Inc, Rush City MN"
+description: "AT Septic Inspection & Design in Rush City, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/at-septic-inspection-design-inc-sl3886/
 ---
 

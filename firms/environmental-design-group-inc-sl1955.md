@@ -1,6 +1,6 @@
 ---
-title: "Environmental Design Group Inc, Frontenac, MN | MN Home Sale Pros"
-description: "Environmental Design Group Inc: Septic (SSTS) inspection in Frontenac, MN. Licence details, contact and quotes."
+title: "Environmental Design Group: Septic Inspector, Frontenac MN"
+description: "Environmental Design Group in Frontenac, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/environmental-design-group-inc-sl1955/
 ---
 

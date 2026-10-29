@@ -1,6 +1,6 @@
 ---
-title: "Septic Inspectors & Radon Pros in Dodge County, MN: 6 Licensed | MN Home Sale Pros"
-description: "5 MPCA-licensed SSTS inspectors and 1 MDH-licensed radon pros based in Dodge County, Minnesota, for home sales."
+title: "Septic Inspectors & Radon Pros in Dodge County, MN"
+description: "Dodge County, MN: 5 MPCA-licensed septic (SSTS) inspectors and 1 MDH-licensed radon business with a local address, from official records."
 canonical: https://mnhomesalepros.com/county/dodge/
 ---
 
@@ -8,11 +8,15 @@ canonical: https://mnhomesalepros.com/county/dodge/
 
 # Septic inspectors and radon pros in Dodge County, MN
 
-5 MPCA-licensed SSTS inspector businesses and 1 MDH-licensed radon businesses list an address in Dodge County. Many work across counties, and most radon pros list a statewide service area.
+**Quick answer:** For sellers, buyers and agents in Dodge County, MN: MN Home Sale Pros lists 5 MPCA-licensed SSTS (septic) inspector businesses and 1 MDH-licensed radon business with an address in Dodge County. Minnesota has no single statewide septic-at-sale rule, so ask the county or city SSTS office whether a transfer inspection applies. Many pros work across counties, and most radon pros list a statewide service area.
+
+5 MPCA-licensed SSTS inspector businesses and 1 MDH-licensed radon business list an address in Dodge County. Many work across counties, and most radon pros list a statewide service area.
 
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
-## SSTS (septic) inspectors (5)
+## Who does septic (SSTS) inspections in Dodge County, MN? (5)
+
+5 MPCA-licensed SSTS inspector businesses list an address in Dodge County. Ask the county or city SSTS office whether a transfer inspection applies.
 
 ✔ MPCA SSTS licensed InspectorIntermediate InspectorAdvanced Inspector
 
@@ -79,7 +83,9 @@ Also licensed: Designer, Installer, Service provider, Pipelayer
 License L77, expires 2027-07-14 · bonded, insured  
 Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=SL77)
 
-## Radon testing and mitigation (1)
+## Who does radon testing and mitigation in Dodge County, MN? (1)
+
+1 MDH-licensed radon business lists an address in Dodge County. Most radon pros list a statewide service area.
 
 ✔ MDH radon license Measurement
 
@@ -97,7 +103,7 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
-## Neighboring counties
+## Which counties border Dodge County, MN?
 
 [Goodhue County](https://mnhomesalepros.com/county/goodhue/) · [Mower County](https://mnhomesalepros.com/county/mower/) · [Olmsted County](https://mnhomesalepros.com/county/olmsted/) · [Rice County](https://mnhomesalepros.com/county/rice/) · [Steele County](https://mnhomesalepros.com/county/steele/)
 

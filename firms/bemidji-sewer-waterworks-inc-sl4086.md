@@ -1,6 +1,6 @@
 ---
-title: "Bemidji Sewer & Waterworks Inc., Hines, MN | MN Home Sale Pros"
-description: "Bemidji Sewer & Waterworks Inc.: Septic (SSTS) inspection in Hines, MN. Licence details, contact and quotes."
+title: "Bemidji Sewer & Waterworks Inc.: Septic Inspector, Hines MN"
+description: "Bemidji Sewer & Waterworks in Hines, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/bemidji-sewer-waterworks-inc-sl4086/
 ---
 

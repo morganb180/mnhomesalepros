@@ -1,5 +1,5 @@
 ---
-title: "George Ury (Structure Tech Home Inspections), Saint Paul, MN | MN Home Sale Pros"
+title: "George Ury (Structure Tech Home Inspections), Saint Paul MN"
 description: "George Ury (Structure Tech Home Inspections): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/george-ury-structure-tech-home-inspections-t32/
 ---

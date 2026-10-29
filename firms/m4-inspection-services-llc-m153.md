@@ -1,6 +1,6 @@
 ---
 title: "M4 Inspection Services, LLC, Nevis, MN | MN Home Sale Pros"
-description: "M4 Inspection Services, LLC: Radon measurement in Nevis, MN. Licence details, contact and quotes."
+description: "M4 Inspection Services, LLC in Nevis, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/m4-inspection-services-llc-m153/
 ---
 

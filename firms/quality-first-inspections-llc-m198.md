@@ -1,6 +1,6 @@
 ---
-title: "Quality First Inspections llc, Wahpeton, ND | MN Home Sale Pros"
-description: "Quality First Inspections llc: Radon measurement in Wahpeton, ND. Licence details, contact and quotes."
+title: "Quality First Inspections llc: Radon Testing, Wahpeton ND"
+description: "Quality First Inspections llc in Wahpeton, ND: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/quality-first-inspections-llc-m198/
 ---
 

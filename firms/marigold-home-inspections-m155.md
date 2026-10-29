@@ -1,6 +1,6 @@
 ---
-title: "Marigold Home Inspections, Coon Rapids, MN | MN Home Sale Pros"
-description: "Marigold Home Inspections: Radon measurement, Radon mitigation in Coon Rapids, MN. Licence details, contact and quotes."
+title: "Marigold Home Inspections, Coon Rapids MN"
+description: "Marigold Home Inspections in Coon Rapids, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/marigold-home-inspections-m155/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "A1 Septic Service and Excavating LLC, Detroit Lakes, MN | MN Home Sale Pros"
+title: "A1 Septic Service and Excavating LLC, Detroit Lakes MN"
 description: "A1 Septic Service and Excavating LLC: Septic (SSTS) inspection in Detroit Lakes, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/a1-septic-service-and-excavating-llc-sl2029/
 ---

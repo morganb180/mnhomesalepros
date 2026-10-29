@@ -1,6 +1,6 @@
 ---
 title: "Best Step Home Inspections, Glencoe, MN | MN Home Sale Pros"
-description: "Best Step Home Inspections: Radon measurement in Glencoe, MN. Licence details, contact and quotes."
+description: "Best Step Home Inspections in Glencoe, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/best-step-home-inspections-m036/
 ---
 

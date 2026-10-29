@@ -1,6 +1,6 @@
 ---
-title: "Eiffler Septic Inspection & Design, Hinckley, MN | MN Home Sale Pros"
-description: "Eiffler Septic Inspection & Design: Septic (SSTS) inspection in Hinckley, MN. Licence details, contact and quotes."
+title: "Eiffler Septic Inspection & Design, Hinckley MN"
+description: "Eiffler Septic Inspection & Design in Hinckley, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/eiffler-septic-inspection-design-sl4539/
 ---
 

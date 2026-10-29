@@ -1,5 +1,5 @@
 ---
-title: "Hennepin County Housing and Economic Development, Minneapolis, MN | MN Home Sale Pros"
+title: "Hennepin County Housing and Economic Development"
 description: "Hennepin County Housing and Economic Development: Radon measurement in Minneapolis, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/hennepin-county-housing-and-economic-development-m096/
 ---

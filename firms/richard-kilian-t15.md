@@ -1,6 +1,6 @@
 ---
 title: "Richard Kilian, Saint Paul, MN | MN Home Sale Pros"
-description: "Richard Kilian: Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
+description: "Richard Kilian in Saint Paul, MN: City of Saint Paul licensed for Saint Paul TISH evaluation. Licence details, contact and the City of Saint Paul source."
 canonical: https://mnhomesalepros.com/firms/richard-kilian-t15/
 ---
 

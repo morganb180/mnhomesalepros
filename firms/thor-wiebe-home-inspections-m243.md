@@ -1,6 +1,6 @@
 ---
-title: "Thor Wiebe Home Inspections, Marshall, MN | MN Home Sale Pros"
-description: "Thor Wiebe Home Inspections: Radon measurement, Radon mitigation in Marshall, MN. Licence details, contact and quotes."
+title: "Thor Wiebe Home Inspections, Marshall MN"
+description: "Thor Wiebe Home Inspections in Marshall, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/thor-wiebe-home-inspections-m243/
 ---
 

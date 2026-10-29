@@ -1,6 +1,6 @@
 ---
-title: "River's Edge Home Inspections LLC, Wabasha, MN | MN Home Sale Pros"
-description: "River's Edge Home Inspections LLC: Radon measurement in Wabasha, MN. Licence details, contact and quotes."
+title: "River's Edge Home Inspections LLC: Radon Testing, Wabasha MN"
+description: "River's Edge Home Inspections LLC in Wabasha, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/river-s-edge-home-inspections-llc-m222/
 ---
 

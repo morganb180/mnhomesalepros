@@ -1,6 +1,6 @@
 ---
 title: "Mr Radon LLC, Elko New Market, MN | MN Home Sale Pros"
-description: "Mr Radon LLC: Radon measurement, Radon mitigation in Elko New Market, MN. Licence details, contact and quotes."
+description: "Mr Radon in Elko New Market, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/mr-radon-llc-m163/
 ---
 

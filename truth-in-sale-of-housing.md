@@ -1,6 +1,6 @@
 ---
-title: "Minnesota Truth-in-Sale of Housing (TISH) & Point-of-Sale Inspections | MN Home Sale Pros"
-description: "Which Minnesota cities require a point-of-sale housing evaluation (TISH), with official city sources, Saint Paul's approved evaluator list and a Minneapolis guide."
+title: "Minnesota Truth-in-Sale of Housing (TISH) Inspections"
+description: "Which Minnesota cities require a point-of-sale housing evaluation (TISH), with official city sources, Saint Paul evaluators and a Minneapolis guide."
 canonical: https://mnhomesalepros.com/truth-in-sale-of-housing/
 ---
 
@@ -20,13 +20,15 @@ Some Minnesota cities require a housing evaluation or inspection before a home i
 | St. Louis Park | Property maintenance (point of sale) inspection | Before listing; city inspector | See city page | [Official city page](https://www.stlouisparkmn.gov/our-city/resident-resources/housing-inspection) |
 | South St. Paul | Time of Sale evaluation | Before showing; city-licensed private evaluator | Evaluator sets fee | [Official city page](https://southstpaulmn.gov/126/Time-of-Sale) |
 
-## Cities that ended their programs
+## Which Minnesota cities have ended point-of-sale inspections?
+
+Robbinsdale stopped requiring point-of-sale inspections on February 6, 2024, and Hopkins repealed Truth-in-Housing effective January 14, 2021.
 
 * **Robbinsdale:** Stopped requiring point-of-sale inspections February 6, 2024 ([city source](https://www.robbinsdalemn.com/Archive/ViewFile/Item/130)).
 * **Hopkins:** Truth-in-Housing repealed effective January 14, 2021 ([city source](https://hopkinsmn.com/645/Selling-Your-Home)).
 
 Checked against each city's official page on 2026-10-13. Rules and fees change, and other cities may have programs not listed here, so confirm with the city before you list.
 
-## Find inspectors by county
+## Where can I find home-sale inspectors by county?
 
 [All counties](https://mnhomesalepros.com/counties/) · [Hennepin County](https://mnhomesalepros.com/county/hennepin/) · [Saint Louis County](https://mnhomesalepros.com/county/saint-louis/) · [Dakota County](https://mnhomesalepros.com/county/dakota/) · [Otter Tail County](https://mnhomesalepros.com/county/otter-tail/) · [Anoka County](https://mnhomesalepros.com/county/anoka/) · [Olmsted County](https://mnhomesalepros.com/county/olmsted/)

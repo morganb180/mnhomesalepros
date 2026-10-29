@@ -1,6 +1,6 @@
 ---
 title: "Jennen Construction LLC, Hawley, MN | MN Home Sale Pros"
-description: "Jennen Construction LLC: Septic (SSTS) inspection in Hawley, MN. Licence details, contact and quotes."
+description: "Jennen Construction LLC in Hawley, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/jennen-construction-llc-sl4399/
 ---
 

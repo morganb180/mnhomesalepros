@@ -1,5 +1,5 @@
 ---
-title: "Brett Fredrichs (Marigold Home Inspections), Saint Paul, MN | MN Home Sale Pros"
+title: "Brett Fredrichs (Marigold Home Inspections), Saint Paul MN"
 description: "Brett Fredrichs (Marigold Home Inspections): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/brett-fredrichs-marigold-home-inspections-t07/
 ---

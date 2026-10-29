@@ -1,6 +1,6 @@
 ---
-title: "WSE Engineering Services LTD, Rochester, MN | MN Home Sale Pros"
-description: "WSE Engineering Services LTD: Septic (SSTS) inspection in Rochester, MN. Licence details, contact and quotes."
+title: "WSE Engineering Services LTD: Septic Inspector, Rochester MN"
+description: "WSE Engineering Services in Rochester, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/wse-engineering-services-ltd-sl4208/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Ziemer Home & Septic Inspection LLC, Belgrade, MN | MN Home Sale Pros"
-description: "Ziemer Home & Septic Inspection LLC: Septic (SSTS) inspection in Belgrade, MN. Licence details, contact and quotes."
+title: "Ziemer Home & Septic Inspection LLC, Belgrade MN"
+description: "Ziemer Home & Septic Inspection in Belgrade, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/ziemer-home-septic-inspection-llc-sl4169/
 ---
 

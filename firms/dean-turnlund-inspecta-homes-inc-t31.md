@@ -1,5 +1,5 @@
 ---
-title: "Dean Turnlund (Inspecta-Homes, Inc.), Saint Paul, MN | MN Home Sale Pros"
+title: "Dean Turnlund (Inspecta-Homes, Inc.), Saint Paul MN"
 description: "Dean Turnlund (Inspecta-Homes, Inc.): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/dean-turnlund-inspecta-homes-inc-t31/
 ---

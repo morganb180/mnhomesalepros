@@ -1,6 +1,6 @@
 ---
 title: "Dale Wicklund, Greenbush, MN | MN Home Sale Pros"
-description: "Dale Wicklund: Septic (SSTS) inspection in Greenbush, MN. Licence details, contact and quotes."
+description: "Dale Wicklund in Greenbush, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/dale-wicklund-sl1330/
 ---
 

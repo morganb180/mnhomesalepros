@@ -1,5 +1,5 @@
 ---
-title: "Cory Jacobs (Cory Jacobs Home Inspections LLC), Saint Paul, MN | MN Home Sale Pros"
+title: "Cory Jacobs (Cory Jacobs Home Inspections LLC)"
 description: "Cory Jacobs (Cory Jacobs Home Inspections LLC): Saint Paul TISH evaluation in Saint Paul, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/cory-jacobs-cory-jacobs-home-inspections-llc-t13/
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Arrow Inspection, Ham Lake, MN | MN Home Sale Pros"
-description: "Arrow Inspection: Radon measurement, Radon mitigation in Ham Lake, MN. Licence details, contact and quotes."
+description: "Arrow Inspection in Ham Lake, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/arrow-inspection-m028/
 ---
 

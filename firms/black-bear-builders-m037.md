@@ -1,6 +1,6 @@
 ---
 title: "Black Bear Builders, Elk River, MN | MN Home Sale Pros"
-description: "Black Bear Builders: Radon measurement, Radon mitigation in Elk River, MN. Licence details, contact and quotes."
+description: "Black Bear Builders in Elk River, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/black-bear-builders-m037/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Metro West Inspection Services Inc, Loretto, MN | MN Home Sale Pros"
-description: "Metro West Inspection Services Inc: Septic (SSTS) inspection in Loretto, MN. Licence details, contact and quotes."
+title: "Metro West Inspection Services: Septic Inspector, Loretto MN"
+description: "Metro West Inspection Services in Loretto, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/metro-west-inspection-services-inc-sl3952/
 ---
 

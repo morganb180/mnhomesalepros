@@ -1,5 +1,5 @@
 ---
-title: "Dave Przybilla Septic & Excavating, LLC, Little Falls, MN | MN Home Sale Pros"
+title: "Dave Przybilla Septic & Excavating, LLC, Little Falls MN"
 description: "Dave Przybilla Septic & Excavating, LLC: Septic (SSTS) inspection in Little Falls, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/dave-przybilla-septic-excavating-llc-sl1750/
 ---

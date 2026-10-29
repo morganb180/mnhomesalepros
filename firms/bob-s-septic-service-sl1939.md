@@ -1,6 +1,6 @@
 ---
 title: "Bob's Septic Service, Henning, MN | MN Home Sale Pros"
-description: "Bob's Septic Service: Septic (SSTS) inspection in Henning, MN. Licence details, contact and quotes."
+description: "Bob's Septic Service in Henning, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/bob-s-septic-service-sl1939/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Bustad Dozing & Excavating Inc., Taopi, MN | MN Home Sale Pros"
-description: "Bustad Dozing & Excavating Inc.: Septic (SSTS) inspection in Taopi, MN. Licence details, contact and quotes."
+title: "Bustad Dozing & Excavating Inc.: Septic Inspector, Taopi MN"
+description: "Bustad Dozing & Excavating in Taopi, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/bustad-dozing-excavating-inc-sl3468/
 ---
 

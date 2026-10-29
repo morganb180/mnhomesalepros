@@ -1,6 +1,6 @@
 ---
-title: "Orton Construction and Consulting LLC, Britt, MN | MN Home Sale Pros"
-description: "Orton Construction and Consulting LLC: Septic (SSTS) inspection in Britt, MN. Licence details, contact and quotes."
+title: "Orton Construction and Consulting LLC, Britt MN"
+description: "Orton Construction and Consulting in Britt, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/orton-construction-and-consulting-llc-sl1236/
 ---
 

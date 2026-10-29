@@ -1,6 +1,6 @@
 ---
 title: "MSP Inspections LLC, Eagan, MN | MN Home Sale Pros"
-description: "MSP Inspections LLC: Radon measurement in Eagan, MN. Licence details, contact and quotes."
+description: "MSP Inspections LLC in Eagan, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/msp-inspections-llc-m164/
 ---
 

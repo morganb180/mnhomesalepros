@@ -1,6 +1,6 @@
 ---
 title: "Barry Excavating Inc, Dent, MN | MN Home Sale Pros"
-description: "Barry Excavating Inc: Septic (SSTS) inspection in Dent, MN. Licence details, contact and quotes."
+description: "Barry Excavating Inc in Dent, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/barry-excavating-inc-sl2821/
 ---
 

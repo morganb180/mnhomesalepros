@@ -1,6 +1,6 @@
 ---
 title: "Jeff Crosby, Duluth, MN | MN Home Sale Pros"
-description: "Jeff Crosby: Septic (SSTS) inspection in Duluth, MN. Licence details, contact and quotes."
+description: "Jeff Crosby in Duluth, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and a link to the official MPCA record."
 canonical: https://mnhomesalepros.com/firms/jeff-crosby-sl2928/
 ---
 

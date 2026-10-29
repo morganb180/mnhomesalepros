@@ -1,6 +1,6 @@
 ---
 title: "A-1 Precision Pumping, Inc., Hokah, MN | MN Home Sale Pros"
-description: "A-1 Precision Pumping, Inc.: Septic (SSTS) inspection in Hokah, MN. Licence details, contact and quotes."
+description: "A-1 Precision Pumping, Inc. in Hokah, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/a-1-precision-pumping-inc-sl3310/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Home Check, Rochester, MN | MN Home Sale Pros"
-description: "Home Check: Radon measurement in Rochester, MN. Licence details, contact and quotes."
+description: "Home Check in Rochester, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/home-check-m099/
 ---
 

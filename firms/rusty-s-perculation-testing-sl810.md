@@ -1,6 +1,6 @@
 ---
 title: "Rusty's Perculation Testing, Hanover, MN | MN Home Sale Pros"
-description: "Rusty's Perculation Testing: Septic (SSTS) inspection in Hanover, MN. Licence details, contact and quotes."
+description: "Rusty's Perculation Testing in Hanover, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/rusty-s-perculation-testing-sl810/
 ---
 

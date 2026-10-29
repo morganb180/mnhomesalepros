@@ -1,6 +1,6 @@
 ---
-title: "Minnesota Geotechnical Services, LLC, Maple Lake, MN | MN Home Sale Pros"
-description: "Minnesota Geotechnical Services, LLC: Septic (SSTS) inspection in Maple Lake, MN. Licence details, contact and quotes."
+title: "Minnesota Geotechnical Services, LLC, Maple Lake MN"
+description: "Minnesota Geotechnical Services in Maple Lake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/minnesota-geotechnical-services-llc-sl3203/
 ---
 

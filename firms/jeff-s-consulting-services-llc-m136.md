@@ -1,6 +1,6 @@
 ---
-title: "Jeff's Consulting Services LLC, Hastings, MN | MN Home Sale Pros"
-description: "Jeff's Consulting Services LLC: Radon measurement in Hastings, MN. Licence details, contact and quotes."
+title: "Jeff's Consulting Services LLC: Radon Testing, Hastings MN"
+description: "Jeff's Consulting Services LLC in Hastings, MN: MDH licensed for radon measurement. Licence details, contact information and the official MDH source."
 canonical: https://mnhomesalepros.com/firms/jeff-s-consulting-services-llc-m136/
 ---
 

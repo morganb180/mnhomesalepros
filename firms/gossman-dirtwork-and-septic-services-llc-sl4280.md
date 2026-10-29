@@ -1,6 +1,6 @@
 ---
-title: "Gossman Dirtwork and Septic Services LLC, Preston, MN | MN Home Sale Pros"
-description: "Gossman Dirtwork and Septic Services LLC: Septic (SSTS) inspection in Preston, MN. Licence details, contact and quotes."
+title: "Gossman Dirtwork and Septic Services LLC, Preston MN"
+description: "Gossman Dirtwork and Septic Services in Preston, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/gossman-dirtwork-and-septic-services-llc-sl4280/
 ---
 

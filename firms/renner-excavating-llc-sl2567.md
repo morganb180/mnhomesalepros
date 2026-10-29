@@ -1,6 +1,6 @@
 ---
 title: "Renner Excavating LLC, Audubon, MN | MN Home Sale Pros"
-description: "Renner Excavating LLC: Septic (SSTS) inspection in Audubon, MN. Licence details, contact and quotes."
+description: "Renner Excavating LLC in Audubon, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/renner-excavating-llc-sl2567/
 ---
 

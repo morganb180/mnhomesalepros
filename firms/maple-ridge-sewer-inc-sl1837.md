@@ -1,6 +1,6 @@
 ---
 title: "Maple Ridge Sewer Inc, Cambridge, MN | MN Home Sale Pros"
-description: "Maple Ridge Sewer Inc: Septic (SSTS) inspection in Cambridge, MN. Licence details, contact and quotes."
+description: "Maple Ridge Sewer Inc in Cambridge, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/maple-ridge-sewer-inc-sl1837/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Thompsons Sewer Service & Soil Testing Inc, Rush City, MN | MN Home Sale Pros"
+title: "Thompsons Sewer Service & Soil Testing Inc, Rush City MN"
 description: "Thompsons Sewer Service & Soil Testing Inc: Septic (SSTS) inspection in Rush City, MN. Licence details, contact and quotes."
 canonical: https://mnhomesalepros.com/firms/thompsons-sewer-service-soil-testing-inc-sl261/
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Radon Remedies, West Fargo, ND | MN Home Sale Pros"
-description: "Radon Remedies: Radon measurement, Radon mitigation in West Fargo, ND. Licence details, contact and quotes."
+description: "Radon Remedies in West Fargo, ND: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
 canonical: https://mnhomesalepros.com/firms/radon-remedies-m210/
 ---
 

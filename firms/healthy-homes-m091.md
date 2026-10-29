@@ -1,6 +1,6 @@
 ---
 title: "Healthy Homes, St Cloud, MN | MN Home Sale Pros"
-description: "Healthy Homes: Radon measurement in St Cloud, MN. Licence details, contact and quotes."
+description: "Healthy Homes in St Cloud, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/healthy-homes-m091/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Otter Home Inspection, Braham, MN | MN Home Sale Pros"
-description: "Otter Home Inspection: Radon measurement in Braham, MN. Licence details, contact and quotes."
+description: "Otter Home Inspection in Braham, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/otter-home-inspection-m174/
 ---
 

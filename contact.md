@@ -1,6 +1,6 @@
 ---
 title: "Contact | MN Home Sale Pros"
-description: "How to reach us about listings, corrections or questions."
+description: "Contact MN Home Sale Pros about a listing, a data correction or advertising. We are an independent directory, not an inspector or government agency."
 canonical: https://mnhomesalepros.com/contact/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "4K Construction LLC, Balaton, MN | MN Home Sale Pros"
-description: "4K Construction LLC: Radon measurement in Balaton, MN. Licence details, contact and quotes."
+description: "4K Construction LLC in Balaton, MN: MDH licensed for radon measurement. Licence details, contact information and a link to the official MDH record."
 canonical: https://mnhomesalepros.com/firms/4k-construction-llc-m002/
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Wilke Environmental & Logistics LLC, Bellingham, MN | MN Home Sale Pros"
-description: "Wilke Environmental & Logistics LLC: Septic (SSTS) inspection in Bellingham, MN. Licence details, contact and quotes."
+title: "Wilke Environmental & Logistics LLC, Bellingham MN"
+description: "Wilke Environmental & Logistics in Bellingham, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/wilke-environmental-logistics-llc-sl2306/
 ---
 

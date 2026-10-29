@@ -1,6 +1,6 @@
 ---
 title: "Caspers Excavating Inc, East Bethel, MN | MN Home Sale Pros"
-description: "Caspers Excavating Inc: Septic (SSTS) inspection in East Bethel, MN. Licence details, contact and quotes."
+description: "Caspers Excavating Inc in East Bethel, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact information and the official MPCA source."
 canonical: https://mnhomesalepros.com/firms/caspers-excavating-inc-sl265/
 ---
 
