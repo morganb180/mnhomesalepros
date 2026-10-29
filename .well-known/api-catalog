@@ -1,0 +1,96 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://leads.radonroster.com/api/firms?site=mnhome",
+      "service-desc": [
+        {
+          "href": "https://mnhomesalepros.com/openapi.json",
+          "type": "application/openapi+json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://mnhomesalepros.com/.well-known/agent-skills/mn-home-sale-pros-find-firms/SKILL.md",
+          "type": "text/markdown"
+        },
+        {
+          "href": "https://mnhomesalepros.com/llms.txt",
+          "type": "text/plain"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://leads.radonroster.com/api/health?site=mnhome",
+          "type": "application/json"
+        }
+      ]
+    },
+    {
+      "anchor": "https://leads.radonroster.com/api/agent/quote?site=mnhome",
+      "service-desc": [
+        {
+          "href": "https://mnhomesalepros.com/openapi.json",
+          "type": "application/openapi+json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://mnhomesalepros.com/.well-known/agent-skills/mn-home-sale-pros-request-quote/SKILL.md",
+          "type": "text/markdown"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://leads.radonroster.com/api/health?site=mnhome",
+          "type": "application/json"
+        }
+      ]
+    },
+    {
+      "anchor": "https://mnhomesalepros.com/api/",
+      "service-desc": [
+        {
+          "href": "https://mnhomesalepros.com/openapi.json",
+          "type": "application/openapi+json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://mnhomesalepros.com/.well-known/agent-skills/mn-home-sale-pros-find-firms/SKILL.md",
+          "type": "text/markdown"
+        }
+      ],
+      "item": [
+        {
+          "href": "https://mnhomesalepros.com/api/index.json",
+          "type": "application/json"
+        },
+        {
+          "href": "https://mnhomesalepros.com/api/firms.json",
+          "type": "application/json"
+        }
+      ]
+    },
+    {
+      "anchor": "https://leads.radonroster.com/mcp?site=mnhome",
+      "service-desc": [
+        {
+          "href": "https://mnhomesalepros.com/.well-known/mcp.json",
+          "type": "application/json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://mnhomesalepros.com/.well-known/agent-skills/mn-home-sale-pros-find-firms/SKILL.md",
+          "type": "text/markdown"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://leads.radonroster.com/api/health?site=mnhome",
+          "type": "application/json"
+        }
+      ]
+    }
+  ]
+}

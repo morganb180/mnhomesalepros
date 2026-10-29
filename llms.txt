@@ -18,6 +18,14 @@ It is for Minnesota sellers, buyers and agents dealing with septic compliance in
 - [Contact](https://mnhomesalepros.com/contact/)
 - [Privacy Policy](https://mnhomesalepros.com/privacy/)
 
+## Agent API
+- [API catalog](https://mnhomesalepros.com/.well-known/api-catalog): RFC 9727 linkset
+- [OpenAPI spec](https://mnhomesalepros.com/openapi.json): search API and quote requests
+- [Feed index](https://mnhomesalepros.com/api/index.json): data sources, last-updated date, county/city feeds
+- [All firms (JSON)](https://mnhomesalepros.com/api/firms.json)
+- [MCP server card](https://mnhomesalepros.com/.well-known/mcp.json): remote MCP at https://leads.radonroster.com/mcp?site=mnhome
+- [Agent skills](https://mnhomesalepros.com/.well-known/agent-skills/index.json)
+
 ## Optional
 - [llms-full.txt](https://mnhomesalepros.com/llms-full.txt): every page on the site
 - [Sitemap](https://mnhomesalepros.com/sitemap.xml)

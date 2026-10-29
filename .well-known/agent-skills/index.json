@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "mn-home-sale-pros-find-firms",
+      "type": "skill-md",
+      "description": "Find licensed Minnesota septic (SSTS) inspectors, radon pros and Saint Paul TISH evaluators on MN Home Sale Pros by ZIP, city or county, with credentials and links to each listing.",
+      "url": "https://mnhomesalepros.com/.well-known/agent-skills/mn-home-sale-pros-find-firms/SKILL.md",
+      "digest": "sha256:dc72f3dc152d9e7fb53952ade06ece3efc413c94d60e3cd1d92558f9e945f001"
+    },
+    {
+      "name": "mn-home-sale-pros-request-quote",
+      "type": "skill-md",
+      "description": "Request quotes from licensed Minnesota septic (SSTS) inspectors, radon pros and Saint Paul TISH evaluators for a homeowner via MN Home Sale Pros; the homeowner confirms by email before anything is sent.",
+      "url": "https://mnhomesalepros.com/.well-known/agent-skills/mn-home-sale-pros-request-quote/SKILL.md",
+      "digest": "sha256:05c5168622be30c352c9d03fb24f6027ac739c383ebcbfa87e6ee408dd90e980"
+    }
+  ]
+}

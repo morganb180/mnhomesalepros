@@ -1,0 +1,774 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "MN Home Sale Pros directory API",
+    "version": "1.0.0",
+    "summary": "Read-only search of licensed Minnesota septic (SSTS) inspectors, radon pros and Saint Paul TISH evaluators, plus homeowner-confirmed quote requests.",
+    "description": "Public listing data from MN Home Sale Pros (https://mnhomesalepros.com). Built only from what the site already publishes; no phone numbers, emails or street addresses (see each firm_url). A listing is not an endorsement.",
+    "contact": {
+      "name": "MN Home Sale Pros",
+      "url": "https://mnhomesalepros.com/"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://leads.radonroster.com",
+      "description": "Agent API (Cloudflare Worker)"
+    }
+  ],
+  "externalDocs": {
+    "url": "https://mnhomesalepros.com/llms.txt"
+  },
+  "paths": {
+    "/api/firms": {
+      "get": {
+        "operationId": "searchFirms",
+        "summary": "Search MN Home Sale Pros firms by ZIP, city or county",
+        "description": "Requires one of zip, city or county. CORS is open (Access-Control-Allow-Origin: *).",
+        "parameters": [
+          {
+            "name": "site",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "const": "mnhome"
+            }
+          },
+          {
+            "name": "zip",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "pattern": "^\\d{5}$"
+            }
+          },
+          {
+            "name": "city",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "county",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "state",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "MN"
+              ]
+            }
+          },
+          {
+            "name": "service",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "septic_inspection",
+                "radon_test",
+                "radon_mitigation",
+                "radon_lab",
+                "tish"
+              ]
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 50,
+              "default": 10
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Matching firms",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResult"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "429": {
+            "description": "Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/index.json": {
+      "servers": [
+        {
+          "url": "https://mnhomesalepros.com",
+          "description": "Static feeds on the site (GitHub Pages)"
+        }
+      ],
+      "get": {
+        "operationId": "getIndex",
+        "summary": "Feed index: data sources, last-updated date, counties, cities, services",
+        "responses": {
+          "200": {
+            "description": "Index",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/firms.json": {
+      "servers": [
+        {
+          "url": "https://mnhomesalepros.com",
+          "description": "Static feeds on the site (GitHub Pages)"
+        }
+      ],
+      "get": {
+        "operationId": "listAllFirms",
+        "summary": "All 638 listed firms",
+        "responses": {
+          "200": {
+            "description": "All firms",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "firms": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/components/schemas/Firm"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/health": {
+      "get": {
+        "operationId": "health",
+        "summary": "API status",
+        "parameters": [
+          {
+            "name": "site",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "const": "mnhome"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/mcp": {
+      "post": {
+        "operationId": "mcp",
+        "summary": "Remote MCP server (streamable HTTP, JSON-RPC 2.0)",
+        "description": "Model Context Protocol endpoint. Use `https://leads.radonroster.com/mcp?site=mnhome`. Tools: search_firms, get_firm, list_areas, request_quote.",
+        "parameters": [
+          {
+            "name": "site",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "const": "mnhome"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "JSON-RPC response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          },
+          "202": {
+            "description": "Notification accepted"
+          }
+        }
+      }
+    },
+    "/api/county/{slug}.json": {
+      "servers": [
+        {
+          "url": "https://mnhomesalepros.com",
+          "description": "Static feeds on the site (GitHub Pages)"
+        }
+      ],
+      "get": {
+        "operationId": "getCounty",
+        "summary": "Firms listed on one county page (slugs in /api/index.json)",
+        "parameters": [
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Area feed",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AreaFeed"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Unknown slug"
+          }
+        }
+      }
+    },
+    "/api/city/{slug}.json": {
+      "servers": [
+        {
+          "url": "https://mnhomesalepros.com",
+          "description": "Static feeds on the site (GitHub Pages)"
+        }
+      ],
+      "get": {
+        "operationId": "getCity",
+        "summary": "Firms listed on one city/town page (slugs in /api/index.json)",
+        "parameters": [
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Area feed",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AreaFeed"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Unknown slug"
+          }
+        }
+      }
+    },
+    "/api/agent/quote": {
+      "post": {
+        "operationId": "requestQuote",
+        "summary": "Request quotes on a homeowner's behalf (double opt-in)",
+        "description": "Only call this when the homeowner asked you to and agreed to share their details. The API emails the homeowner a confirmation link; nothing reaches any firm until they confirm (link valid 24 hours). On confirmation the request goes to the chosen firm (if any) plus up to two other nearby certified firms, exactly like the web form. Marketing opt-in can only be given by the homeowner on the confirmation page. Rate-limited per IP and per email address. ",
+        "parameters": [
+          {
+            "name": "site",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "const": "mnhome"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/QuoteRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "202": {
+            "description": "Confirmation email sent to the homeowner",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/QuotePending"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "422": {
+            "description": "Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "429": {
+            "description": "Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          },
+          "503": {
+            "description": "Error",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Error"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Credential": {
+        "type": "object",
+        "properties": {
+          "text": {
+            "type": "string"
+          },
+          "number": {
+            "type": "string"
+          },
+          "expires": {
+            "type": "string",
+            "format": "date"
+          }
+        }
+      },
+      "Firm": {
+        "type": "object",
+        "required": [
+          "id",
+          "name"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "company": {
+            "type": "string",
+            "description": "Business name shown under an individual evaluator's name."
+          },
+          "listing_type": {
+            "type": "string"
+          },
+          "certification": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "Badge text shown on the listing."
+          },
+          "issuing_agency": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "credentials": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Credential"
+            }
+          },
+          "services": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "septic_inspection",
+                "radon_test",
+                "radon_mitigation",
+                "radon_lab",
+                "tish"
+              ]
+            }
+          },
+          "service_labels": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "city": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "state": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "listed_state": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "county": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "slug": {
+                "type": "string"
+              }
+            }
+          },
+          "counties": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "County slugs whose page lists this firm as local."
+          },
+          "cities": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "City/town slugs whose page lists this firm as local."
+          },
+          "firm_url": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "uri",
+            "description": "Public listing page (has phone/contact details where published)."
+          },
+          "quote_url": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "uri",
+            "description": "Human quote form for this firm, or null."
+          },
+          "google_rating": {
+            "type": "object",
+            "properties": {
+              "rating": {
+                "type": "number"
+              },
+              "count": {
+                "type": "integer"
+              },
+              "as_of": {
+                "type": "string"
+              }
+            }
+          },
+          "source": {
+            "type": "object",
+            "properties": {
+              "urls": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "format": "uri"
+                }
+              },
+              "retrieved": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "format": "date"
+              }
+            }
+          },
+          "match": {
+            "type": "string",
+            "enum": [
+              "local",
+              "nearby"
+            ],
+            "description": "Area feeds/search by area: listed in the area's own section or in its nearby section."
+          },
+          "distance_km": {
+            "type": "number",
+            "description": "ZIP search only: approximate distance from the ZIP centroid."
+          }
+        }
+      },
+      "SearchResult": {
+        "type": "object",
+        "properties": {
+          "site": {
+            "type": "string"
+          },
+          "query": {
+            "type": "object"
+          },
+          "count": {
+            "type": "integer"
+          },
+          "total": {
+            "type": "integer"
+          },
+          "area": {
+            "type": "object"
+          },
+          "note": {
+            "type": "string"
+          },
+          "firms": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Firm"
+            }
+          },
+          "attribution": {
+            "type": "string"
+          }
+        }
+      },
+      "AreaFeed": {
+        "type": "object",
+        "properties": {
+          "site": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "slug": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "count": {
+            "type": "integer"
+          },
+          "firms": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Firm"
+            }
+          }
+        }
+      },
+      "Error": {
+        "type": "object",
+        "properties": {
+          "ok": {
+            "type": "boolean"
+          },
+          "error": {
+            "type": "string"
+          },
+          "message": {
+            "type": "string"
+          }
+        }
+      },
+      "QuoteRequest": {
+        "type": "object",
+        "required": [
+          "name",
+          "email",
+          "zip",
+          "need",
+          "consent"
+        ],
+        "properties": {
+          "name": {
+            "type": "string",
+            "maxLength": 100
+          },
+          "email": {
+            "type": "string",
+            "format": "email"
+          },
+          "phone": {
+            "type": "string",
+            "maxLength": 30
+          },
+          "zip": {
+            "type": "string",
+            "pattern": "^\\d{5}$"
+          },
+          "need": {
+            "type": "string",
+            "enum": [
+              "septic",
+              "radon_test",
+              "radon_mitigation",
+              "tish",
+              "not_sure"
+            ],
+            "description": "septic = Septic (SSTS) inspection; radon_test = Radon test; radon_mitigation = Radon mitigation; tish = Saint Paul TISH evaluation (Saint Paul ZIPs only); not_sure = Not sure (sent to radon testers)"
+          },
+          "firm": {
+            "type": "string",
+            "description": "Optional firm id the homeowner chose."
+          },
+          "message": {
+            "type": "string",
+            "maxLength": 1000
+          },
+          "consent": {
+            "type": "boolean",
+            "const": true,
+            "description": "Homeowner agreed to share these details with up to three certified firms."
+          },
+          "agent": {
+            "type": "string",
+            "maxLength": 80,
+            "description": "Your assistant/app name, shown to the homeowner."
+          }
+        }
+      },
+      "QuotePending": {
+        "type": "object",
+        "properties": {
+          "ok": {
+            "type": "boolean"
+          },
+          "status": {
+            "type": "string",
+            "const": "pending_confirmation"
+          },
+          "request_id": {
+            "type": "string"
+          },
+          "expires_at": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "expected_firms": {
+            "type": "array",
+            "items": {
+              "type": "object"
+            }
+          },
+          "message": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

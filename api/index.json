@@ -1,0 +1,791 @@
+{
+  "$comment": "Agent-facing feeds for MN Home Sale Pros",
+  "site": "mnhome",
+  "name": "MN Home Sale Pros",
+  "url": "https://mnhomesalepros.com/",
+  "description": "Public listing data for licensed Minnesota septic (SSTS) inspectors, radon pros and Saint Paul TISH evaluators.",
+  "generated": "2026-10-29",
+  "last_updated": "2026-10-12",
+  "data_source": {
+    "description": "Official licence/certification records as published on the site; each firm record has its own source URL and retrieval date.",
+    "sources": [
+      {
+        "url": "https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses",
+        "agency": "Minnesota Pollution Control Agency (MPCA)",
+        "retrieved": "2026-10-12",
+        "firms": 336
+      },
+      {
+        "url": "https://radon.web.health.state.mn.us/serviceProviders.jsf",
+        "agency": "Minnesota Department of Health (MDH)",
+        "retrieved": "2026-10-12",
+        "firms": 265
+      },
+      {
+        "url": "https://www.stpaul.gov/departments/safety-inspections/rent-buy-sell-property/selling-or-buying-properties/truth-sale-housing",
+        "agency": "City of Saint Paul",
+        "retrieved": "2026-10-12",
+        "firms": 37
+      }
+    ]
+  },
+  "attribution": "Listing data from MN Home Sale Pros (https://mnhomesalepros.com/), built from public licence records. Not an endorsement.",
+  "counts": {
+    "firms": 638,
+    "counties": 77,
+    "cities": 2,
+    "states": 0
+  },
+  "services": [
+    {
+      "code": "septic_inspection",
+      "label": "Septic (SSTS) inspection"
+    },
+    {
+      "code": "radon_test",
+      "label": "Radon measurement"
+    },
+    {
+      "code": "radon_mitigation",
+      "label": "Radon mitigation"
+    },
+    {
+      "code": "radon_lab",
+      "label": "Radon analysis laboratory"
+    },
+    {
+      "code": "tish",
+      "label": "Saint Paul TISH evaluation"
+    }
+  ],
+  "fields_excluded": "Phone, email and street address are not included; see each firm_url.",
+  "endpoints": {
+    "firms": "https://mnhomesalepros.com/api/firms.json",
+    "county": "https://mnhomesalepros.com/api/county/{slug}.json",
+    "city": "https://mnhomesalepros.com/api/city/{slug}.json",
+    "state": null,
+    "search": "https://leads.radonroster.com/api/firms?site=mnhome",
+    "quote": "https://leads.radonroster.com/api/agent/quote?site=mnhome",
+    "mcp": "https://leads.radonroster.com/mcp?site=mnhome",
+    "openapi": "https://mnhomesalepros.com/openapi.json",
+    "api_catalog": "https://mnhomesalepros.com/.well-known/api-catalog"
+  },
+  "search_by_zip": true,
+  "quote_requests": true,
+  "states": [],
+  "counties": [
+    {
+      "slug": "aitkin",
+      "name": "Septic inspectors and radon pros in Aitkin County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/aitkin/",
+      "feed": "https://mnhomesalepros.com/api/county/aitkin.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "anoka",
+      "name": "Septic inspectors and radon pros in Anoka County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/anoka/",
+      "feed": "https://mnhomesalepros.com/api/county/anoka.json",
+      "count": 18,
+      "local_count": 18
+    },
+    {
+      "slug": "becker",
+      "name": "Septic inspectors and radon pros in Becker County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/becker/",
+      "feed": "https://mnhomesalepros.com/api/county/becker.json",
+      "count": 15,
+      "local_count": 15
+    },
+    {
+      "slug": "beltrami",
+      "name": "Septic inspectors and radon pros in Beltrami County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/beltrami/",
+      "feed": "https://mnhomesalepros.com/api/county/beltrami.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "big-stone",
+      "name": "Septic inspectors and radon pros in Big Stone County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/big-stone/",
+      "feed": "https://mnhomesalepros.com/api/county/big-stone.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "blue-earth",
+      "name": "Septic inspectors and radon pros in Blue Earth County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/blue-earth/",
+      "feed": "https://mnhomesalepros.com/api/county/blue-earth.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "brown",
+      "name": "Septic inspectors and radon pros in Brown County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/brown/",
+      "feed": "https://mnhomesalepros.com/api/county/brown.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "carlton",
+      "name": "Septic inspectors and radon pros in Carlton County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/carlton/",
+      "feed": "https://mnhomesalepros.com/api/county/carlton.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "carver",
+      "name": "Septic inspectors and radon pros in Carver County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/carver/",
+      "feed": "https://mnhomesalepros.com/api/county/carver.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "cass",
+      "name": "Septic inspectors and radon pros in Cass County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/cass/",
+      "feed": "https://mnhomesalepros.com/api/county/cass.json",
+      "count": 15,
+      "local_count": 15
+    },
+    {
+      "slug": "chippewa",
+      "name": "Septic inspectors and radon pros in Chippewa County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/chippewa/",
+      "feed": "https://mnhomesalepros.com/api/county/chippewa.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "chisago",
+      "name": "Septic inspectors and radon pros in Chisago County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/chisago/",
+      "feed": "https://mnhomesalepros.com/api/county/chisago.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "clay",
+      "name": "Septic inspectors and radon pros in Clay County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/clay/",
+      "feed": "https://mnhomesalepros.com/api/county/clay.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "clearwater",
+      "name": "Septic inspectors and radon pros in Clearwater County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/clearwater/",
+      "feed": "https://mnhomesalepros.com/api/county/clearwater.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "cook",
+      "name": "Septic inspectors and radon pros in Cook County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/cook/",
+      "feed": "https://mnhomesalepros.com/api/county/cook.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "cottonwood",
+      "name": "Septic inspectors and radon pros in Cottonwood County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/cottonwood/",
+      "feed": "https://mnhomesalepros.com/api/county/cottonwood.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "crow-wing",
+      "name": "Septic inspectors and radon pros in Crow Wing County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/crow-wing/",
+      "feed": "https://mnhomesalepros.com/api/county/crow-wing.json",
+      "count": 15,
+      "local_count": 15
+    },
+    {
+      "slug": "dakota",
+      "name": "Septic inspectors and radon pros in Dakota County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/dakota/",
+      "feed": "https://mnhomesalepros.com/api/county/dakota.json",
+      "count": 22,
+      "local_count": 22
+    },
+    {
+      "slug": "dodge",
+      "name": "Septic inspectors and radon pros in Dodge County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/dodge/",
+      "feed": "https://mnhomesalepros.com/api/county/dodge.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "douglas",
+      "name": "Septic inspectors and radon pros in Douglas County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/douglas/",
+      "feed": "https://mnhomesalepros.com/api/county/douglas.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "faribault",
+      "name": "Septic inspectors and radon pros in Faribault County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/faribault/",
+      "feed": "https://mnhomesalepros.com/api/county/faribault.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "fillmore",
+      "name": "Septic inspectors and radon pros in Fillmore County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/fillmore/",
+      "feed": "https://mnhomesalepros.com/api/county/fillmore.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "freeborn",
+      "name": "Septic inspectors and radon pros in Freeborn County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/freeborn/",
+      "feed": "https://mnhomesalepros.com/api/county/freeborn.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "goodhue",
+      "name": "Septic inspectors and radon pros in Goodhue County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/goodhue/",
+      "feed": "https://mnhomesalepros.com/api/county/goodhue.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "grant",
+      "name": "Septic inspectors and radon pros in Grant County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/grant/",
+      "feed": "https://mnhomesalepros.com/api/county/grant.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "hennepin",
+      "name": "Septic inspectors and radon pros in Hennepin County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/hennepin/",
+      "feed": "https://mnhomesalepros.com/api/county/hennepin.json",
+      "count": 69,
+      "local_count": 69
+    },
+    {
+      "slug": "houston",
+      "name": "Septic inspectors and radon pros in Houston County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/houston/",
+      "feed": "https://mnhomesalepros.com/api/county/houston.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "hubbard",
+      "name": "Septic inspectors and radon pros in Hubbard County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/hubbard/",
+      "feed": "https://mnhomesalepros.com/api/county/hubbard.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "isanti",
+      "name": "Septic inspectors and radon pros in Isanti County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/isanti/",
+      "feed": "https://mnhomesalepros.com/api/county/isanti.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "itasca",
+      "name": "Septic inspectors and radon pros in Itasca County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/itasca/",
+      "feed": "https://mnhomesalepros.com/api/county/itasca.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "jackson",
+      "name": "Septic inspectors and radon pros in Jackson County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/jackson/",
+      "feed": "https://mnhomesalepros.com/api/county/jackson.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "kanabec",
+      "name": "Septic inspectors and radon pros in Kanabec County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/kanabec/",
+      "feed": "https://mnhomesalepros.com/api/county/kanabec.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "kandiyohi",
+      "name": "Septic inspectors and radon pros in Kandiyohi County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/kandiyohi/",
+      "feed": "https://mnhomesalepros.com/api/county/kandiyohi.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "koochiching",
+      "name": "Septic inspectors and radon pros in Koochiching County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/koochiching/",
+      "feed": "https://mnhomesalepros.com/api/county/koochiching.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "lac-qui-parle",
+      "name": "Septic inspectors and radon pros in Lac qui Parle County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/lac-qui-parle/",
+      "feed": "https://mnhomesalepros.com/api/county/lac-qui-parle.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "lake",
+      "name": "Septic inspectors and radon pros in Lake County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/lake/",
+      "feed": "https://mnhomesalepros.com/api/county/lake.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "lake-of-the-woods",
+      "name": "Septic inspectors and radon pros in Lake of the Woods County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/lake-of-the-woods/",
+      "feed": "https://mnhomesalepros.com/api/county/lake-of-the-woods.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "le-sueur",
+      "name": "Septic inspectors and radon pros in Le Sueur County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/le-sueur/",
+      "feed": "https://mnhomesalepros.com/api/county/le-sueur.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "lincoln",
+      "name": "Septic inspectors and radon pros in Lincoln County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/lincoln/",
+      "feed": "https://mnhomesalepros.com/api/county/lincoln.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "lyon",
+      "name": "Septic inspectors and radon pros in Lyon County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/lyon/",
+      "feed": "https://mnhomesalepros.com/api/county/lyon.json",
+      "count": 9,
+      "local_count": 9
+    },
+    {
+      "slug": "mahnomen",
+      "name": "Septic inspectors and radon pros in Mahnomen County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/mahnomen/",
+      "feed": "https://mnhomesalepros.com/api/county/mahnomen.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "martin",
+      "name": "Septic inspectors and radon pros in Martin County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/martin/",
+      "feed": "https://mnhomesalepros.com/api/county/martin.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "mcleod",
+      "name": "Septic inspectors and radon pros in McLeod County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/mcleod/",
+      "feed": "https://mnhomesalepros.com/api/county/mcleod.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "meeker",
+      "name": "Septic inspectors and radon pros in Meeker County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/meeker/",
+      "feed": "https://mnhomesalepros.com/api/county/meeker.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "mille-lacs",
+      "name": "Septic inspectors and radon pros in Mille Lacs County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/mille-lacs/",
+      "feed": "https://mnhomesalepros.com/api/county/mille-lacs.json",
+      "count": 8,
+      "local_count": 8
+    },
+    {
+      "slug": "morrison",
+      "name": "Septic inspectors and radon pros in Morrison County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/morrison/",
+      "feed": "https://mnhomesalepros.com/api/county/morrison.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "mower",
+      "name": "Septic inspectors and radon pros in Mower County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/mower/",
+      "feed": "https://mnhomesalepros.com/api/county/mower.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "murray",
+      "name": "Septic inspectors and radon pros in Murray County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/murray/",
+      "feed": "https://mnhomesalepros.com/api/county/murray.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "nicollet",
+      "name": "Septic inspectors and radon pros in Nicollet County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/nicollet/",
+      "feed": "https://mnhomesalepros.com/api/county/nicollet.json",
+      "count": 4,
+      "local_count": 4
+    },
+    {
+      "slug": "nobles",
+      "name": "Septic inspectors and radon pros in Nobles County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/nobles/",
+      "feed": "https://mnhomesalepros.com/api/county/nobles.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "olmsted",
+      "name": "Septic inspectors and radon pros in Olmsted County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/olmsted/",
+      "feed": "https://mnhomesalepros.com/api/county/olmsted.json",
+      "count": 17,
+      "local_count": 17
+    },
+    {
+      "slug": "otter-tail",
+      "name": "Septic inspectors and radon pros in Otter Tail County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/otter-tail/",
+      "feed": "https://mnhomesalepros.com/api/county/otter-tail.json",
+      "count": 19,
+      "local_count": 19
+    },
+    {
+      "slug": "pine",
+      "name": "Septic inspectors and radon pros in Pine County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/pine/",
+      "feed": "https://mnhomesalepros.com/api/county/pine.json",
+      "count": 10,
+      "local_count": 10
+    },
+    {
+      "slug": "pipestone",
+      "name": "Septic inspectors and radon pros in Pipestone County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/pipestone/",
+      "feed": "https://mnhomesalepros.com/api/county/pipestone.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "polk",
+      "name": "Septic inspectors and radon pros in Polk County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/polk/",
+      "feed": "https://mnhomesalepros.com/api/county/polk.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "pope",
+      "name": "Septic inspectors and radon pros in Pope County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/pope/",
+      "feed": "https://mnhomesalepros.com/api/county/pope.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "ramsey",
+      "name": "Septic inspectors and radon pros in Ramsey County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/ramsey/",
+      "feed": "https://mnhomesalepros.com/api/county/ramsey.json",
+      "count": 16,
+      "local_count": 16
+    },
+    {
+      "slug": "red-lake",
+      "name": "Septic inspectors and radon pros in Red Lake County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/red-lake/",
+      "feed": "https://mnhomesalepros.com/api/county/red-lake.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "redwood",
+      "name": "Septic inspectors and radon pros in Redwood County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/redwood/",
+      "feed": "https://mnhomesalepros.com/api/county/redwood.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "rice",
+      "name": "Septic inspectors and radon pros in Rice County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/rice/",
+      "feed": "https://mnhomesalepros.com/api/county/rice.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "rock",
+      "name": "Septic inspectors and radon pros in Rock County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/rock/",
+      "feed": "https://mnhomesalepros.com/api/county/rock.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "roseau",
+      "name": "Septic inspectors and radon pros in Roseau County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/roseau/",
+      "feed": "https://mnhomesalepros.com/api/county/roseau.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "saint-louis",
+      "name": "Septic inspectors and radon pros in Saint Louis County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/saint-louis/",
+      "feed": "https://mnhomesalepros.com/api/county/saint-louis.json",
+      "count": 24,
+      "local_count": 24
+    },
+    {
+      "slug": "scott",
+      "name": "Septic inspectors and radon pros in Scott County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/scott/",
+      "feed": "https://mnhomesalepros.com/api/county/scott.json",
+      "count": 12,
+      "local_count": 12
+    },
+    {
+      "slug": "sherburne",
+      "name": "Septic inspectors and radon pros in Sherburne County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/sherburne/",
+      "feed": "https://mnhomesalepros.com/api/county/sherburne.json",
+      "count": 17,
+      "local_count": 17
+    },
+    {
+      "slug": "st-louis",
+      "name": "Septic inspectors and radon pros in St. Louis County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/st-louis/",
+      "feed": "https://mnhomesalepros.com/api/county/st-louis.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "stearns",
+      "name": "Septic inspectors and radon pros in Stearns County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/stearns/",
+      "feed": "https://mnhomesalepros.com/api/county/stearns.json",
+      "count": 14,
+      "local_count": 14
+    },
+    {
+      "slug": "steele",
+      "name": "Septic inspectors and radon pros in Steele County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/steele/",
+      "feed": "https://mnhomesalepros.com/api/county/steele.json",
+      "count": 7,
+      "local_count": 7
+    },
+    {
+      "slug": "stevens",
+      "name": "Septic inspectors and radon pros in Stevens County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/stevens/",
+      "feed": "https://mnhomesalepros.com/api/county/stevens.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "todd",
+      "name": "Septic inspectors and radon pros in Todd County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/todd/",
+      "feed": "https://mnhomesalepros.com/api/county/todd.json",
+      "count": 5,
+      "local_count": 5
+    },
+    {
+      "slug": "wabasha",
+      "name": "Septic inspectors and radon pros in Wabasha County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/wabasha/",
+      "feed": "https://mnhomesalepros.com/api/county/wabasha.json",
+      "count": 6,
+      "local_count": 6
+    },
+    {
+      "slug": "wadena",
+      "name": "Septic inspectors and radon pros in Wadena County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/wadena/",
+      "feed": "https://mnhomesalepros.com/api/county/wadena.json",
+      "count": 2,
+      "local_count": 2
+    },
+    {
+      "slug": "waseca",
+      "name": "Septic inspectors and radon pros in Waseca County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/waseca/",
+      "feed": "https://mnhomesalepros.com/api/county/waseca.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "washington",
+      "name": "Septic inspectors and radon pros in Washington County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/washington/",
+      "feed": "https://mnhomesalepros.com/api/county/washington.json",
+      "count": 11,
+      "local_count": 11
+    },
+    {
+      "slug": "wilkin",
+      "name": "Septic inspectors and radon pros in Wilkin County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/wilkin/",
+      "feed": "https://mnhomesalepros.com/api/county/wilkin.json",
+      "count": 1,
+      "local_count": 1
+    },
+    {
+      "slug": "winona",
+      "name": "Septic inspectors and radon pros in Winona County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/winona/",
+      "feed": "https://mnhomesalepros.com/api/county/winona.json",
+      "count": 3,
+      "local_count": 3
+    },
+    {
+      "slug": "wright",
+      "name": "Septic inspectors and radon pros in Wright County, MN",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/county/wright/",
+      "feed": "https://mnhomesalepros.com/api/county/wright.json",
+      "count": 10,
+      "local_count": 10
+    }
+  ],
+  "cities": [
+    {
+      "slug": "minneapolis",
+      "name": "Minneapolis Truth in Sale of Housing (TISH)",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/truth-in-sale-of-housing/minneapolis/",
+      "feed": "https://mnhomesalepros.com/api/city/minneapolis.json",
+      "count": 0,
+      "local_count": 0
+    },
+    {
+      "slug": "saint-paul",
+      "name": "Saint Paul Truth-in-Sale of Housing (TISH) evaluators",
+      "state": "MN",
+      "page": "https://mnhomesalepros.com/truth-in-sale-of-housing/saint-paul/",
+      "feed": "https://mnhomesalepros.com/api/city/saint-paul.json",
+      "count": 37,
+      "local_count": 37
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/v1/server-card.schema.json",
+  "name": "com.mnhomesalepros/directory",
+  "title": "MN Home Sale Pros directory",
+  "version": "1.0.0",
+  "description": "Search licensed Minnesota septic (SSTS) inspectors, radon pros and Saint Paul TISH evaluators and request homeowner-confirmed quotes.",
+  "websiteUrl": "https://mnhomesalepros.com/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://leads.radonroster.com/mcp?site=mnhome"
+    }
+  ],
+  "protocolVersion": "2025-06-18",
+  "serverInfo": {
+    "name": "mn-home-sale-pros-directory",
+    "title": "MN Home Sale Pros directory",
+    "version": "1.0.0"
+  },
+  "transport": {
+    "type": "streamable-http",
+    "endpoint": "https://leads.radonroster.com/mcp?site=mnhome"
+  },
+  "authentication": {
+    "required": false
+  },
+  "capabilities": {
+    "tools": {
+      "listChanged": false
+    }
+  },
+  "tools": [
+    {
+      "name": "search_firms",
+      "title": "Search certified firms",
+      "description": "Search the directory's certified/licensed firms near a US ZIP code, or in a city or county listed on the site. Returns public listing data only (name, credential, services, location, firm page and quote URLs). Use list_areas to find valid city/county slugs.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "site": {
+            "type": "string",
+            "enum": [
+              "radon",
+              "leadpaint",
+              "mnhome",
+              "mold",
+              "njhome",
+              "title5",
+              "eastbay"
+            ],
+            "description": "Directory to search (defaults to the site in the endpoint URL)."
+          },
+          "zip": {
+            "type": "string",
+            "pattern": "^\\d{5}$",
+            "description": "5-digit ZIP (supported on radon, leadpaint and mnhome)."
+          },
+          "city": {
+            "type": "string",
+            "description": "City/town name or slug as listed on the site."
+          },
+          "county": {
+            "type": "string",
+            "description": "County name or slug as listed on the site."
+          },
+          "state": {
+            "type": "string",
+            "description": "2-letter state, needed with city/county on multi-state sites (leadpaint, mold)."
+          },
+          "service": {
+            "type": "string",
+            "description": "Service code (see the site's openapi.json / list_areas)."
+          },
+          "limit": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 50,
+            "default": 10
+          }
+        }
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "get_firm",
+      "title": "Get one firm",
+      "description": "Get the public listing for one firm by its directory id (e.g. F2303, NJ0143, SL4422).",
+      "inputSchema": {
+        "type": "object",
+        "required": [
+          "id"
+        ],
+        "properties": {
+          "site": {
+            "type": "string",
+            "enum": [
+              "radon",
+              "leadpaint",
+              "mnhome",
+              "mold",
+              "njhome",
+              "title5",
+              "eastbay"
+            ]
+          },
+          "id": {
+            "type": "string"
+          }
+        }
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "list_areas",
+      "title": "List areas and services",
+      "description": "List the counties and cities that have listing pages on the directory (with slugs and firm counts) and the valid service codes.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "site": {
+            "type": "string",
+            "enum": [
+              "radon",
+              "leadpaint",
+              "mnhome",
+              "mold",
+              "njhome",
+              "title5",
+              "eastbay"
+            ]
+          },
+          "type": {
+            "type": "string",
+            "enum": [
+              "county",
+              "city",
+              "all"
+            ],
+            "default": "all"
+          }
+        }
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "openWorldHint": false
+      }
+    },
+    {
+      "name": "request_quote",
+      "title": "Request quotes (homeowner must confirm by email)",
+      "description": "Ask certified firms to contact a homeowner with a quote. Only call this when the homeowner has asked you to and has agreed to share their contact details with the firms. Nothing is sent to any firm until the homeowner clicks the confirmation link emailed to them (double opt-in); the request expires after 24 hours. The request goes to the chosen firm (if any) plus up to two other nearby certified firms. Supported on radon, leadpaint and mnhome only.",
+      "inputSchema": {
+        "type": "object",
+        "required": [
+          "name",
+          "email",
+          "zip",
+          "need",
+          "consent"
+        ],
+        "properties": {
+          "site": {
+            "type": "string",
+            "enum": [
+              "radon",
+              "leadpaint",
+              "mnhome"
+            ]
+          },
+          "name": {
+            "type": "string",
+            "maxLength": 100,
+            "description": "Homeowner's name."
+          },
+          "email": {
+            "type": "string",
+            "format": "email",
+            "description": "Homeowner's email; the confirmation link is sent here."
+          },
+          "phone": {
+            "type": "string",
+            "maxLength": 30
+          },
+          "zip": {
+            "type": "string",
+            "pattern": "^\\d{5}$",
+            "description": "ZIP of the property."
+          },
+          "county": {
+            "type": "string",
+            "description": "radon only: PA county if no ZIP is known."
+          },
+          "need": {
+            "type": "string",
+            "description": "radon: test|mitigation|result|kit; leadpaint: inspection|risk_assessment|abatement|not_sure; mnhome: septic|radon_test|radon_mitigation|tish|not_sure"
+          },
+          "level": {
+            "type": "string",
+            "description": "radon only: test result in pCi/L, if known."
+          },
+          "firm": {
+            "type": "string",
+            "description": "Optional id of a firm the homeowner chose (from search_firms)."
+          },
+          "message": {
+            "type": "string",
+            "maxLength": 1000
+          },
+          "consent": {
+            "type": "boolean",
+            "const": true,
+            "description": "Must be true: the homeowner agreed to share these details with up to three certified firms so they can contact them about this request."
+          },
+          "agent": {
+            "type": "string",
+            "maxLength": 80,
+            "description": "Name of your assistant/app; shown to the homeowner in the confirmation email."
+          }
+        }
+      },
+      "annotations": {
+        "readOnlyHint": false,
+        "destructiveHint": false,
+        "idempotentHint": false,
+        "openWorldHint": true
+      }
+    }
+  ],
+  "documentation": "https://mnhomesalepros.com/openapi.json"
+}
