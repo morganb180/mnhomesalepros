@@ -6,7 +6,7 @@ canonical: https://mnhomesalepros.com/privacy/
 
 # Privacy policy
 
-Updated Oct 18, 2026. This policy covers MN Home Sale Pros (mnhomesalepros.com, "we"), operated by MN Home Sale Pros, 26141 Red Corral Rd, Laguna Hills, CA 92653.
+Updated Oct 30, 2026. This policy covers MN Home Sale Pros (mnhomesalepros.com, "we"), operated by MN Home Sale Pros, 26141 Red Corral Rd, Laguna Hills, CA 92653.
 
 **What changed on Oct 18, 2026:** MN Home Sale Pros now takes quote requests. We keep a copy of each quote request (the details you submit, the pros it went to and the date) to run and improve the service. We don't sell it. The quote form also has a separate, optional box (unchecked by default) for home-sale tips and offers from MN Home Sale Pros; we only send those to people who check it. See "Tips and offers" below.
 
@@ -35,7 +35,11 @@ The listing request form opens your own email app; we receive only what you send
 
 ## Usage data
 
-Our host keeps standard server logs (IP address, browser, pages requested) for security and reliability. We don't use analytics or advertising cookies, and we don't run third-party trackers.
+Our host keeps standard server logs (IP address, browser, pages requested) for security and reliability. We don't use advertising cookies.
+
+## Analytics
+
+We use Google Analytics to collect aggregate usage statistics (pages viewed, the place searches you enter, how the search and quote or listing forms are used, and which listing links are clicked) so we can improve the site. Google Analytics sets first-party cookies and receives your IP address and browser details; we never send it your name, email, phone, address or anything you type into a form field. We have turned off Google signals and ad personalization, and we don't use it for advertising. If your browser sends a Global Privacy Control or Do Not Track signal, Google Analytics doesn't load at all. See [how Google uses information from sites that use its services](https://policies.google.com/technologies/partner-sites).
 
 ## What we don't do
 
