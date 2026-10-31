@@ -8,6 +8,8 @@ canonical: https://mnhomesalepros.com/truth-in-sale-of-housing/saint-paul/
 
 > Last updated 2026-10-13. Rules on this page are checked against the official sources listed at the end of the page.
 
+Reviewed by MN Home Sale Pros staff
+
 **Quick answer:** Saint Paul requires a Truth-in-Sale of Housing (TISH) evaluation before a single-family home, duplex, condominium or townhome is marketed for sale. The report must be available to buyers within 3 calendar days of listing and is good for 365 days. MN Home Sale Pros lists the city's 37 approved evaluators, who set their own fees.
 
 * All single-family homes, duplexes, condominiums and townhomes need a TISH evaluation completed **before the property is marketed** for sale.

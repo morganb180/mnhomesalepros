@@ -8,6 +8,8 @@ canonical: https://mnhomesalepros.com/septic-inspectors/
 
 > Last updated 2026-10-13. Rules on this page are checked against the official sources listed at the end of the page.
 
+Reviewed by MN Home Sale Pros staff
+
 Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
 
 337 businesses hold a current MPCA license with an inspector, intermediate inspector or advanced inspector designation. Browse by county:

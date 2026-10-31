@@ -8,6 +8,8 @@ canonical: https://mnhomesalepros.com/truth-in-sale-of-housing/minneapolis/
 
 > Last updated 2026-10-13. Rules on this page are checked against the official sources listed at the end of the page.
 
+Reviewed by MN Home Sale Pros staff
+
 **Quick answer:** Minneapolis requires a TISH evaluation by a city-licensed evaluator for most home sales. Find a licensed evaluator with the city's official Evaluator Finder, then confirm details with the Minneapolis TISH office (612-673-5840).
 
 Minneapolis requires a TISH evaluation by a city-licensed evaluator for most home sales ([City of Minneapolis TISH](https://www.minneapolismn.gov/resident-services/property-housing/buying-selling/tish/); TISH office 612-673-5840).

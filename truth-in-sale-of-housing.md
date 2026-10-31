@@ -8,6 +8,8 @@ canonical: https://mnhomesalepros.com/truth-in-sale-of-housing/
 
 > Last updated 2026-10-13. Rules on this page are checked against the official sources listed at the end of the page.
 
+Reviewed by MN Home Sale Pros staff
+
 Some Minnesota cities require a housing evaluation or inspection before a home is listed or sold. These are city ordinances, not state law, and names vary (TISH, Time of Sale, Point of Sale).
 
 | City | Program | When and who | Fee | Source |
