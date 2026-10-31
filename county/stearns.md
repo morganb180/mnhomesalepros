@@ -215,6 +215,32 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
+## Want licensed pros in Stearns County to contact you?
+
+Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=stearns)
+
+## Frequently asked questions
+
+**How many licensed septic (SSTS) inspectors are in Stearns County, MN?**
+
+9 MPCA-licensed SSTS inspector businesses list an address in Stearns County (data last verified 2026-10-12). Many work across counties, so ask whether they cover your property.
+
+**Do I need a septic inspection to sell a house in Stearns County, MN?**
+
+Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
+
+**Who does radon testing in Stearns County, MN?**
+
+5 MDH-licensed radon businesses list an address in Stearns County. Most radon pros list a statewide service area, so pros based elsewhere may also cover the county.
+
+**Is a radon test required to sell a home in Minnesota?**
+
+No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://www.revisor.mn.gov/statutes/cite/144.496)), before signing a purchase agreement the seller must disclose known radon test results and mitigation information and give the buyer the MDH radon publication. No test is required.
+
+**How do I get quotes from licensed pros in Stearns County?**
+
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+
 ## Which counties border Stearns County, MN?
 
 [Douglas County](https://mnhomesalepros.com/county/douglas/) · [Kandiyohi County](https://mnhomesalepros.com/county/kandiyohi/) · [Meeker County](https://mnhomesalepros.com/county/meeker/) · [Morrison County](https://mnhomesalepros.com/county/morrison/) · [Pope County](https://mnhomesalepros.com/county/pope/) · [Sherburne County](https://mnhomesalepros.com/county/sherburne/) · [Todd County](https://mnhomesalepros.com/county/todd/) · [Wright County](https://mnhomesalepros.com/county/wright/)

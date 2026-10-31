@@ -1,14 +1,14 @@
 ---
 title: "Get Free Quotes from Licensed Minnesota Pros"
 description: "Send one request to up to 3 licensed septic inspectors, radon pros or Saint Paul TISH evaluators near you. Free, no obligation."
-canonical: https://mnhomesalepros.com/get-quotes/
+canonical: https://mnhomesalepros.com/quotes/
 ---
 
 # Get free quotes from up to 3 licensed Minnesota pros
 
 Selling or buying a home in Minnesota? Tell us what you need and where. We send your request to up to 3 licensed pros nearest you that offer that service (MPCA septic inspectors, MDH radon pros, or Saint Paul-approved TISH evaluators), and email you their names. They contact you directly. It's free, and there's no obligation.
 
-Use the form at https://mnhomesalepros.com/get-quotes/ (needs JavaScript or a normal form post).
+Use the form at https://mnhomesalepros.com/quotes/ (needs JavaScript or a normal form post).
 
 ## How it works
 

@@ -14,6 +14,6 @@ canonical: https://mnhomesalepros.com/firms/eiffler-septic-inspection-design-sl4
 * MPCA SSTS licence L4539: Inspector (exp. 2027-08-10)
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL4539
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL4539
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL4539

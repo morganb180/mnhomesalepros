@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/a1-septic-service-and-excavating-llc
 * Also licensed: Designer, Installer, Maintainer, Pipelayer
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL2029
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL2029
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL2029

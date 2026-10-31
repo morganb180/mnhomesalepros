@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/david-r-brown-sl3649/
 * Also licensed: Designer
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL3649
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL3649
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL3649

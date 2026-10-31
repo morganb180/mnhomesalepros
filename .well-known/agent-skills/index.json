@@ -13,7 +13,7 @@
       "type": "skill-md",
       "description": "Request quotes from licensed Minnesota septic (SSTS) inspectors, radon pros and Saint Paul TISH evaluators for a homeowner via MN Home Sale Pros; the homeowner confirms by email before anything is sent.",
       "url": "https://mnhomesalepros.com/.well-known/agent-skills/mn-home-sale-pros-request-quote/SKILL.md",
-      "digest": "sha256:05c5168622be30c352c9d03fb24f6027ac739c383ebcbfa87e6ee408dd90e980"
+      "digest": "sha256:bd9c3debaaef33834b04818668d3c561817d62069929f28f24c011cd5eb107da"
     }
   ]
 }

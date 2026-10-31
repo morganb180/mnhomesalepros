@@ -63,6 +63,32 @@ No MDH-licensed radon businesses list a Brown County address. See [statewide rad
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
+## Want licensed pros in Brown County to contact you?
+
+Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=brown)
+
+## Frequently asked questions
+
+**How many licensed septic (SSTS) inspectors are in Brown County, MN?**
+
+3 MPCA-licensed SSTS inspector businesses list an address in Brown County (data last verified 2026-10-12). Many work across counties, so ask whether they cover your property.
+
+**Do I need a septic inspection to sell a house in Brown County, MN?**
+
+Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
+
+**Who does radon testing in Brown County, MN?**
+
+No MDH-licensed radon businesses list an address in Brown County. Most radon pros list a statewide service area: see [statewide radon pros](https://mnhomesalepros.com/radon/).
+
+**Is a radon test required to sell a home in Minnesota?**
+
+No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://www.revisor.mn.gov/statutes/cite/144.496)), before signing a purchase agreement the seller must disclose known radon test results and mitigation information and give the buyer the MDH radon publication. No test is required.
+
+**How do I get quotes from licensed pros in Brown County?**
+
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+
 ## Which counties border Brown County, MN?
 
 [Blue Earth County](https://mnhomesalepros.com/county/blue-earth/) · [Cottonwood County](https://mnhomesalepros.com/county/cottonwood/) · [Nicollet County](https://mnhomesalepros.com/county/nicollet/) · [Redwood County](https://mnhomesalepros.com/county/redwood/)

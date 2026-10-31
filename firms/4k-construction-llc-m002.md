@@ -14,6 +14,6 @@ canonical: https://mnhomesalepros.com/firms/4k-construction-llc-m002/
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=M002
+Get a quote: https://mnhomesalepros.com/quotes/?firm=M002
 
 Source: https://radon.web.health.state.mn.us/serviceProviders.jsf, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=M002

@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/crescent-septic-services-llc-sl4224/
 * Also licensed: Designer, Service provider
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL4224
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL4224
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL4224

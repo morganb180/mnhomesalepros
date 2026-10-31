@@ -16,6 +16,6 @@ canonical: https://mnhomesalepros.com/firms/timber-lakes-septic-service-inc-sl45
 * Also licensed: Installer, Maintainer, Service provider, Pipelayer
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL455
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL455
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL455

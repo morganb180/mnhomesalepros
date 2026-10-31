@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/paul-smith-contracting-sl3464/
 * Also licensed: Designer, Installer, Pipelayer
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL3464
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL3464
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL3464

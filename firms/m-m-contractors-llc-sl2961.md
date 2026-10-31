@@ -16,6 +16,6 @@ canonical: https://mnhomesalepros.com/firms/m-m-contractors-llc-sl2961/
 * Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL2961
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL2961
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL2961

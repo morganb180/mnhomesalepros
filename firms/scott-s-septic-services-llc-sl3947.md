@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/scott-s-septic-services-llc-sl3947/
 * Also licensed: Designer, Maintainer, Service provider
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL3947
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL3947
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL3947

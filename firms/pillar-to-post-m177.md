@@ -14,6 +14,6 @@ canonical: https://mnhomesalepros.com/firms/pillar-to-post-m177/
 * MDH radon: Multi Family Measurement, Single Family Measurement
 * Service area (per MDH): Statewide
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=M177
+Get a quote: https://mnhomesalepros.com/quotes/?firm=M177
 
 Source: https://radon.web.health.state.mn.us/serviceProviders.jsf, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=M177

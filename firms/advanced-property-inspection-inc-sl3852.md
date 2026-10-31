@@ -16,6 +16,6 @@ canonical: https://mnhomesalepros.com/firms/advanced-property-inspection-inc-sl3
 * Also licensed: Designer
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL3852
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL3852
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL3852

@@ -12,7 +12,7 @@
 .panel .leadform{margin:0}
 .fz-dym,.fz-none{margin:.4rem 0;font-size:.9rem}
 .reqform label{display:block;margin-top:.6rem}.reqform input,.reqform select,.reqform textarea{width:100%;box-sizing:border-box}.reqform .btn{margin-top:1rem}
-/* simplified quote form (get-quotes) */
+/* simplified quote form (/quotes/) */
 .leadform .lf-need{border:0;padding:0;margin:.55rem 0 0;min-width:0}
 .leadform .lf-need legend{padding:0;margin:0 0 .3rem;font-weight:600;font-size:.92rem}
 .leadform .lf-opts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.5rem}

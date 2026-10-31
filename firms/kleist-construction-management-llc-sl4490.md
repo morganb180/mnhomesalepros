@@ -14,6 +14,6 @@ canonical: https://mnhomesalepros.com/firms/kleist-construction-management-llc-s
 * MPCA SSTS licence L4490: Inspector (exp. 2029-02-26)
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL4490
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL4490
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL4490

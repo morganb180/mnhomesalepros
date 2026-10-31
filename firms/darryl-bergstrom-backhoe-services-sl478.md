@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/darryl-bergstrom-backhoe-services-sl
 * Also licensed: Designer, Installer, Maintainer, Pipelayer
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL478
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL478
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL478

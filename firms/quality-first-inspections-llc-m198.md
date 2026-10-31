@@ -14,6 +14,6 @@ canonical: https://mnhomesalepros.com/firms/quality-first-inspections-llc-m198/
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): Statewide
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=M198
+Get a quote: https://mnhomesalepros.com/quotes/?firm=M198
 
 Source: https://radon.web.health.state.mn.us/serviceProviders.jsf, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=M198

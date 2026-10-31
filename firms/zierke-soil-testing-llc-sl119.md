@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/zierke-soil-testing-llc-sl119/
 * Also licensed: Designer
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL119
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL119
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL119

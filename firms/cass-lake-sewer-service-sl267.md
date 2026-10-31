@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/cass-lake-sewer-service-sl267/
 * Also licensed: Designer, Installer, Pipelayer
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL267
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL267
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL267

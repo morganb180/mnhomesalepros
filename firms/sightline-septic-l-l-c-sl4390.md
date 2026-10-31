@@ -14,6 +14,6 @@ canonical: https://mnhomesalepros.com/firms/sightline-septic-l-l-c-sl4390/
 * MPCA SSTS licence L4390: Inspector (exp. 2026-10-22)
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL4390
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL4390
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL4390

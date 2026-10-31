@@ -16,6 +16,6 @@ canonical: https://mnhomesalepros.com/firms/northern-environmental-solutions-llc
 * Also licensed: Designer, Installer, Maintainer, Pipelayer
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL4072
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL4072
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL4072

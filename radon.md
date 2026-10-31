@@ -6,6 +6,8 @@ canonical: https://mnhomesalepros.com/radon/
 
 # Radon in a Minnesota home sale
 
+> Last updated 2026-10-13. Rules on this page are checked against the official sources listed at the end of the page.
+
 * **Disclosure, not a mandatory test:** under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://www.revisor.mn.gov/statutes/cite/144.496)), before signing a purchase agreement the seller must disclose known radon test results and mitigation information and give the buyer the MDH radon publication. No test is required.
 * **Licensing:** radon measurement and mitigation professionals and companies must be licensed by MDH. Mitigation systems installed from Sept. 1, 2020 carry an MDH system tag ([MDH](https://radon.web.health.state.mn.us/serviceProviders.jsf)).
 
@@ -680,3 +682,8 @@ Service area (per MDH): Statewide
 Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/serviceProviders.jsf), retrieved 2026-10-12 · [Claim/correct/remove](https://mnhomesalepros.com/list-your-business/?id=M258)
 
 Statute summary is general information. Read the text at the link.
+
+## Sources
+
+- [Minn. Stat. § 144.496](https://www.revisor.mn.gov/statutes/cite/144.496)
+- [MDH](https://radon.web.health.state.mn.us/serviceProviders.jsf)

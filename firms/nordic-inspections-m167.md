@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/nordic-inspections-m167/
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 100 miles
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=M167
+Get a quote: https://mnhomesalepros.com/quotes/?firm=M167
 
 Source: https://radon.web.health.state.mn.us/serviceProviders.jsf, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=M167

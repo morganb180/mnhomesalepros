@@ -14,6 +14,6 @@ canonical: https://mnhomesalepros.com/firms/blue-line-radon-testing-and-mitigati
 * MDH radon: Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): Statewide
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=M039
+Get a quote: https://mnhomesalepros.com/quotes/?firm=M039
 
 Source: https://radon.web.health.state.mn.us/serviceProviders.jsf, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=M039

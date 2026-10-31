@@ -13,6 +13,6 @@ canonical: https://mnhomesalepros.com/firms/brice-staeheli-american-central-insp
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=T29
+Get a quote: https://mnhomesalepros.com/quotes/?firm=T29
 
 Source: https://www.stpaul.gov/departments/safety-inspections/rent-buy-sell-property/selling-or-buying-properties/truth-sale-housing, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=T29

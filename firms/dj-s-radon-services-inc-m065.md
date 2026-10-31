@@ -14,6 +14,6 @@ canonical: https://mnhomesalepros.com/firms/dj-s-radon-services-inc-m065/
 * MDH radon: Multi Family Mitigation, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 100 miles
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=M065
+Get a quote: https://mnhomesalepros.com/quotes/?firm=M065
 
 Source: https://radon.web.health.state.mn.us/serviceProviders.jsf, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=M065

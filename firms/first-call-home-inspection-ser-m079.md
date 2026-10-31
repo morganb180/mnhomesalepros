@@ -14,6 +14,6 @@ canonical: https://mnhomesalepros.com/firms/first-call-home-inspection-ser-m079/
 * MDH radon: Single Family Measurement
 * Service area (per MDH): Statewide
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=M079
+Get a quote: https://mnhomesalepros.com/quotes/?firm=M079
 
 Source: https://radon.web.health.state.mn.us/serviceProviders.jsf, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=M079

@@ -16,6 +16,6 @@ canonical: https://mnhomesalepros.com/firms/spectrum-research-inc-sl2215/
 * Also licensed: Designer, Service provider
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL2215
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL2215
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL2215

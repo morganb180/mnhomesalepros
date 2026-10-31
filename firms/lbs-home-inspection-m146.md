@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/lbs-home-inspection-m146/
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 25 miles
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=M146
+Get a quote: https://mnhomesalepros.com/quotes/?firm=M146
 
 Source: https://radon.web.health.state.mn.us/serviceProviders.jsf, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=M146

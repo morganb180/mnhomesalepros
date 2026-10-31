@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/a-1-precision-pumping-inc-sl3310/
 * Also licensed: Designer, Maintainer, Service provider
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL3310
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL3310
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL3310

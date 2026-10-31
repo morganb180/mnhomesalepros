@@ -78,6 +78,32 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 
 Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH's radon service provider list.
 
+## Want licensed pros in Mower County to contact you?
+
+Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=mower)
+
+## Frequently asked questions
+
+**How many licensed septic (SSTS) inspectors are in Mower County, MN?**
+
+3 MPCA-licensed SSTS inspector businesses list an address in Mower County (data last verified 2026-10-12). Many work across counties, so ask whether they cover your property.
+
+**Do I need a septic inspection to sell a house in Mower County, MN?**
+
+Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
+
+**Who does radon testing in Mower County, MN?**
+
+1 MDH-licensed radon business lists an address in Mower County. Most radon pros list a statewide service area, so pros based elsewhere may also cover the county.
+
+**Is a radon test required to sell a home in Minnesota?**
+
+No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://www.revisor.mn.gov/statutes/cite/144.496)), before signing a purchase agreement the seller must disclose known radon test results and mitigation information and give the buyer the MDH radon publication. No test is required.
+
+**How do I get quotes from licensed pros in Mower County?**
+
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+
 ## Which counties border Mower County, MN?
 
 [Dodge County](https://mnhomesalepros.com/county/dodge/) · [Fillmore County](https://mnhomesalepros.com/county/fillmore/) · [Freeborn County](https://mnhomesalepros.com/county/freeborn/) · [Olmsted County](https://mnhomesalepros.com/county/olmsted/) · [Steele County](https://mnhomesalepros.com/county/steele/)

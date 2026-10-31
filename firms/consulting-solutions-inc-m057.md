@@ -14,6 +14,6 @@ canonical: https://mnhomesalepros.com/firms/consulting-solutions-inc-m057/
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): Statewide
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=M057
+Get a quote: https://mnhomesalepros.com/quotes/?firm=M057
 
 Source: https://radon.web.health.state.mn.us/serviceProviders.jsf, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=M057

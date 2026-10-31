@@ -14,3 +14,7 @@ MN Home Sale Pros is a free, independent directory of Minnesota home-sale inspec
 337 businesses](https://mnhomesalepros.com/septic-inspectors/)[**Radon**  
 265 businesses](https://mnhomesalepros.com/radon/)[**TISH evaluators**  
 Saint Paul, Minneapolis](https://mnhomesalepros.com/truth-in-sale-of-housing/)[**By county**](https://mnhomesalepros.com/counties/)
+
+## Find pros in your county
+
+Browse [all counties](https://mnhomesalepros.com/counties/) or read the [guides](https://mnhomesalepros.com/guides/).

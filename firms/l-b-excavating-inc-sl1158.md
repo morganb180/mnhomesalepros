@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/l-b-excavating-inc-sl1158/
 * Also licensed: Designer, Installer, Maintainer, Pipelayer
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL1158
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL1158
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL1158

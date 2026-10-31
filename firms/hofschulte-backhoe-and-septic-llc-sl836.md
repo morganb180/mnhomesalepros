@@ -16,6 +16,6 @@ canonical: https://mnhomesalepros.com/firms/hofschulte-backhoe-and-septic-llc-sl
 * Also licensed: Designer, Installer, Pipelayer
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL836
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL836
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL836

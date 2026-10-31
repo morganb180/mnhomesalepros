@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/marigold-home-inspections-m155/
 * MDH radon: Multi Family Measurement, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 50 miles, Statewide
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=M155
+Get a quote: https://mnhomesalepros.com/quotes/?firm=M155
 
 Source: https://radon.web.health.state.mn.us/serviceProviders.jsf, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=M155

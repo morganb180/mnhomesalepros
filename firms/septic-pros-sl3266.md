@@ -16,6 +16,6 @@ canonical: https://mnhomesalepros.com/firms/septic-pros-sl3266/
 * Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL3266
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL3266
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL3266

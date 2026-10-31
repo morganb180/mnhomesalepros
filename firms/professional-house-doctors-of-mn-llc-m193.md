@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/professional-house-doctors-of-mn-llc
 * MDH radon: Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 100 miles
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=M193
+Get a quote: https://mnhomesalepros.com/quotes/?firm=M193
 
 Source: https://radon.web.health.state.mn.us/serviceProviders.jsf, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=M193

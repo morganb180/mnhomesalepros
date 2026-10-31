@@ -14,6 +14,6 @@ canonical: https://mnhomesalepros.com/firms/chaps-home-inspection-m050/
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=M050
+Get a quote: https://mnhomesalepros.com/quotes/?firm=M050
 
 Source: https://radon.web.health.state.mn.us/serviceProviders.jsf, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=M050

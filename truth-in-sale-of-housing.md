@@ -6,6 +6,8 @@ canonical: https://mnhomesalepros.com/truth-in-sale-of-housing/
 
 # Truth-in-Sale of Housing (TISH) in Minnesota
 
+> Last updated 2026-10-13. Rules on this page are checked against the official sources listed at the end of the page.
+
 Some Minnesota cities require a housing evaluation or inspection before a home is listed or sold. These are city ordinances, not state law, and names vary (TISH, Time of Sale, Point of Sale).
 
 | City | Program | When and who | Fee | Source |
@@ -32,3 +34,17 @@ Checked against each city's official page on 2026-10-13. Rules and fees change, 
 ## Where can I find home-sale inspectors by county?
 
 [All counties](https://mnhomesalepros.com/counties/) · [Hennepin County](https://mnhomesalepros.com/county/hennepin/) · [Saint Louis County](https://mnhomesalepros.com/county/saint-louis/) · [Dakota County](https://mnhomesalepros.com/county/dakota/) · [Otter Tail County](https://mnhomesalepros.com/county/otter-tail/) · [Anoka County](https://mnhomesalepros.com/county/anoka/) · [Olmsted County](https://mnhomesalepros.com/county/olmsted/)
+
+## Sources
+
+- [Official city page](https://www.minneapolismn.gov/resident-services/property-housing/buying-selling/tish/)
+- [Official city page](https://www.stpaul.gov/departments/safety-inspections/rent-buy-sell-property/selling-or-buying-properties/truth-sale-housing)
+- [Official city page](https://www.bloomingtonmn.gov/bldg/time-sale-tos-housing-inspection-program)
+- [Official city page](https://columbiaheightsmn.gov/housing/time_of_sale_program.php)
+- [Official city page](https://maplewoodmn.gov/1501/Truth-in-Sale-of-Housing)
+- [Official city page](https://www.newhopemn.gov/city_hall/inspections/point_of_sale)
+- [Official city page](https://www.richfieldmn.gov/692/Point-of-Sale-Inspections)
+- [Official city page](https://www.stlouisparkmn.gov/our-city/resident-resources/housing-inspection)
+- [Official city page](https://southstpaulmn.gov/126/Time-of-Sale)
+- [city source](https://www.robbinsdalemn.com/Archive/ViewFile/Item/130)
+- [city source](https://hopkinsmn.com/645/Selling-Your-Home)

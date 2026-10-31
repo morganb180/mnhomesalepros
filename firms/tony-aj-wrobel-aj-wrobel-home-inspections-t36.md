@@ -14,6 +14,6 @@ canonical: https://mnhomesalepros.com/firms/tony-aj-wrobel-aj-wrobel-home-inspec
 * Google rating: 4.4 from 9 reviews (as of Oct 18, 2026)
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=T36
+Get a quote: https://mnhomesalepros.com/quotes/?firm=T36
 
 Source: https://www.stpaul.gov/departments/safety-inspections/rent-buy-sell-property/selling-or-buying-properties/truth-sale-housing, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=T36

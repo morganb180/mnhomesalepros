@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/mjl-contracting-inc-sl2449/
 * Also licensed: Designer, Installer, Maintainer, Pipelayer
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL2449
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL2449
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL2449

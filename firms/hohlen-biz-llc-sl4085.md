@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/hohlen-biz-llc-sl4085/
 * Also licensed: Designer, Installer, Pipelayer
 * insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL4085
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL4085
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL4085

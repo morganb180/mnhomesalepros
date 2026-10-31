@@ -16,6 +16,6 @@ canonical: https://mnhomesalepros.com/firms/walker-plumbing-heating-sewer-servic
 * Also licensed: Designer, Installer, Maintainer, Pipelayer
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL973
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL973
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL973

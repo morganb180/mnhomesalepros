@@ -14,6 +14,6 @@ canonical: https://mnhomesalepros.com/firms/home-inspections-plus-inc-m102/
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=M102
+Get a quote: https://mnhomesalepros.com/quotes/?firm=M102
 
 Source: https://radon.web.health.state.mn.us/serviceProviders.jsf, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=M102

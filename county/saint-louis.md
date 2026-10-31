@@ -336,3 +336,29 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 ## Guides
 
 [Septic (SSTS) at sale](https://mnhomesalepros.com/septic-inspectors/) · [Radon at sale](https://mnhomesalepros.com/radon/) · [Truth-in-Sale of Housing](https://mnhomesalepros.com/truth-in-sale-of-housing/)
+
+## Want licensed pros in Saint Louis County to contact you?
+
+Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=saint-louis)
+
+## Frequently asked questions
+
+**How many licensed septic (SSTS) inspectors are in Saint Louis County, MN?**
+
+24 MPCA-licensed SSTS inspector businesses list an address in Saint Louis County (data last verified 2026-10-12). Many work across counties, so ask whether they cover your property.
+
+**Do I need a septic inspection to sell a house in Saint Louis County, MN?**
+
+Minnesota has no single statewide septic-at-sale rule, but many counties and cities require an SSTS compliance inspection at property transfer by local ordinance ([MPCA local SSTS programs](https://www.pca.state.mn.us/business-with-us/local-septic-system-programs)). Ask the county or city SSTS office whether a transfer inspection applies. Inspections must be done by an MPCA-licensed SSTS inspector business.
+
+**Who does radon testing in Saint Louis County, MN?**
+
+No MDH-licensed radon businesses list an address in Saint Louis County. Most radon pros list a statewide service area: see [statewide radon pros](https://mnhomesalepros.com/radon/).
+
+**Is a radon test required to sell a home in Minnesota?**
+
+No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://www.revisor.mn.gov/statutes/cite/144.496)), before signing a purchase agreement the seller must disclose known radon test results and mitigation information and give the buyer the MDH radon publication. No test is required.
+
+**How do I get quotes from licensed pros in Saint Louis County?**
+
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.

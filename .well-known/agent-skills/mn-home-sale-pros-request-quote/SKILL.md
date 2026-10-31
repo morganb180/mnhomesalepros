@@ -31,7 +31,7 @@ You can also use the MCP tool `request_quote` at `https://leads.radonroster.com/
 - `422 consent_required`: the homeowner didn't agree. Ask them; never set `consent` yourself.
 - `400 <field>`: fix that field.
 - `404 no_firms`: no certified firm serves that location or need.
-- `429`: rate limited. Don't retry in a loop; wait an hour or send the homeowner to https://mnhomesalepros.com/get-quotes/.
+- `429`: rate limited. Don't retry in a loop; wait an hour or send the homeowner to https://mnhomesalepros.com/quotes/.
 
 ## Spec
 

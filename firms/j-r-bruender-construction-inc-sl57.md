@@ -15,6 +15,6 @@ canonical: https://mnhomesalepros.com/firms/j-r-bruender-construction-inc-sl57/
 * Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer
 * bonded · insured
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=SL57
+Get a quote: https://mnhomesalepros.com/quotes/?firm=SL57
 
 Source: https://services.pca.state.mn.us/api/v1/ssts/licensed-businesses?format=json, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=SL57

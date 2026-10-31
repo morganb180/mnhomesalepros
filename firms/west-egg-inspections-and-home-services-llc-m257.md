@@ -14,6 +14,6 @@ canonical: https://mnhomesalepros.com/firms/west-egg-inspections-and-home-servic
 * MDH radon: Single Family Measurement
 * Service area (per MDH): Statewide
 
-Get a quote: https://mnhomesalepros.com/get-quotes/?firm=M257
+Get a quote: https://mnhomesalepros.com/quotes/?firm=M257
 
 Source: https://radon.web.health.state.mn.us/serviceProviders.jsf, retrieved 2026-10-12. Claim / correct: https://mnhomesalepros.com/list-your-business/?id=M257
