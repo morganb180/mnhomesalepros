@@ -13,6 +13,10 @@ What Minnesota sellers, buyers and agents need to know about septic (SSTS) compl
 - [Truth-in-Sale of Housing (TISH)](https://mnhomesalepros.com/truth-in-sale-of-housing/): Which Minnesota cities require a point-of-sale housing evaluation (TISH), with official city sources, Saint Paul evaluators and a Minneapolis guide.
 - [Minneapolis TISH](https://mnhomesalepros.com/truth-in-sale-of-housing/minneapolis/): How Minneapolis Truth in Sale of Housing (TISH) evaluations work and where to find the city's licensed evaluators.
 - [Saint Paul TISH evaluators](https://mnhomesalepros.com/truth-in-sale-of-housing/saint-paul/): The City of Saint Paul's 37 approved Truth-in-Sale of Housing (TISH) evaluators, plus how the TISH report works.
+- [Radon testing in Minnesota](https://mnhomesalepros.com/radon-testing-minnesota/): How MDH says to test: short and long-term tests, placement, what results mean, testing in a home sale and licensed testers.
+- [Radon mitigation in Minnesota](https://mnhomesalepros.com/radon-mitigation-minnesota/): When MDH recommends mitigation, the cost range MDH cites, system types, licensing, tags and how to hire.
+- [TISH inspection](https://mnhomesalepros.com/tish-inspection/): What Minneapolis and Saint Paul TISH evaluators check, how long reports last, repairs and reinspections.
+- [Licensed pros by county (data)](https://mnhomesalepros.com/minnesota-licensed-pros-data/): 638 septic, radon and TISH listings counted by county and service, with a CSV.
 
 ## Find a licensed pro
 
