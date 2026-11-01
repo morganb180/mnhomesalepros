@@ -13,7 +13,7 @@
         "url": "https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-businesses",
         "agency": "Minnesota Pollution Control Agency (MPCA)",
         "retrieved": "2026-10-12",
-        "firms": 336
+        "firms": 337
       },
       {
         "url": "https://radon.web.health.state.mn.us/serviceProviders.jsf",
@@ -31,7 +31,7 @@
   },
   "attribution": "Listing data from MN Home Sale Pros (https://mnhomesalepros.com/), built from public licence records. Not an endorsement.",
   "counts": {
-    "firms": 638,
+    "firms": 639,
     "counties": 77,
     "cities": 2,
     "states": 0
@@ -557,8 +557,8 @@
       "state": "MN",
       "page": "https://mnhomesalepros.com/county/pipestone/",
       "feed": "https://mnhomesalepros.com/api/county/pipestone.json",
-      "count": 1,
-      "local_count": 1
+      "count": 2,
+      "local_count": 2
     },
     {
       "slug": "polk",

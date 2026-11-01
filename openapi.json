@@ -169,7 +169,7 @@
       ],
       "get": {
         "operationId": "listAllFirms",
-        "summary": "All 638 listed firms",
+        "summary": "All 639 listed firms",
         "responses": {
           "200": {
             "description": "All firms",

@@ -16,7 +16,7 @@ What Minnesota sellers, buyers and agents need to know about septic (SSTS) compl
 - [Radon testing in Minnesota](https://mnhomesalepros.com/radon-testing-minnesota/): How MDH says to test: short and long-term tests, placement, what results mean, testing in a home sale and licensed testers.
 - [Radon mitigation in Minnesota](https://mnhomesalepros.com/radon-mitigation-minnesota/): When MDH recommends mitigation, the cost range MDH cites, system types, licensing, tags and how to hire.
 - [TISH inspection](https://mnhomesalepros.com/tish-inspection/): What Minneapolis and Saint Paul TISH evaluators check, how long reports last, repairs and reinspections.
-- [Licensed pros by county (data)](https://mnhomesalepros.com/minnesota-licensed-pros-data/): 638 septic, radon and TISH listings counted by county and service, with a CSV.
+- [Licensed pros by county (data)](https://mnhomesalepros.com/minnesota-licensed-pros-data/): 639 septic, radon and TISH listings counted by county and service, with a CSV.
 
 ## Find a licensed pro
 

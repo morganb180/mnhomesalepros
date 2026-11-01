@@ -1,18 +1,18 @@
 ---
 title: "Minnesota Licensed Pros by County: Septic, Radon & TISH Data"
-description: "638 licensed septic, radon and TISH pros in Minnesota counted by county and service from MPCA, MDH and Saint Paul lists, with a CSV download."
+description: "639 licensed septic, radon and TISH pros in Minnesota counted by county and service from MPCA, MDH and Saint Paul lists, with a CSV download."
 canonical: https://mnhomesalepros.com/minnesota-licensed-pros-data/
 ---
 
 # Minnesota licensed pros by county
 
-> Last updated 2026-11-01. Every number on this page is counted from our own listing records (638 listings built from MPCA, MDH and City of Saint Paul lists retrieved 2026-10-12). It counts listings, not every licensed person in Minnesota.
+> Last updated 2026-11-01. Every number on this page is counted from our own listing records (639 listings built from MPCA, MDH and City of Saint Paul lists retrieved 2026-10-12). It counts listings, not every licensed person in Minnesota.
 
 Reviewed by MN Home Sale Pros staff
 
-638licensed listings77Minnesota counties with a listing44listings based outside Minnesota
+639licensed listings77Minnesota counties with a listing44listings based outside Minnesota
 
-Our records hold 638 listings: 336 MPCA-licensed septic (SSTS) businesses, 265 MDH-licensed radon businesses and 37 Saint Paul-approved Truth-in-Sale of Housing evaluators. By business address, the counties with the most listings are Hennepin County (69), Saint Louis County (24), Dakota County (22).
+Our records hold 639 listings: 337 MPCA-licensed septic (SSTS) businesses, 265 MDH-licensed radon businesses and 37 Saint Paul-approved Truth-in-Sale of Housing evaluators. By business address, the counties with the most listings are Hennepin County (69), Saint Louis County (24), Dakota County (22).
 
 [Download the county table (CSV)](https://mnhomesalepros.com/minnesota-licensed-pros-data/mn-licensed-pros-by-county.csv) · listing-level data: [api/firms.json](https://mnhomesalepros.com/api/firms.json)
 
@@ -27,13 +27,13 @@ Our records hold 638 listings: 336 MPCA-licensed septic (SSTS) businesses, 265 M
 
 | Licence | Issued by | Listings | Address outside MN |
 | --- | --- | --- | --- |
-| Septic (SSTS) businesses | Minnesota Pollution Control Agency (MPCA) | 336 | 2 |
+| Septic (SSTS) businesses | Minnesota Pollution Control Agency (MPCA) | 337 | 2 |
 | Radon businesses | Minnesota Department of Health (MDH) | 265 | 42 |
 | Saint Paul TISH evaluators | City of Saint Paul | 37 | 0 |
 
 | Service | Listings offering it |
 | --- | --- |
-| Septic (SSTS) inspection | 336 |
+| Septic (SSTS) inspection | 337 |
 | Radon measurement | 234 |
 | Radon mitigation | 96 |
 | Radon laboratory | 14 |
@@ -104,6 +104,7 @@ The 265 radon listings carry 369 credential entries in total (a named person wit
 | [Lake of the Woods County](https://mnhomesalepros.com/county/lake-of-the-woods/) | 2 | 2 | 0 | 0 | 0 |
 | [Lincoln County](https://mnhomesalepros.com/county/lincoln/) | 2 | 2 | 0 | 0 | 0 |
 | [Martin County](https://mnhomesalepros.com/county/martin/) | 2 | 1 | 1 | 0 | 0 |
+| [Pipestone County](https://mnhomesalepros.com/county/pipestone/) | 2 | 2 | 0 | 0 | 0 |
 | [Roseau County](https://mnhomesalepros.com/county/roseau/) | 2 | 2 | 0 | 0 | 0 |
 | [Wadena County](https://mnhomesalepros.com/county/wadena/) | 2 | 2 | 0 | 0 | 0 |
 | [Big Stone County](https://mnhomesalepros.com/county/big-stone/) | 1 | 1 | 0 | 0 | 0 |
@@ -116,7 +117,6 @@ The 265 radon listings carry 369 credential entries in total (a named person wit
 | [Meeker County](https://mnhomesalepros.com/county/meeker/) | 1 | 1 | 0 | 0 | 0 |
 | [Murray County](https://mnhomesalepros.com/county/murray/) | 1 | 1 | 0 | 0 | 0 |
 | [Nobles County](https://mnhomesalepros.com/county/nobles/) | 1 | 1 | 0 | 0 | 0 |
-| [Pipestone County](https://mnhomesalepros.com/county/pipestone/) | 1 | 1 | 0 | 0 | 0 |
 | [Pope County](https://mnhomesalepros.com/county/pope/) | 1 | 1 | 0 | 0 | 0 |
 | [Red Lake County](https://mnhomesalepros.com/county/red-lake/) | 1 | 1 | 0 | 0 | 0 |
 | [Redwood County](https://mnhomesalepros.com/county/redwood/) | 1 | 1 | 0 | 0 | 0 |
@@ -137,7 +137,7 @@ MPCA SSTS business licences in our records carry an expiry date (MDH radon entri
 | Expiry year | SSTS listings |
 | --- | --- |
 | 2026 | 23 |
-| 2027 | 242 |
+| 2027 | 243 |
 | 2028 | 41 |
 | 2029 | 30 |
 

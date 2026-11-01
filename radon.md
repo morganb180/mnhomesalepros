@@ -319,7 +319,7 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 
 303 270th St, Wilson, WI 54027  
 ☎ [(651) 261-1830](tel:6512611830)  
-🌐 [langer@radon.com](https://langer@radon.com)
+🌐 [langer-radon.com](https://langer-radon.com)
 
 2 MDH-licensed professionals
 

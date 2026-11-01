@@ -16,7 +16,7 @@ It is for Minnesota sellers, buyers and agents dealing with septic compliance in
 - [Radon Testing in Minnesota: MDH Steps & Licensed Testers](https://mnhomesalepros.com/radon-testing-minnesota/): MDH testing steps and licensed testers
 - [Radon Mitigation in Minnesota: Cost, Systems & Licensed Pros](https://mnhomesalepros.com/radon-mitigation-minnesota/): MDH cost range, systems, licensing and hiring
 - [TISH Inspection: Minneapolis & Saint Paul Evaluations](https://mnhomesalepros.com/tish-inspection/): what evaluators check in Minneapolis and Saint Paul
-- [Minnesota licensed pros by county](https://mnhomesalepros.com/minnesota-licensed-pros-data/): 638 listings by county and service, CSV
+- [Minnesota licensed pros by county](https://mnhomesalepros.com/minnesota-licensed-pros-data/): 639 listings by county and service, CSV
 
 ## About
 - [About MN Home Sale Pros](https://mnhomesalepros.com/about/)
