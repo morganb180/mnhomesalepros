@@ -1,6 +1,6 @@
 ---
 title: "Minnesota Geotechnical Services, LLC, Maple Lake MN"
-description: "Minnesota Geotechnical Services in Maple Lake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Minnesota Geotechnical Services in Maple Lake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/minnesota-geotechnical-services-llc-sl3203/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/minnesota-geotechnical-services-llc-
 
 * Septic (SSTS) inspection
 * Maple Lake, MN (Wright County)
-* Phone: (320) 980-6218
-* Email: mngeoserv@gmail.com
 * Address: PO Box 771, Maple Lake, MN 55358
 * MPCA SSTS licence L3203: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-08-03)
 * Also licensed: Designer, Service provider

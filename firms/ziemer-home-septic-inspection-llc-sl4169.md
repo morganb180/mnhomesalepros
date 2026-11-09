@@ -1,6 +1,6 @@
 ---
 title: "Ziemer Home & Septic Inspection LLC, Belgrade MN"
-description: "Ziemer Home & Septic Inspection in Belgrade, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Ziemer Home & Septic Inspection in Belgrade, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/ziemer-home-septic-inspection-llc-sl4169/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ziemer-home-septic-inspection-llc-sl
 
 * Septic (SSTS) inspection
 * Belgrade, MN (Kandiyohi County)
-* Phone: (320) 220-3454
-* Email: ziemerhomeandseptic@gmail.com
 * Address: 24406 10th St NE, Belgrade, MN 56312
 * MPCA SSTS licence L4169: Inspector (exp. 2027-05-27)
 * Also licensed: Designer, Installer, Pipelayer

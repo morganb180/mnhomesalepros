@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/l-b-excavating-inc-sl1158/
 
 * Septic (SSTS) inspection
 * Menahga, MN (Wadena County)
-* Phone: (218) 564-5731
-* Email: leehenry1986@gmail.com
 * Address: PO Box 185, Menahga, MN 56464
 * MPCA SSTS licence L1158: Inspector (exp. 2027-05-22)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

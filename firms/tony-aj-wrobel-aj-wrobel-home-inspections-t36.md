@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/tony-aj-wrobel-aj-wrobel-home-inspec
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (651) 276-2055
-* Email: ajwrobelhomeinspections@yahoo.com
 * Address: Saint Paul, MN
 * Google rating: 4.4 from 9 reviews (as of Oct 18, 2026)
 * Saint Paul-approved Truth-in-Sale of Housing evaluator

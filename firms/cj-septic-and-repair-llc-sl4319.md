@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/cj-septic-and-repair-llc-sl4319/
 
 * Septic (SSTS) inspection
 * Proctor, MN (Saint Louis County)
-* Phone: (507) 351-6915
-* Email: skibickicindy@yahoo.com
 * Address: 208 6th Ave, Proctor, MN 55810
 * MPCA SSTS licence L4319: Inspector (exp. 2027-06-26)
 * Also licensed: Service provider

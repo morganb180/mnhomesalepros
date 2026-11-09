@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Ness Backhoe Inc
 
 11468 State Hwy 78, Ashby, MN 56309  
-☎ [(218) 747-2200](tel:2187472200)
 
 Certified staff: Brett D Anderson, Tony L Anderson  
 Also licensed: Designer, Installer, Pipelayer  
@@ -35,7 +34,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Bob's Lakeside Septic
 
 26720 State Hwy 78, Battle Lake, MN 56515  
-☎ [(218) 864-3004](tel:2188643004)  
 ✉ lakesideseptic@arvig.net
 
 Certified staff: Jerame J Tysdal  
@@ -48,7 +46,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Barry Excavating Inc
 
 33330 County Hwy 35, Dent, MN 56528  
-☎ [(218) 495-2686](tel:2184952686)  
 ✉ barryx@prtel.com
 
 Certified staff: Laremie J Barry Sr  
@@ -61,7 +58,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Stoll Inspections, Inc.
 
 33377 Vics Beach Rd, Dent, MN 56528  
-☎ [(218) 839-1849](tel:2188391849)  
 ✉ pstoll93@hotmail.com
 
 Certified staff: Phil J Stoll  
@@ -73,7 +69,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Crescent Septic Services LLC
 
 209 S Niggeler St, Elizabeth, MN 56533  
-☎ [(701) 929-0157](tel:7019290157)  
 ✉ peter.r.johnson70@gmail.com
 
 Certified staff: Jessica L Johnson, Peter R Johnson  
@@ -86,7 +81,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Roisum LLC
 
 19368 County Hwy 24, Erhard, MN 56534  
-☎ [(218) 849-8921](tel:2188498921)  
 ✉ trevor.roisum@gmail.com
 
 Certified staff: Trevor W Roisum  
@@ -99,7 +93,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Schueller's Septic Solutions, LLC
 
 24745 225th Ave, Fergus Falls, MN 56537  
-☎ [(218) 998-0861](tel:2189980861)  
 ✉ billschueller@gmail.com
 
 Certified staff: Bill J Schueller  
@@ -112,7 +105,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Bob's Septic Service
 
 51499 County Rd 134, Henning, MN 56551  
-☎ [(218) 583-4424](tel:2185834424)  
 ✉ rarokes@gmail.com
 
 Certified staff: Robert A Rokes  
@@ -125,7 +117,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Brogard Plumbing Heating and Excavating Inc
 
 PO Box 336, Henning, MN 56551  
-☎ [(218) 583-2041](tel:2185832041)  
 ✉ brogardplbg@hotmail.com
 
 Certified staff: Brian R Brogard  
@@ -138,7 +129,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Ross Seifert Septic Service, LLC
 
 47000 180th Ave, Pelican Rapids, MN 56572  
-☎ [(701) 219-4139](tel:7012194139)  
 ✉ seifertseptic@gmail.com
 
 Certified staff: Andrew H Seifert, Ross W Seifert  
@@ -151,7 +141,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Super Septic Inc of Pelican Rapids
 
 38992 183rd Ave, Pelican Rapids, MN 56572  
-☎ [(218) 863-3373](tel:2188633373)  
 ✉ info@septicandexcavation.com
 
 Certified staff: Wayne D Johnson  
@@ -164,7 +153,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Watkins Excavating
 
 29867 440th St, Vergas, MN 56587  
-☎ [(218) 342-2516](tel:2183422516)  
 ✉ awatkins@eot.com
 
 Certified staff: Andrus L Watkins  
@@ -181,8 +169,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Pillar to Post Home Inspectors - The Voyager Team
 
 17092 332nd Ave, Battle Lake, MN 56515  
-☎ [(218) 864-7100](tel:2188647100)  
-🌐 [voyagerteam.pillartopost.com](https://voyagerteam.pillartopost.com)
 
 1 MDH-licensed professional
 
@@ -196,7 +182,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Lakes Area Home Inspection
 
 1016 Redwood Ln, Fergus Falls, MN 56537  
-☎ [(218) 731-2897](tel:2187312897)
 
 1 MDH-licensed professional
 
@@ -210,7 +195,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Up North Radon LLC
 
 16933 River Oaks Blvd, Fergus Falls, MN 56537  
-☎ [(218) 671-5046](tel:2186715046)
 
 1 MDH-licensed professional
 
@@ -224,8 +208,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Polar Home Inspections LLC
 
 45700 Crystal Beach Rd, Pelican Rapids, MN 56572  
-☎ [(218) 790-5413](tel:2187905413)  
-🌐 [ww.polarhomeinspections.com](https://ww.polarhomeinspections.com)
 
 1 MDH-licensed professional
 
@@ -239,8 +221,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Pro-Tech Home Inspection
 
 23528 Moonlight Bay Rd, Pelican Rapids, MN 56572  
-☎ [(218) 332-7222](tel:2183327222)  
-🌐 [inspectionhomepros.com](https://inspectionhomepros.com)
 
 2 MDH-licensed professionals
 
@@ -255,8 +235,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Pro-Tech Home Inspection Services LLC
 
 23528 Moonlight Bay Rd, Pelican Rapids, MN 56572  
-☎ [(218) 332-7222](tel:2183327222)  
-🌐 [protechinspects.com](https://protechinspects.com)
 
 1 MDH-licensed professional
 
@@ -270,8 +248,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### DJ's Radon Services, Inc.
 
 41000 Mn 78, Perham, MN 56573  
-☎ [(701) 353-5564](tel:7013535564)  
-🌐 [djsradonservices.com](https://djsradonservices.com)
 
 1 MDH-licensed professional
 
@@ -288,7 +264,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Otter Tail County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=otter-tail)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=otter-tail)
 
 ## Frequently asked questions
 
@@ -310,4 +286,4 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Otter Tail County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.

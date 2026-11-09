@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/iea-inc-m117/
 
 * Radon measurement
 * Brainerd, MN (Crow Wing County)
-* Phone: (218) 491-0824
 * Address: 601 NW 5th St Suite #4 Suite 600, Brainerd, MN 56401
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): Statewide

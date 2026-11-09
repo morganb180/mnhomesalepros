@@ -1,6 +1,6 @@
 ---
 title: "A1 Radon Services LLC, Eden Prairie, MN | MN Home Sale Pros"
-description: "A1 Radon Services in Eden Prairie, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "A1 Radon Services in Eden Prairie, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/a1-radon-services-llc-m003/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/a1-radon-services-llc-m003/
 
 * Radon measurement, Radon mitigation
 * Eden Prairie, MN (Hennepin County)
-* Phone: (612) 207-3049
-* Website: https://www.a1radonservices.com
 * Address: 9980 Dell Rd, Eden Prairie, MN 55347
 * MDH radon: Multi Family Mitigation, Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 50 miles

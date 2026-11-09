@@ -1,6 +1,6 @@
 ---
 title: "Ten Thirty Environmental Solutions, SBC, Blaine MN"
-description: "Ten Thirty Environmental Solutions, SBC in Blaine, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Ten Thirty Environmental Solutions, SBC in Blaine, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/ten-thirty-environmental-solutions-sbc-sl4082/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ten-thirty-environmental-solutions-s
 
 * Septic (SSTS) inspection
 * Blaine, MN (Anoka County)
-* Phone: (612) 248-4281
-* Email: alexanderpepin@gmail.com
 * Address: 1684 132nd Ave NE, Blaine, MN 55449
 * MPCA SSTS licence L4082: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2028-08-28)
 * Also licensed: Designer, Service provider

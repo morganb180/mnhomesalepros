@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/mid-mn-septic-services-sl1686/
 
 * Septic (SSTS) inspection
 * Hutchinson, MN (McLeod County)
-* Phone: (320) 234-7222
-* Email: bcassens14@gmail.com
 * Address: 22517 Tagus Ave, Hutchinson, MN 55350
 * Google rating: 5.0 from 11 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1686: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-08-24)

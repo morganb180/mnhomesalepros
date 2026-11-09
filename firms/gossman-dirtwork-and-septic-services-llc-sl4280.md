@@ -1,6 +1,6 @@
 ---
 title: "Gossman Dirtwork and Septic Services LLC, Preston MN"
-description: "Gossman Dirtwork and Septic Services in Preston, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Gossman Dirtwork and Septic Services in Preston, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/gossman-dirtwork-and-septic-services-llc-sl4280/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/gossman-dirtwork-and-septic-services
 
 * Septic (SSTS) inspection
 * Preston, MN (Fillmore County)
-* Phone: (507) 273-9746
-* Email: cstack115@gmail.com
 * Address: 25350 230th St, Preston, MN 55965
 * MPCA SSTS licence L4280: Inspector (exp. 2027-06-27)
 * Also licensed: Designer, Installer, Pipelayer

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/winterberger-inspections-sl1565/
 
 * Septic (SSTS) inspection
 * Osage, MN (Becker County)
-* Phone: (218) 573-2275
-* Email: winterberger@arvig.net
 * Address: 24685 Washington Dr, Osage, MN 56570
 * MPCA SSTS licence L1565: Inspector (exp. 2027-01-10)
 * Also licensed: Designer

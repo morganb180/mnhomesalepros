@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ed-eklin-septic-system-design-inspec
 
 * Septic (SSTS) inspection
 * White Bear Lake, MN (Ramsey County)
-* Phone: (651) 485-2300
-* Email: zeklins@gmail.com
 * Address: 2303 County Rd F E, White Bear Lake, MN 55110
 * MPCA SSTS licence L3321: Inspector (exp. 2027-04-27)
 * Also licensed: Designer

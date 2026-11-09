@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### South Metro Septic Service
 
 117 W Main St, Belle Plaine, MN 56011  
-☎ [(612) 245-3103](tel:6122453103)  
 ✉ n89t@aol.com
 
 Certified staff: Donald J Savage  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Bohn Well Drilling Company
 
 18190 Dairy Ln Suite 101, Jordan, MN 55352  
-☎ [(952) 445-4809](tel:9524454809)  
 ✉ info@bohnwell.com
 
 Certified staff: Charles M Bohn, Joey E Menden  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Westman Guenther Septic Services LLC
 
 1205 Butterfly Ln, Jordan, MN 55352  
-☎ [(952) 495-4485](tel:9524954485)  
 ✉ markwestman00@gmail.com
 
 Certified staff: David J Guenther, Mark D Westman  
@@ -62,7 +59,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### McKinley Sewer Service
 
 16961 Mushtown Rd, Prior Lake, MN 55372  
-☎ [(952) 440-1800](tel:9524401800)  
 ✉ mckinleysewer@gmail.com
 
 Certified staff: Matthew M McKinley  
@@ -75,7 +71,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Blackwater Systems
 
 646 Roundhouse St, Shakopee, MN 55379  
-☎ [(952) 250-1649](tel:9522501649)  
 ✉ bdmatter@outlook.com
 
 Certified staff: Brent D Matter  
@@ -92,7 +87,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Call It Home Properties LLC
 
 10810 Cty Rd 52, Belle Plaine, MN 56011  
-☎ [(952) 412-8304](tel:9524128304)
 
 1 MDH-licensed professional
 
@@ -106,7 +100,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Mr Radon LLC
 
 25156 Dakota Ave, Elko New Market, MN 55020  
-☎ [(612) 564-8411](tel:6125648411)
 
 1 MDH-licensed professional
 
@@ -120,7 +113,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Cates Home Inspection Services LLC
 
 16390 Albany Ave SE, Prior Lake, MN 55372  
-☎ [(952) 440-3000](tel:9524403000)
 
 1 MDH-licensed professional
 
@@ -134,8 +126,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Low Radon LLC
 
 3418 Spring Glen Cir NW, Prior Lake, MN 55372  
-☎ [(952) 334-3116](tel:9523343116)  
-🌐 [low-radon.com](https://low-radon.com)
 
 2 MDH-licensed professionals
 
@@ -150,7 +140,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Certified Home Inspections LLC
 
 2963 Ter Cir SW, Prior lake, MN 55372  
-☎ [(612) 237-9575](tel:6122379575)
 
 1 MDH-licensed professional
 
@@ -164,8 +153,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Admiral Radon & Mechanical Services
 
 13816 Utah Ave, Savage, MN 55378  
-☎ [(952) 226-5577](tel:9522265577)  
-🌐 [admiral-rms.com](https://www.admiral-rms.com/)
 
 1 MDH-licensed professional
 
@@ -179,8 +166,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Precision Real Estate Services LLC
 
 5670 Oak View Ct, Savage, MN 55378  
-☎ [(612) 850-1393](tel:6128501393)  
-🌐 [presmn.com](https://presmn.com)
 
 1 MDH-licensed professional
 
@@ -193,7 +178,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Scott County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=scott)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=scott)
 
 ## Frequently asked questions
 
@@ -215,7 +200,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Scott County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Scott County, MN?
 

@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bruce-s-backhoe-service-sl1993/
 
 * Septic (SSTS) inspection
 * Goodhue, MN (Goodhue County)
-* Phone: (651) 923-4190
 * Address: 36130 Cty 2 Blvd, Goodhue, MN 55027
 * MPCA SSTS licence L1993: Inspector (exp. 2026-10-16)
 * Also licensed: Designer, Installer, Pipelayer

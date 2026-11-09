@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/quality-first-inspections-llc-m198/
 
 * Radon measurement
 * Wahpeton, ND (Richland County)
-* Phone: (701) 640-9395
-* Website: https://qualityfirstinspections.com/
 * Address: 617 Center St S, Wahpeton, ND 58075
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): Statewide

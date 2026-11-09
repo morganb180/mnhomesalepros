@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Correct Septic LLC
 
 39336 355th St, Aitkin, MN 56431  
-☎ [(218) 259-5447](tel:2182595447)  
 ✉ brock.anderson@aitkincountymn.gov
 
 Certified staff: Brock R Anderson  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Grund Septic Services LLC
 
 35831 295th St, Aitkin, MN 56431  
-☎ [(507) 384-1256](tel:5073841256)  
 ✉ jody.grund@co.aitkin.mn.us
 
 Certified staff: Jody W Grund  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### O'Neil Sewer & Excavating
 
 37527 State Hwy 47, Aitkin, MN 56431  
-☎ [(218) 927-6070](tel:2189276070)
 
 Certified staff: Thomas A O'Neil  
 Also licensed: Designer, Installer, Pipelayer  
@@ -61,7 +58,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Ritter Sewer and Excavating Inc
 
 34753 390th Pl, Aitkin, MN 56431  
-☎ [(218) 927-4125](tel:2189274125)  
 ✉ rittersewer@hotmail.com
 
 Certified staff: Mark P Ritter, Travis G Ruschmeier  
@@ -74,7 +70,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Timber Lakes Septic Service, Inc.
 
 1037 1st St NW, Aitkin, MN 56431  
-☎ [(218) 927-6175](tel:2189276175)  
 ✉ tim@goblessewerservice.com
 
 Certified staff: Craig A Perlberg, Daniel E Swanson, Daniel J Peters, David R Poree, Jody W Grund, Raini A Kohl  
@@ -87,7 +82,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### David Michael Engdahl
 
 14698 260th Ave, Isle, MN 56342  
-☎ [(320) 592-3606](tel:3205923606)  
 ✉ daveengdahl@yahoo.com
 
 Certified staff: David M Engdahl  
@@ -100,7 +94,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Darlow Excavating
 
 48237 Lake Ave, McGregor, MN 55760  
-☎ [(218) 426-4320](tel:2184264320)  
 ✉ darlowexc@hotmail.com
 
 Certified staff: Ernest E Darlow Jr  
@@ -113,7 +106,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Farley Sewer Systems
 
 PO Box 472, McGregor, MN 55760  
-☎ [(218) 839-4737](tel:2188394737)  
 ✉ jfarls@frontier.com
 
 Certified staff: Jarold R Farley  
@@ -129,7 +121,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Aitkin County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=aitkin)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=aitkin)
 
 ## Frequently asked questions
 
@@ -151,7 +143,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Aitkin County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Aitkin County, MN?
 

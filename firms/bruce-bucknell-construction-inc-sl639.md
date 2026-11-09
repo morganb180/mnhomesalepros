@@ -1,6 +1,6 @@
 ---
 title: "Bruce Bucknell Construction: Septic Inspector, Racine MN"
-description: "Bruce Bucknell Construction in Racine, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Bruce Bucknell Construction in Racine, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/bruce-bucknell-construction-inc-sl639/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bruce-bucknell-construction-inc-sl63
 
 * Septic (SSTS) inspection
 * Racine, MN (Mower County)
-* Phone: (507) 533-8830
-* Email: bbconstruction8830@gmail.com
 * Address: 31901 770th Ave, Racine, MN 55967
 * Google rating: 4.6 from 13 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L639: Inspector (exp. 2027-03-15)

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/emerging-technical-group-inc-sl2386/
 
 * Septic (SSTS) inspection
 * Hibbing, MN (Saint Louis County)
-* Phone: (218) 263-8867
-* Email: etginctim@yahoo.com
 * Address: 3024 Anderson Rd, Hibbing, MN 55746
 * MPCA SSTS licence L2386: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2026-11-01)
 * Also licensed: Designer, Installer, Service provider, Pipelayer

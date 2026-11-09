@@ -1,6 +1,6 @@
 ---
 title: "All-Star Basements, Rochester, MN | MN Home Sale Pros"
-description: "All-Star Basements in Rochester, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "All-Star Basements in Rochester, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/all-star-basements-m019/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/all-star-basements-m019/
 
 * Radon measurement, Radon mitigation
 * Rochester, MN (Olmsted County)
-* Phone: (507) 259-7886
 * Address: 1500 Opportunity Rd NW, Rochester, MN 55901
 * Google rating: 4.9 from 195 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Measurement, Multi Family Mitigation, Single Family Measurement, Single Family Mitigation

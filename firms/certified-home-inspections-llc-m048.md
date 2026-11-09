@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/certified-home-inspections-llc-m048/
 
 * Radon measurement
 * Prior lake, MN (Scott County)
-* Phone: (612) 237-9575
 * Address: 2963 Ter Cir SW, Prior lake, MN 55372
 * Google rating: 5.0 from 75 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

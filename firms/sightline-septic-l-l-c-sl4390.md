@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/sightline-septic-l-l-c-sl4390/
 
 * Septic (SSTS) inspection
 * New Brighton, MN (Ramsey County)
-* Phone: (651) 245-2633
-* Email: carymac02@aol.com
 * Address: 1250 12th Ave NW, New Brighton, MN 55112
 * MPCA SSTS licence L4390: Inspector (exp. 2026-10-22)
 * bonded · insured

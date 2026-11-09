@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/suburban-home-inspections-inc-m239/
 
 * Radon measurement
 * Woodbury, MN (Washington County)
-* Phone: (651) 276-9918
-* Website: https://www.homeinvestigator.com
 * Address: 1209 Clearwater Dr, Woodbury, MN 55129
 * Google rating: 5.0 from 48 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

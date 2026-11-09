@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/quality-home-inspection-mn-m199/
 
 * Radon measurement
 * Waterville, MN (Le Sueur County)
-* Phone: (507) 380-1989
 * Address: 18150 Cedar Ridge Ln, Waterville, MN 56096
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 25 miles

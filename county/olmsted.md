@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### G G G Inc.
 
 14070 Hwy 52 SE, Chatfield, MN 55923  
-☎ [(507) 867-1666](tel:5078671666)  
 ✉ geoffg@ggg.to
 
 Certified staff: Christopher M Priebe, Geoffrey G Griffin PE, Justin M Buss  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Gopher Septic Service Inc
 
 PO Box 9280, Rochester, MN 55903  
-☎ [(507) 282-2243](tel:5072822243)  
 ✉ gopherseptic@gmail.com
 
 Certified staff: Jesse M Loomis, Mark A Loomis, Patrick A Loomis  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### WSE Engineering Services LTD
 
 717 3rd Ave SE Suite 101, Rochester, MN 55904  
-☎ [(507) 525-2594](tel:5075252594)
 
 Certified staff: Daniel J Zemke PE  
 Also licensed: Designer, Service provider  
@@ -65,8 +62,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### B and C Plumbing and Heating Inc
 
 661 Canyon Dr NW, Eyota, MN 55934  
-☎ [(507) 545-9000](tel:5075459000)  
-🌐 [bcplumbingheating.com](https://www.bcplumbingheating.com)
 
 1 MDH-licensed professional
 
@@ -80,7 +75,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### All-Star Basements
 
 1500 Opportunity Rd NW, Rochester, MN 55901  
-☎ [(507) 259-7886](tel:5072597886)
 
 2 MDH-licensed professionals
 
@@ -95,8 +89,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### American Waterworks
 
 1307 Valleyhigh Dr NW, Rochester, MN 55901  
-☎ [(952) 457-4821](tel:9524574821)  
-🌐 [american-waterworks.com](https://american-waterworks.com)
 
 4 MDH-licensed professionals
 
@@ -113,8 +105,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Athelon Radon Services
 
 6934 11th Ave SW Suite A, Rochester, MN 55902  
-☎ [(507) 269-9934](tel:5072699934)  
-🌐 [athelonradonservices.com](https://www.athelonradonservices.com)
 
 2 MDH-licensed professionals
 
@@ -129,8 +119,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Certified Radon Solutions
 
 4307 56th St Ln NW, Rochester, MN 55901  
-☎ [(507) 259-1188](tel:5072591188)  
-🌐 [radonsolutionsmn.com](https://www.radonsolutionsmn.com)
 
 1 MDH-licensed professional
 
@@ -144,8 +132,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Clean Air Dynamics
 
 970 17th Ave SW #2, Rochester, MN 55902  
-☎ [(507) 316-0339](tel:5073160339)  
-🌐 [cleanairdynamics.us](https://cleanairdynamics.us)
 
 1 MDH-licensed professional
 
@@ -159,7 +145,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### DSP Structural Consultants
 
 5731 Shetland Dr NW, Rochester, MN 55901  
-☎ [(507) 288-2622](tel:5072882622)
 
 1 MDH-licensed professional
 
@@ -173,8 +158,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Home Check
 
 1210 Hillcrest Ct SE, Rochester, MN 55904  
-☎ [(507) 701-8963](tel:5077018963)  
-🌐 [homecheck.co](https://www.homecheck.co)
 
 1 MDH-licensed professional
 
@@ -188,8 +171,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Home Doctors LLC
 
 4416 Walnut St SE, Rochester, MN 55904  
-☎ [(507) 421-7315](tel:5074217315)  
-🌐 [homedoctorsmn.com](https://www.homedoctorsmn.com)
 
 1 MDH-licensed professional
 
@@ -203,8 +184,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Home Inspections Plus Inc
 
 2417 22nd Ave SE, Rochester, MN 55904  
-☎ [(507) 285-9212](tel:5072859212)  
-🌐 [rochestermninspections.com](https://rochestermninspections.com)
 
 1 MDH-licensed professional
 
@@ -218,8 +197,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### HomePro Inspections Inc.
 
 1445 Valleyhigh Dr NW #6261, Rochester, MN 55903  
-☎ [(507) 202-8942](tel:5072028942)  
-🌐 [homepro-inspection.com](https://homepro-inspection.com)
 
 3 MDH-licensed professionals
 
@@ -235,7 +212,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### IEA Inc
 
 210 Woodlake Dr SE, Rochester, MN 55904  
-☎ [(763) 315-7900](tel:7633157900)
 
 4 MDH-licensed professionals
 
@@ -252,7 +228,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Olmsted County
 
 2100 Campus Dr SE, Suite 100, Rochester, MN 55904  
-☎ [(507) 328-7495](tel:5073287495)
 
 1 MDH-licensed professional
 
@@ -266,8 +241,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Precision Home Inspections of Rochester
 
 7835 Cedar Crest Ln NW, Rochester, MN 55901  
-☎ [(507) 254-0898](tel:5072540898)  
-🌐 [phirochester.com](https://www.phirochester.com)
 
 1 MDH-licensed professional
 
@@ -280,7 +253,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Olmsted County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=olmsted)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=olmsted)
 
 ## Frequently asked questions
 
@@ -302,7 +275,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Olmsted County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Olmsted County, MN?
 

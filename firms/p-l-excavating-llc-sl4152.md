@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/p-l-excavating-llc-sl4152/
 
 * Septic (SSTS) inspection
 * Albert Lea, MN (Freeborn County)
-* Phone: (507) 383-3385
-* Email: office@pandlexcavating.com
 * Address: 78782 255th St, Albert Lea, MN 56007
 * MPCA SSTS licence L4152: Inspector (exp. 2027-03-18)
 * Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer

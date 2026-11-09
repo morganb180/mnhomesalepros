@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/everest-home-inspectors-inc-m078/
 
 * Radon measurement
 * Minneapolis, MN (Hennepin County)
-* Phone: (612) 643-0055
-* Website: https://www.everesthomeinspectors.com
 * Address: 5235 Washburn Ave S, Minneapolis, MN 55410
 * Google rating: 4.9 from 1104 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

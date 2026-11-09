@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### A1 Backhoe & Septic Service LLC
 
 1212 Balsam Rd NW, Bemidji, MN 56601  
-☎ [(218) 368-1569](tel:2183681569)  
 ✉ travis2115@icloud.com
 
 Certified staff: Travis J Yerbich  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### H & R Septic Design
 
 10727 Nature Rd NW, Bemidji, MN 56601  
-☎ [(218) 759-0408](tel:2187590408)  
 ✉ kjramondo@gmail.com
 
 Certified staff: Kenneth J Ramondo PE, Peter C Hartmann PE  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### KDI Services LLC
 
 6494 Mayflower Rd NW, Bemidji, MN 56601  
-☎ [(218) 536-0326](tel:2185360326)  
 ✉ septic.kdiservices@gmail.com
 
 Certified staff: Nathan P Kelley  
@@ -62,7 +59,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Karvakko Engineering, Inc.
 
 210 24th St NW Suite 100, Bemidji, MN 56601  
-☎ [(218) 444-8004](tel:2184448004)  
 ✉ mike.karvakko@karvakko.com
 
 Certified staff: Keith E Kinnen  
@@ -75,7 +71,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Larson Environmental
 
 5473 Timber Ridge Dr NE, Bemidji, MN 56601  
-☎ [(218) 766-7528](tel:2187667528)  
 ✉ larsonenviro@midco.net
 
 Certified staff: David A Larson PSS  
@@ -88,7 +83,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Bemidji Sewer & Waterworks Inc.
 
 23760 Pass Rd NE, Hines, MN 56647  
-☎ [(218) 766-1971](tel:2187661971)  
 ✉ bswseptic@yahoo.com
 
 Certified staff: John R Henry III  
@@ -101,7 +95,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Karl Dobmeier
 
 21440 Hines Rd NE, Hines, MN 56647  
-☎ [(218) 835-5568](tel:2188355568)  
 ✉ karld@paulbunyan.net
 
 Certified staff: Karl S Dobmeier, Logan W Dobmeier  
@@ -118,7 +111,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Pillar To Post
 
 51495 Tanager Dr, Bemidji, MN 56601  
-☎ [(218) 368-1926](tel:2183681926)
 
 1 MDH-licensed professional
 
@@ -132,7 +124,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Pillar to Post Home Inspectors
 
 PO Box 592, Bemidji, MN 56619  
-☎ [(218) 444-7716](tel:2184447716)
 
 1 MDH-licensed professional
 
@@ -145,7 +136,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Beltrami County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=beltrami)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=beltrami)
 
 ## Frequently asked questions
 
@@ -167,7 +158,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Beltrami County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Beltrami County, MN?
 

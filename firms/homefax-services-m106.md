@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/homefax-services-m106/
 
 * Radon measurement
 * Minneapolis, MN (Anoka County)
-* Phone: (612) 900-3191
 * Address: 7429 Concerto Curve NE, Minneapolis, MN 55432
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

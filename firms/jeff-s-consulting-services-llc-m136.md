@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/jeff-s-consulting-services-llc-m136/
 
 * Radon measurement
 * Hastings, MN (Dakota County)
-* Phone: (651) 491-0356
 * Address: 1756 Northridge Dr, Hastings, MN 55033
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

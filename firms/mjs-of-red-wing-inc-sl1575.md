@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/mjs-of-red-wing-inc-sl1575/
 
 * Septic (SSTS) inspection
 * Red Wing, MN (Goodhue County)
-* Phone: (651) 388-6473
-* Email: mjsofredwing@yahoo.com
 * Address: PO Box 46, Red Wing, MN 55066
 * Google rating: 4.4 from 7 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1575: Inspector (exp. 2027-03-27)

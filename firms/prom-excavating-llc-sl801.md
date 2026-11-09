@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/prom-excavating-llc-sl801/
 
 * Septic (SSTS) inspection
 * Saint Cloud, MN (Sherburne County)
-* Phone: (320) 252-7028
-* Email: promexc@live.com
 * Address: 950 55th Ave SE, Saint Cloud, MN 56304
 * MPCA SSTS licence L801: Inspector (exp. 2027-09-11)
 * Also licensed: Designer, Installer, Service provider, Pipelayer

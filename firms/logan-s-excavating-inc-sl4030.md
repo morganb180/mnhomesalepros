@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/logan-s-excavating-inc-sl4030/
 
 * Septic (SSTS) inspection
 * Milaca, MN (Mille Lacs County)
-* Phone: (320) 469-6128
-* Email: logan@logansexcavating.com
 * Address: 16349 130th Ave, Milaca, MN 56353
 * Google rating: 5.0 from 11 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L4030: Inspector (exp. 2027-10-04)

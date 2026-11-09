@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/clear-choice-home-inspection-service
 
 * Radon measurement, Radon mitigation
 * Buffalo, MN (Wright County)
-* Phone: (612) 968-2260
 * Address: 5542 Cameron Ave NE, Buffalo, MN 55313
 * Google rating: 5.0 from 105 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement, Single Family Mitigation

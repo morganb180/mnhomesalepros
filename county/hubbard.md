@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Cass Lake Sewer Service
 
 29315 470th St, Laporte, MN 56461  
-☎ [(218) 556-5229](tel:2185565229)  
 ✉ clssjeff@gmail.com
 
 Certified staff: Jeff M Mellema  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### TBJ Plumbing LLC
 
 33455 State 200, Laporte, MN 56461  
-☎ [(218) 255-5494](tel:2182555494)  
 ✉ loltim@paulbunyan.net
 
 Certified staff: Timothy B Johnson  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Tessa's Septic Design & Inspection LLC
 
 42554 County 45, Laporte, MN 56461  
-☎ [(218) 210-3480](tel:2182103480)  
 ✉ tessashepard123@gmail.com
 
 Certified staff: Tessa J Shepard  
@@ -62,7 +59,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Don Umthun
 
 PO Box 391, Nevis, MN 56467  
-☎ [(218) 652-3867](tel:2186523867)  
 ✉ donumthun@hotmail.com
 
 Certified staff: Don M Umthun  
@@ -79,8 +75,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Headwaters Home Inspection
 
 24677 County 16, Laporte, MN 56461  
-☎ [(218) 368-3388](tel:2183683388)  
-🌐 [headwatershomeinspection.com](https://www.headwatershomeinspection.com)
 
 1 MDH-licensed professional
 
@@ -94,7 +88,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Lakes Area Radon Service
 
 27949 Northwoods Dr, Laporte, MN 56461  
-☎ [(320) 815-0474](tel:3208150474)
 
 1 MDH-licensed professional
 
@@ -108,7 +101,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### M4 Inspection Services, LLC
 
 30098 County 91, Nevis, MN 56467  
-☎ [(218) 252-7312](tel:2182527312)
 
 1 MDH-licensed professional
 
@@ -121,7 +113,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Hubbard County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=hubbard)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=hubbard)
 
 ## Frequently asked questions
 
@@ -143,7 +135,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Hubbard County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Hubbard County, MN?
 

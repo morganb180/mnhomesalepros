@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Ziemer Home & Septic Inspection LLC
 
 24406 10th St NE, Belgrade, MN 56312  
-☎ [(320) 220-3454](tel:3202203454)  
 ✉ ziemerhomeandseptic@gmail.com
 
 Certified staff: Justin B Ziemer  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Kandi-Lake Excavating, Inc.
 
 6120 126th Ave SE, Lake Lillian, MN 56253  
-☎ [(320) 995-6546](tel:3209956546)  
 ✉ makemomhappy@yahoo.com
 
 Certified staff: Bryan J Peters, David L Fladung, Kurt W Garberich  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Advanced Property Inspection Inc
 
 604 4th Ave SW, New London, MN 56273  
-☎ [(320) 354-7233](tel:3203547233)  
 ✉ oakridgeconstruction@tds.net
 
 Certified staff: Aaron D Thompson, Jason A Long  
@@ -62,7 +59,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Efficient Septic Pumping & Drain Cleaning, Inc
 
 604 4th Ave SW, New London, MN 56273  
-☎ [(320) 354-0108](tel:3203540108)  
 ✉ oakridgeconstruction@tds.net
 
 Certified staff: Jason A Long, Jason L Ogdahl, Spencer M Johnson  
@@ -75,7 +71,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Oakridge Construction Inc
 
 604 4th Ave SW, New London, MN 56273  
-☎ [(320) 354-2621](tel:3203542621)  
 ✉ oakridgeconstruction@tds.net
 
 Certified staff: Jason A Long  
@@ -88,7 +83,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### A & T Septic and Excavating Services Inc
 
 307 Lake Ave S, Spicer, MN 56288  
-☎ [(320) 894-8779](tel:3208948779)  
 ✉ aaron@atseptic.com
 
 Certified staff: Aaron D Thompson, Tim I Kinney  
@@ -101,7 +95,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Bollig, Inc.
 
 1700 Technology Dr NE Suite 124, Willmar, MN 56201  
-☎ [(320) 235-2555](tel:3202352555)  
 ✉ bbollig@bollig-engineering.com
 
 Certified staff: Brian F Bollig PE  
@@ -118,8 +111,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Radon-B-Gone LLC
 
 6811 225th Ave NW, Sunburg, MN 56289  
-☎ [(320) 469-1712](tel:3204691712)  
-🌐 [radon-b-gone.com](https://radon-b-gone.com)
 
 1 MDH-licensed professional
 
@@ -132,7 +123,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Kandiyohi County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=kandiyohi)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=kandiyohi)
 
 ## Frequently asked questions
 
@@ -154,7 +145,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Kandiyohi County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Kandiyohi County, MN?
 

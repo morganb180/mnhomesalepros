@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/jbn-inc-sl2645/
 
 * Septic (SSTS) inspection
 * Iron, MN (Saint Louis County)
-* Phone: (218) 735-1135
-* Email: jbninc@gmail.com
 * Address: 8842 Hwy 37, Iron, MN 55751
 * Google rating: 5.0 from 5 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2645: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2029-07-19)

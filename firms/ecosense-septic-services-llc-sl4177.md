@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ecosense-septic-services-llc-sl4177/
 
 * Septic (SSTS) inspection
 * Welch, MN (Goodhue County)
-* Phone: (612) 201-5217
-* Email: ecosenseseptic@gmail.com
 * Address: 32075 County 7 Blvd, Welch, MN 55089
 * Google rating: 4.7 from 61 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L4177: Inspector (exp. 2027-06-14)

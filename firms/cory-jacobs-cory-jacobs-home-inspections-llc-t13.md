@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/cory-jacobs-cory-jacobs-home-inspect
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (715) 896-0548
-* Email: coryinspects@gmail.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

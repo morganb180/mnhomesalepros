@@ -1,6 +1,6 @@
 ---
 title: "JC Radon Services LLC, Fountain City, WI | MN Home Sale Pros"
-description: "JC Radon Services in Fountain City, WI: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "JC Radon Services in Fountain City, WI: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/jc-radon-services-llc-m135/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/jc-radon-services-llc-m135/
 
 * Radon measurement, Radon mitigation
 * Fountain City, WI (Buffalo County)
-* Phone: (507) 458-2730
-* Website: https://www.jcradonservices.com
 * Address: S3208 Jumbeck Ln, Fountain City, WI 54629
 * Google rating: 5.0 from 26 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Mitigation, Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation

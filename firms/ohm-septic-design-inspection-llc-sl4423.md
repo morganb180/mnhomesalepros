@@ -1,6 +1,6 @@
 ---
 title: "Ohm Septic Design & Inspection: Septic Inspector, Audubon MN"
-description: "Ohm Septic Design & Inspection in Audubon, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Ohm Septic Design & Inspection in Audubon, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/ohm-septic-design-inspection-llc-sl4423/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ohm-septic-design-inspection-llc-sl4
 
 * Septic (SSTS) inspection
 * Audubon, MN (Becker County)
-* Phone: (218) 439-6428
-* Email: chris@ohmexcavating.com
 * Address: PO Box 273, Audubon, MN 56511
 * MPCA SSTS licence L4423: Inspector (exp. 2027-02-26)
 * Also licensed: Designer, Maintainer, Service provider

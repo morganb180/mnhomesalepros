@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bolton-menk-inc-sl1241/
 
 * Septic (SSTS) inspection
 * Rochester, MN (Blue Earth County)
-* Phone: (507) 625-4171
-* Email: brianma@bolton-menk.com
 * Address: 2900 43rd St NW Suite 100, Rochester, MN 55901
 * Google rating: 4.3 from 13 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1241: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2029-08-11)

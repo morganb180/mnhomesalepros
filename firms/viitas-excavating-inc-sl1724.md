@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/viitas-excavating-inc-sl1724/
 
 * Septic (SSTS) inspection
 * Cook, MN (Saint Louis County)
-* Phone: (218) 666-2916
-* Email: viitasexcavating@netscape.net
 * Address: 10520 Buboltz Rd, Cook, MN 55723
 * Google rating: 4.9 from 13 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1724: Inspector (exp. 2029-05-11)

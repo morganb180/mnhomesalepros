@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/paochoua-ethan-vang-apex-home-inspec
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (651) 788-6374
-* Email: ethanvang@gmail.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

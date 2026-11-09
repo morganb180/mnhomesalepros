@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/kirk-flom-septic-service-sl2401/
 
 * Septic (SSTS) inspection
 * Faribault, MN (Rice County)
-* Phone: (507) 334-7867
-* Email: KirkFlom@gmail.com
 * Address: 23220 Glynview Trl, Faribault, MN 55021
 * Google rating: 4.9 from 34 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2401: Inspector (exp. 2027-12-18)

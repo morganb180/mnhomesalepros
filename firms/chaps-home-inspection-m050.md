@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/chaps-home-inspection-m050/
 
 * Radon measurement
 * Elkton, MN (Mower County)
-* Phone: (507) 438-2129
-* Website: https://chapshomeinspection.com
 * Address: 66985 210th St, Elkton, MN 55933
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

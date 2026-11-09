@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/headwaters-home-inspection-m090/
 
 * Radon measurement
 * Laporte, MN (Hubbard County)
-* Phone: (218) 368-3388
-* Website: https://www.headwatershomeinspection.com
 * Address: 24677 County 16, Laporte, MN 56461
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

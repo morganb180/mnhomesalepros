@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/homepro-inspections-inc-m107/
 
 * Radon measurement
 * Rochester, MN (Olmsted County)
-* Phone: (507) 202-8942
-* Website: https://homepro-inspection.com
 * Address: 1445 Valleyhigh Dr NW #6261, Rochester, MN 55903
 * Google rating: 4.9 from 387 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement

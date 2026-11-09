@@ -1,6 +1,6 @@
 ---
 title: "Pro-Tech Home Inspection Services LLC, Pelican Rapids MN"
-description: "Pro-Tech Home Inspection Services in Pelican Rapids, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
+description: "Pro-Tech Home Inspection Services in Pelican Rapids, MN: MDH licensed for radon measurement. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/pro-tech-home-inspection-services-llc-m191/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/pro-tech-home-inspection-services-ll
 
 * Radon measurement
 * Pelican Rapids, MN (Otter Tail County)
-* Phone: (218) 332-7222
-* Website: https://protechinspects.com
 * Address: 23528 Moonlight Bay Rd, Pelican Rapids, MN 56572
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

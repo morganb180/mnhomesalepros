@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/iea-inc-m118/
 
 * Radon measurement
 * Rochester, MN (Olmsted County)
-* Phone: (763) 315-7900
 * Address: 210 Woodlake Dr SE, Rochester, MN 55904
 * Google rating: 3.2 from 6 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement

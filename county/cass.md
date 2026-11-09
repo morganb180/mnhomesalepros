@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Northland Septic Maintenance Inc
 
 4207 16th St NW, Backus, MN 56435  
-☎ [(218) 675-5999](tel:2186755999)  
 ✉ northlandseptic@tds.net
 
 Certified staff: Brett C Timmons, Jeremiah J McMillen, Rick J Smith, Scott A Rude, Tanner J Smith  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Top Notch Septic LLC
 
 303 King St N, Backus, MN 56435  
-☎ [(218) 851-3577](tel:2188513577)  
 ✉ nickswenson35@gmail.com
 
 Certified staff: Nickolas D Swenson  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### W C Peterson Excavating LLC
 
 1115 County Rd 8 NE, Federal Dam, MN 56641  
-☎ [(218) 654-5282](tel:2186545282)
 
 Certified staff: Gerald J Bader Jr, Ross C Peterson  
 Also licensed: Designer, Installer, Service provider, Pipelayer  
@@ -61,7 +58,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Shafer Excavating
 
 3109 State Hwy 371 NW, Hackensack, MN 56452  
-☎ [(218) 675-6776](tel:2186756776)  
 ✉ septologist@gmail.com
 
 Certified staff: Devon Shafer Jr  
@@ -74,7 +70,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Slick Nick Septic LLC
 
 3342 County 45 NW, Hackensack, MN 56452  
-☎ [(320) 292-3757](tel:3202923757)  
 ✉ nick@septicmn.com
 
 Certified staff: Aaron P Finke, Nick Neuman  
@@ -87,7 +82,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### SCC LLC
 
 PO Box 46, Longville, MN 56655  
-☎ [(612) 221-4548](tel:6122214548)  
 ✉ Will@stoneseptic.com
 
 Certified staff: William L Stone  
@@ -100,7 +94,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### PHB Excavating LLC
 
 11865 79th Ave SW, Motley, MN 56466  
-☎ [(218) 639-5007](tel:2186395007)  
 ✉ phbjerga@hotmail.com
 
 Certified staff: Philip H Bjerga  
@@ -113,7 +106,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Tri-County Septic Inspections
 
 10851 65th Ave SW, Motley, MN 56466  
-☎ [(218) 352-6903](tel:2183526903)  
 ✉ gregkossan@gmail.com
 
 Certified staff: Gregory H Kossan  
@@ -125,7 +117,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Cass County Construction Corp
 
 PO Box 74, Outing, MN 56662  
-☎ [(218) 792-5666](tel:2187925666)  
 ✉ ccconst@brainerd.net
 
 Certified staff: Andrew D Switzer, Daniel C Switzer  
@@ -138,7 +129,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### T&S Excavating
 
 2308 91st St SW, Pequot Lakes, MN 56472  
-☎ [(218) 568-8808](tel:2185688808)
 
 Certified staff: Terry W Stumvoll  
 License L2314, expires 2026-10-28 · bonded, insured  
@@ -149,7 +139,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### April Thompson
 
 1365 12th St SW, Pine River, MN 56474  
-☎ [(218) 851-3410](tel:2188513410)  
 ✉ adwilkus@gmail.com
 
 Certified staff: April D Thompson  
@@ -161,7 +150,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Al Nystrom Construction LLC
 
 PO Box 354, Remer, MN 56672  
-☎ [(218) 820-0558](tel:2188200558)  
 ✉ atnystrom@msn.com
 
 Certified staff: Alan C Nystrom, Eli J Nystrom  
@@ -174,7 +162,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Aletto Onsite/Design
 
 8312 Sautbine Rd NW, Walker, MN 56484  
-☎ [(218) 839-9919](tel:2188399919)  
 ✉ alettoonsite1@hotmail.com
 
 Certified staff: Edward C Aletto  
@@ -187,7 +174,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Winter Septic LLC
 
 PO Box 51, Walker, MN 56484  
-☎ [(218) 252-4790](tel:2182524790)  
 ✉ winterseptic@outlook.com
 
 Certified staff: Scott E Winter  
@@ -204,7 +190,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Great North Home Inspection
 
 1969 Peninsula Rd NE PO Box 54, Outing, MN 56662  
-☎ [(763) 229-4417](tel:7632294417)
 
 1 MDH-licensed professional
 
@@ -217,7 +202,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Cass County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=cass)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=cass)
 
 ## Frequently asked questions
 
@@ -239,7 +224,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Cass County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Cass County, MN?
 

@@ -1,6 +1,6 @@
 ---
 title: "Hough Inc of Detroit Lakes, Detroit Lakes MN"
-description: "Hough Inc of Detroit Lakes in Detroit Lakes, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Hough Inc of Detroit Lakes in Detroit Lakes, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/hough-inc-of-detroit-lakes-sl770/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/hough-inc-of-detroit-lakes-sl770/
 
 * Septic (SSTS) inspection
 * Detroit Lakes, MN (Becker County)
-* Phone: (218) 847-7391
-* Email: m.hough@houghinc.com
 * Address: PO Box 2, Detroit Lakes, MN 56502
 * Google rating: 4.2 from 21 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L770: Inspector (exp. 2028-05-22)

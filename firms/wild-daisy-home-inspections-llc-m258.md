@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/wild-daisy-home-inspections-llc-m258
 
 * Radon measurement
 * Hudson, WI (Pierce County)
-* Phone: (651) 578-1672
 * Address: 925 Waxon Ln, Hudson, WI 54022
 * MDH radon: Single Family Measurement
 * Service area (per MDH): Statewide

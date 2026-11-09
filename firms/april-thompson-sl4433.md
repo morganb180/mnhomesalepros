@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/april-thompson-sl4433/
 
 * Septic (SSTS) inspection
 * Pine River, MN (Cass County)
-* Phone: (218) 851-3410
-* Email: adwilkus@gmail.com
 * Address: 1365 12th St SW, Pine River, MN 56474
 * MPCA SSTS licence L4433: Inspector (exp. 2027-04-04)
 * bonded · insured

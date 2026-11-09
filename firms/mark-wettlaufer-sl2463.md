@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/mark-wettlaufer-sl2463/
 
 * Septic (SSTS) inspection
 * Cushing, MN (Morrison County)
-* Phone: (218) 746-4304
-* Email: markw@brainerd.net
 * Address: 33170 70th Ave, Cushing, MN 56443
 * MPCA SSTS licence L2463: Inspector (exp. 2027-06-19)
 * Also licensed: Designer

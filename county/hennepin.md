@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Ingleside Engineering & Construction Inc
 
 PO Box 127, Loretto, MN 55357  
-☎ [(763) 742-3122](tel:7637423122)  
 ✉ tvanbeus@hotmail.com
 
 Certified staff: Brian T Van Beusekom, Theodore B Van Beusekom  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Metro West Inspection Services Inc
 
 689 N Medina St, Loretto, MN 55357  
-☎ [(763) 479-1720](tel:7634791720)
 
 Certified staff: Jack M Weizel, Jason T Coombe  
 License L3952, expires 2028-05-11 · bonded, insured  
@@ -47,7 +45,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Ende Septic Service
 
 24910 Territorial Rd, Rogers, MN 55374  
-☎ [(763) 428-4489](tel:7634284489)  
 ✉ info@endeseptic.com
 
 Certified staff: Brandon B Berning, Scott L Ende, Tristan T Ende  
@@ -64,8 +61,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### AmeriSpec Home Inspections, Bloomington Office
 
 7850 Metro Pkwy, Suite 122, Bloomington, MN 55425  
-☎ [(952) 854-5110](tel:9528545110)  
-🌐 [amerispechome.com](https://www.amerispechome.com)
 
 3 MDH-licensed professionals
 
@@ -81,8 +76,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Barr Engineering Co
 
 4300 MarketPointe Dr, Suite 200, Bloomington, MN 55435  
-☎ [(952) 842-3590](tel:9528423590)  
-🌐 [barr.com](https://www.barr.com)
 
 1 MDH-licensed professional
 
@@ -96,7 +89,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Healthy Homes
 
 2031 W Old Shakopee Apt#23, Bloomington, MN 55431  
-☎ [(952) 220-9409](tel:9522209409)
 
 1 MDH-licensed professional
 
@@ -110,8 +102,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Landmark Environmental
 
 9555 James Ave S Suite 262, Bloomington, MN 55431  
-☎ [(651) 295-9400](tel:6512959400)  
-🌐 [landmarkenv.com](https://landmarkenv.com)
 
 1 MDH-licensed professional
 
@@ -125,8 +115,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Twin Cities Radon Testing
 
 2719 64th Ave N, Brooklyn Center, MN 55430  
-☎ [(612) 554-4248](tel:6125544248)  
-🌐 [twincitiesradontesting.com](https://www.twincitiesradontesting.com)
 
 1 MDH-licensed professional
 
@@ -140,7 +128,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### IEA Inc
 
 9201 W Broadway Ave Suite 600 Suite 600, Brooklyn Park, MN 55445  
-☎ [(763) 315-7900](tel:7633157900)
 
 10 MDH-licensed professionals
 
@@ -163,7 +150,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Institute for Environmental Assessment
 
 9201 W Broadway, Suite 600, Brooklyn Park, MN 55445  
-☎ [(763) 315-7900](tel:7633157900)
 
 3 MDH-licensed professionals
 
@@ -179,8 +165,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Smitten Home Inspection
 
 3751 102nd Ln N, Brooklyn Park, MN 55443  
-☎ [(612) 701-3952](tel:6127013952)  
-🌐 [smittenhomeinspection.com](https://smittenhomeinspection.com)
 
 1 MDH-licensed professional
 
@@ -194,8 +178,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### A1 Radon Services LLC
 
 9980 Dell Rd, Eden Prairie, MN 55347  
-☎ [(612) 207-3049](tel:6122073049)  
-🌐 [a1radonservices.com](https://www.a1radonservices.com)
 
 1 MDH-licensed professional
 
@@ -209,7 +191,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### The Javelin Group Inc
 
 10125 Crosstown Cir Suite 107, Eden Prairie, MN 55344  
-☎ [(952) 380-3668](tel:9523803668)
 
 1 MDH-licensed professional
 
@@ -223,8 +204,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Katz Family Home Inspection LLC
 
 6309 Mildred Ave, Edina, MN 55439  
-☎ [(952) 239-1053](tel:9522391053)  
-🌐 [katzfamilyhomeinspection.com](https://www.katzfamilyhomeinspection.com)
 
 1 MDH-licensed professional
 
@@ -238,8 +217,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Partner Engineering and Science, Inc.
 
 6600 France Ave S, #680, Edina, MN 55435  
-☎ [(800) 419-4923](tel:8004194923)  
-🌐 [partneresi.com](https://partneresi.com)
 
 1 MDH-licensed professional
 
@@ -253,8 +230,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Residential Inspection Service
 
 5817 Hansen Rd, Edina, MN 55436  
-☎ [(952) 929-7323](tel:9529297323)  
-🌐 [inspectionsmn.com](https://www.inspectionsmn.com)
 
 1 MDH-licensed professional
 
@@ -268,8 +243,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### XRF Testing Services, Inc.
 
 6128 Ryan Ave, Edina, MN 55424  
-☎ [(952) 926-8379](tel:9529268379)  
-🌐 [xrftestingservices.com](https://www.xrftestingservices.com)
 
 1 MDH-licensed professional
 
@@ -283,8 +256,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Solid Foundations Home Inspections
 
 105 Quebec Ave S, Golden Valley, MN 55426  
-☎ [(612) 328-2125](tel:6123282125)  
-🌐 [solidfoundationshi.com](https://www.solidfoundationshi.com)
 
 2 MDH-licensed professionals
 
@@ -299,7 +270,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Urban Building Inspectors Inc
 
 75 Maryland Ave S, Golden Valley, MN 55426  
-☎ [(952) 212-6266](tel:9522126266)
 
 1 MDH-licensed professional
 
@@ -313,8 +283,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### All State Radon Services dba. 86 the Radon
 
 61 7th Ave S, Hopkins, MN 55343  
-☎ [(612) 216-5294](tel:6122165294)  
-🌐 [86theradon.com](https://www.86theradon.com)
 
 1 MDH-licensed professional
 
@@ -328,8 +296,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Radon Removal Inc
 
 525 Orchard Park Rd, Long Lake, MN 55356  
-☎ [(952) 476-6226](tel:9524766226)  
-🌐 [fixradon.com](https://fixradon.com)
 
 1 MDH-licensed professional
 
@@ -343,8 +309,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Amerispec Inspection Services
 
 13570 Grove Dr #152, Maple Grove, MN 55311  
-☎ [(763) 420-5535](tel:7634205535)  
-🌐 [amerispec.net/laleman](https://www.amerispec.net/laleman)
 
 4 MDH-licensed professionals
 
@@ -361,8 +325,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Peace of Mind Home Inspections Inc
 
 7560 Lanewood Ln, Maple Grove, MN 55311  
-☎ [(612) 481-3904](tel:6124813904)  
-🌐 [mnhomeinspections.com](https://mnhomeinspections.com)
 
 2 MDH-licensed professionals
 
@@ -377,8 +339,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Presto Restoration LLC dba Radon Be Gone
 
 10650 Cty Rd 81, Suite I, Maple Grove, MN 55369  
-☎ [(763) 316-5614](tel:7633165614)  
-🌐 [radonbegone.us](https://www.radonbegone.us)
 
 1 MDH-licensed professional
 
@@ -392,8 +352,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### RC Fields LLC
 
 14960 75th Ave N, Maple Grove, MN 55311  
-☎ [(612) 812-4977](tel:6128124977)  
-🌐 [rcfieldshomeinspections.com](https://www.rcfieldshomeinspections.com)
 
 1 MDH-licensed professional
 
@@ -407,8 +365,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Radon Be Gone
 
 10650 County Rd 81, Suite I, Maple Grove, MN 55369  
-☎ [(763) 316-5614](tel:7633165614)  
-🌐 [radonbegone.us](https://www.radonbegone.us)
 
 1 MDH-licensed professional
 
@@ -422,8 +378,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Radon Removal Inc
 
 13570 Grove Dr #254, Maple Grove, MN 55311  
-☎ [(952) 476-6226](tel:9524766226)  
-🌐 [fixradon.com](https://fixradon.com)
 
 1 MDH-licensed professional
 
@@ -437,7 +391,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Rock Solid Home Inspections
 
 17184 80th Ave North, Maple Grove, MN 55311  
-☎ [(612) 296-8451](tel:6122968451)
 
 1 MDH-licensed professional
 
@@ -451,8 +404,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### RockSolid Home Inspections
 
 17184 80th Ave North, Maple Grove, MN 55311  
-☎ [(612) 296-8451](tel:6122968451)  
-🌐 [rocksolidhi.com](https://www.rocksolidhi.com)
 
 1 MDH-licensed professional
 
@@ -466,8 +417,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Affordable Egress Windows & Basement Waterproofing
 
 4035 Apache Dr, Medina, MN 55340  
-☎ [(763) 267-3891](tel:7632673891)  
-🌐 [egresswindowsminneapolis.com](http://egresswindowsminneapolis.com)
 
 1 MDH-licensed professional
 
@@ -481,7 +430,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### AmeriSpec Inspection Services
 
 321 W Diamond Lake Rd, Minneapolis, MN 55419  
-☎ [(763) 498-7845](tel:7634987845)
 
 1 MDH-licensed professional
 
@@ -495,8 +443,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Braun Intertec
 
 11001 Hampshire Ave South, Minneapolis, MN 55438  
-☎ [(612) 325-6917](tel:6123256917)  
-🌐 [braunintertec.com/service/due-diligence](https://braunintertec.com/service/due-diligence)
 
 4 MDH-licensed professionals
 
@@ -513,7 +459,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### City of Minneapolis
 
 505 4th Ave S, Minneapolis, MN 55345  
-☎ [(612) 581-0199](tel:6125810199)
 
 1 MDH-licensed professional
 
@@ -527,7 +472,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### City of Minneapolis
 
 505 4th Ave S Room 520, Minneapolis, MN 55415  
-☎ [(612) 270-0432](tel:6122700432)
 
 4 MDH-licensed professionals
 
@@ -544,8 +488,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### City of Minneapolis - Health Department
 
 505 4th Ave S #520, Minneapolis, MN 55415  
-☎ [(612) 441-0746](tel:6124410746)  
-🌐 [www2.minneapolismn.gov/government/departments/health](https://www2.minneapolismn.gov/government/departments/health/)
 
 1 MDH-licensed professional
 
@@ -559,7 +501,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Copia/Cornerstone Inspections Inc
 
 4830 Grand Ave S, Minneapolis, MN 55419  
-☎ [(612) 824-2000](tel:6128242000)
 
 1 MDH-licensed professional
 
@@ -573,8 +514,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Diamonds In The Rough Home Inspections
 
 5102 Bloomington Ave, Minneapolis, MN 55417  
-☎ [(612) 405-0207](tel:6124050207)  
-🌐 [diamondsintheroughinspections.com](https://www.diamondsintheroughinspections.com)
 
 1 MDH-licensed professional
 
@@ -588,7 +527,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Easy Home Services DBA One Day Radon
 
 6901 34th Ave N, Minneapolis, MN 55427  
-☎ [(763) 227-0897](tel:7632270897)
 
 1 MDH-licensed professional
 
@@ -602,8 +540,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Everest Home Inspectors Inc
 
 5235 Washburn Ave S, Minneapolis, MN 55410  
-☎ [(612) 643-0055](tel:6126430055)  
-🌐 [everesthomeinspectors.com](https://www.everesthomeinspectors.com)
 
 7 MDH-licensed professionals
 
@@ -623,8 +559,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Great River Radon
 
 3216 34th Ave S, Minneapolis, MN 55406  
-☎ [(612) 521-3580](tel:6125213580)  
-🌐 [greatriverradon.com](https://www.greatriverradon.com)
 
 1 MDH-licensed professional
 
@@ -638,7 +572,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Hennepin County
 
 300 S 6th St Mc 685, Minneapolis, MN 55487  
-☎ [(612) 310-2394](tel:6123102394)
 
 3 MDH-licensed professionals
 
@@ -654,7 +587,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Hennepin County Housing and Economic Development
 
 300 S Sixth St, Mc 685, Minneapolis, MN 55487  
-☎ [(612) 235-0904](tel:6122350904)
 
 5 MDH-licensed professionals
 
@@ -672,7 +604,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Homefax Radon Services
 
 5733 Juneau Ln N, Minneapolis, MN 55446  
-☎ [(612) 875-3017](tel:6128753017)
 
 2 MDH-licensed professionals
 
@@ -687,8 +618,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### LBS Home Inspection
 
 3324 35th Ave S, Minneapolis, MN 55406  
-☎ [(612) 221-3450](tel:6122213450)  
-🌐 [leafmn.com](https://www.leafmn.com)
 
 1 MDH-licensed professional
 
@@ -702,7 +631,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Minnesota Radon Systems LLC
 
 2319 Arthur St NE, Minneapolis, MN 55418  
-☎ [(612) 710-4932](tel:6127104932)
 
 1 MDH-licensed professional
 
@@ -716,8 +644,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Pillar To Post
 
 5123 W 98th St #2022, Minneapolis, MN 55347  
-☎ [(612) 431-1412](tel:6124311412)  
-🌐 [cornerstoneteam.pillartopost.com](https://cornerstoneteam.pillartopost.com/)
 
 1 MDH-licensed professional
 
@@ -731,8 +657,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Pillar To Post. The Cornerstone Team.
 
 5123 W 98th St #2022, Minneapolis, MN 55437  
-☎ [(612) 431-1414](tel:6124311414)  
-🌐 [cornerstoneteam.pillartopost.com](https://cornerstoneteam.pillartopost.com/)
 
 1 MDH-licensed professional
 
@@ -746,8 +670,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Prospect Realty LLC
 
 5604 27th Ave S, Minneapolis, MN 55417  
-☎ [(612) 990-7959](tel:6129907959)  
-🌐 [prospectrealty.com](https://www.prospectrealty.com)
 
 1 MDH-licensed professional
 
@@ -761,8 +683,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Radone LLC
 
 4829 Nokomis Ave, Minneapolis, MN 55417  
-☎ [(612) 900-7455](tel:6129007455)  
-🌐 [radonetoday.com](https://www.radonetoday.com)
 
 1 MDH-licensed professional
 
@@ -776,7 +696,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### WIN Home Inspection SW MPLS
 
 2501 Humboldt Ave S, Minneapolis, MN 55405  
-☎ [(612) 940-5897](tel:6129405897)
 
 1 MDH-licensed professional
 
@@ -790,7 +709,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### WIN Home Inspection SW Minneapolis
 
 2501 Humboldt Ave S, Minneapolis, MN 55405  
-☎ [(612) 940-5897](tel:6129405897)
 
 1 MDH-licensed professional
 
@@ -804,8 +722,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Radon Reduction Inc
 
 5631 Glen Ave, Minnetonka, MN 55345  
-☎ [(952) 994-3483](tel:9529943483)  
-🌐 [radonreductioninc.com](https://radonreductioninc.com)
 
 1 MDH-licensed professional
 
@@ -819,7 +735,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Home In Sight Inspections
 
 5125 Pineview Ln N, Plymouth, MN 55442  
-☎ [(612) 242-7898](tel:6122427898)
 
 1 MDH-licensed professional
 
@@ -833,8 +748,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Homefax Inspections LLC dba Homefax Radon Services
 
 5733 Juneau Ln N, Plymouth, MN 55446  
-☎ [(612) 875-3017](tel:6128753017)  
-🌐 [homefaxradonservices.com](https://www.homefaxradonservices.com)
 
 2 MDH-licensed professionals
 
@@ -849,8 +762,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Homefax Services
 
 5733 Juneau Ln, Plymouth, MN 55446  
-☎ [(612) 201-9602](tel:6122019602)  
-🌐 [homefaxradonservices.com](https://www.homefaxradonservices.com)
 
 1 MDH-licensed professional
 
@@ -864,8 +775,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### RMS Radon Mitigation Systems
 
 3300 Plymouth Blvd PO Box 46012, Plymouth, MN 55446  
-☎ [(952) 222-0733](tel:9522220733)  
-🌐 [rmsmitigation.com](https://rmsmitigation.com)
 
 2 MDH-licensed professionals
 
@@ -880,8 +789,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Radon Removal Inc
 
 3300 Vicksburg Ln N #188, Plymouth, MN 55447  
-☎ [(952) 476-6226](tel:9524766226)  
-🌐 [fixradon.com](https://fixradon.com)
 
 1 MDH-licensed professional
 
@@ -895,8 +802,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Edick Valuation Services & Rapid Radon Removal
 
 20980 Rogers Dr #450, Rogers, MN 55374  
-☎ [(612) 590-6288](tel:6125906288)  
-🌐 [evsmn.com](https://www.evsmn.com)
 
 2 MDH-licensed professionals
 
@@ -911,7 +816,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Inspectech
 
 19720 Jackie Ln, Rogers, MN 55374  
-☎ [(763) 744-6304](tel:7637446304)
 
 1 MDH-licensed professional
 
@@ -925,8 +829,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Stewart Plumbing Inc
 
 13025 George Weber Dr Suite 1, Rogers, MN 55374  
-☎ [(763) 428-1833](tel:7634281833)  
-🌐 [stewartplumbinginc.net](https://stewartplumbinginc.net)
 
 1 MDH-licensed professional
 
@@ -940,8 +842,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Cory Jacobs Home Inspections LLC
 
 3501 Roosevelt St NE, Saint Anthony, MN 55418  
-☎ [(715) 896-0548](tel:7158960548)  
-🌐 [coryjacobshomeinspections.com](https://www.coryjacobshomeinspections.com/)
 
 1 MDH-licensed professional
 
@@ -955,8 +855,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Environmental Health Testing Services Company
 
 2950 Aquila Ave S, Minneapoli, Saint Louis Park, MN 55426  
-☎ [(952) 297-5169](tel:9522975169)  
-🌐 [ehtservices.com](https://www.ehtservices.com)
 
 1 MDH-licensed professional
 
@@ -970,7 +868,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Inspection Services
 
 7841 Wayzata Blvd Suite 100, Saint Louis Park, MN 55426  
-☎ [(612) 464-4044](tel:6124644044)
 
 2 MDH-licensed professionals
 
@@ -985,7 +882,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Inspection Services Of Minnesota
 
 7841 Wayzata Blvd Suite 100, Saint Louis Park, MN 55426  
-☎ [(612) 464-4044](tel:6124644044)
 
 1 MDH-licensed professional
 
@@ -999,8 +895,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Inspection Solutions LLC
 
 3880 Wehle Pl, St. Bonifacius, MN 55375  
-☎ [(952) 249-1251](tel:9522491251)  
-🌐 [inspectionsolutionsmn.com](https://www.inspectionsolutionsmn.com)
 
 1 MDH-licensed professional
 
@@ -1014,7 +908,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Angstrom Analytical Inc.
 
 5001 Cedar Lake Rd, St. Louis Park, MN 55416  
-☎ [(952) 252-0405](tel:9522520405)
 
 1 MDH-licensed professional
 
@@ -1028,8 +921,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Nova Group, GBC
 
 5320 W 23rd St, Suite 270, St. Louis Park, MN 55416  
-☎ [(952) 448-9393](tel:9524489393)  
-🌐 [novagroupgbc.com](https://www.novagroupgbc.com/)
 
 4 MDH-licensed professionals
 
@@ -1046,7 +937,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### NovaGroup GBC
 
 5320 W 23rd St, St. Louis Park, MN 55416  
-☎ [(952) 448-9393](tel:9524489393)
 
 1 MDH-licensed professional
 
@@ -1060,8 +950,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Structure Tech
 
 7841 Wayzata Blvd Suite 100, St. Louis Park, MN 55426  
-☎ [(952) 915-6466](tel:9529156466)  
-🌐 [inspectionservicesmn.com](https://www.inspectionservicesmn.com/)
 
 1 MDH-licensed professional
 
@@ -1074,7 +962,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Hennepin County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=hennepin)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=hennepin)
 
 ## Frequently asked questions
 
@@ -1096,7 +984,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Hennepin County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Hennepin County, MN?
 

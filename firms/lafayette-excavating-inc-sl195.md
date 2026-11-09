@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/lafayette-excavating-inc-sl195/
 
 * Septic (SSTS) inspection
 * Lafayette, MN (Nicollet County)
-* Phone: (507) 228-8902
-* Email: lafayetteexcavating@hotmail.com
 * Address: PO Box 204, Lafayette, MN 56054
 * Google rating: 1.0 from 1 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L195: Inspector (exp. 2028-04-09)

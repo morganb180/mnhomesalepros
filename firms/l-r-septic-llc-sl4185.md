@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/l-r-septic-llc-sl4185/
 
 * Septic (SSTS) inspection
 * Dalbo, MN (Isanti County)
-* Phone: (763) 242-7942
-* Email: outforthefall@gmail.com
 * Address: PO Box 61, Dalbo, MN 55017
 * MPCA SSTS licence L4185: Inspector (exp. 2027-08-03)
 * Also licensed: Designer, Installer, Pipelayer

@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/hennepin-county-housing-and-economic
 
 * Radon measurement
 * Minneapolis, MN (Hennepin County)
-* Phone: (612) 235-0904
 * Address: 300 S Sixth St, Mc 685, Minneapolis, MN 55487
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 25 miles, 50 miles

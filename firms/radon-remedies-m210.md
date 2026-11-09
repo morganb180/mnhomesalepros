@@ -1,6 +1,6 @@
 ---
 title: "Radon Remedies, West Fargo, ND | MN Home Sale Pros"
-description: "Radon Remedies in West Fargo, ND: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Radon Remedies in West Fargo, ND: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/radon-remedies-m210/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/radon-remedies-m210/
 
 * Radon measurement, Radon mitigation
 * West Fargo, ND (Cass County)
-* Phone: (701) 997-1335
 * Address: 4113 Carmell Pl, West Fargo, ND 58078
 * MDH radon: Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 100 miles

@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/call-it-home-properties-llc-m044/
 
 * Radon measurement, Radon mitigation
 * Belle Plaine, MN (Scott County)
-* Phone: (952) 412-8304
 * Address: 10810 Cty Rd 52, Belle Plaine, MN 56011
 * MDH radon: Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 50 miles

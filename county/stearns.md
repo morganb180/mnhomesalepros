@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Hagemeier Excavating LLC
 
 27043 County Rd 23, Albany, MN 56307  
-☎ [(320) 248-9097](tel:3202489097)  
 ✉ lucy@hagemeierexcavating.com
 
 Certified staff: Brianna J Hoppe, Jesse J Hagemeier, Lucy N Hagemeier  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### WRM Services Inc.
 
 9075 155th St, Kimball, MN 55353  
-☎ [(320) 398-2705](tel:3203982705)  
 ✉ bernie@millerssewage.com
 
 Certified staff: Bernard C Miller, Jeremy C George  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Zimmerman Diversified Services, Inc.
 
 19623 State Hwy 22, Richmond, MN 56368  
-☎ [(320) 597-3458](tel:3205973458)  
 ✉ zdi@netlinkcom.com
 
 Certified staff: Dale M Zimmerman  
@@ -62,7 +59,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### C. W. Lunser Co., Inc.
 
 1600 238th St, Saint Cloud, MN 56301  
-☎ [(320) 248-2262](tel:3202482262)  
 ✉ clunser@hotmail.com
 
 Certified staff: Clayton W Lunser  
@@ -75,7 +71,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Hohlen Biz, LLC
 
 126 15th Ave N, Saint Cloud, MN 56303  
-☎ [(320) 200-8994](tel:3202008994)  
 ✉ keithhohlen@gmail.com
 
 Certified staff: Keith W Hohlen  
@@ -88,7 +83,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Watab Inc
 
 14234 Fruit Farm Rd, Saint Joseph, MN 56374  
-☎ [(320) 363-1300](tel:3203631300)  
 ✉ tim@watab.net
 
 Certified staff: Benjamin E Pflueger, Timothy R Haeg  
@@ -101,7 +95,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Clink Septic Solutions
 
 42915 County Rd 17, Sauk Centre, MN 56378  
-☎ [(320) 249-7609](tel:3202497609)  
 ✉ ben.clink@gmail.com
 
 Certified staff: Benjamin D Clink  
@@ -114,7 +107,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Schabel Enterprise of Central Minnesota Inc
 
 15751 35th Ave, South Haven, MN 55382  
-☎ [(320) 980-2997](tel:3209802997)  
 ✉ jdbschabel@hotmail.com
 
 Certified staff: Deborah A Schabel, Jack R Schabel  
@@ -127,7 +119,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Schiewe Septic LLC
 
 13572 51st Ave, South Haven, MN 55382  
-☎ [(773) 558-9654](tel:7735589654)  
 ✉ chris@schieweseptic.com
 
 Certified staff: Christopher L Schiewe  
@@ -144,7 +135,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Ziemer Home & Septic LLC
 
 24406 10th St NE, Belgrade, MN 56312  
-☎ [(320) 220-3454](tel:3202203454)
 
 1 MDH-licensed professional
 
@@ -158,8 +148,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Sowada Environmental Services LLC
 
 16774 Cty Rd 49, Cold Spring, MN 56320  
-☎ [(320) 493-7059](tel:3204937059)  
-🌐 [sestests.com](https://sestests.com)
 
 1 MDH-licensed professional
 
@@ -173,8 +161,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Voss Plumbing & Heating of Paynesville Inc
 
 PO Box 77 316 Business 23 E, Paynesville, MN 56362  
-☎ [(320) 243-3644](tel:3202433644)  
-🌐 [vossplumbing.com](https://www.vossplumbing.com)
 
 2 MDH-licensed professionals
 
@@ -189,7 +175,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### National Property Inspections
 
 713 19th Ave N, Sartell, MN 56377  
-☎ [(320) 761-0077](tel:3207610077)
 
 1 MDH-licensed professional
 
@@ -203,8 +188,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Healthy Homes
 
 1930 11th Ave S, St Cloud, MN 56301  
-☎ [(320) 309-6275](tel:3203096275)  
-🌐 [healthyhomesradon.com](https://healthyhomesradon.com)
 
 1 MDH-licensed professional
 
@@ -217,7 +200,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Stearns County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=stearns)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=stearns)
 
 ## Frequently asked questions
 
@@ -239,7 +222,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Stearns County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Stearns County, MN?
 

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/b-s-pumping-service-sl4149/
 
 * Septic (SSTS) inspection
 * Farmington, MN (Dakota County)
-* Phone: (651) 460-8015
-* Email: mark@bspumping.com
 * Address: 24483 Chippendale Ave W, Farmington, MN 55024
 * MPCA SSTS licence L4149: Inspector (exp. 2027-03-09)
 * Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/radone-llc-m217/
 
 * Radon measurement, Radon mitigation
 * Minneapolis, MN (Hennepin County)
-* Phone: (612) 900-7455
-* Website: https://www.radonetoday.com
 * Address: 4829 Nokomis Ave, Minneapolis, MN 55417
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement, Single Family Mitigation

@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/joel-shult-llc-sl717/
 
 * Septic (SSTS) inspection
 * Nicollet, MN (Nicollet County)
-* Phone: (507) 232-3935
 * Address: 48452 455th Ave, Nicollet, MN 56074
 * MPCA SSTS licence L717: Inspector (exp. 2027-03-04)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

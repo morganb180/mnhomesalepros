@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/van-dyke-home-inspections-llc-m254/
 
 * Radon measurement
 * Duluth, MN (St. Louis County)
-* Phone: (218) 391-0356
 * Address: 2003 Minnesota Ave, Duluth, MN 55802
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): 100 miles

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/wabasha-septic-service-sl3891/
 
 * Septic (SSTS) inspection
 * Kellogg, MN (Wabasha County)
-* Phone: (651) 380-2980
-* Email: danckwartlandscaping@gmail.com
 * Address: 16240 627th St, Kellogg, MN 55945
 * MPCA SSTS licence L3891: Inspector (exp. 2027-09-22)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

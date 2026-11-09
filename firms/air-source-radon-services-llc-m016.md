@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/air-source-radon-services-llc-m016/
 
 * Radon measurement, Radon mitigation
 * Big Lake, MN (Sherburne County)
-* Phone: (612) 598-3909
-* Website: https://airsourceradon.com
 * Address: 5540 Aberdeen Way, Big Lake, MN 55309
 * Google rating: 5.0 from 9 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement, Single Family Mitigation

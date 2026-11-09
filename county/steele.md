@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Bishop Excavating Inc
 
 8043 158th St SE, Blooming Prairie, MN 55917  
-☎ [(507) 583-2999](tel:5075832999)  
 ✉ ben@bishopexcavating.com
 
 Certified staff: Benjamin G Bishop, Jason C Peck  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### R & M Backhoe Service
 
 2300 NW 50th St, Medford, MN 55049  
-☎ [(507) 451-6164](tel:5074516164)
 
 Certified staff: Roger R Holzemer  
 Also licensed: Designer, Installer, Pipelayer  
@@ -48,7 +46,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Don Loken Drainage Inc
 
 3695 Hoffman Dr NW, Owatonna, MN 55060  
-☎ [(507) 451-2873](tel:5074512873)  
 ✉ lokenexcavation74@gmail.com
 
 Certified staff: Dallas D Loken, Donald O Loken, Scott S McGinley  
@@ -61,7 +58,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Steve James Excavating, Inc.
 
 3835 Park Dr, Owatonna, MN 55060  
-☎ [(507) 451-3080](tel:5074513080)
 
 Certified staff: Brady L James, Cole D James, Greg R Lamont, Steve D James  
 Also licensed: Designer, Installer, Maintainer, Pipelayer  
@@ -77,8 +73,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Deming Home Inspections
 
 217 13th St NE, Owatonna, MN 55060  
-☎ [(507) 475-2383](tel:5074752383)  
-🌐 [deminghomeinspections.com](https://deminghomeinspections.com)
 
 1 MDH-licensed professional
 
@@ -92,8 +86,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Hunter's House LLC
 
 202 N Cedar Ave Suite 1, Owatonna, MN 55060  
-☎ [(262) 853-5802](tel:2628535802)  
-🌐 [huntershouse.co](https://huntershouse.co)
 
 1 MDH-licensed professional
 
@@ -107,8 +99,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Kirchner Siding and Window
 
 1430 E Main, Owatonna, MN 55060  
-☎ [(507) 451-3377](tel:5074513377)  
-🌐 [kirchnersidingandwindow.com](https://kirchnersidingandwindow.com)
 
 2 MDH-licensed professionals
 
@@ -122,7 +112,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Steele County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=steele)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=steele)
 
 ## Frequently asked questions
 
@@ -144,7 +134,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Steele County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Steele County, MN?
 

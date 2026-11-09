@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ts-excavating-sl2150/
 
 * Septic (SSTS) inspection
 * Gonvick, MN (Clearwater County)
-* Phone: (218) 358-0790
-* Email: stenzelthomas68@gmail.com
 * Address: 460 Ash St, Gonvick, MN 56644
 * MPCA SSTS licence L2150: Inspector (exp. 2027-08-22)
 * Also licensed: Designer, Installer, Pipelayer

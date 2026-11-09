@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/unlimited-siteworks-llc-sl4417/
 
 * Septic (SSTS) inspection
 * Faribault, MN (Rice County)
-* Phone: (507) 330-1393
-* Email: unlimitedsiteworks@gmail.com
 * Address: 20011 Cates Ave, Faribault, MN 55021
 * MPCA SSTS licence L4417: Inspector (exp. 2027-02-05)
 * Also licensed: Designer, Installer, Pipelayer

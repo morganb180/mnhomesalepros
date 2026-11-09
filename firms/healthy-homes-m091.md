@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/healthy-homes-m091/
 
 * Radon measurement
 * St Cloud, MN (Stearns County)
-* Phone: (320) 309-6275
-* Website: https://healthyhomesradon.com
 * Address: 1930 11th Ave S, St Cloud, MN 56301
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): Statewide

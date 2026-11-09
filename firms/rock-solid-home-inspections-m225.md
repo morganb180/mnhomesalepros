@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/rock-solid-home-inspections-m225/
 
 * Radon measurement
 * Maple Grove, MN (Hennepin County)
-* Phone: (612) 296-8451
 * Address: 17184 80th Ave North, Maple Grove, MN 55311
 * Google rating: 4.9 from 137 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

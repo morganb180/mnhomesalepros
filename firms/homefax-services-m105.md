@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/homefax-services-m105/
 
 * Radon measurement
 * Plymouth, MN (Hennepin County)
-* Phone: (612) 201-9602
-* Website: https://www.homefaxradonservices.com
 * Address: 5733 Juneau Ln, Plymouth, MN 55446
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): Statewide

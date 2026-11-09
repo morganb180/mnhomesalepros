@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/mjl-contracting-inc-sl2449/
 
 * Septic (SSTS) inspection
 * Isanti, MN (Isanti County)
-* Phone: (763) 444-6668
-* Email: mjlcontract@gmail.com
 * Address: 5265 269th Ave NE, Isanti, MN 55040
 * MPCA SSTS licence L2449: Inspector (exp. 2027-04-12)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

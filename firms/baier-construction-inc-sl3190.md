@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/baier-construction-inc-sl3190/
 
 * Septic (SSTS) inspection
 * Springfield, MN (Brown County)
-* Phone: (507) 220-5657
-* Email: baierra@newulmtel.net
 * Address: 40454 US Hwy 14, Springfield, MN 56087
 * MPCA SSTS licence L3190: Inspector (exp. 2027-04-17)
 * Also licensed: Designer, Installer, Pipelayer

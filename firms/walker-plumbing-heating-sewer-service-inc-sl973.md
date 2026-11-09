@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/walker-plumbing-heating-sewer-servic
 
 * Septic (SSTS) inspection
 * Villard, MN (Pope County)
-* Phone: (320) 554-6601
-* Email: jdwalker57@embarqmail.com
 * Address: PO Box 134, Villard, MN 56385
 * Google rating: 4.3 from 6 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L973: Inspector (exp. 2027-04-19)

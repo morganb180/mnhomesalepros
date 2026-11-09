@@ -1,6 +1,6 @@
 ---
 title: "Thor Wiebe Home Inspections, Marshall MN"
-description: "Thor Wiebe Home Inspections in Marshall, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Thor Wiebe Home Inspections in Marshall, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/thor-wiebe-home-inspections-m243/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/thor-wiebe-home-inspections-m243/
 
 * Radon measurement, Radon mitigation
 * Marshall, MN (Lyon County)
-* Phone: (507) 537-1956
-* Website: https://thorwiebehomeinspections.com
 * Address: 903 Boxelder Ave, Marshall, MN 56258
 * Google rating: 5.0 from 5 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Measurement, Multi Family Mitigation, Single Family Measurement, Single Family Mitigation

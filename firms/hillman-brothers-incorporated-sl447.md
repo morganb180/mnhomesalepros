@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/hillman-brothers-incorporated-sl447/
 
 * Septic (SSTS) inspection
 * Odessa, MN (Big Stone County)
-* Phone: (320) 273-2277
-* Email: hillmanbrosexcavating@yahoo.com
 * Address: 68393 430th St, Odessa, MN 56276
 * MPCA SSTS licence L447: Inspector (exp. 2027-04-08)
 * Also licensed: Designer, Installer, Pipelayer

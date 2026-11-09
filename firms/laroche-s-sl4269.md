@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/laroche-s-sl4269/
 
 * Septic (SSTS) inspection
 * Faribault, MN (Rice County)
-* Phone: (612) 310-2219
-* Email: jsnyder@lakestatelogistics.com
 * Address: PO Box 1137, Faribault, MN 55021
 * MPCA SSTS licence L4269: Inspector, Intermediate Inspector (exp. 2028-01-09)
 * Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bougalis-construction-inc-sl2695/
 
 * Septic (SSTS) inspection
 * Hibbing, MN (Saint Louis County)
-* Phone: (218) 362-8415
-* Email: nick@bougalisinc.com
 * Address: 800 Greyhound Blvd, Hibbing, MN 55746
 * Google rating: 4.2 from 13 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2695: Inspector (exp. 2027-04-05)

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ramberg-soil-consulting-sl2113/
 
 * Septic (SSTS) inspection
 * Pine City, MN (Pine County)
-* Phone: (320) 438-9318
-* Email: rambergsoilconsulting@gmail.com
 * Address: 55535 Fairfield Ave, Pine City, MN 55063
 * MPCA SSTS licence L2113: Inspector (exp. 2027-02-08)
 * Also licensed: Designer, Installer, Pipelayer

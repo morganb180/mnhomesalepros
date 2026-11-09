@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/haugan-construction-sl1652/
 
 * Septic (SSTS) inspection
 * Two Harbors, MN (Lake County)
-* Phone: (218) 834-9240
-* Email: hauganconst@lakenet.com
 * Address: 4408 Thomas Lake Rd, Two Harbors, MN 55616
 * Google rating: 2.3 from 3 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1652: Inspector (exp. 2028-09-16)

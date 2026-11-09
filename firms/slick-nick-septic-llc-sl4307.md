@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/slick-nick-septic-llc-sl4307/
 
 * Septic (SSTS) inspection
 * Hackensack, MN (Cass County)
-* Phone: (320) 292-3757
-* Email: nick@septicmn.com
 * Address: 3342 County 45 NW, Hackensack, MN 56452
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L4307: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-06-10)

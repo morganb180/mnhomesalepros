@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/selly-excavating-inc-sl3627/
 
 * Septic (SSTS) inspection
 * Le Center, MN (Le Sueur County)
-* Phone: (507) 357-6200
-* Email: brianwagner3@aol.com
 * Address: 525 W Derrynane St, Le Center, MN 56057
 * MPCA SSTS licence L3627: Inspector (exp. 2027-08-28)
 * Also licensed: Designer, Installer, Pipelayer

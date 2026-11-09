@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/5-star-excavating-llc-sl4250/
 
 * Septic (SSTS) inspection
 * West Concord, MN (Dodge County)
-* Phone: (507) 951-2275
-* Email: camellingson@gmail.com
 * Address: 16967 540th St, West Concord, MN 55985
 * MPCA SSTS licence L4250: Inspector (exp. 2028-07-26)
 * Also licensed: Designer, Installer, Pipelayer

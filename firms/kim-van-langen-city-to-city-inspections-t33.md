@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/kim-van-langen-city-to-city-inspecti
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (952) 432-4924
-* Email: sierrakvan@gmail.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

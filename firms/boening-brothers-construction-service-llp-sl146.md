@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/boening-brothers-construction-servic
 
 * Septic (SSTS) inspection
 * Mapleton, MN (Blue Earth County)
-* Phone: (507) 524-3730
-* Email: boeningbrothers@gmail.com
 * Address: 56677 125th St, Mapleton, MN 56065
 * Google rating: 5.0 from 3 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L146: Inspector (exp. 2027-03-13)

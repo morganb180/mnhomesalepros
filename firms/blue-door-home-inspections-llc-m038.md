@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/blue-door-home-inspections-llc-m038/
 
 * Radon measurement
 * Grand Forks, ND (Grand Forks County)
-* Phone: (701) 740-0980
-* Website: https://bluedoorinspects.com
 * Address: 3333 Desert Star Ln, Grand Forks, ND 58201
 * Google rating: 4.9 from 132 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/inspecta-homes-m121/
 
 * Radon measurement
 * St. Paul, MN (Ramsey County)
-* Phone: (651) 641-0641
-* Website: https://www.inspectahomes.com
 * Address: 1464 Selby Ave Suite 2, St. Paul, MN 55104
 * Google rating: 4.8 from 520 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

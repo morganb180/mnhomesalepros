@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### County Line Excavating LLC
 
 46445 350th St, Gaylord, MN 55334  
-☎ [(507) 381-8358](tel:5073818358)  
 ✉ sssschott@icloud.com
 
 Certified staff: Peter D Otterness, Spencer J Schott  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Lafayette Excavating Inc
 
 PO Box 204, Lafayette, MN 56054  
-☎ [(507) 228-8902](tel:5072288902)  
 ✉ lafayetteexcavating@hotmail.com
 
 Certified staff: Daniel B Reinhart, Harold A Reinhart, Kevin A Reinhart, Randy B Reinhart  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Joel Shult LLC
 
 48452 455th Ave, Nicollet, MN 56074  
-☎ [(507) 232-3935](tel:5072323935)
 
 Certified staff: Daniel D Shult, Joel A Shult  
 Also licensed: Designer, Installer, Maintainer, Pipelayer  
@@ -65,7 +62,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Haas Home Inspections L.L.C
 
 107 Lagoon Dr, Courtland, MN 56021  
-☎ [(507) 304-3500](tel:5073043500)
 
 1 MDH-licensed professional
 
@@ -78,7 +74,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Nicollet County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=nicollet)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=nicollet)
 
 ## Frequently asked questions
 
@@ -100,7 +96,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Nicollet County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Nicollet County, MN?
 

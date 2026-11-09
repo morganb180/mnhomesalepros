@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/iea-inc-m119/
 
 * Radon measurement
 * Mankato, MN (Blue Earth County)
-* Phone: (507) 345-8818
 * Address: 610 No. Riverfront Dr, Mankato, MN 56001
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): Statewide

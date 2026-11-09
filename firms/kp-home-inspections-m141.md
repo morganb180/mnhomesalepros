@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/kp-home-inspections-m141/
 
 * Radon measurement
 * Clear Lake, MN (Sherburne County)
-* Phone: (612) 839-2986
-* Website: https://www.kphomeinspection.com
 * Address: 5370 135th Ave, Clear Lake, MN 55319
 * Google rating: 5.0 from 520 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

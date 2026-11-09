@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Ten Thirty Environmental Solutions, SBC
 
 1684 132nd Ave NE, Blaine, MN 55449  
-☎ [(612) 248-4281](tel:6122484281)  
 ✉ alexanderpepin@gmail.com
 
 Certified staff: Alexander M Pepin  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Cedar Septic and Sewer LLC
 
 18604 Flamingo St NW, Cedar, MN 55011  
-☎ [(763) 218-1397](tel:7632181397)  
 ✉ cedar.septic@gmail.com
 
 Certified staff: Benjamin T Mackedanz, Michael J Jungbauer  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Caspers Excavating Inc
 
 PO Box 335, East Bethel, MN 55011  
-☎ [(763) 434-3618](tel:7634343618)  
 ✉ caspersservices76@gmail.com
 
 Certified staff: Gerald W Casper, Joel W Casper, Joshua G Casper  
@@ -62,7 +59,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Tradewell Soil Testing
 
 18330 Dahlia St NW, East Bethel, MN 55011  
-☎ [(763) 753-6222](tel:7637536222)
 
 Certified staff: Mark E Tradewell  
 Also licensed: Designer  
@@ -74,7 +70,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Hobs Excavating Inc.
 
 20975 Engen Blvd NW, Elk River, MN 55330  
-☎ [(763) 241-3908](tel:7632413908)  
 ✉ brian@hobs-excavating.com
 
 Certified staff: Brian R Backstrom, Donald J Ramberg Jr  
@@ -87,7 +82,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Lashinski Service, Inc.
 
 1244 Crosstown Blvd NE, Ham Lake, MN 55304  
-☎ [(763) 434-3915](tel:7634343915)  
 ✉ rlashinski@gmail.com
 
 Certified staff: Ryan E Lashinski  
@@ -100,7 +94,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Soderville, Inc
 
 17616 Hwy 65, Soderville, MN 55304  
-☎ [(763) 228-1004](tel:7632281004)  
 ✉ sodervilleinc@hotmail.com
 
 Certified staff: David N Braastad, Randy L Braastad  
@@ -117,8 +110,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### HomeTeam Inspection Service
 
 13482 Martin St NW, Andover, MN 55304  
-☎ [(612) 701-6744](tel:6127016744)  
-🌐 [hometeam-minneapolisnw.com](https://hometeam-minneapolisnw.com)
 
 1 MDH-licensed professional
 
@@ -132,7 +123,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### WJB Enterprises
 
 2036 139th Ln NW, Andover, MN 55304  
-☎ [(612) 554-0805](tel:6125540805)
 
 1 MDH-licensed professional
 
@@ -146,7 +136,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Hermodson Inspections LLC
 
 4600 107th Ave NE, Blaine, MN 55014  
-☎ [(651) 895-6891](tel:6518956891)
 
 1 MDH-licensed professional
 
@@ -160,7 +149,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### First Call Home Inspection Ser
 
 20035 Madison St NE, Cedar, MN 55011  
-☎ [(651) 230-8483](tel:6512308483)
 
 1 MDH-licensed professional
 
@@ -174,8 +162,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Hauscheck Inspections & Engineering
 
 4400 Stinson Blvd NE, Columbia Heights, MN 55421  
-☎ [(612) 843-4287](tel:6128434287)  
-🌐 [hauscheckinspections.com](https://hauscheckinspections.com)
 
 1 MDH-licensed professional
 
@@ -189,8 +175,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Blue Line Radon Testing and Mitigation
 
 700 86th Ave NW, Coon Rapids, MN 55433  
-☎ [(763) 202-9742](tel:7632029742)  
-🌐 [bluelineradon.com](https://bluelineradon.com)
 
 1 MDH-licensed professional
 
@@ -204,7 +188,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Lenspection Building Inspections LLC
 
 1016 94th Ave N W, Coon Rapids, MN 55433  
-☎ [(763) 568-7473](tel:7635687473)
 
 1 MDH-licensed professional
 
@@ -218,8 +201,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Marigold Home Inspections
 
 9405 Holly St NW # D, Coon Rapids, MN 55433  
-☎ [(763) 567-2181](tel:7635672181)  
-🌐 [marigoldhomeinspections.com](https://www.marigoldhomeinspections.com)
 
 18 MDH-licensed professionals
 
@@ -250,8 +231,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Atlas Technical Consultants
 
 5301 E River Rd, Suite 101, Fridley, MN 55421  
-☎ [(651) 635-9050](tel:6516359050)  
-🌐 [oneatlas.com](https://www.oneatlas.com)
 
 3 MDH-licensed professionals
 
@@ -267,8 +246,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Arrow Inspection
 
 14101 Coral Sea St NE, Ham Lake, MN 55304  
-☎ [(612) 834-8430](tel:6128348430)  
-🌐 [arrowmn.com](https://www.arrowmn.com)
 
 1 MDH-licensed professional
 
@@ -282,7 +259,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Homefax Services
 
 7429 Concerto Curve NE, Minneapolis, MN 55432  
-☎ [(612) 900-3191](tel:6129003191)
 
 2 MDH-licensed professionals
 
@@ -296,7 +272,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Anoka County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=anoka)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=anoka)
 
 ## Frequently asked questions
 
@@ -318,7 +294,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Anoka County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Anoka County, MN?
 

@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/thompson-inspections-m242/
 
 * Radon measurement
 * Roseville, MN (Ramsey County)
-* Phone: (651) 487-5318
 * Address: 2250 Victoria St N #107, Roseville, MN 55113
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

@@ -1,6 +1,6 @@
 ---
 title: "Solution Enhance LLC, East Bethel, MN | MN Home Sale Pros"
-description: "Solution Enhance in East Bethel, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Solution Enhance in East Bethel, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/solution-enhance-llc-m234/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/solution-enhance-llc-m234/
 
 * Radon measurement, Radon mitigation
 * East Bethel, MN (Chisago County)
-* Phone: (651) 424-3075
-* Website: https://solutionenhance.com/
 * Address: 2816 183rd Ave NE, East Bethel, MN 55092
 * Google rating: 5.0 from 56 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Mitigation, Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation

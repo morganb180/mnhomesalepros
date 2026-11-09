@@ -1,6 +1,6 @@
 ---
 title: "Tru-Mitigation, East Bethel, MN | MN Home Sale Pros"
-description: "Tru-Mitigation in East Bethel, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Tru-Mitigation in East Bethel, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/tru-mitigation-m246/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/tru-mitigation-m246/
 
 * Radon measurement, Radon mitigation
 * East Bethel, MN (Isanti County)
-* Phone: (763) 381-4136
 * Address: 23547 Washington St NE, East Bethel, MN 55008
 * MDH radon: Multi Family Measurement, Multi Family Mitigation, Schools & Large Buildings Measurement, Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): Statewide

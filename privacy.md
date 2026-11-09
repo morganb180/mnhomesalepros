@@ -13,9 +13,9 @@ Updated Oct 30, 2026. This policy covers MN Home Sale Pros (mnhomesalepros.com, 
 ## Quote requests
 
 * **What you enter:** your name, email, optionally your phone, the ZIP code of the property, the service you need and an optional note.
-* **Who gets it:** when you check the consent box and submit, we send your request by email to **up to 3 licensed Minnesota pros** that offer that service near that ZIP code. Only those pros get your contact details. We email you a list of the pros we contacted.
+* **Who it's shared with:** when you check the consent box and submit, we connect you with **up to 3 nearby licensed Minnesota firms** that offer that service. They contact you directly. Only those firms receive your name, email, phone if you gave one, ZIP code, the service and any note. Their names appear on the confirmation screen.
 * **What we keep:** we keep a copy of each quote request: the details you submit (your name, email, phone if given, ZIP code, the service you need and any note), the pros it went to and the date. We use it to run and improve the service, and we don't sell it. We only use it to send you home-sale tips and offers if you opt in (below). Our server also keeps routing records: a request ID, the date and time, state, first three digits of your ZIP, the service requested and which pros were contacted. These records are kept for up to about 13 months.
-* **Email delivery:** requests are sent through our email provider, SendGrid (Twilio), which processes the message to deliver it and keeps delivery logs under its own retention policy. Pros that receive your request keep it under their own policies; contact them directly to ask them to delete it.
+* **Delivery:** SendGrid (Twilio) delivers the request to those firms and keeps delivery logs under its own retention policy. Firms keep what they receive under their own policies.
 * **Spam protection:** the form uses Cloudflare Turnstile and per-connection rate limits. To rate-limit, we keep a one-way hash of your IP address for about an hour.
 
 ## Tips and offers (optional)
@@ -27,7 +27,7 @@ Updated Oct 30, 2026. This policy covers MN Home Sale Pros (mnhomesalepros.com, 
 
 ## Clicks on contact links
 
-When you click a listing's phone, website or email link, your browser sends us an anonymous count (listing ID and link type only) so we can show pros how many people contacted them each month. No cookies or personal data are involved.
+Listings do not show a firm's phone, email or website. When you use a quote link, your browser may send an anonymous count (listing ID and link type only). No cookies or personal data are involved.
 
 ## Listing claims and corrections
 
@@ -49,7 +49,7 @@ We use Google Analytics to collect aggregate usage statistics (pages viewed, the
 
 ## Business listings
 
-Listings come from public licensing or certification records (see [About our data](/about-our-data/)). Pros receive homeowner requests by email; every request email has a one-click link to stop receiving them, and pros can claim, correct or remove their listing at any time.
+Listings come from public licensing or certification records (see [About our data](/about-our-data/)). Firms receive the request you asked us to share, and each request includes a one-click way for the firm to stop receiving them, and pros can claim, correct or remove their listing at any time.
 
 ## Your choices
 

@@ -1,6 +1,6 @@
 ---
 title: "Precision Home Inspections of Rochester, Rochester MN"
-description: "Precision Home Inspections of Rochester in Rochester, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
+description: "Precision Home Inspections of Rochester in Rochester, MN: MDH licensed for radon measurement. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/precision-home-inspections-of-rochester-m186/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/precision-home-inspections-of-roches
 
 * Radon measurement
 * Rochester, MN (Olmsted County)
-* Phone: (507) 254-0898
-* Website: https://www.phirochester.com
 * Address: 7835 Cedar Crest Ln NW, Rochester, MN 55901
 * Google rating: 5.0 from 8 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

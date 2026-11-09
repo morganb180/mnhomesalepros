@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/home-check-m099/
 
 * Radon measurement
 * Rochester, MN (Olmsted County)
-* Phone: (507) 701-8963
-* Website: https://www.homecheck.co
 * Address: 1210 Hillcrest Ct SE, Rochester, MN 55904
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

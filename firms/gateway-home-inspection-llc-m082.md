@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/gateway-home-inspection-llc-m082/
 
 * Radon measurement
 * Big Lake, MN (Sherburne County)
-* Phone: (763) 234-6846
-* Website: https://www.gatewayhi.com
 * Address: 1010 Kilbirnie Rd N, Big Lake, MN 55309
 * MDH radon: Single Family Measurement
 * Service area (per MDH): Statewide

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/coulee-soil-testing-excavating-and-p
 
 * Septic (SSTS) inspection
 * Stoddard, WI (Houston County)
-* Phone: (608) 782-7870
-* Email: couleesoiltep@gmail.com
 * Address: W464 County Rd K, Stoddard, WI 54658
 * MPCA SSTS licence L1647: Inspector (exp. 2027-05-14)
 * Also licensed: Designer, Installer, Service provider, Pipelayer

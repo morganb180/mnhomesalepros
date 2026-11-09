@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/wagner-septic-services-sl2531/
 
 * Septic (SSTS) inspection
 * Cleveland, MN (Le Sueur County)
-* Phone: (507) 317-5478
-* Email: brianwagner3@aol.com
 * Address: 26871 State Hwy 99, Cleveland, MN 56017
 * MPCA SSTS licence L2531: Inspector (exp. 2027-04-14)
 * Also licensed: Designer, Installer, Pipelayer

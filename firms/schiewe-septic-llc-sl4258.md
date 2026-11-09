@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/schiewe-septic-llc-sl4258/
 
 * Septic (SSTS) inspection
 * South Haven, MN (Stearns County)
-* Phone: (773) 558-9654
-* Email: chris@schieweseptic.com
 * Address: 13572 51st Ave, South Haven, MN 55382
 * MPCA SSTS licence L4258: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-09-09)
 * Also licensed: Designer, Service provider

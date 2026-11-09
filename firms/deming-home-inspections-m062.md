@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/deming-home-inspections-m062/
 
 * Radon measurement
 * Owatonna, MN (Steele County)
-* Phone: (507) 475-2383
-* Website: https://deminghomeinspections.com
 * Address: 217 13th St NE, Owatonna, MN 55060
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

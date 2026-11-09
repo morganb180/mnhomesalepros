@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/brice-staeheli-american-central-insp
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (651) 238-1314
-* Email: brice.staeheli@gmail.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/midwest-sewer-services-sl2896/
 
 * Septic (SSTS) inspection
 * Grant, MN (Washington County)
-* Phone: (651) 492-7550
-* Email: Brian@midwestsoiltesting.com
 * Address: 6616 Indian Wells Trail, Grant, MN 55110
 * Google rating: 5.0 from 5 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2896: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2026-12-22)

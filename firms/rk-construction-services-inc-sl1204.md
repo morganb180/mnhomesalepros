@@ -1,6 +1,6 @@
 ---
 title: "RK Construction Services, Inc.: Septic Inspector, Marcell MN"
-description: "RK Construction Services in Marcell, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "RK Construction Services in Marcell, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/rk-construction-services-inc-sl1204/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/rk-construction-services-inc-sl1204/
 
 * Septic (SSTS) inspection
 * Marcell, MN (Itasca County)
-* Phone: (218) 832-2842
-* Email: steve.rkconstruction@gmail.com
 * Address: PO Box 36, Marcell, MN 56657
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1204: Inspector (exp. 2028-07-11)

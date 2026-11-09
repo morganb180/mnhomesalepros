@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/city-of-minneapolis-m051/
 
 * Radon measurement
 * Minneapolis, MN (Hennepin County)
-* Phone: (612) 581-0199
 * Address: 505 4th Ave S, Minneapolis, MN 55345
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 25 miles

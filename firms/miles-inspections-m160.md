@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/miles-inspections-m160/
 
 * Radon measurement
 * Hudson, WI (St. Croix County)
-* Phone: (715) 651-1972
 * Address: 627 Spruce Dr, Hudson, WI 54016
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

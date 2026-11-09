@@ -1,6 +1,6 @@
 ---
 title: "Fiedler Your Pumping Specialists, Inc., Royalton MN"
-description: "Fiedler Your Pumping Specialists in Royalton, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Fiedler Your Pumping Specialists in Royalton, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/fiedler-your-pumping-specialists-inc-sl3318/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/fiedler-your-pumping-specialists-inc
 
 * Septic (SSTS) inspection
 * Royalton, MN (Morrison County)
-* Phone: (320) 252-9916
-* Email: cindy@fiedlerpumping.com
 * Address: 18627 Nature Rd, Royalton, MN 56373
 * Google rating: 4.9 from 99 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L3318: Inspector (exp. 2027-04-19)

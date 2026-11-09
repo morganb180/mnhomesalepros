@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/karl-dobmeier-sl3006/
 
 * Septic (SSTS) inspection
 * Hines, MN (Beltrami County)
-* Phone: (218) 835-5568
-* Email: karld@paulbunyan.net
 * Address: 21440 Hines Rd NE, Hines, MN 56647
 * MPCA SSTS licence L3006: Inspector (exp. 2027-08-03)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/jeff-schanche-sl4053/
 
 * Septic (SSTS) inspection
 * Side Lake, MN (Saint Louis County)
-* Phone: (218) 969-7936
-* Email: jws.vei@gmail.com
 * Address: 12570 E Rd, Side Lake, MN 55781
 * MPCA SSTS licence L4053: Inspector (exp. 2027-05-07)
 * Also licensed: Designer

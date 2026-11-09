@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/great-north-home-inspection-m086/
 
 * Radon measurement
 * Outing, MN (Cass County)
-* Phone: (763) 229-4417
 * Address: 1969 Peninsula Rd NE PO Box 54, Outing, MN 56662
 * MDH radon: Single Family Measurement
 * Service area (per MDH): Statewide

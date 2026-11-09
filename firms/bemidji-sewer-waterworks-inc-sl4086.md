@@ -1,6 +1,6 @@
 ---
 title: "Bemidji Sewer & Waterworks Inc.: Septic Inspector, Hines MN"
-description: "Bemidji Sewer & Waterworks in Hines, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Bemidji Sewer & Waterworks in Hines, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/bemidji-sewer-waterworks-inc-sl4086/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bemidji-sewer-waterworks-inc-sl4086/
 
 * Septic (SSTS) inspection
 * Hines, MN (Beltrami County)
-* Phone: (218) 766-1971
-* Email: bswseptic@yahoo.com
 * Address: 23760 Pass Rd NE, Hines, MN 56647
 * MPCA SSTS licence L4086: Inspector (exp. 2028-10-09)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/nicholaus-koenig-blue-sky-inspection
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (612) 802-4561
-* Email: nicktheinspector@gmail.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

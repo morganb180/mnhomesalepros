@@ -1,6 +1,6 @@
 ---
 title: "Pillar To Post. The Cornerstone Team., Minneapolis MN"
-description: "Pillar To Post. The Cornerstone Team. in Minneapolis, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
+description: "Pillar To Post. The Cornerstone Team. in Minneapolis, MN: MDH licensed for radon measurement. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/pillar-to-post-the-cornerstone-team-m182/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/pillar-to-post-the-cornerstone-team-
 
 * Radon measurement
 * Minneapolis, MN (Hennepin County)
-* Phone: (612) 431-1414
-* Website: https://cornerstoneteam.pillartopost.com/
 * Address: 5123 W 98th St #2022, Minneapolis, MN 55437
 * MDH radon: Single Family Measurement
 * Service area (per MDH): Statewide

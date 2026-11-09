@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/loverink-drainage-inc-sl692/
 
 * Septic (SSTS) inspection
 * Hollandale, MN (Freeborn County)
-* Phone: (507) 473-0200
-* Email: loverink4@gmail.com
 * Address: 200 Zyder Zee Ave, Hollandale, MN 56045
 * MPCA SSTS licence L692: Inspector (exp. 2027-03-27)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

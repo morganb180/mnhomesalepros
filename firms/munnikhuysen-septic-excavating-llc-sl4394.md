@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/munnikhuysen-septic-excavating-llc-s
 
 * Septic (SSTS) inspection
 * Dodge Center, MN (Dodge County)
-* Phone: (507) 923-6935
-* Email: munni879@gmail.com
 * Address: 15494 655th St, Dodge Center, MN 55927
 * MPCA SSTS licence L4394: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-06-28)
 * Also licensed: Designer, Installer, Service provider, Pipelayer

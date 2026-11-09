@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/g-g-g-inc-sl686/
 
 * Septic (SSTS) inspection
 * Chatfield, MN (Olmsted County)
-* Phone: (507) 867-1666
-* Email: geoffg@ggg.to
 * Address: 14070 Hwy 52 SE, Chatfield, MN 55923
 * Google rating: 2.3 from 9 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L686: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2028-07-08)

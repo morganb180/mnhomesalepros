@@ -1,6 +1,6 @@
 ---
 title: "DJ's Radon Services, Inc., Perham, MN | MN Home Sale Pros"
-description: "DJ's Radon Services in Perham, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "DJ's Radon Services in Perham, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/dj-s-radon-services-inc-m065/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/dj-s-radon-services-inc-m065/
 
 * Radon measurement, Radon mitigation
 * Perham, MN (Otter Tail County)
-* Phone: (701) 353-5564
-* Website: https://djsradonservices.com
 * Address: 41000 Mn 78, Perham, MN 56573
 * MDH radon: Multi Family Mitigation, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 100 miles

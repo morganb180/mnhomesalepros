@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/david-michael-engdahl-sl2006/
 
 * Septic (SSTS) inspection
 * Isle, MN (Aitkin County)
-* Phone: (320) 592-3606
-* Email: daveengdahl@yahoo.com
 * Address: 14698 260th Ave, Isle, MN 56342
 * MPCA SSTS licence L2006: Inspector (exp. 2027-05-13)
 * Also licensed: Designer, Installer, Pipelayer

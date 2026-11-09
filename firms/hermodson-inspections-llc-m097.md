@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/hermodson-inspections-llc-m097/
 
 * Radon measurement
 * Blaine, MN (Anoka County)
-* Phone: (651) 895-6891
 * Address: 4600 107th Ave NE, Blaine, MN 55014
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

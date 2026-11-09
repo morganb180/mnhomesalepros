@@ -1,6 +1,6 @@
 ---
 title: "MN Radon Experts, Chanhassen, MN | MN Home Sale Pros"
-description: "MN Radon Experts in Chanhassen, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "MN Radon Experts in Chanhassen, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/mn-radon-experts-m162/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/mn-radon-experts-m162/
 
 * Radon measurement, Radon mitigation
 * Chanhassen, MN (Carver County)
-* Phone: (612) 578-0456
 * Address: 8501 Powers Pl, Chanhassen, MN 55317
 * MDH radon: Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): Statewide

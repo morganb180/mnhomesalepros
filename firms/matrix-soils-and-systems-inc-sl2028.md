@@ -1,6 +1,6 @@
 ---
 title: "MATRIX Soils and Systems: Septic Inspector, Rice Lake MN"
-description: "MATRIX Soils and Systems in Rice Lake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "MATRIX Soils and Systems in Rice Lake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/matrix-soils-and-systems-inc-sl2028/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/matrix-soils-and-systems-inc-sl2028/
 
 * Septic (SSTS) inspection
 * Rice Lake, MN (Saint Louis County)
-* Phone: (218) 390-2869
-* Email: rwwhitmyer.matrixss@charter.net
 * Address: 3990 Fairview Rd, Rice Lake, MN 55803
 * MPCA SSTS licence L2028: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-08-07)
 * Also licensed: Designer, Service provider

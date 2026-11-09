@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ecosense-inc-m069/
 
 * Radon analysis laboratory
 * San Jose, CA (Santa Clara County)
-* Phone: (678) 983-9312
 * Address: 1777 Hamilton Ave #2180, San Jose, CA 95125
 * MDH radon: Analysis laboratory
 * Service area (per MDH): Statewide (mail-in)

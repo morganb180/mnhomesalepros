@@ -1,6 +1,6 @@
 ---
 title: "Elwood Design and Sewer Installation LLC, Ogilvie MN"
-description: "Elwood Design and Sewer Installation in Ogilvie, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Elwood Design and Sewer Installation in Ogilvie, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/elwood-design-and-sewer-installation-llc-sl1090/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/elwood-design-and-sewer-installation
 
 * Septic (SSTS) inspection
 * Ogilvie, MN (Kanabec County)
-* Phone: (320) 272-0060
-* Email: vernelwood@gmail.com
 * Address: 1339 170th Ave, Ogilvie, MN 56358
 * Google rating: 4.0 from 4 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1090: Inspector (exp. 2027-04-23)

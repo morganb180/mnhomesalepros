@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/reo-enterprises-llc-sl4215/
 
 * Septic (SSTS) inspection
 * Canby, MN (Lincoln County)
-* Phone: (507) 530-7307
-* Email: rolsen@co.lincoln.mn.us
 * Address: 3451 200th Ave, Canby, MN 56220
 * MPCA SSTS licence L4215: Inspector (exp. 2027-03-21)
 * Also licensed: Designer

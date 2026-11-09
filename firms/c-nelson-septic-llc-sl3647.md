@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/c-nelson-septic-llc-sl3647/
 
 * Septic (SSTS) inspection
 * Houston, MN (Houston County)
-* Phone: (507) 896-3274
-* Email: cnelsonseptic@goacentek.net
 * Address: 9211 County Rd 10, Houston, MN 55943
 * MPCA SSTS licence L3647: Inspector (exp. 2027-09-26)
 * Also licensed: Designer, Installer, Pipelayer

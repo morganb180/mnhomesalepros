@@ -6,7 +6,7 @@ canonical: https://mnhomesalepros.com/list-your-business/
 
 # List, claim, correct or remove a listing
 
-Every listing on MN Home Sale Pros comes from the MPCA, MDH or city record you are listed from. Use this form to claim your free listing (add a phone number, website or service area), fix an error, ask to be added, or ask for a listing to be removed.
+Every listing on MN Home Sale Pros comes from the MPCA, MDH or city record you are listed from. Use this form to claim your free listing, fix an error, ask to be added, or ask for a listing to be removed. Public pages show the credential, people's names and the mailing address. They do not show a phone number, email or website.
 
 ## What happens next
 

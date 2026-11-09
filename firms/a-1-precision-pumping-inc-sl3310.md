@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/a-1-precision-pumping-inc-sl3310/
 
 * Septic (SSTS) inspection
 * Hokah, MN (Houston County)
-* Phone: (608) 790-6615
-* Email: precision_pumping@hotmail.com
 * Address: 7575 Butterfield Valley Rd, Hokah, MN 55941
 * MPCA SSTS licence L3310: Inspector, Intermediate Inspector (exp. 2027-04-23)
 * Also licensed: Designer, Maintainer, Service provider

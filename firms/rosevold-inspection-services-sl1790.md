@@ -1,6 +1,6 @@
 ---
 title: "Rosevold Inspection Services: Septic Inspector, Princeton MN"
-description: "Rosevold Inspection Services in Princeton, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Rosevold Inspection Services in Princeton, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/rosevold-inspection-services-sl1790/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/rosevold-inspection-services-sl1790/
 
 * Septic (SSTS) inspection
 * Princeton, MN (Mille Lacs County)
-* Phone: (612) 859-2695
-* Email: srosevold@hotmail.com
 * Address: 307 7th Ave S, Princeton, MN 55371
 * MPCA SSTS licence L1790: Inspector (exp. 2027-04-21)
 * Also licensed: Designer

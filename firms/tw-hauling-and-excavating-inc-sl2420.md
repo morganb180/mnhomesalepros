@@ -1,6 +1,6 @@
 ---
 title: "TW Hauling and Excavating: Septic Inspector, Zimmerman MN"
-description: "TW Hauling and Excavating in Zimmerman, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "TW Hauling and Excavating in Zimmerman, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/tw-hauling-and-excavating-inc-sl2420/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/tw-hauling-and-excavating-inc-sl2420
 
 * Septic (SSTS) inspection
 * Zimmerman, MN (Sherburne County)
-* Phone: (612) 208-5404
-* Email: TWHaulingandexcavatinginc@gmail.com
 * Address: 27930 96th St NW, Zimmerman, MN 55398
 * MPCA SSTS licence L2420: Inspector (exp. 2027-08-07)
 * Also licensed: Designer, Installer, Pipelayer

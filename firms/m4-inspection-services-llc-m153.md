@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/m4-inspection-services-llc-m153/
 
 * Radon measurement
 * Nevis, MN (Hubbard County)
-* Phone: (218) 252-7312
 * Address: 30098 County 91, Nevis, MN 56467
 * MDH radon: Single Family Measurement
 * Service area (per MDH): Statewide

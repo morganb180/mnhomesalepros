@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/kapus-excavating-llc-sl4285/
 
 * Septic (SSTS) inspection
 * Pierz, MN (Morrison County)
-* Phone: (320) 630-9573
-* Email: kapusexcavating@gmail.com
 * Address: 22921 233rd St, Pierz, MN 56364
 * MPCA SSTS licence L4285: Inspector (exp. 2028-03-24)
 * Also licensed: Designer, Installer, Pipelayer

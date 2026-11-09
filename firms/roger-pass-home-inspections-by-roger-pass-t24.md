@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/roger-pass-home-inspections-by-roger
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (651) 690-2122
-* Email: rogerdpass@gmail.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ende-septic-service-sl2654/
 
 * Septic (SSTS) inspection
 * Rogers, MN (Hennepin County)
-* Phone: (763) 428-4489
-* Email: info@endeseptic.com
 * Address: 24910 Territorial Rd, Rogers, MN 55374
 * Google rating: 4.5 from 60 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2654: Inspector (exp. 2027-08-30)

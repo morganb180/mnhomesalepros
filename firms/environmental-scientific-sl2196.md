@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/environmental-scientific-sl2196/
 
 * Septic (SSTS) inspection
 * Donnelly, MN (Stevens County)
-* Phone: (320) 589-9893
-* Email: jasonkirwin@gmail.com
 * Address: 46170 120th St, Donnelly, MN 56235
 * MPCA SSTS licence L2196: Inspector (exp. 2027-07-06)
 * Also licensed: Designer

@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### 218 Septic LLC
 
 6585 Wetherbee Rd, Brainerd, MN 56401  
-☎ [(218) 851-2013](tel:2188512013)  
 ✉ 218septic@gmail.com
 
 Certified staff: Raini A Kohl  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### BT Services LLC
 
 PO Box 62, Brainerd, MN 56401  
-☎ [(218) 831-6430](tel:2188316430)
 
 Certified staff: Robert W Bartel  
 Also licensed: Designer, Installer, Pipelayer  
@@ -48,7 +46,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Brummer Septic LLC
 
 14650 Agate Ridge Rd, Brainerd, MN 56401  
-☎ [(218) 821-0704](tel:2188210704)  
 ✉ brummerseptic@gmail.com
 
 Certified staff: Jeffrey G Brummer  
@@ -61,7 +58,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Maschler Septic Consultants
 
 16333 County Rd 142, Brainerd, MN 56401  
-☎ [(218) 839-3042](tel:2188393042)  
 ✉ lamaschler@gmail.com
 
 Certified staff: Daniel W Maschler, Kaos W Maschler, LouAnn Maschler  
@@ -74,7 +70,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Lakes Area Septic LLC
 
 37753 Ox Lake Landing, Crosslake, MN 56442  
-☎ [(218) 851-1563](tel:2188511563)  
 ✉ amy.wannebo@gmail.com
 
 Certified staff: Amy A Wannebo, Seth R Wannebo  
@@ -87,7 +82,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Antonsen Excavating Inc
 
 17633 State Hwy 6, Deerwood, MN 56444  
-☎ [(218) 534-3355](tel:2185343355)  
 ✉ moryant@charter.net
 
 Certified staff: Thomas L Antonsen  
@@ -100,7 +94,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Borden Excavating Inc
 
 13110 Borden Rd, Merrifield, MN 56465  
-☎ [(218) 765-3397](tel:2187653397)  
 ✉ mcborden@brainerd.net
 
 Certified staff: Matthew T Borden  
@@ -113,7 +106,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Martin Joyce Septic Service Inc.
 
 27604 County Rd 3, Merrifield, MN 56465  
-☎ [(218) 820-2621](tel:2188202621)  
 ✉ joycem@brainerd.net
 
 Certified staff: Carrie M Joyce, Martin J Joyce  
@@ -126,7 +118,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Pratt's Affordable Excavating Inc
 
 23069 Swan Ln, Merrifield, MN 56465  
-☎ [(218) 765-4244](tel:2187654244)  
 ✉ slpratt@brainerd.net
 
 Certified staff: Shawn G Pratt  
@@ -139,7 +130,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Paul Smith Contracting
 
 23571 Mollie Lake Rd, Nisswa, MN 56468  
-☎ [(218) 838-4369](tel:2188384369)  
 ✉ sodking13@gmail.com
 
 Certified staff: Paul J Smith  
@@ -152,7 +142,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Underground Designs LLC
 
 10199 Ossawinnamakee Rd, Pequot Lakes, MN 56472  
-☎ [(218) 831-3980](tel:2188313980)  
 ✉ sethgravdahl@gmail.com
 
 Certified staff: Seth A Gravdahl  
@@ -169,7 +158,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### IEA Inc
 
 601 NW 5th St Suite #4 Suite 600, Brainerd, MN 56401  
-☎ [(218) 491-0824](tel:2184910824)
 
 1 MDH-licensed professional
 
@@ -183,7 +171,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Institute for Environmental Assessment
 
 601 NW 5th St, Suite #4, Brainerd, MN 56401  
-☎ [(763) 315-7900](tel:7633157900)
 
 1 MDH-licensed professional
 
@@ -197,8 +184,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Professional House Doctors of MN LLC
 
 22680 Agate Shores Rd, Deerwood, MN 56444  
-☎ [(218) 429-1421](tel:2184291421)  
-🌐 [theradondoctors.com](https://www.theradondoctors.com)
 
 1 MDH-licensed professional
 
@@ -212,8 +197,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### HomeTeam Inspection Service
 
 34043 W Clear Lake Rd, Pequot Lakes, MN 56472  
-☎ [(218) 825-7372](tel:2188257372)  
-🌐 [hometeam.com/lakesarea](https://hometeam.com/lakesarea)
 
 2 MDH-licensed professionals
 
@@ -227,7 +210,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Crow Wing County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=crow-wing)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=crow-wing)
 
 ## Frequently asked questions
 
@@ -249,7 +232,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Crow Wing County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Crow Wing County, MN?
 

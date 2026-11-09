@@ -1,6 +1,6 @@
 ---
 title: "Dakota Radon Services, Horace, ND | MN Home Sale Pros"
-description: "Dakota Radon Services in Horace, ND: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Dakota Radon Services in Horace, ND: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/dakota-radon-services-m060/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/dakota-radon-services-m060/
 
 * Radon measurement, Radon mitigation
 * Horace, ND (Cass County)
-* Phone: (701) 320-1296
 * Address: 5217 W Ponderosa Dr, Horace, ND 58047
 * Google rating: 5.0 from 123 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement, Single Family Mitigation

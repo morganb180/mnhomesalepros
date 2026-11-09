@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/jacobson-plumbing-heating-sl371/
 
 * Septic (SSTS) inspection
 * Wabasha, MN (Wabasha County)
-* Phone: (651) 565-3871
-* Email: jjacobso@wabasha.net
 * Address: 66791 County Rd 76, Wabasha, MN 55981
 * Google rating: 4.9 from 12 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L371: Inspector (exp. 2027-04-23)

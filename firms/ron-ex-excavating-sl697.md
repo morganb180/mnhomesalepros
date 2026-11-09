@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ron-ex-excavating-sl697/
 
 * Septic (SSTS) inspection
 * Grand Rapids, MN (Itasca County)
-* Phone: (218) 327-9273
-* Email: ronald.myers@mchsi.com
 * Address: 32731 Woodland Pk. Rd, Grand Rapids, MN 55744
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L697: Inspector (exp. 2027-06-21)

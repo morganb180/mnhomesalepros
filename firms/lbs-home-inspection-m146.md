@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/lbs-home-inspection-m146/
 
 * Radon measurement
 * Minneapolis, MN (Hennepin County)
-* Phone: (612) 221-3450
-* Website: https://www.leafmn.com
 * Address: 3324 35th Ave S, Minneapolis, MN 55406
 * Google rating: 5.0 from 10 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/structure-tech-m238/
 
 * Radon measurement
 * St. Louis Park, MN (Hennepin County)
-* Phone: (952) 915-6466
-* Website: https://www.inspectionservicesmn.com/
 * Address: 7841 Wayzata Blvd Suite 100, St. Louis Park, MN 55426
 * Google rating: 5.0 from 5277 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

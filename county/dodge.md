@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Munnikhuysen Septic & Excavating LLC
 
 15494 655th St, Dodge Center, MN 55927  
-☎ [(507) 923-6935](tel:5079236935)  
 ✉ munni879@gmail.com
 
 Certified staff: Jared F Munnikhuysen  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Wirth Septic Systems LLC
 
 16253 595th St, Dodge Center, MN 55927  
-☎ [(507) 374-6327](tel:5073746327)  
 ✉ wirthseptic@yahoo.com
 
 Certified staff: Jeffrey A Wirth  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Harbaugh Septic LLC
 
 59775 272nd Ave, Mantorville, MN 55955  
-☎ [(507) 358-0107](tel:5073580107)  
 ✉ elizabeth.harbaugh@co.dodge.mn.us
 
 Certified staff: Elizabeth A Harbaugh  
@@ -62,7 +59,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### 5 Star Excavating LLC
 
 16967 540th St, West Concord, MN 55985  
-☎ [(507) 951-2275](tel:5079512275)  
 ✉ camellingson@gmail.com
 
 Certified staff: Cameron M Ellingson  
@@ -75,7 +71,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Ellingson Drainage Inc
 
 PO Box 68, West Concord, MN 55985  
-☎ [(507) 527-2294](tel:5075272294)  
 ✉ jellingson@ellingsoncompanies.com
 
 Certified staff: Clint J Finne, Kevin R Gerlach, Scott C Otting  
@@ -92,7 +87,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Iverson Home Inspection
 
 27055 655th St, Kasson, MN 55944  
-☎ [(507) 696-7557](tel:5076967557)
 
 1 MDH-licensed professional
 
@@ -105,7 +99,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Dodge County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=dodge)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=dodge)
 
 ## Frequently asked questions
 
@@ -127,7 +121,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Dodge County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Dodge County, MN?
 

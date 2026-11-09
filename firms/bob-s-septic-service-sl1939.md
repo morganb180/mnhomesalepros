@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bob-s-septic-service-sl1939/
 
 * Septic (SSTS) inspection
 * Henning, MN (Otter Tail County)
-* Phone: (218) 583-4424
-* Email: rarokes@gmail.com
 * Address: 51499 County Rd 134, Henning, MN 56551
 * MPCA SSTS licence L1939: Inspector (exp. 2028-08-27)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

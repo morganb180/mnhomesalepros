@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/twin-cities-radon-testing-m250/
 
 * Radon measurement
 * Brooklyn Center, MN (Hennepin County)
-* Phone: (612) 554-4248
-* Website: https://www.twincitiesradontesting.com
 * Address: 2719 64th Ave N, Brooklyn Center, MN 55430
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

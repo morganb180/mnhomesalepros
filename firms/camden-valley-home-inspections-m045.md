@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/camden-valley-home-inspections-m045/
 
 * Radon measurement
 * Lynd, MN (Lyon County)
-* Phone: (507) 828-0181
 * Address: 1860 222nd St, Lynd, MN 56157
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/healthy-homes-m092/
 
 * Radon measurement, Radon mitigation
 * Maplewood, MN (Ramsey County)
-* Phone: (952) 220-9409
-* Website: https://healthyhomesradon.com
 * Address: 1688 E Shore Dr, Maplewood, MN 55109
 * MDH radon: Multi Family Measurement, Multi Family Mitigation, Schools & Large Buildings Measurement, Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): Statewide

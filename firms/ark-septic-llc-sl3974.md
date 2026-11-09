@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ark-septic-llc-sl3974/
 
 * Septic (SSTS) inspection
 * Zimmerman, MN (Isanti County)
-* Phone: (763) 257-4378
-* Email: arkseptic17@gmail.com
 * Address: PO Box 229, Zimmerman, MN 55398
 * MPCA SSTS licence L3974: Inspector (exp. 2028-08-29)
 * Also licensed: Designer, Installer, Pipelayer

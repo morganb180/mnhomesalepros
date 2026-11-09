@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/inspection-werx-m126/
 
 * Radon measurement
 * Webster, MN (Rice County)
-* Phone: (612) 386-2660
-* Website: https://www.inspectionwerx.com
 * Address: 4380 Chester Ct, Webster, MN 55088
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

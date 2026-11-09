@@ -1,6 +1,6 @@
 ---
 title: "Metro Mitigation, Cottage Grove, MN | MN Home Sale Pros"
-description: "Metro Mitigation in Cottage Grove, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Metro Mitigation in Cottage Grove, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/metro-mitigation-m157/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/metro-mitigation-m157/
 
 * Radon measurement, Radon mitigation
 * Cottage Grove, MN (Washington County)
-* Phone: (651) 371-5161
-* Website: https://metromitigation.com
 * Address: 7985 113th St S, Cottage Grove, MN 55016
 * MDH radon: Multi Family Measurement, Multi Family Mitigation, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 50 miles

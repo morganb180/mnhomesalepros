@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/advanced-health-safety-and-sec-m011/
 
 * Radon measurement, Radon mitigation
 * Balaton, MN (Lyon County)
-* Phone: (605) 430-8842
-* Website: https://yourhealthandsafety.net/
 * Address: 105 3rd St, Balaton, MN 56115
 * MDH radon: Multi Family Measurement, Multi Family Mitigation, Schools & Large Buildings Measurement, Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 100 miles

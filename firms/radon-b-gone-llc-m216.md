@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/radon-b-gone-llc-m216/
 
 * Radon measurement, Radon mitigation
 * Sunburg, MN (Kandiyohi County)
-* Phone: (320) 469-1712
-* Website: https://radon-b-gone.com
 * Address: 6811 225th Ave NW, Sunburg, MN 56289
 * Google rating: 5.0 from 8 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement, Single Family Mitigation

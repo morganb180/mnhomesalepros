@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/acer-home-inspections-m007/
 
 * Radon measurement
 * Stillwater, MN (Washington County)
-* Phone: (651) 592-8810
-* Website: https://www.acerinspections.com
 * Address: 14042 Olinda Blvd North, Stillwater, MN 55082
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 25 miles, 50 miles

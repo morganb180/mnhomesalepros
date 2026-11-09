@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/professional-house-doctors-of-mn-llc
 
 * Radon measurement, Radon mitigation
 * Deerwood, MN (Crow Wing County)
-* Phone: (218) 429-1421
-* Website: https://www.theradondoctors.com
 * Address: 22680 Agate Shores Rd, Deerwood, MN 56444
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement, Single Family Mitigation

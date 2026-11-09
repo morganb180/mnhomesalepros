@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/eurofins-environment-testing-radon-l
 
 * Radon analysis laboratory
 * Carrollton, TX (Dallas County)
-* Phone: (972) 236-7130
 * Address: 2501 Mayes Rd, Suite 100, Carrollton, TX 75006
 * MDH radon: Analysis laboratory
 * Service area (per MDH): Statewide (mail-in)

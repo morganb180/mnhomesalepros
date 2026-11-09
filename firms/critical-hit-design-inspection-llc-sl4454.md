@@ -1,6 +1,6 @@
 ---
 title: "Critical Hit Design & Inspection LLC, Cloquet MN"
-description: "Critical Hit Design & Inspection in Cloquet, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Critical Hit Design & Inspection in Cloquet, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/critical-hit-design-inspection-llc-sl4454/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/critical-hit-design-inspection-llc-s
 
 * Septic (SSTS) inspection
 * Cloquet, MN (Carlton County)
-* Phone: (218) 260-9477
-* Email: criticalhitssts@gmail.com
 * Address: 2745 Hwy 210, Cloquet, MN 55720
 * MPCA SSTS licence L4454: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-06-18)
 * Also licensed: Designer, Service provider

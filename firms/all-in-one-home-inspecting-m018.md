@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/all-in-one-home-inspecting-m018/
 
 * Radon measurement
 * Cottage Grove, MN (Washington County)
-* Phone: (651) 452-4663
-* Website: https://allinonehomeinspecting.com
 * Address: 7985 113th St S, Cottage Grove, MN 55016
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

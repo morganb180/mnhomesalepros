@@ -1,6 +1,6 @@
 ---
 title: "Jeff's Septic Solutions: Septic Inspector, Clara City MN"
-description: "Jeff's Septic Solutions in Clara City, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Jeff's Septic Solutions in Clara City, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/jeff-s-septic-solutions-llc-sl4005/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/jeff-s-septic-solutions-llc-sl4005/
 
 * Septic (SSTS) inspection
 * Clara City, MN (Chippewa County)
-* Phone: (320) 220-0428
-* Email: jeffs.septicsolutions@gmail.com
 * Address: PO Box 484, Clara City, MN 56222
 * MPCA SSTS licence L4005: Inspector (exp. 2027-05-21)
 * Also licensed: Designer, Installer, Service provider, Pipelayer

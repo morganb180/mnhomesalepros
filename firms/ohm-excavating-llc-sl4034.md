@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ohm-excavating-llc-sl4034/
 
 * Septic (SSTS) inspection
 * Audubon, MN (Becker County)
-* Phone: (218) 439-6428
-* Email: chris@ohmexcavating.com
 * Address: PO Box 273, Audubon, MN 56511
 * Google rating: 3.2 from 5 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L4034: Inspector (exp. 2026-10-24)

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/home-doctors-llc-m100/
 
 * Radon measurement
 * Rochester, MN (Olmsted County)
-* Phone: (507) 421-7315
-* Website: https://www.homedoctorsmn.com
 * Address: 4416 Walnut St SE, Rochester, MN 55904
 * Google rating: 5.0 from 136 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

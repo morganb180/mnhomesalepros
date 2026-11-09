@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/deweys-septic-service-llc-sl2884/
 
 * Septic (SSTS) inspection
 * Lake Park, MN (Becker County)
-* Phone: (218) 532-2516
-* Email: tdsmith168@yahoo.com
 * Address: 13384 County Hwy 4, Lake Park, MN 56554
 * Google rating: 4.9 from 14 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2884: Inspector (exp. 2027-06-30)

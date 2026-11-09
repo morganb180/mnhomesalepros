@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/steve-waytashek-sl241/
 
 * Septic (SSTS) inspection
 * Pierz, MN (Morrison County)
-* Phone: (320) 468-2446
 * Address: 29817 213th St, Pierz, MN 56364
 * Google rating: 4.0 from 1 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L241: Inspector (exp. 2027-03-13)

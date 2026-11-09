@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/hjerpe-contracting-inc-sl335/
 
 * Septic (SSTS) inspection
 * Hutchinson, MN (Meeker County)
-* Phone: (320) 234-8305
-* Email: bobs@hjerpecontracting.com
 * Address: PO Box 517, Hutchinson, MN 55350
 * Google rating: 3.9 from 7 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L335: Inspector (exp. 2027-02-11)

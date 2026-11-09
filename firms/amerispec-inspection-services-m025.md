@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/amerispec-inspection-services-m025/
 
 * Radon measurement
 * Maple Grove, MN (Hennepin County)
-* Phone: (763) 420-5535
-* Website: https://www.amerispec.net/laleman
 * Address: 13570 Grove Dr #152, Maple Grove, MN 55311
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles, Statewide

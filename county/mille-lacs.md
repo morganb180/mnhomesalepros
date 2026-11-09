@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Absolute Septic Inc.
 
 12245 120th St, Milaca, MN 56353  
-☎ [(320) 983-5280](tel:3209835280)  
 ✉ absoluteseptic@yahoo.com
 
 Certified staff: Cole R Earl, Dennis P Earl, Erika E Earl, Jacob D Earl  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Johnson Septic Systems & Excavating, Inc.
 
 8291 140th St, Milaca, MN 56353  
-☎ [(320) 983-6622](tel:3209836622)  
 ✉ johnson.septicservice@gmail.com
 
 Certified staff: Jeremiah R Johnson  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Knapp and Sons Septic LLC
 
 13574 110th St, Milaca, MN 56353  
-☎ [(763) 241-8020](tel:7632418020)  
 ✉ joe@knappandsonsseptic.com
 
 Certified staff: Johnathan J Knapp, Joseph E Knapp  
@@ -62,7 +59,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Logan's Excavating Inc.
 
 16349 130th Ave, Milaca, MN 56353  
-☎ [(320) 469-6128](tel:3204696128)  
 ✉ logan@logansexcavating.com
 
 Certified staff: Dillon L Hayes, Logan M Hayes  
@@ -75,7 +71,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Mama T's Septic Service, LLC
 
 17188 60th Ave, Milaca, MN 56353  
-☎ [(320) 630-7229](tel:3206307229)  
 ✉ tbeckstrom13@gmail.com
 
 Certified staff: Traci L Beckstrom  
@@ -87,7 +82,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Septic Check
 
 6074 Keystone Rd, Milaca, MN 56353  
-☎ [(320) 983-2447](tel:3209832447)  
 ✉ brian@septiccheck.com
 
 Certified staff: Alex C Waldowski, Brandon J Ligneel, Brian R Koski, David J Blesener, Joshua J Holm, Kyle L Wade  
@@ -100,7 +94,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### R & R Septic
 
 11603 290th St, Onamia, MN 56359  
-☎ [(320) 532-4968](tel:3205324968)  
 ✉ rstraka@hotmail.com
 
 Certified staff: Robin A Straka, Ronald C Straka  
@@ -113,7 +106,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Rosevold Inspection Services
 
 307 7th Ave S, Princeton, MN 55371  
-☎ [(612) 859-2695](tel:6128592695)  
 ✉ srosevold@hotmail.com
 
 Certified staff: Scot O Rosevold  
@@ -129,7 +121,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Mille Lacs County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=mille-lacs)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=mille-lacs)
 
 ## Frequently asked questions
 
@@ -151,7 +143,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Mille Lacs County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Mille Lacs County, MN?
 

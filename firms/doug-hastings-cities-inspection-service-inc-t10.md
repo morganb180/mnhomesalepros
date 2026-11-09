@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/doug-hastings-cities-inspection-serv
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (952) 892-0490
-* Email: julie@citiesinspection.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ellingson-drainage-inc-sl77/
 
 * Septic (SSTS) inspection
 * West Concord, MN (Dodge County)
-* Phone: (507) 527-2294
-* Email: jellingson@ellingsoncompanies.com
 * Address: PO Box 68, West Concord, MN 55985
 * Google rating: 4.6 from 14 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L77: Inspector (exp. 2027-07-14)

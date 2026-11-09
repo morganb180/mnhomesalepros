@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/legend-technical-services-inc-m148/
 
 * Radon measurement
 * St. Paul, MN (Ramsey County)
-* Phone: (651) 221-4069
 * Address: 88 Empire Dr, St. Paul, MN 55103
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): Statewide

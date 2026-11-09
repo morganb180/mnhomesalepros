@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/accustar-labs-ma-m005/
 
 * Radon analysis laboratory
 * Ward Hill, MA (Essex County)
-* Phone: (888) 480-8812
 * Address: 2 Saber Way, Ward Hill, MA 01835
 * Google rating: 2.1 from 34 reviews (as of Oct 18, 2026)
 * MDH radon: Analysis laboratory

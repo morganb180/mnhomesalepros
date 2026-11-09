@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/correct-septic-llc-sl4422/
 
 * Septic (SSTS) inspection
 * Aitkin, MN (Aitkin County)
-* Phone: (218) 259-5447
-* Email: brock.anderson@aitkincountymn.gov
 * Address: 39336 355th St, Aitkin, MN 56431
 * MPCA SSTS licence L4422: Inspector (exp. 2027-02-26)
 * Also licensed: Designer

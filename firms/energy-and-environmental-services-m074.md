@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/energy-and-environmental-services-m0
 
 * Radon mitigation
 * Farmington, MN (Dakota County)
-* Phone: (612) 227-7688
-* Website: https://www.eesradon.com/
 * Address: 5081 183rd St W, Farmington, MN 55024
 * Google rating: 5.0 from 5 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Mitigation, Single Family Measurement, Single Family Mitigation

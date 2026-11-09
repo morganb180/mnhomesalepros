@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/olmsted-county-m173/
 
 * Radon analysis laboratory
 * Rochester, MN (Olmsted County)
-* Phone: (507) 328-7495
 * Address: 2100 Campus Dr SE, Suite 100, Rochester, MN 55904
 * MDH radon: Analysis laboratory
 * Service area (per MDH): Statewide (mail-in)

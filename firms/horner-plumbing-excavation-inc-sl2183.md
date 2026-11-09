@@ -1,6 +1,6 @@
 ---
 title: "Horner Plumbing & Excavation: Septic Inspector, Warroad MN"
-description: "Horner Plumbing & Excavation in Warroad, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Horner Plumbing & Excavation in Warroad, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/horner-plumbing-excavation-inc-sl2183/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/horner-plumbing-excavation-inc-sl218
 
 * Septic (SSTS) inspection
 * Warroad, MN (Roseau County)
-* Phone: (218) 386-2850
-* Email: hplumbing@wiktel.com
 * Address: 57699 330th St, Warroad, MN 56763
 * MPCA SSTS licence L2183: Inspector (exp. 2027-05-24)
 * Also licensed: Designer, Installer, Pipelayer

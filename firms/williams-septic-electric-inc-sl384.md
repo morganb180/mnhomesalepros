@@ -1,6 +1,6 @@
 ---
 title: "Williams Septic & Electric: Septic Inspector, Squaw Lake MN"
-description: "Williams Septic & Electric in Squaw Lake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Williams Septic & Electric in Squaw Lake, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/williams-septic-electric-inc-sl384/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/williams-septic-electric-inc-sl384/
 
 * Septic (SSTS) inspection
 * Squaw Lake, MN (Itasca County)
-* Phone: (218) 659-4216
-* Email: sepelec@gmail.com
 * Address: PO Box 633, Squaw Lake, MN 56681
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L384: Inspector (exp. 2027-04-06)

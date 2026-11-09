@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Northwoods Excavating Services Inc.
 
 41086 Scenic Hwy, Bovey, MN 55709  
-☎ [(218) 245-3659](tel:2182453659)
 
 Certified staff: Athena Y Olson, Josh T Olson, Rebecca A Olson  
 Also licensed: Installer, Maintainer, Pipelayer  
@@ -35,7 +34,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### William J Schwartz & Son Incorporated
 
 34882 Scenic Hwy, Bovey, MN 55709  
-☎ [(218) 245-2165](tel:2182452165)  
 ✉ tim@schwartzrmex.com
 
 Certified staff: David D Schwartz, David W Anderson IV, Gabriel D Sweeney, Jared J Ridgeway, Ryan K Sunne  
@@ -48,7 +46,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Little Bear Construction and Repair
 
 20183 County Rd 52, Cook, MN 55723  
-☎ [(218) 777-1111](tel:2187771111)  
 ✉ ltbrconst@gmail.com
 
 Certified staff: Richard A Reinhart  
@@ -61,7 +58,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Dig-It Inc.
 
 14420 County Rd 577, Goodland, MN 55742  
-☎ [(218) 969-4778](tel:2189694778)  
 ✉ jim@jamesfclark.com
 
 Certified staff: William J Wivoda  
@@ -74,7 +70,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Larry Holmquist
 
 20723 Happy Hollow Rd, Grand Rapids, MN 55744  
-☎ [(218) 326-5293](tel:2183265293)
 
 Certified staff: Larry A Holmquist  
 Also licensed: Designer, Installer, Pipelayer  
@@ -86,7 +81,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Ohm Septic LLC
 
 PO Box 26, Grand Rapids, MN 55744  
-☎ [(218) 439-6428](tel:2184396428)  
 ✉ chris@ohmexcavating.com
 
 Certified staff: Chris M Ohm  
@@ -99,7 +93,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Precision Design & Inspection LLC
 
 20349 Crystal Springs Loop, Grand Rapids, MN 55744  
-☎ [(218) 256-0139](tel:2182560139)  
 ✉ walker@mnprecision.com
 
 Certified staff: Walker E Maasch  
@@ -112,7 +105,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Ron Ex Excavating
 
 32731 Woodland Pk. Rd, Grand Rapids, MN 55744  
-☎ [(218) 327-9273](tel:2183279273)  
 ✉ ronald.myers@mchsi.com
 
 Certified staff: Ronald R Myers  
@@ -125,7 +117,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### RK Construction Services, Inc.
 
 PO Box 36, Marcell, MN 56657  
-☎ [(218) 832-2842](tel:2188322842)  
 ✉ steve.rkconstruction@gmail.com
 
 Certified staff: Lloyd D Kongsjord, Steven R Kongsjord  
@@ -138,7 +129,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### W Roberts Excavating, LLC
 
 27390 State Hwy 65, Pengilly, MN 55775  
-☎ [(218) 885-3434](tel:2188853434)  
 ✉ wrobertsexcavating@gmail.com
 
 Certified staff: Wayne F Roberts  
@@ -151,7 +141,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Williams Septic & Electric Inc
 
 PO Box 633, Squaw Lake, MN 56681  
-☎ [(218) 659-4216](tel:2186594216)  
 ✉ sepelec@gmail.com
 
 Certified staff: Brian B Williams  
@@ -168,7 +157,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Gillys Radon, water and home services
 
 29897 LaPlant Rd, Grand Rapids, MN 55744  
-☎ [(218) 360-9515](tel:2183609515)
 
 1 MDH-licensed professional
 
@@ -181,7 +169,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Itasca County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=itasca)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=itasca)
 
 ## Frequently asked questions
 
@@ -203,7 +191,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Itasca County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Itasca County, MN?
 

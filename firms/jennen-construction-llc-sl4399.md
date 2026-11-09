@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/jennen-construction-llc-sl4399/
 
 * Septic (SSTS) inspection
 * Hawley, MN (Clay County)
-* Phone: (701) 371-9366
-* Email: jennenconstructionllc@gmail.com
 * Address: 9313 300th St S, Hawley, MN 56549
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L4399: Inspector (exp. 2027-07-25)

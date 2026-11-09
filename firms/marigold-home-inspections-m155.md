@@ -1,6 +1,6 @@
 ---
 title: "Marigold Home Inspections, Coon Rapids MN"
-description: "Marigold Home Inspections in Coon Rapids, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Marigold Home Inspections in Coon Rapids, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/marigold-home-inspections-m155/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/marigold-home-inspections-m155/
 
 * Radon measurement, Radon mitigation
 * Coon Rapids, MN (Anoka County)
-* Phone: (763) 567-2181
-* Website: https://www.marigoldhomeinspections.com
 * Address: 9405 Holly St NW # D, Coon Rapids, MN 55433
 * Google rating: 4.9 from 3832 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Measurement, Single Family Measurement, Single Family Mitigation

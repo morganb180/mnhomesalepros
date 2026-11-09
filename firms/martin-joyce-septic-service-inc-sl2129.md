@@ -1,6 +1,6 @@
 ---
 title: "Martin Joyce Septic Service: Septic Inspector, Merrifield MN"
-description: "Martin Joyce Septic Service in Merrifield, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Martin Joyce Septic Service in Merrifield, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/martin-joyce-septic-service-inc-sl2129/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/martin-joyce-septic-service-inc-sl21
 
 * Septic (SSTS) inspection
 * Merrifield, MN (Crow Wing County)
-* Phone: (218) 820-2621
-* Email: joycem@brainerd.net
 * Address: 27604 County Rd 3, Merrifield, MN 56465
 * MPCA SSTS licence L2129: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-03-03)
 * Also licensed: Designer, Service provider, Pipelayer

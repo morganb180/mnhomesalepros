@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Lakewood Septic Services, LLC
 
 28555 Myrtle Beach Rd, Ashby, MN 56309  
-☎ [(320) 760-3200](tel:3207603200)  
 ✉ tpropst6@gmail.com
 
 Certified staff: Timothy C Propst  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Scott's Septic Services LLC
 
 201 Meadow Cir, Ashby, MN 56309  
-☎ [(218) 747-2099](tel:2187472099)  
 ✉ scottsseptic@outlook.com
 
 Certified staff: Scott M Ellingson  
@@ -53,7 +51,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Mark Zlotnick Construction
 
 13168 320th St, Ashby, MN 56309  
-☎ [(218) 770-0703](tel:2187700703)
 
 1 MDH-licensed professional
 
@@ -66,7 +63,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Grant County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=grant)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=grant)
 
 ## Frequently asked questions
 
@@ -88,7 +85,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Grant County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Grant County, MN?
 

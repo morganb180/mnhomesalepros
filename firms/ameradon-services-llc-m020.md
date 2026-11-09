@@ -1,6 +1,6 @@
 ---
 title: "Ameradon Services LLC, Mankato, MN | MN Home Sale Pros"
-description: "Ameradon Services in Mankato, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Ameradon Services in Mankato, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/ameradon-services-llc-m020/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ameradon-services-llc-m020/
 
 * Radon measurement, Radon mitigation
 * Mankato, MN (Blue Earth County)
-* Phone: (507) 318-8094
-* Website: https://www.ameradon.com
 * Address: PO Box 1031, Mankato, MN 56002
 * MDH radon: Multi Family Measurement, Multi Family Mitigation, Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 100 miles

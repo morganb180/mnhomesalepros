@@ -1,6 +1,6 @@
 ---
 title: "Jake Wieser Construction, Inc.: Septic Inspector, Houston MN"
-description: "Jake Wieser Construction in Houston, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Jake Wieser Construction in Houston, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/jake-wieser-construction-inc-sl2929/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/jake-wieser-construction-inc-sl2929/
 
 * Septic (SSTS) inspection
 * Houston, MN (Houston County)
-* Phone: (507) 896-5253
-* Email: holly@wieserseptic.com
 * Address: 7750 T. T. Rd, Houston, MN 55943
 * MPCA SSTS licence L2929: Inspector (exp. 2029-02-28)
 * Also licensed: Designer, Installer, Pipelayer

@@ -1,6 +1,6 @@
 ---
 title: "ATB Professional Services: Septic Inspector, Northfield MN"
-description: "ATB Professional Services in Northfield, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "ATB Professional Services in Northfield, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/atb-professional-services-llc-sl4429/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/atb-professional-services-llc-sl4429
 
 * Septic (SSTS) inspection
 * Northfield, MN (Dakota County)
-* Phone: (507) 210-4795
-* Email: tom.wirtzfeld@icloud.com
 * Address: 7505 320th St W, Northfield, MN 55057
 * MPCA SSTS licence L4429: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-03-25)
 * Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer

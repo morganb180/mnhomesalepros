@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/top-notch-septic-llc-sl4465/
 
 * Septic (SSTS) inspection
 * Backus, MN (Cass County)
-* Phone: (218) 851-3577
-* Email: nickswenson35@gmail.com
 * Address: 303 King St N, Backus, MN 56435
 * MPCA SSTS licence L4465: Inspector (exp. 2027-08-19)
 * Also licensed: Designer, Installer, Pipelayer

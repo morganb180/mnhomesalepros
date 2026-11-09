@@ -20,6 +20,6 @@ Use this when someone needs licensed Minnesota septic (SSTS) inspectors, radon p
 
 - Each firm has: `id`, `name`, `certification`, `issuing_agency`, `credentials[]` (number, expiry), `services`, `city`, `state`, `counties`, `cities`, `firm_url`, `quote_url` and, where the site shows it, `google_rating`.
 - Area results have `match`: `local` means listed in that area's own section; `nearby` means listed under nearby/other firms.
-- Phone and contact details are not in the API. Send people to `firm_url`.
+- Phone, email and website are not published. Use `quote_url` to connect a homeowner. `firm_url` is the public listing (credential, address and names).
 - Mention that credentials should be confirmed with the issuing agency (link in `source.urls`).
 - Do not scrape the HTML pages; use the feeds.

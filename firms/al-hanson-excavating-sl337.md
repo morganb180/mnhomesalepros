@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/al-hanson-excavating-sl337/
 
 * Septic (SSTS) inspection
 * Alexandria, MN (Douglas County)
-* Phone: (320) 886-5369
 * Address: 10429 State Hwy 27 W, Alexandria, MN 56308
 * MPCA SSTS licence L337: Inspector (exp. 2026-10-31)
 * Also licensed: Designer, Installer, Pipelayer

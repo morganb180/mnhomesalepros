@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Onsite Solutions Inc.
 
 2305 E 115th St, Burnsville, MN 55337  
-☎ [(952) 300-0194](tel:9523000194)  
 ✉ jason@onsitesolutionsmn.com
 
 Certified staff: Jason B Clarkin  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Mulvihill Excavating Inc
 
 6830 296th St E, Cannon Falls, MN 55009  
-☎ [(612) 598-2455](tel:6125982455)  
 ✉ glenn@mulvihillexcavating.com
 
 Certified staff: Glenn M Mulvihill  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### B's Pumping Service
 
 24483 Chippendale Ave W, Farmington, MN 55024  
-☎ [(651) 460-8015](tel:6514608015)  
 ✉ mark@bspumping.com
 
 Certified staff: Mark D Smith, Ronald A Smith  
@@ -62,7 +59,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Beaver Creek Companies Inc.
 
 7226 235th St W, Farmington, MN 55024  
-☎ [(612) 819-1334](tel:6128191334)  
 ✉ markceminsky@beavercreekco.com
 
 Certified staff: Mark A Ceminsky  
@@ -74,7 +70,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Sauber Plumbing & Heating Co
 
 100 Third St, Farmington, MN 55024  
-☎ [(651) 463-7434](tel:6514637434)  
 ✉ jerry@sauber.us
 
 Certified staff: Jerome E Sauber  
@@ -87,7 +82,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Kleist Construction Management LLC
 
 10215 230th St E, Hastings, MN 55033  
-☎ [(952) 484-0587](tel:9524840587)  
 ✉ kleistcmllc@gmail.com
 
 Certified staff: Stephen D Kleist  
@@ -99,7 +93,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### ATB Professional Services, LLC
 
 7505 320th St W, Northfield, MN 55057  
-☎ [(507) 210-4795](tel:5072104795)  
 ✉ tom.wirtzfeld@icloud.com
 
 Certified staff: Thomas F Wirtzfeld  
@@ -112,7 +105,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Minnesota Septic Inspection
 
 29137 Northfield Blvd, Randolph, MN 55065  
-☎ [(507) 581-2224](tel:5075812224)  
 ✉ volkertsheldon@gmail.com
 
 Certified staff: Sheldon S Volkert  
@@ -124,7 +116,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Benson Septic Service
 
 18070 218th St E, Welch, MN 55089  
-☎ [(651) 325-6555](tel:6513256555)  
 ✉ rogerwbenson@embarqmail.com
 
 Certified staff: Roger W Benson  
@@ -141,8 +132,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Homtech Inc
 
 6921 137th Ct W, Apple Valley, MN 55124  
-☎ [(612) 408-4000](tel:6124084000)  
-🌐 [inspectwithkarl.com](https://www.inspectwithkarl.com)
 
 1 MDH-licensed professional
 
@@ -156,7 +145,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Trusted Home Inspection LLC
 
 15221 Florist Cir, Apple Valley, MN 55124  
-☎ [(612) 224-6659](tel:6122246659)
 
 1 MDH-licensed professional
 
@@ -170,8 +158,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### West Egg Inspections and Home Services LLC
 
 5583 133rd St Ct, Apple Valley, MN 55124  
-☎ [(763) 406-9177](tel:7634069177)  
-🌐 [westegginspectionsllc.com](https://westegginspectionsllc.com)
 
 1 MDH-licensed professional
 
@@ -185,8 +171,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### MSP Inspections LLC
 
 4204 Sumac Pt, Eagan, MN 55122  
-☎ [(612) 816-2363](tel:6128162363)  
-🌐 [mspinspections.com](http://mspinspections.com/)
 
 1 MDH-licensed professional
 
@@ -200,8 +184,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Energy and Environmental Services
 
 5081 183rd St W, Farmington, MN 55024  
-☎ [(612) 227-7688](tel:6122277688)  
-🌐 [eesradon.com](https://www.eesradon.com/)
 
 1 MDH-licensed professional
 
@@ -215,7 +197,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Jeff's Consulting Services LLC
 
 1756 Northridge Dr, Hastings, MN 55033  
-☎ [(651) 491-0356](tel:6514910356)
 
 1 MDH-licensed professional
 
@@ -229,7 +210,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Adam Kawlewski
 
 9689 Cedarwood Ct, Inver Grove Heights, MN 55076  
-☎ [(320) 761-6686](tel:3207616686)
 
 1 MDH-licensed professional
 
@@ -243,7 +223,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### HomeSight Inspection Inc
 
 5838 Blackshire Path, Inver Grove Heights, MN 55076  
-☎ [(952) 201-2181](tel:9522012181)
 
 1 MDH-licensed professional
 
@@ -257,8 +236,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Radon Armor LLC
 
 4035 78th St E, Inver Grove Heights, MN 55076  
-☎ [(651) 505-3555](tel:6515053555)  
-🌐 [radonarmor.com](https://www.radonarmor.com)
 
 1 MDH-licensed professional
 
@@ -272,8 +249,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### X2 Home Solutions
 
 12746 Diamond Path, Saint Paul, MN 55124  
-☎ [(612) 268-0517](tel:6122680517)  
-🌐 [x2homesolutions.com](https://x2homesolutions.com)
 
 2 MDH-licensed professionals
 
@@ -288,8 +263,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### TJ Radon
 
 600 13th Ave N, South St Paul, MN 55075  
-☎ [(651) 900-4227](tel:6519004227)  
-🌐 [tjradon.com](https://tjradon.com)
 
 1 MDH-licensed professional
 
@@ -303,8 +276,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### TJRadon
 
 600 13th Ave N, South St. Paul, MN 55075  
-☎ [(651) 900-4227](tel:6519004227)  
-🌐 [tjradon.com](https://www.tjradon.com)
 
 1 MDH-licensed professional
 
@@ -318,7 +289,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### BPG Inspections
 
 1231 Timbershore Ln, St. Paul, MN 55123  
-☎ [(612) 965-0537](tel:6129650537)
 
 1 MDH-licensed professional
 
@@ -331,7 +301,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Dakota County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=dakota)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=dakota)
 
 ## Frequently asked questions
 
@@ -353,7 +323,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Dakota County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Dakota County, MN?
 

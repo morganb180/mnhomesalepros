@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/northwoods-home-inspection-group-llc
 
 * Radon measurement
 * Kenyon, MN (Goodhue County)
-* Phone: (651) 212-1035
-* Website: https://northwoodsinspections.com
 * Address: 50710 20th Ave, Kenyon, MN 55946
 * MDH radon: Single Family Measurement
 * Service area (per MDH): Statewide

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/admiral-radon-mechanical-services-m0
 
 * Radon measurement, Radon mitigation
 * Savage, MN (Scott County)
-* Phone: (952) 226-5577
-* Website: https://www.admiral-rms.com/
 * Address: 13816 Utah Ave, Savage, MN 55378
 * Google rating: 5.0 from 15 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement, Single Family Mitigation

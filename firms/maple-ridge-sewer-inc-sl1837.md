@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/maple-ridge-sewer-inc-sl1837/
 
 * Septic (SSTS) inspection
 * Cambridge, MN (Isanti County)
-* Phone: (763) 689-6803
-* Email: mapleridgesewer@gmail.com
 * Address: PO Box 72, Cambridge, MN 55008
 * MPCA SSTS licence L1837: Inspector (exp. 2027-05-10)
 * Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer

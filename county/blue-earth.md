@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### J R Bruender Construction Inc
 
 60318 206th St, Eagle Lake, MN 56024  
-☎ [(507) 257-3238](tel:5072573238)  
 ✉ steve@jrbruender.com
 
 Certified staff: Steven J Bruender  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Corey Seppmann Well Drilling Co
 
 53910 207th Military Rd, Mankato, MN 56001  
-☎ [(507) 625-2790](tel:5076252790)  
 ✉ cswd@hickorytech.net
 
 Certified staff: Corey J Seppmann  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Jadd Seppmann & Sons Inc
 
 54043 State Hwy 68, Mankato, MN 56001  
-☎ [(507) 625-3400](tel:5076253400)  
 ✉ office@seppmannandsons.com
 
 Certified staff: Drew M Seppmann, Todd M Seppmann  
@@ -62,7 +59,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Boening Brothers Construction Service LLP
 
 56677 125th St, Mapleton, MN 56065  
-☎ [(507) 524-3730](tel:5075243730)  
 ✉ boeningbrothers@gmail.com
 
 Certified staff: Kyle B Boening, Steven C Boening  
@@ -75,7 +71,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Bolton & Menk, Inc.
 
 2900 43rd St NW Suite 100, Rochester, MN 55901  
-☎ [(507) 625-4171](tel:5076254171)  
 ✉ brianma@bolton-menk.com
 
 Certified staff: Brian P Malm PE  
@@ -92,8 +87,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Ameradon Services LLC
 
 PO Box 1031, Mankato, MN 56002  
-☎ [(507) 318-8094](tel:5073188094)  
-🌐 [ameradon.com](https://www.ameradon.com)
 
 1 MDH-licensed professional
 
@@ -107,7 +100,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Iea Inc
 
 610 No. Riverfront Dr, Mankato, MN 56001  
-☎ [(507) 345-8818](tel:5073458818)
 
 1 MDH-licensed professional
 
@@ -121,7 +113,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Institute for Environmental Assessment
 
 610 No. Riverfront Dr, Mankato, MN 56001  
-☎ [(507) 345-8818](tel:5073458818)
 
 2 MDH-licensed professionals
 
@@ -136,8 +127,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Radon Solutions
 
 1025 Adams St, Mankato, MN 56001  
-☎ [(507) 351-2413](tel:5073512413)  
-🌐 [radonsolutionsmankato.com](http://radonsolutionsmankato.com/)
 
 1 MDH-licensed professional
 
@@ -150,7 +139,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Blue Earth County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=blue-earth)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=blue-earth)
 
 ## Frequently asked questions
 
@@ -172,7 +161,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Blue Earth County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Blue Earth County, MN?
 

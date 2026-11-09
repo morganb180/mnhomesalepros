@@ -1,6 +1,6 @@
 ---
 title: "Up North Radon LLC, Fergus Falls, MN | MN Home Sale Pros"
-description: "Up North Radon in Fergus Falls, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Up North Radon in Fergus Falls, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/up-north-radon-llc-m251/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/up-north-radon-llc-m251/
 
 * Radon measurement, Radon mitigation
 * Fergus Falls, MN (Otter Tail County)
-* Phone: (218) 671-5046
 * Address: 16933 River Oaks Blvd, Fergus Falls, MN 56537
 * Google rating: 5.0 from 17 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Measurement, Multi Family Mitigation, Schools & Large Buildings Measurement, Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation

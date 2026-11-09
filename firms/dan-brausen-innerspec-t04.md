@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/dan-brausen-innerspec-t04/
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (651) 483-8407
-* Email: danbrowsin@msn.com
 * Address: Saint Paul, MN
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * Saint Paul-approved Truth-in-Sale of Housing evaluator

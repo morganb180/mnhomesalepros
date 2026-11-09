@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/inspection-solutions-llc-m125/
 
 * Radon measurement
 * St. Bonifacius, MN (Hennepin County)
-* Phone: (952) 249-1251
-* Website: https://www.inspectionsolutionsmn.com
 * Address: 3880 Wehle Pl, St. Bonifacius, MN 55375
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

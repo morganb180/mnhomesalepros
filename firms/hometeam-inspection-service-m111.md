@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/hometeam-inspection-service-m111/
 
 * Radon measurement
 * Andover, MN (Anoka County)
-* Phone: (612) 701-6744
-* Website: https://hometeam-minneapolisnw.com
 * Address: 13482 Martin St NW, Andover, MN 55304
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

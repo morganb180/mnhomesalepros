@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Pat McCabe
 
 42998 261st Ave, Cleveland, MN 56017  
-☎ [(507) 931-5981](tel:5079315981)
 
 Certified staff: Patrick J McCabe  
 Also licensed: Designer, Installer, Pipelayer  
@@ -35,7 +34,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Wagner Septic Services
 
 26871 State Hwy 99, Cleveland, MN 56017  
-☎ [(507) 317-5478](tel:5073175478)  
 ✉ brianwagner3@aol.com
 
 Certified staff: Brian G Wagner  
@@ -48,7 +46,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### James Bros Construction Inc
 
 PO Box 59, Elysian, MN 56028  
-☎ [(507) 267-4789](tel:5072674789)  
 ✉ teri@jamesbrosconstruction.com
 
 Certified staff: Jacob D James, Justin W James, Shawn R Green, Stacey E Feser, Thomas M Thelemann  
@@ -61,7 +58,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### R. T. Excavating & Services, Inc.
 
 20139 Lexington Rd, Le Center, MN 56057  
-☎ [(507) 364-7450](tel:5073647450)  
 ✉ rtexcavating@frontiernet.net
 
 Certified staff: Randy D Trnka  
@@ -74,7 +70,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Selly Excavating Inc
 
 525 W Derrynane St, Le Center, MN 56057  
-☎ [(507) 357-6200](tel:5073576200)  
 ✉ brianwagner3@aol.com
 
 Certified staff: Brian G Wagner  
@@ -87,7 +82,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Burns Construction Inc
 
 25362 320th St, Le Sueur, MN 56058  
-☎ [(507) 665-6022](tel:5076656022)  
 ✉ burnsconstructioninc@gmail.com
 
 Certified staff: Jon J Burns, Peter R Burns, Robert J Burns, Stacey E Feser  
@@ -100,7 +94,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Advanced Septic Solutions, Inc.
 
 36180 183rd Ave, Montgomery, MN 56069  
-☎ [(507) 301-9548](tel:5073019548)  
 ✉ rynd1686@gmail.com
 
 Certified staff: Andrew R Rynda, Benjamin T Rynda  
@@ -113,7 +106,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Dirt Diggers Contracting Inc
 
 20741 320th St, New Prague, MN 56071  
-☎ [(507) 364-8924](tel:5073648924)
 
 Certified staff: Allan J Reak  
 Also licensed: Designer, Installer, Maintainer, Pipelayer  
@@ -129,7 +121,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Quality Home Inspection MN
 
 18150 Cedar Ridge Ln, Waterville, MN 56096  
-☎ [(507) 380-1989](tel:5073801989)
 
 1 MDH-licensed professional
 
@@ -142,7 +133,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Le Sueur County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=le-sueur)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=le-sueur)
 
 ## Frequently asked questions
 
@@ -164,7 +155,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Le Sueur County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Le Sueur County, MN?
 

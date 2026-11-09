@@ -1,6 +1,6 @@
 ---
 title: "Lenspection Building Inspections LLC, Coon Rapids MN"
-description: "Lenspection Building Inspections in Coon Rapids, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
+description: "Lenspection Building Inspections in Coon Rapids, MN: MDH licensed for radon measurement. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/lenspection-building-inspections-llc-m149/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/lenspection-building-inspections-llc
 
 * Radon measurement
 * Coon Rapids, MN (Anoka County)
-* Phone: (763) 568-7473
 * Address: 1016 94th Ave N W, Coon Rapids, MN 55433
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

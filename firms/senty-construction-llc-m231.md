@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/senty-construction-llc-m231/
 
 * Radon measurement
 * Grand Marais, MN (Cook County)
-* Phone: (218) 387-2644
 * Address: PO Box 969 2043 Hy 61 West, Grand Marais, MN 55604
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

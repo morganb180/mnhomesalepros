@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/blackwater-systems-sl2003/
 
 * Septic (SSTS) inspection
 * Shakopee, MN (Scott County)
-* Phone: (952) 250-1649
-* Email: bdmatter@outlook.com
 * Address: 646 Roundhouse St, Shakopee, MN 55379
 * MPCA SSTS licence L2003: Inspector (exp. 2027-04-14)
 * Also licensed: Designer

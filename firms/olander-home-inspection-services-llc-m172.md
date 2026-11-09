@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/olander-home-inspection-services-llc
 
 * Radon measurement
 * Red Wing, MN (Goodhue County)
-* Phone: (651) 301-2224
 * Address: 31109 Ski Rd Trail, Red Wing, MN 55066
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

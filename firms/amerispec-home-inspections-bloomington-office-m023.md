@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/amerispec-home-inspections-bloomingt
 
 * Radon measurement
 * Bloomington, MN (Hennepin County)
-* Phone: (952) 854-5110
-* Website: https://www.amerispechome.com
 * Address: 7850 Metro Pkwy, Suite 122, Bloomington, MN 55425
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

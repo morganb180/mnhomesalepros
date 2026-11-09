@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/4k-construction-llc-m002/
 
 * Radon measurement
 * Balaton, MN (Lyon County)
-* Phone: (507) 828-5640
-* Website: https://www.4kconstructionhomeinspections.com
 * Address: 2374 60th Ave, Balaton, MN 56115
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

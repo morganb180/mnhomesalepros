@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/a1-septic-service-and-excavating-llc
 
 * Septic (SSTS) inspection
 * Detroit Lakes, MN (Becker County)
-* Phone: (218) 935-5981
-* Email: A1SepticServicesLLC@gmail.com
 * Address: 308 Shorewood Cir, Detroit Lakes, MN 56501
 * MPCA SSTS licence L2029: Inspector (exp. 2026-11-07)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

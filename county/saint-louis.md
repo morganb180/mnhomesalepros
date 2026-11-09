@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Larry Marks Trucking
 
 3059 County Rd 904, Babbitt, MN 55706  
-☎ [(218) 827-3418](tel:2188273418)
 
 Certified staff: Dawn M Marks  
 Also licensed: Designer, Installer, Pipelayer  
@@ -35,7 +34,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Orton Construction and Consulting LLC
 
 7182 N Dark Lake Rd, Britt, MN 55710  
-☎ [(218) 258-3963](tel:2182583963)  
 ✉ jk.orton@yahoo.com
 
 Certified staff: James K Orton  
@@ -48,7 +46,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Frank Sever Dirt Works, LLC
 
 5609 Sever Rd, Chisholm, MN 55719  
-☎ [(218) 969-7579](tel:2189697579)  
 ✉ severdirt@outlook.com
 
 Certified staff: Frank K Sever  
@@ -61,7 +58,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Leustek Sand & Gravel Company
 
 5525 Hwy 73 N, Chisholm, MN 55719  
-☎ [(218) 969-5917](tel:2189695917)  
 ✉ cjleus@yahoo.com
 
 Certified staff: Charles A Leustek  
@@ -74,7 +70,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Cloquet Constructors
 
 8432 Surakka Rd, Cloquet, MN 55720  
-☎ [(218) 879-1608](tel:2188791608)  
 ✉ rvukonich3@gmail.com
 
 Certified staff: Matt R Vukonich, Richard E Vukonich  
@@ -87,7 +82,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Bodri Enterprises, Inc.
 
 8675 Hwy 115, Cook, MN 55723  
-☎ [(218) 410-3477](tel:2184103477)  
 ✉ michaelbodri@gmail.com
 
 Certified staff: Michael S Bodri  
@@ -100,7 +94,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### JP Dirt Work LLC
 
 9243 Armstrong Rd, Cook, MN 55723  
-☎ [(218) 410-9183](tel:2184109183)  
 ✉ joepaakk@gmail.com
 
 Certified staff: Joe T Paakkonen  
@@ -113,7 +106,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Viitas Excavating Inc
 
 10520 Buboltz Rd, Cook, MN 55723  
-☎ [(218) 666-2916](tel:2186662916)  
 ✉ viitasexcavating@netscape.net
 
 Certified staff: Richard E Viita  
@@ -126,7 +118,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Digger DJ, Inc.
 
 5776 Rice Lake Rd, Duluth, MN 55803  
-☎ [(218) 390-9555](tel:2183909555)
 
 Certified staff: Darrel D Johnson  
 Also licensed: Designer, Installer, Pipelayer  
@@ -138,7 +129,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Jeff Crosby
 
 1608 Middle Rd, Duluth, MN 55811  
-☎ [(218) 724-7566](tel:2187247566)
 
 Certified staff: Jeffrey L Crosby  
 Also licensed: Designer  
@@ -150,7 +140,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Northern Environmental Solutions LLC
 
 3867 Sandberg Rd, Duluth, MN 55810  
-☎ [(218) 600-8808](tel:2186008808)  
 ✉ aparrott004@gmail.com
 
 Certified staff: Anna L Parrott, Mike W Parrott  
@@ -163,7 +152,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Northern Lakes Septic LLC
 
 5327 Ugstad Junction Rd, Duluth, MN 55810  
-☎ [(651) 380-2618](tel:6513802618)  
 ✉ bradfurlong@hotmail.com
 
 Certified staff: Bradley J Furlong  
@@ -176,7 +164,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Spectrum Research, Inc.
 
 211 Mygatt Ave, Duluth, MN 55803  
-☎ [(218) 525-5322](tel:2185255322)  
 ✉ spectrumsoils@aol.com
 
 Certified staff: James C Balogh PSS  
@@ -189,7 +176,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Swampthing Environmental LLC
 
 4057 Emerson Rd, Duluth, MN 55803  
-☎ [(218) 349-1612](tel:2183491612)  
 ✉ mitch@swampthing.biz
 
 Certified staff: Mitchum A Johnson  
@@ -202,7 +188,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Northern Geoseptic Inc
 
 201 E Boundary St, Ely, MN 55731  
-☎ [(218) 235-3491](tel:2182353491)  
 ✉ mtheiman7@gmail.com
 
 Certified staff: Michael T Heiman  
@@ -215,7 +200,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### A1 Services Inc
 
 2715 Hwy 37, Eveleth, MN 55734  
-☎ [(218) 744-4443](tel:2187444443)  
 ✉ james@a1servicesmn.com
 
 Certified staff: James A Bertucci, James E Bertucci  
@@ -228,7 +212,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Bougalis Construction Inc
 
 800 Greyhound Blvd, Hibbing, MN 55746  
-☎ [(218) 362-8415](tel:2183628415)  
 ✉ nick@bougalisinc.com
 
 Certified staff: Christopher G Bougalis, Nickolas G Bougalis  
@@ -241,7 +224,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Emerging Technical Group Inc
 
 3024 Anderson Rd, Hibbing, MN 55746  
-☎ [(218) 263-8867](tel:2182638867)  
 ✉ etginctim@yahoo.com
 
 Certified staff: Timothy A Warzecha  
@@ -254,7 +236,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### JBN Inc
 
 8842 Hwy 37, Iron, MN 55751  
-☎ [(218) 735-1135](tel:2187351135)  
 ✉ jbninc@gmail.com
 
 Certified staff: Bradley J Nygaard  
@@ -267,7 +248,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### J C Design
 
 8783 Iron Junction Rd, Iron Junction, MN 55751  
-☎ [(218) 404-3964](tel:2184043964)  
 ✉ janetcoon2019@gmail.com
 
 Certified staff: Janet K Coon  
@@ -280,7 +260,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### CJ Septic and Repair LLC
 
 208 6th Ave, Proctor, MN 55810  
-☎ [(507) 351-6915](tel:5073516915)  
 ✉ skibickicindy@yahoo.com
 
 Certified staff: Cindy J Skibicki  
@@ -293,7 +272,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### MATRIX Soils and Systems, Inc.
 
 3990 Fairview Rd, Rice Lake, MN 55803  
-☎ [(218) 390-2869](tel:2183902869)  
 ✉ rwwhitmyer.matrixss@charter.net
 
 Certified staff: Robert W Whitmyer PSS  
@@ -306,7 +284,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### DeCaigny Excavating Inc
 
 PO Box 100, Sawyer, MN 55780  
-☎ [(218) 878-1931](tel:2188781931)  
 ✉ decaigny@msn.com
 
 Certified staff: Madelyn F DeCaigny, Matthew W DeCaigny  
@@ -319,7 +296,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Jeff Schanche
 
 12570 E Rd, Side Lake, MN 55781  
-☎ [(218) 969-7936](tel:2189697936)  
 ✉ jws.vei@gmail.com
 
 Certified staff: Jeffrey W Schanche  
@@ -339,7 +315,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Saint Louis County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=saint-louis)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=saint-louis)
 
 ## Frequently asked questions
 
@@ -361,4 +337,4 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Saint Louis County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.

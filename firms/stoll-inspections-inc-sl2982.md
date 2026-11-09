@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/stoll-inspections-inc-sl2982/
 
 * Septic (SSTS) inspection
 * Dent, MN (Otter Tail County)
-* Phone: (218) 839-1849
-* Email: pstoll93@hotmail.com
 * Address: 33377 Vics Beach Rd, Dent, MN 56528
 * MPCA SSTS licence L2982: Inspector (exp. 2027-06-29)
 * bonded · insured

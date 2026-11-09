@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/steinbrecher-companies-inc-sl2851/
 
 * Septic (SSTS) inspection
 * Zimmerman, MN (Sherburne County)
-* Phone: (763) 274-0925
-* Email: kari@steinbrechercompanies.com
 * Address: 13792 247th Ave NW, Zimmerman, MN 55398
 * Google rating: 4.3 from 30 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2851: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2028-02-19)

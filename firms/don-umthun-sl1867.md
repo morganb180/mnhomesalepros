@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/don-umthun-sl1867/
 
 * Septic (SSTS) inspection
 * Nevis, MN (Hubbard County)
-* Phone: (218) 652-3867
-* Email: donumthun@hotmail.com
 * Address: PO Box 391, Nevis, MN 56467
 * MPCA SSTS licence L1867: Inspector (exp. 2027-05-22)
 * Also licensed: Designer

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/i-90-well-drilling-sl918/
 
 * Septic (SSTS) inspection
 * Blue Earth, MN (Faribault County)
-* Phone: (507) 525-2085
-* Email: doug@garlickswater.com
 * Address: 910 E 2nd St, Blue Earth, MN 56013
 * MPCA SSTS licence L918: Inspector (exp. 2027-09-28)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

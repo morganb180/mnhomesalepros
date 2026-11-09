@@ -1,6 +1,6 @@
 ---
 title: "Radon Reduction Inc, Minnetonka, MN | MN Home Sale Pros"
-description: "Radon Reduction in Minnetonka, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Radon Reduction in Minnetonka, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/radon-reduction-inc-m209/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/radon-reduction-inc-m209/
 
 * Radon measurement, Radon mitigation
 * Minnetonka, MN (Hennepin County)
-* Phone: (952) 994-3483
-* Website: https://radonreductioninc.com
 * Address: 5631 Glen Ave, Minnetonka, MN 55345
 * MDH radon: Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 25 miles

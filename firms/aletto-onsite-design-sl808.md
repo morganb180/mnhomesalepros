@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/aletto-onsite-design-sl808/
 
 * Septic (SSTS) inspection
 * Walker, MN (Cass County)
-* Phone: (218) 839-9919
-* Email: alettoonsite1@hotmail.com
 * Address: 8312 Sautbine Rd NW, Walker, MN 56484
 * MPCA SSTS licence L808: Inspector (exp. 2027-06-14)
 * Also licensed: Designer

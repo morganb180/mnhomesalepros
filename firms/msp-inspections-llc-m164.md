@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/msp-inspections-llc-m164/
 
 * Radon measurement
 * Eagan, MN (Dakota County)
-* Phone: (612) 816-2363
-* Website: http://mspinspections.com/
 * Address: 4204 Sumac Pt, Eagan, MN 55122
 * Google rating: 5.0 from 83 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/great-northern-septic-llc-sl4100/
 
 * Septic (SSTS) inspection
 * Crookston, MN (Polk County)
-* Phone: (218) 289-6524
-* Email: maygra4263@gmail.com
 * Address: 28544 160th Ave SW, Crookston, MN 56716
 * MPCA SSTS licence L4100: Inspector (exp. 2027-05-07)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

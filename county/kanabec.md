@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### E-Z Excavating LLC
 
 1520 Maple Ave E, Mora, MN 55051  
-☎ [(320) 679-4031](tel:3206794031)  
 ✉ aasepticservice@yahoo.com
 
 Certified staff: Kevin Herwig, Todd A Ball  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Soderstrom Septic LLC
 
 1400 Maple Ave E, Mora, MN 55051  
-☎ [(320) 515-1081](tel:3205151081)  
 ✉ soderstromseptic@gmail.com
 
 Certified staff: Angela L Tvedt, Richard J Tvedt  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Elwood Design and Sewer Installation LLC
 
 1339 170th Ave, Ogilvie, MN 56358  
-☎ [(320) 272-0060](tel:3202720060)  
 ✉ vernelwood@gmail.com
 
 Certified staff: Vernon R Elwood  
@@ -66,7 +63,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### NH Home Inspections LLC
 
 415 Fair Ave W, Mora, MN 55051  
-☎ [(763) 333-6634](tel:7633336634)
 
 1 MDH-licensed professional
 
@@ -79,7 +75,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Kanabec County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=kanabec)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=kanabec)
 
 ## Frequently asked questions
 
@@ -101,7 +97,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Kanabec County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Kanabec County, MN?
 

@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/radalink-inc-m200/
 
 * Radon analysis laboratory
 * Atlanta, GA (DeKalb County)
-* Phone: (770) 457-1944
 * Address: 5599 Peachtree Rd, Atlanta, GA 30341
 * Google rating: 4.2 from 5 reviews (as of Oct 18, 2026)
 * MDH radon: Analysis laboratory

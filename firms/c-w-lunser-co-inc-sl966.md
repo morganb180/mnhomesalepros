@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/c-w-lunser-co-inc-sl966/
 
 * Septic (SSTS) inspection
 * Saint Cloud, MN (Stearns County)
-* Phone: (320) 248-2262
-* Email: clunser@hotmail.com
 * Address: 1600 238th St, Saint Cloud, MN 56301
 * Google rating: 3.7 from 3 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L966: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-03-18)

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/don-loken-drainage-inc-sl450/
 
 * Septic (SSTS) inspection
 * Owatonna, MN (Steele County)
-* Phone: (507) 451-2873
-* Email: lokenexcavation74@gmail.com
 * Address: 3695 Hoffman Dr NW, Owatonna, MN 55060
 * Google rating: 4.9 from 9 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L450: Inspector (exp. 2029-03-16)

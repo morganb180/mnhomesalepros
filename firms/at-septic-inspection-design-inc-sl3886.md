@@ -1,6 +1,6 @@
 ---
 title: "AT Septic Inspection & Design Inc, Rush City MN"
-description: "AT Septic Inspection & Design in Rush City, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "AT Septic Inspection & Design in Rush City, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/at-septic-inspection-design-inc-sl3886/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/at-septic-inspection-design-inc-sl38
 
 * Septic (SSTS) inspection
 * Rush City, MN (Chisago County)
-* Phone: (320) 980-0235
-* Email: atsepticinspections@gmail.com
 * Address: 49861 Government Rd, Rush City, MN 55069
 * MPCA SSTS licence L3886: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-08-12)
 * Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer

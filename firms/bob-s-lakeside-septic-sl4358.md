@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bob-s-lakeside-septic-sl4358/
 
 * Septic (SSTS) inspection
 * Battle Lake, MN (Otter Tail County)
-* Phone: (218) 864-3004
-* Email: lakesideseptic@arvig.net
 * Address: 26720 State Hwy 78, Battle Lake, MN 56515
 * MPCA SSTS licence L4358: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-02-01)
 * Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer

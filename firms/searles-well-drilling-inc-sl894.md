@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/searles-well-drilling-inc-sl894/
 
 * Septic (SSTS) inspection
 * New Ulm, MN (Brown County)
-* Phone: (507) 354-8633
-* Email: seth@newulmtel.net
 * Address: 13035 County Rd 25, New Ulm, MN 56073
 * Google rating: 5.0 from 11 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L894: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2029-04-05)

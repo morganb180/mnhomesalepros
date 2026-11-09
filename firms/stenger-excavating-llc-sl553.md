@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/stenger-excavating-llc-sl553/
 
 * Septic (SSTS) inspection
 * Detroit Lakes, MN (Becker County)
-* Phone: (218) 847-2912
-* Email: steng_sue@hotmail.com
 * Address: 35295 State Hwy 34, Detroit Lakes, MN 56501
 * MPCA SSTS licence L553: Inspector (exp. 2027-03-15)
 * Also licensed: Designer, Installer, Pipelayer

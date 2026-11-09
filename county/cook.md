@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Jed Smith Excavating and Septic LLC
 
 1502 Gunflint Trl, Grand Marais, MN 55604  
-☎ [(218) 387-2933](tel:2183872933)  
 ✉ jed@jedsmithexcavating.com
 
 Certified staff: Jason R Donek, Jedidiah M Smith  
@@ -40,7 +39,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Senty Construction LLC
 
 PO Box 969 2043 Hy 61 West, Grand Marais, MN 55604  
-☎ [(218) 387-2644](tel:2183872644)
 
 1 MDH-licensed professional
 
@@ -53,7 +51,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Cook County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=cook)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=cook)
 
 ## Frequently asked questions
 
@@ -75,7 +73,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Cook County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Cook County, MN?
 

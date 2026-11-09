@@ -1,6 +1,6 @@
 ---
 title: "Leustek Sand & Gravel Company: Septic Inspector, Chisholm MN"
-description: "Leustek Sand & Gravel in Chisholm, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Leustek Sand & Gravel in Chisholm, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/leustek-sand-gravel-company-sl558/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/leustek-sand-gravel-company-sl558/
 
 * Septic (SSTS) inspection
 * Chisholm, MN (Saint Louis County)
-* Phone: (218) 969-5917
-* Email: cjleus@yahoo.com
 * Address: 5525 Hwy 73 N, Chisholm, MN 55719
 * MPCA SSTS licence L558: Inspector (exp. 2027-02-28)
 * Also licensed: Designer, Installer, Pipelayer

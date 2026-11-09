@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/farley-sewer-systems-sl1919/
 
 * Septic (SSTS) inspection
 * McGregor, MN (Aitkin County)
-* Phone: (218) 839-4737
-* Email: jfarls@frontier.com
 * Address: PO Box 472, McGregor, MN 55760
 * MPCA SSTS licence L1919: Inspector (exp. 2029-08-09)
 * Also licensed: Designer, Installer, Pipelayer

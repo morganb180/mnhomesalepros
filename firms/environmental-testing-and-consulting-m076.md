@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/environmental-testing-and-consulting
 
 * Radon measurement
 * Romulus, MI (Wayne County)
-* Phone: (734) 955-6600
 * Address: 38900 W Huron River Dr, Romulus, MI 48174
 * Google rating: 4.9 from 98 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Measurement, Single Family Measurement

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/radon-stoppers-m215/
 
 * Radon mitigation
 * Monticello, MN (Wright County)
-* Phone: (763) 772-5362
-* Website: https://radonstoppers@aol.com
 * Address: 8473 Troy Marquette Dr, Monticello, MN 55362
 * MDH radon: Multi Family Mitigation, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 100 miles

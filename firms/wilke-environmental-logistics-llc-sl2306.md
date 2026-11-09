@@ -1,6 +1,6 @@
 ---
 title: "Wilke Environmental & Logistics LLC, Bellingham MN"
-description: "Wilke Environmental & Logistics in Bellingham, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Wilke Environmental & Logistics in Bellingham, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/wilke-environmental-logistics-llc-sl2306/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/wilke-environmental-logistics-llc-sl
 
 * Septic (SSTS) inspection
 * Bellingham, MN (Lac qui Parle County)
-* Phone: (320) 305-2860
-* Email: darrenwilke@ymail.com
 * Address: 1365 320th St, Bellingham, MN 56212
 * MPCA SSTS licence L2306: Inspector (exp. 2027-05-07)
 * Also licensed: Designer

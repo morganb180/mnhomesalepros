@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/david-r-brown-sl3649/
 
 * Septic (SSTS) inspection
 * Woodbury, MN (Washington County)
-* Phone: (651) 788-3296
-* Email: drufusb1@yahoo.com
 * Address: PO Box 251026, Woodbury, MN 55125
 * MPCA SSTS licence L3649: Inspector (exp. 2026-10-21)
 * Also licensed: Designer

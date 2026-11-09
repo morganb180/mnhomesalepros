@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/northern-lakes-septic-llc-sl4463/
 
 * Septic (SSTS) inspection
 * Duluth, MN (Saint Louis County)
-* Phone: (651) 380-2618
-* Email: bradfurlong@hotmail.com
 * Address: 5327 Ugstad Junction Rd, Duluth, MN 55810
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L4463: Inspector (exp. 2027-08-18)

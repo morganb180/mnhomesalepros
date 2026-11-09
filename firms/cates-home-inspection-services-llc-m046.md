@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/cates-home-inspection-services-llc-m
 
 * Radon measurement
 * Prior Lake, MN (Scott County)
-* Phone: (952) 440-3000
 * Address: 16390 Albany Ave SE, Prior Lake, MN 55372
 * Google rating: 4.5 from 8 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/borden-excavating-inc-sl1792/
 
 * Septic (SSTS) inspection
 * Merrifield, MN (Crow Wing County)
-* Phone: (218) 765-3397
-* Email: mcborden@brainerd.net
 * Address: 13110 Borden Rd, Merrifield, MN 56465
 * MPCA SSTS licence L1792: Inspector (exp. 2027-01-10)
 * Also licensed: Designer, Installer, Pipelayer

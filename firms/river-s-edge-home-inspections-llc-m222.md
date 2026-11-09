@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/river-s-edge-home-inspections-llc-m2
 
 * Radon measurement
 * Wabasha, MN (Wabasha County)
-* Phone: (651) 564-0253
 * Address: 14419 653 Rd St, Wabasha, MN 55981
 * MDH radon: Single Family Measurement
 * Service area (per MDH): Statewide

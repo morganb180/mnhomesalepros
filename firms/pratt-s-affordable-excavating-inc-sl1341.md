@@ -1,6 +1,6 @@
 ---
 title: "Pratt's Affordable Excavating Inc, Merrifield MN"
-description: "Pratt's Affordable Excavating in Merrifield, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Pratt's Affordable Excavating in Merrifield, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/pratt-s-affordable-excavating-inc-sl1341/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/pratt-s-affordable-excavating-inc-sl
 
 * Septic (SSTS) inspection
 * Merrifield, MN (Crow Wing County)
-* Phone: (218) 765-4244
-* Email: slpratt@brainerd.net
 * Address: 23069 Swan Ln, Merrifield, MN 56465
 * Google rating: 3.8 from 4 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1341: Inspector (exp. 2027-07-11)

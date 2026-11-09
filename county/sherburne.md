@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Rotz Septic and Excavating Inc.
 
 PO Box 513, Elk River, MN 55330  
-☎ [(763) 441-2119](tel:7634412119)
 
 Certified staff: Nathan L Dittbenner, William G Hetzler  
 Also licensed: Designer, Installer, Maintainer, Pipelayer  
@@ -35,7 +34,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Altra Onsite Services LLC
 
 32302 136th St NW, Princeton, MN 55371  
-☎ [(320) 626-4422](tel:3206264422)  
 ✉ ericotte@septiccheck.com
 
 Certified staff: Eric W Otte  
@@ -48,7 +46,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Rum River Construction Consultants
 
 32134 111 1/2 St, Princeton, MN 55371  
-☎ [(763) 291-3704](tel:7632913704)  
 ✉ Andy@rumrivercc.com
 
 Certified staff: Andrew J Schreder, Benjamin J Polgreen, Dean D Becker, Joseph J Gohman, Mark D Peterson  
@@ -60,7 +57,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Angela Busse
 
 10600 26th St SE, Saint Cloud, MN 56304  
-☎ [(320) 743-2482](tel:3207432482)  
 ✉ angelaannettebusse@gmail.com
 
 Certified staff: Angela A Busse  
@@ -73,7 +69,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Clints Excavating LLC
 
 8972 27th St SE, Saint Cloud, MN 56304  
-☎ [(320) 743-3435](tel:3207433435)  
 ✉ snowplowed@aol.com
 
 Certified staff: Clint J Schendzielos  
@@ -86,7 +81,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Granite City Environmental, LLC
 
 PO Box 1382, Saint Cloud, MN 56302  
-☎ [(320) 253-5411](tel:3202535411)  
 ✉ clint@granitecityenv.com
 
 Certified staff: Clinton D Jordahl PG  
@@ -99,7 +93,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Pauls Excavating LLC
 
 989 60th Ave SE, Saint Cloud, MN 56304  
-☎ [(320) 253-8147](tel:3202538147)  
 ✉ wally97275@yahoo.com
 
 Certified staff: Paul L Wolter  
@@ -112,7 +105,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Prom Excavating LLC
 
 950 55th Ave SE, Saint Cloud, MN 56304  
-☎ [(320) 252-7028](tel:3202527028)  
 ✉ promexc@live.com
 
 Certified staff: Charles D Prom  
@@ -125,7 +117,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Progressive Onsite Septic LLC
 
 25713 4th St W Apt 312, Zimmerman, MN 55398  
-☎ [(763) 350-0206](tel:7633500206)  
 ✉ bill@pos-mn.com
 
 Certified staff: William G Hetzler  
@@ -150,7 +141,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Steinbrecher Companies Inc
 
 13792 247th Ave NW, Zimmerman, MN 55398  
-☎ [(763) 274-0925](tel:7632740925)  
 ✉ kari@steinbrechercompanies.com
 
 Certified staff: Abigail M Steinbrecher-Peterson, Donovan J Gilson, James M Martineau, John C Martineau, Shane M Steinbrecher  
@@ -163,7 +153,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### TW Hauling and Excavating, Inc.
 
 27930 96th St NW, Zimmerman, MN 55398  
-☎ [(612) 208-5404](tel:6122085404)  
 ✉ TWHaulingandexcavatinginc@gmail.com
 
 Certified staff: Eric P Beutler, Michael R Leverty Jr  
@@ -180,8 +169,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Air-Source Radon Services LLC
 
 5540 Aberdeen Way, Big Lake, MN 55309  
-☎ [(612) 598-3909](tel:6125983909)  
-🌐 [airsourceradon.com](https://airsourceradon.com)
 
 1 MDH-licensed professional
 
@@ -195,8 +182,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Gateway Home Inspection LLC
 
 1010 Kilbirnie Rd N, Big Lake, MN 55309  
-☎ [(763) 234-6846](tel:7632346846)  
-🌐 [gatewayhi.com](https://www.gatewayhi.com)
 
 1 MDH-licensed professional
 
@@ -210,8 +195,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### KP Home Inspections
 
 5370 135th Ave, Clear Lake, MN 55319  
-☎ [(612) 839-2986](tel:6128392986)  
-🌐 [kphomeinspection.com](https://www.kphomeinspection.com)
 
 1 MDH-licensed professional
 
@@ -225,8 +208,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Black Bear Builders
 
 13333 179th Cir NW, Elk River, MN 55330  
-☎ [(612) 282-7949](tel:6122827949)  
-🌐 [blackbearbuildersmn.com](https://blackbearbuildersmn.com)
 
 2 MDH-licensed professionals
 
@@ -241,8 +222,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Twin Cities Radon Services
 
 14705 87th Ct NE, Otsego, MN 55330  
-☎ [(612) 245-3222](tel:6122453222)  
-🌐 [twincitiesradonservices.com](https://www.twincitiesradonservices.com)
 
 2 MDH-licensed professionals
 
@@ -256,7 +235,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Sherburne County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=sherburne)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=sherburne)
 
 ## Frequently asked questions
 
@@ -278,7 +257,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Sherburne County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Sherburne County, MN?
 

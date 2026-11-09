@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/urban-building-inspectors-inc-m252/
 
 * Radon measurement
 * Golden Valley, MN (Hennepin County)
-* Phone: (952) 212-6266
 * Address: 75 Maryland Ave S, Golden Valley, MN 55426
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

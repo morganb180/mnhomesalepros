@@ -1,6 +1,6 @@
 ---
 title: "Steve James Excavating, Inc.: Septic Inspector, Owatonna MN"
-description: "Steve James Excavating in Owatonna, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Steve James Excavating in Owatonna, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/steve-james-excavating-inc-sl4317/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/steve-james-excavating-inc-sl4317/
 
 * Septic (SSTS) inspection
 * Owatonna, MN (Steele County)
-* Phone: (507) 451-3080
 * Address: 3835 Park Dr, Owatonna, MN 55060
 * Google rating: 4.8 from 18 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L4317: Inspector (exp. 2028-06-16)

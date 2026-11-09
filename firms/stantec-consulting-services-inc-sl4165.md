@@ -1,6 +1,6 @@
 ---
 title: "Stantec Consulting Services Inc., Maple Plain MN"
-description: "Stantec Consulting Services in Maple Plain, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Stantec Consulting Services in Maple Plain, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/stantec-consulting-services-inc-sl4165/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/stantec-consulting-services-inc-sl41
 
 * Septic (SSTS) inspection
 * Maple Plain, MN (Carver County)
-* Phone: (763) 479-4200
 * Address: PO Box 249, Maple Plain, MN 55359
 * MPCA SSTS licence L4165: Inspector (exp. 2029-08-02)
 * Also licensed: Designer

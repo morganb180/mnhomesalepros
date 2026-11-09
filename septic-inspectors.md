@@ -100,7 +100,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Coulee Soil Testing Excavating and Plumbing LLC
 
 W464 County Rd K, Stoddard, WI 54658  
-☎ [(608) 782-7870](tel:6087827870)  
 ✉ couleesoiltep@gmail.com
 
 Certified staff: Michael G Havlik PSS  
@@ -113,7 +112,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### PeopleService, Inc.
 
 209 S 19th St Suite 555, Omaha, NE 68102  
-☎ [(402) 344-4800](tel:4023444800)
 
 Certified staff: Brad A Poll, Christopher R Schmidt, Greg Stang, Herbert H Krueger Jr, Joshua J Zika, Leland E Bundy  
 Also licensed: Service provider  

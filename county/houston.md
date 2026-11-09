@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### A-1 Precision Pumping, Inc.
 
 7575 Butterfield Valley Rd, Hokah, MN 55941  
-☎ [(608) 790-6615](tel:6087906615)  
 ✉ precision\_pumping@hotmail.com
 
 Certified staff: Chase T Munson  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### C Nelson Septic LLC
 
 9211 County Rd 10, Houston, MN 55943  
-☎ [(507) 896-3274](tel:5078963274)  
 ✉ cnelsonseptic@goacentek.net
 
 Certified staff: Chance G Nelson  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Jake Wieser Construction, Inc.
 
 7750 T. T. Rd, Houston, MN 55943  
-☎ [(507) 896-5253](tel:5078965253)  
 ✉ holly@wieserseptic.com
 
 Certified staff: Holly A Wieser, Leonard W Wieser Jr  
@@ -62,7 +59,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Septic Pros
 
 5266 Tschumper Rd, La Crescent, MN 55947  
-☎ [(507) 894-4956](tel:5078944956)  
 ✉ jeffreyjerue@yahoo.com
 
 Certified staff: Jeffrey A Jerue  
@@ -78,7 +74,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Houston County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=houston)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=houston)
 
 ## Frequently asked questions
 
@@ -100,7 +96,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Houston County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Houston County, MN?
 

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/larson-environmental-sl608/
 
 * Septic (SSTS) inspection
 * Bemidji, MN (Beltrami County)
-* Phone: (218) 766-7528
-* Email: larsonenviro@midco.net
 * Address: 5473 Timber Ridge Dr NE, Bemidji, MN 56601
 * MPCA SSTS licence L608: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-03-18)
 * Also licensed: Designer

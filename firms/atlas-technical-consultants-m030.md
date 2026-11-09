@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/atlas-technical-consultants-m030/
 
 * Radon measurement
 * Fridley, MN (Anoka County)
-* Phone: (651) 635-9050
-* Website: https://www.oneatlas.com
 * Address: 5301 E River Rd, Suite 101, Fridley, MN 55421
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): Statewide

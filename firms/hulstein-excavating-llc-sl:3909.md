@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/hulstein-excavating-llc-sl:3909/
 
 * Septic (SSTS) inspection
 * Edgerton, MN (Pipestone County)
-* Phone: (507) 442-4000
-* Email: info@hulexinc.com
 * Address: 147 175th Ave, Edgerton, MN 56128
 * Google rating: 2.8 from 11 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L:3909: Inspector (exp. 2027-06-20)

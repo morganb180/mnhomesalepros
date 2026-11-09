@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/barry-excavating-inc-sl2821/
 
 * Septic (SSTS) inspection
 * Dent, MN (Otter Tail County)
-* Phone: (218) 495-2686
-* Email: barryx@prtel.com
 * Address: 33330 County Hwy 35, Dent, MN 56528
 * MPCA SSTS licence L2821: Inspector (exp. 2027-01-19)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

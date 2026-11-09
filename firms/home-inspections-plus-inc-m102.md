@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/home-inspections-plus-inc-m102/
 
 * Radon measurement
 * Rochester, MN (Olmsted County)
-* Phone: (507) 285-9212
-* Website: https://rochestermninspections.com
 * Address: 2417 22nd Ave SE, Rochester, MN 55904
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

@@ -1,6 +1,6 @@
 ---
 title: "Precision Design & Inspection LLC, Grand Rapids MN"
-description: "Precision Design & Inspection in Grand Rapids, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Precision Design & Inspection in Grand Rapids, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/precision-design-inspection-llc-sl4199/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/precision-design-inspection-llc-sl41
 
 * Septic (SSTS) inspection
 * Grand Rapids, MN (Itasca County)
-* Phone: (218) 256-0139
-* Email: walker@mnprecision.com
 * Address: 20349 Crystal Springs Loop, Grand Rapids, MN 55744
 * Google rating: 5.0 from 36 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L4199: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2028-11-17)

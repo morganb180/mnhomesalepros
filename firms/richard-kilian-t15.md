@@ -1,6 +1,6 @@
 ---
 title: "Richard Kilian, Saint Paul, MN | MN Home Sale Pros"
-description: "Richard Kilian in Saint Paul, MN: City of Saint Paul licensed for Saint Paul TISH evaluation. Licence details, contact and the City of Saint Paul source."
+description: "Richard Kilian in Saint Paul, MN: City of Saint Paul licensed for Saint Paul TISH evaluation. Licence details, address and the City of Saint Paul source."
 canonical: https://mnhomesalepros.com/firms/richard-kilian-t15/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/richard-kilian-t15/
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (612) 599-6102
-* Email: dickkilian@yahoo.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/aaron-moser-moser-home-inspections-t
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (651) 239-6001
-* Email: moserinspections@hotmail.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

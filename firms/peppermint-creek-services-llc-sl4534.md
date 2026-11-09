@@ -1,6 +1,6 @@
 ---
 title: "Peppermint Creek Services LLC: Septic Inspector, Baudette MN"
-description: "Peppermint Creek Services in Baudette, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Peppermint Creek Services in Baudette, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/peppermint-creek-services-llc-sl4534/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/peppermint-creek-services-llc-sl4534
 
 * Septic (SSTS) inspection
 * Baudette, MN (Lake of the Woods County)
-* Phone: (218) 556-1170
-* Email: lake.area.construction@gmail.com
 * Address: 848 29th Ave SW, Baudette, MN 56623
 * MPCA SSTS licence L4534: Inspector (exp. 2027-08-03)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

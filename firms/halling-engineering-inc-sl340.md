@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/halling-engineering-inc-sl340/
 
 * Septic (SSTS) inspection
 * Watertown, MN (Carver County)
-* Phone: (952) 440-1680
-* Email: grhalling@hallingeng.com
 * Address: 1121 Landings Ln, Watertown, MN 55388
 * MPCA SSTS licence L340: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-04-19)
 * Also licensed: Designer

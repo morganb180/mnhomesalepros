@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/prioritylab-llc-m189/
 
 * Radon analysis laboratory
 * Fort Lauderdale, FL (Broward County)
-* Phone: (317) 853-2172
 * Address: 3301 NW 55th St, Fort Lauderdale, FL 33309
 * MDH radon: Analysis laboratory
 * Service area (per MDH): Statewide (mail-in)

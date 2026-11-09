@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bollig-inc-sl2986/
 
 * Septic (SSTS) inspection
 * Willmar, MN (Kandiyohi County)
-* Phone: (320) 235-2555
-* Email: bbollig@bollig-engineering.com
 * Address: 1700 Technology Dr NE Suite 124, Willmar, MN 56201
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2986: Inspector (exp. 2027-07-30)

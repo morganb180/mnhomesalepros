@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/onsite-solutions-inc-sl4419/
 
 * Septic (SSTS) inspection
 * Burnsville, MN (Dakota County)
-* Phone: (952) 300-0194
-* Email: jason@onsitesolutionsmn.com
 * Address: 2305 E 115th St, Burnsville, MN 55337
 * MPCA SSTS licence L4419: Inspector (exp. 2026-12-19)
 * Also licensed: Designer

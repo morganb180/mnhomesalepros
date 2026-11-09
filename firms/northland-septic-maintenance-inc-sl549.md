@@ -1,6 +1,6 @@
 ---
 title: "Northland Septic Maintenance: Septic Inspector, Backus MN"
-description: "Northland Septic Maintenance in Backus, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Northland Septic Maintenance in Backus, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/northland-septic-maintenance-inc-sl549/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/northland-septic-maintenance-inc-sl5
 
 * Septic (SSTS) inspection
 * Backus, MN (Cass County)
-* Phone: (218) 675-5999
-* Email: northlandseptic@tds.net
 * Address: 4207 16th St NW, Backus, MN 56435
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L549: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2026-12-23)

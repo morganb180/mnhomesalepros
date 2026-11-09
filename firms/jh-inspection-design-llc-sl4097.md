@@ -1,6 +1,6 @@
 ---
 title: "JH Inspection & Design LLC: Septic Inspector, Brook Park MN"
-description: "JH Inspection & Design in Brook Park, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "JH Inspection & Design in Brook Park, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/jh-inspection-design-llc-sl4097/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/jh-inspection-design-llc-sl4097/
 
 * Septic (SSTS) inspection
 * Brook Park, MN (Pine County)
-* Phone: (218) 537-1575
-* Email: j.hippen@yahoo.com
 * Address: 29429 Monument Rd, Brook Park, MN 55007
 * MPCA SSTS licence L4097: Inspector (exp. 2029-03-18)
 * Also licensed: Designer

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/septic-check-sl2624/
 
 * Septic (SSTS) inspection
 * Milaca, MN (Mille Lacs County)
-* Phone: (320) 983-2447
-* Email: brian@septiccheck.com
 * Address: 6074 Keystone Rd, Milaca, MN 56353
 * Google rating: 4.9 from 749 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2624: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-02-21)

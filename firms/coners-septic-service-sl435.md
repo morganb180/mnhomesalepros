@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/coners-septic-service-sl435/
 
 * Septic (SSTS) inspection
 * Mountain Lake, MN (Cottonwood County)
-* Phone: (507) 920-3959
-* Email: alanconers@gmail.com
 * Address: 43028 570th Ave, Mountain Lake, MN 56159
 * MPCA SSTS licence L435: Inspector (exp. 2028-03-23)
 * Also licensed: Designer, Installer, Pipelayer

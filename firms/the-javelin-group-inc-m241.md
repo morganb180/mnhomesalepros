@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/the-javelin-group-inc-m241/
 
 * Radon measurement
 * Eden Prairie, MN (Hennepin County)
-* Phone: (952) 380-3668
 * Address: 10125 Crosstown Cir Suite 107, Eden Prairie, MN 55344
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement

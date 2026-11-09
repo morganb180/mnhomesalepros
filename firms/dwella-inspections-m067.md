@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/dwella-inspections-m067/
 
 * Radon measurement
 * Fargo, ND (Cass County)
-* Phone: (701) 400-7854
 * Address: 1367 Elm Cir N, Fargo, ND 58102
 * Google rating: 5.0 from 99 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Measurement, Single Family Measurement

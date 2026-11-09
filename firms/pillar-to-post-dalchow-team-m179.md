@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/pillar-to-post-dalchow-team-m179/
 
 * Radon measurement
 * Hudson, WI (St. Croix County)
-* Phone: (715) 338-6485
 * Address: 925 Waxon Ln, Hudson, WI 54016
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/hunter-s-house-llc-m115/
 
 * Radon measurement
 * Owatonna, MN (Steele County)
-* Phone: (262) 853-5802
-* Website: https://huntershouse.co
 * Address: 202 N Cedar Ave Suite 1, Owatonna, MN 55060
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

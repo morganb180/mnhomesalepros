@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/stewart-septic-system-services-sl306
 
 * Septic (SSTS) inspection
 * Fulda, MN (Murray County)
-* Phone: (507) 425-2124
 * Address: 2410 31st St, Fulda, MN 56131
 * Google rating: 5.0 from 5 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L3062: Inspector (exp. 2027-04-04)

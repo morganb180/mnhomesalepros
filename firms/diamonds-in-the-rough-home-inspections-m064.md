@@ -1,6 +1,6 @@
 ---
 title: "Diamonds In The Rough Home Inspections, Minneapolis MN"
-description: "Diamonds In The Rough Home Inspections in Minneapolis, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
+description: "Diamonds In The Rough Home Inspections in Minneapolis, MN: MDH licensed for radon measurement. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/diamonds-in-the-rough-home-inspections-m064/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/diamonds-in-the-rough-home-inspectio
 
 * Radon measurement
 * Minneapolis, MN (Hennepin County)
-* Phone: (612) 405-0207
-* Website: https://www.diamondsintheroughinspections.com
 * Address: 5102 Bloomington Ave, Minneapolis, MN 55417
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

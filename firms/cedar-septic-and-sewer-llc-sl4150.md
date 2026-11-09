@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/cedar-septic-and-sewer-llc-sl4150/
 
 * Septic (SSTS) inspection
 * Cedar, MN (Anoka County)
-* Phone: (763) 218-1397
-* Email: cedar.septic@gmail.com
 * Address: 18604 Flamingo St NW, Cedar, MN 55011
 * Google rating: 4.9 from 521 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L4150: Inspector (exp. 2027-03-12)

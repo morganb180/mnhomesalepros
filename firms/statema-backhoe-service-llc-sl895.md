@@ -1,6 +1,6 @@
 ---
 title: "Statema Backhoe Service: Septic Inspector, Browerville MN"
-description: "Statema Backhoe Service in Browerville, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Statema Backhoe Service in Browerville, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/statema-backhoe-service-llc-sl895/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/statema-backhoe-service-llc-sl895/
 
 * Septic (SSTS) inspection
 * Browerville, MN (Todd County)
-* Phone: (320) 594-6347
-* Email: statemabackhoe@gmail.com
 * Address: 29165 County 18, Browerville, MN 56438
 * MPCA SSTS licence L895: Inspector (exp. 2028-04-05)
 * Also licensed: Designer, Installer, Pipelayer

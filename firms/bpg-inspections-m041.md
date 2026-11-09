@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bpg-inspections-m041/
 
 * Radon measurement
 * St. Paul, MN (Dakota County)
-* Phone: (612) 965-0537
 * Address: 1231 Timbershore Ln, St. Paul, MN 55123
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

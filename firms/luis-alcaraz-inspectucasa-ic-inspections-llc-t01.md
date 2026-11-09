@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/luis-alcaraz-inspectucasa-ic-inspect
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (612) 743-8228
-* Email: inspectucasa@yahoo.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

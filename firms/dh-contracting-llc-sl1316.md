@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/dh-contracting-llc-sl1316/
 
 * Septic (SSTS) inspection
 * Littlefork, MN (Koochiching County)
-* Phone: (218) 278-4767
 * Address: 4900 N River Dr, Littlefork, MN 56653
 * MPCA SSTS licence L1316: Inspector (exp. 2027-10-27)
 * Also licensed: Designer, Installer, Pipelayer

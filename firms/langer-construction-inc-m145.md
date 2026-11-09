@@ -1,6 +1,6 @@
 ---
 title: "Langer Construction Inc, Wilson, WI | MN Home Sale Pros"
-description: "Langer Construction in Wilson, WI: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Langer Construction in Wilson, WI: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/langer-construction-inc-m145/
 ---
 
@@ -8,9 +8,6 @@ canonical: https://mnhomesalepros.com/firms/langer-construction-inc-m145/
 
 * Radon measurement, Radon mitigation
 * Wilson, WI (St. Croix County)
-* Phone: (651) 261-1830
-* Email: langer@radon.com
-* Website: https://langer-radon.com
 * Address: 303 270th St, Wilson, WI 54027
 * Google rating: 5.0 from 6 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement, Single Family Mitigation

@@ -1,6 +1,6 @@
 ---
 title: "Radon Crew, LLC, Garretson, SD | MN Home Sale Pros"
-description: "Radon Crew in Garretson, SD: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Radon Crew in Garretson, SD: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/radon-crew-llc-m206/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/radon-crew-llc-m206/
 
 * Radon measurement, Radon mitigation
 * Garretson, SD (Minnehaha County)
-* Phone: (605) 359-0461
-* Website: https://www.radoncrew.com
 * Address: 48337 253rd St, Garretson, SD 57030
 * MDH radon: Multi Family Measurement, Multi Family Mitigation, Schools & Large Buildings Measurement, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 100 miles
