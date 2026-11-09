@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/karl-sanders-homtech-inc-t26/
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (612) 408-4000
-* Email: homtech1@gmail.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

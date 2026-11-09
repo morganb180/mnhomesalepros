@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/home-in-sight-inspections-m101/
 
 * Radon measurement
 * Plymouth, MN (Hennepin County)
-* Phone: (612) 242-7898
 * Address: 5125 Pineview Ln N, Plymouth, MN 55442
 * MDH radon: Single Family Measurement
 * Service area (per MDH): Statewide

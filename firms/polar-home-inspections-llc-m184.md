@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/polar-home-inspections-llc-m184/
 
 * Radon measurement, Radon mitigation
 * Pelican Rapids, MN (Otter Tail County)
-* Phone: (218) 790-5413
-* Website: https://ww.polarhomeinspections.com
 * Address: 45700 Crystal Beach Rd, Pelican Rapids, MN 56572
 * MDH radon: Multi Family Measurement, Multi Family Mitigation, Schools & Large Buildings Measurement, Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 100 miles

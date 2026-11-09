@@ -1,6 +1,6 @@
 ---
 title: "Crescent Septic Services LLC: Septic Inspector, Elizabeth MN"
-description: "Crescent Septic Services in Elizabeth, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Crescent Septic Services in Elizabeth, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/crescent-septic-services-llc-sl4224/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/crescent-septic-services-llc-sl4224/
 
 * Septic (SSTS) inspection
 * Elizabeth, MN (Otter Tail County)
-* Phone: (701) 929-0157
-* Email: peter.r.johnson70@gmail.com
 * Address: 209 S Niggeler St, Elizabeth, MN 56533
 * MPCA SSTS licence L4224: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2028-05-03)
 * Also licensed: Designer, Service provider

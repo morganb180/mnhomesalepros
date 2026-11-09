@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/edick-valuation-services-rapid-radon
 
 * Radon measurement, Radon mitigation
 * Rogers, MN (Hennepin County)
-* Phone: (612) 590-6288
-* Website: https://www.evsmn.com
 * Address: 20980 Rogers Dr #450, Rogers, MN 55374
 * Google rating: 4.8 from 129 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement, Single Family Mitigation

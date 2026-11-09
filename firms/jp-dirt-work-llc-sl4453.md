@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/jp-dirt-work-llc-sl4453/
 
 * Septic (SSTS) inspection
 * Cook, MN (Saint Louis County)
-* Phone: (218) 410-9183
-* Email: joepaakk@gmail.com
 * Address: 9243 Armstrong Rd, Cook, MN 55723
 * MPCA SSTS licence L4453: Inspector (exp. 2027-06-18)
 * Also licensed: Designer, Installer, Pipelayer

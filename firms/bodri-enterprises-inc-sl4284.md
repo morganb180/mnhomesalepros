@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bodri-enterprises-inc-sl4284/
 
 * Septic (SSTS) inspection
 * Cook, MN (Saint Louis County)
-* Phone: (218) 410-3477
-* Email: michaelbodri@gmail.com
 * Address: 8675 Hwy 115, Cook, MN 55723
 * MPCA SSTS licence L4284: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2029-03-22)
 * Also licensed: Designer, Service provider

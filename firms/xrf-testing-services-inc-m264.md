@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/xrf-testing-services-inc-m264/
 
 * Radon measurement
 * Edina, MN (Hennepin County)
-* Phone: (952) 926-8379
-* Website: https://www.xrftestingservices.com
 * Address: 6128 Ryan Ave, Edina, MN 55424
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

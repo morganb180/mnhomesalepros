@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/super-septic-inc-of-pelican-rapids-s
 
 * Septic (SSTS) inspection
 * Pelican Rapids, MN (Otter Tail County)
-* Phone: (218) 863-3373
-* Email: info@septicandexcavation.com
 * Address: 38992 183rd Ave, Pelican Rapids, MN 56572
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L901: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-04-12)

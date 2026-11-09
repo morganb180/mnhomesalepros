@@ -1,6 +1,6 @@
 ---
 title: "DBS Backhoe and Excavation Services, LLC, Brooks MN"
-description: "DBS Backhoe and Excavation Services in Brooks, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "DBS Backhoe and Excavation Services in Brooks, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/dbs-backhoe-and-excavation-services-llc-sl2495/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/dbs-backhoe-and-excavation-services-
 
 * Septic (SSTS) inspection
 * Brooks, MN (Red Lake County)
-* Phone: (218) 431-0623
-* Email: wade.delage2013@gmail.com
 * Address: PO Box 96, Brooks, MN 56715
 * MPCA SSTS licence L2495: Inspector (exp. 2027-05-16)
 * Also licensed: Designer, Installer, Pipelayer

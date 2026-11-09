@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/jadd-seppmann-sons-inc-sl310/
 
 * Septic (SSTS) inspection
 * Mankato, MN (Blue Earth County)
-* Phone: (507) 625-3400
-* Email: office@seppmannandsons.com
 * Address: 54043 State Hwy 68, Mankato, MN 56001
 * Google rating: 4.8 from 24 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L310: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-03-13)

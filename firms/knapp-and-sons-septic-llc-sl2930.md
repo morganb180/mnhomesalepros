@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/knapp-and-sons-septic-llc-sl2930/
 
 * Septic (SSTS) inspection
 * Milaca, MN (Mille Lacs County)
-* Phone: (763) 241-8020
-* Email: joe@knappandsonsseptic.com
 * Address: 13574 110th St, Milaca, MN 56353
 * MPCA SSTS licence L2930: Inspector (exp. 2027-02-28)
 * Also licensed: Designer, Installer, Pipelayer

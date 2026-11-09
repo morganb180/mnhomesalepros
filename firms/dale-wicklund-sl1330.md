@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/dale-wicklund-sl1330/
 
 * Septic (SSTS) inspection
 * Greenbush, MN (Roseau County)
-* Phone: (218) 782-3114
 * Address: 20998 County Rd 4, Greenbush, MN 56726
 * Google rating: 5.0 from 5 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1330: Inspector (exp. 2027-08-03)

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/brogard-plumbing-heating-and-excavat
 
 * Septic (SSTS) inspection
 * Henning, MN (Otter Tail County)
-* Phone: (218) 583-2041
-* Email: brogardplbg@hotmail.com
 * Address: PO Box 336, Henning, MN 56551
 * Google rating: 4.8 from 39 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1332: Inspector (exp. 2028-07-27)

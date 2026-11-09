@@ -1,6 +1,6 @@
 ---
 title: "Dirt Diggers Contracting: Septic Inspector, New Prague MN"
-description: "Dirt Diggers Contracting in New Prague, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Dirt Diggers Contracting in New Prague, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/dirt-diggers-contracting-inc-sl790/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/dirt-diggers-contracting-inc-sl790/
 
 * Septic (SSTS) inspection
 * New Prague, MN (Le Sueur County)
-* Phone: (507) 364-8924
 * Address: 20741 320th St, New Prague, MN 56071
 * MPCA SSTS licence L790: Inspector (exp. 2027-04-08)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

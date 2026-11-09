@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/precision-real-estate-services-llc-m
 
 * Radon measurement
 * Savage, MN (Scott County)
-* Phone: (612) 850-1393
-* Website: https://presmn.com
 * Address: 5670 Oak View Ct, Savage, MN 55378
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

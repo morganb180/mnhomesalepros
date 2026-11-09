@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/clink-septic-solutions-sl4211/
 
 * Septic (SSTS) inspection
 * Sauk Centre, MN (Stearns County)
-* Phone: (320) 249-7609
-* Email: ben.clink@gmail.com
 * Address: 42915 County Rd 17, Sauk Centre, MN 56378
 * Google rating: 5.0 from 6 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L4211: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-04-10)

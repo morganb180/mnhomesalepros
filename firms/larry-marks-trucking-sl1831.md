@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/larry-marks-trucking-sl1831/
 
 * Septic (SSTS) inspection
 * Babbitt, MN (Saint Louis County)
-* Phone: (218) 827-3418
 * Address: 3059 County Rd 904, Babbitt, MN 55706
 * MPCA SSTS licence L1831: Inspector (exp. 2027-05-19)
 * Also licensed: Designer, Installer, Pipelayer

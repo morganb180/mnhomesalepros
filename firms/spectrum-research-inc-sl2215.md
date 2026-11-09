@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/spectrum-research-inc-sl2215/
 
 * Septic (SSTS) inspection
 * Duluth, MN (Saint Louis County)
-* Phone: (218) 525-5322
-* Email: spectrumsoils@aol.com
 * Address: 211 Mygatt Ave, Duluth, MN 55803
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2215: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-05-29)

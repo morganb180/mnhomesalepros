@@ -1,0 +1,612 @@
+{
+  "as_of": "Oct 18, 2026",
+  "min_rating": 4.7,
+  "min_reviews": 20,
+  "count": 67,
+  "source": "google_rating on each firm in api/firms.json",
+  "firms": [
+    {
+      "name": "A1 Services Inc",
+      "town": "Eveleth, MN",
+      "service": "Septic inspection",
+      "cred": "MPCA L315",
+      "rating": 5.0,
+      "reviews": 148,
+      "href": "/firms/a1-services-inc-sl315/"
+    },
+    {
+      "name": "Aaron Haase",
+      "town": "Saint Paul, MN",
+      "service": "Saint Paul TISH",
+      "cred": "Saint Paul TISH",
+      "rating": 4.9,
+      "reviews": 1344,
+      "href": "/firms/aaron-haase-heartland-inspections-t09/"
+    },
+    {
+      "name": "Advanced Radon Solutions",
+      "town": "Proctor, MN",
+      "service": "Radon measurement · Radon mitigation",
+      "cred": "MDH RMIT-00136 · +1 more",
+      "rating": 5.0,
+      "reviews": 22,
+      "href": "/firms/advanced-radon-solutions-m013/"
+    },
+    {
+      "name": "Affordable Egress Windows & Basement Waterproofing",
+      "town": "Medina, MN",
+      "service": "Radon measurement · Radon mitigation",
+      "cred": "MDH RMIT-00012",
+      "rating": 5.0,
+      "reviews": 99,
+      "href": "/firms/affordable-egress-windows-basement-waterproofing-m014/"
+    },
+    {
+      "name": "All-Star Basements",
+      "town": "Rochester, MN",
+      "service": "Radon measurement · Radon mitigation",
+      "cred": "MDH RMIT-00122 · +1 more",
+      "rating": 4.9,
+      "reviews": 195,
+      "href": "/firms/all-star-basements-m019/"
+    },
+    {
+      "name": "B and C Plumbing and Heating Inc",
+      "town": "Eyota, MN",
+      "service": "Radon mitigation",
+      "cred": "MDH RMIT-00067",
+      "rating": 4.8,
+      "reviews": 261,
+      "href": "/firms/b-and-c-plumbing-and-heating-inc-m031/"
+    },
+    {
+      "name": "Bauer Restoration",
+      "town": "Faribault, MN",
+      "service": "Radon measurement · Radon mitigation",
+      "cred": "MDH RMIT-00036 · +1 more",
+      "rating": 4.9,
+      "reviews": 101,
+      "href": "/firms/bauer-restoration-m033/"
+    },
+    {
+      "name": "Blue Door Home Inspections LLC",
+      "town": "Grand Forks, ND",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00457",
+      "rating": 4.9,
+      "reviews": 132,
+      "href": "/firms/blue-door-home-inspections-llc-m038/"
+    },
+    {
+      "name": "Bohn Well Drilling Company",
+      "town": "Jordan, MN",
+      "service": "Septic inspection",
+      "cred": "MPCA L1043",
+      "rating": 4.8,
+      "reviews": 55,
+      "href": "/firms/bohn-well-drilling-company-sl1043/"
+    },
+    {
+      "name": "Branch Property Investigations",
+      "town": "Chanhassen, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00554 · +3 more",
+      "rating": 5.0,
+      "reviews": 165,
+      "href": "/firms/branch-property-investigations-m042/"
+    },
+    {
+      "name": "Brett Fredrichs",
+      "town": "Saint Paul, MN",
+      "service": "Saint Paul TISH",
+      "cred": "Saint Paul TISH",
+      "rating": 4.9,
+      "reviews": 3832,
+      "href": "/firms/brett-fredrichs-marigold-home-inspections-t07/"
+    },
+    {
+      "name": "Brogard Plumbing Heating and Excavating Inc",
+      "town": "Henning, MN",
+      "service": "Septic inspection",
+      "cred": "MPCA L1332",
+      "rating": 4.8,
+      "reviews": 39,
+      "href": "/firms/brogard-plumbing-heating-and-excavating-inc-sl1332/"
+    },
+    {
+      "name": "Bryan Scholtes",
+      "town": "Saint Paul, MN",
+      "service": "Saint Paul TISH",
+      "cred": "Saint Paul TISH",
+      "rating": 5.0,
+      "reviews": 5277,
+      "href": "/firms/bryan-scholtes-structure-tech-home-inspections-t27/"
+    },
+    {
+      "name": "Cedar Septic and Sewer LLC",
+      "town": "Cedar, MN",
+      "service": "Septic inspection",
+      "cred": "MPCA L4150",
+      "rating": 4.9,
+      "reviews": 521,
+      "href": "/firms/cedar-septic-and-sewer-llc-sl4150/"
+    },
+    {
+      "name": "Certified Home Inspections LLC",
+      "town": "Prior lake, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00242",
+      "rating": 5.0,
+      "reviews": 75,
+      "href": "/firms/certified-home-inspections-llc-m048/"
+    },
+    {
+      "name": "Certified Radon Solutions",
+      "town": "Rochester, MN",
+      "service": "Radon measurement · Radon mitigation",
+      "cred": "MDH RMITS-00058",
+      "rating": 5.0,
+      "reviews": 42,
+      "href": "/firms/certified-radon-solutions-m049/"
+    },
+    {
+      "name": "Clear Choice Home Inspection Services, LLC",
+      "town": "Buffalo, MN",
+      "service": "Radon measurement · Radon mitigation",
+      "cred": "MDH RMITS-00016",
+      "rating": 5.0,
+      "reviews": 105,
+      "href": "/firms/clear-choice-home-inspection-services-llc-m055/"
+    },
+    {
+      "name": "Coleman Home Inspections LLC",
+      "town": "Esko, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00131",
+      "rating": 4.8,
+      "reviews": 117,
+      "href": "/firms/coleman-home-inspections-llc-m056/"
+    },
+    {
+      "name": "Dakota Radon Services",
+      "town": "Horace, ND",
+      "service": "Radon measurement · Radon mitigation",
+      "cred": "MDH RMITS-00073",
+      "rating": 5.0,
+      "reviews": 123,
+      "href": "/firms/dakota-radon-services-m060/"
+    },
+    {
+      "name": "Dean Turnlund",
+      "town": "Saint Paul, MN",
+      "service": "Saint Paul TISH",
+      "cred": "Saint Paul TISH",
+      "rating": 4.8,
+      "reviews": 520,
+      "href": "/firms/dean-turnlund-inspecta-homes-inc-t31/"
+    },
+    {
+      "name": "Dwella Inspections",
+      "town": "Fargo, ND",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00459",
+      "rating": 5.0,
+      "reviews": 99,
+      "href": "/firms/dwella-inspections-m067/"
+    },
+    {
+      "name": "EcoSense Septic Services, LLC",
+      "town": "Welch, MN",
+      "service": "Septic inspection",
+      "cred": "MPCA L4177",
+      "rating": 4.7,
+      "reviews": 61,
+      "href": "/firms/ecosense-septic-services-llc-sl4177/"
+    },
+    {
+      "name": "Edick Valuation Services & Rapid Radon Removal",
+      "town": "Rogers, MN",
+      "service": "Radon measurement · Radon mitigation",
+      "cred": "MDH RMIT-00061 · +1 more",
+      "rating": 4.8,
+      "reviews": 129,
+      "href": "/firms/edick-valuation-services-rapid-radon-removal-m070/"
+    },
+    {
+      "name": "Element Radon Services",
+      "town": "Grand Forks, ND",
+      "service": "Radon measurement · Radon mitigation",
+      "cred": "MDH RMIT-00141 · +1 more",
+      "rating": 4.9,
+      "reviews": 73,
+      "href": "/firms/element-radon-services-m071/"
+    },
+    {
+      "name": "Environmental Testing and Consulting",
+      "town": "Romulus, MI",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00632 · +1 more",
+      "rating": 4.9,
+      "reviews": 98,
+      "href": "/firms/environmental-testing-and-consulting-m076/"
+    },
+    {
+      "name": "Everest Home Inspectors Inc",
+      "town": "Minneapolis, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00403 · +6 more",
+      "rating": 4.9,
+      "reviews": 1104,
+      "href": "/firms/everest-home-inspectors-inc-m078/"
+    },
+    {
+      "name": "Fiedler Your Pumping Specialists, Inc.",
+      "town": "Royalton, MN",
+      "service": "Septic inspection",
+      "cred": "MPCA L3318",
+      "rating": 4.9,
+      "reviews": 99,
+      "href": "/firms/fiedler-your-pumping-specialists-inc-sl3318/"
+    },
+    {
+      "name": "First Call Home Inspection Ser",
+      "town": "Cedar, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00364",
+      "rating": 5.0,
+      "reviews": 125,
+      "href": "/firms/first-call-home-inspection-ser-m079/"
+    },
+    {
+      "name": "George Ury",
+      "town": "Saint Paul, MN",
+      "service": "Saint Paul TISH",
+      "cred": "Saint Paul TISH",
+      "rating": 5.0,
+      "reviews": 5277,
+      "href": "/firms/george-ury-structure-tech-home-inspections-t32/"
+    },
+    {
+      "name": "Glacial Lakes Radon LLC",
+      "town": "Alexandria, MN",
+      "service": "Radon measurement · Radon mitigation",
+      "cred": "MDH RMITS-00075",
+      "rating": 5.0,
+      "reviews": 89,
+      "href": "/firms/glacial-lakes-radon-llc-m084/"
+    },
+    {
+      "name": "Home Doctors LLC",
+      "town": "Rochester, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00119",
+      "rating": 5.0,
+      "reviews": 136,
+      "href": "/firms/home-doctors-llc-m100/"
+    },
+    {
+      "name": "HomePro Inspections Inc.",
+      "town": "Rochester, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00358 · +2 more",
+      "rating": 4.9,
+      "reviews": 387,
+      "href": "/firms/homepro-inspections-inc-m107/"
+    },
+    {
+      "name": "Horizon Inspections LLC",
+      "town": "Detroit Lakes, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00234",
+      "rating": 5.0,
+      "reviews": 240,
+      "href": "/firms/horizon-inspections-llc-m113/"
+    },
+    {
+      "name": "Inspecta-Homes",
+      "town": "St. Paul, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00560 · +4 more",
+      "rating": 4.8,
+      "reviews": 520,
+      "href": "/firms/inspecta-homes-m121/"
+    },
+    {
+      "name": "Jadd Seppmann & Sons Inc",
+      "town": "Mankato, MN",
+      "service": "Septic inspection",
+      "cred": "MPCA L310",
+      "rating": 4.8,
+      "reviews": 24,
+      "href": "/firms/jadd-seppmann-sons-inc-sl310/"
+    },
+    {
+      "name": "Jarrod McGill",
+      "town": "Saint Paul, MN",
+      "service": "Saint Paul TISH",
+      "cred": "Saint Paul TISH",
+      "rating": 4.8,
+      "reviews": 520,
+      "href": "/firms/jarrod-mcgill-inspecta-homes-inc-t21/"
+    },
+    {
+      "name": "JC Radon Services LLC",
+      "town": "Fountain City, WI",
+      "service": "Radon measurement · Radon mitigation",
+      "cred": "MDH RMITS-00018",
+      "rating": 5.0,
+      "reviews": 26,
+      "href": "/firms/jc-radon-services-llc-m135/"
+    },
+    {
+      "name": "Johnson Septic Systems & Excavating, Inc.",
+      "town": "Milaca, MN",
+      "service": "Septic inspection",
+      "cred": "MPCA L1023",
+      "rating": 4.9,
+      "reviews": 32,
+      "href": "/firms/johnson-septic-systems-excavating-inc-sl1023/"
+    },
+    {
+      "name": "Katz Family Home Inspection LLC",
+      "town": "Edina, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00355",
+      "rating": 5.0,
+      "reviews": 356,
+      "href": "/firms/katz-family-home-inspection-llc-m137/"
+    },
+    {
+      "name": "Kirk Flom Septic Service",
+      "town": "Faribault, MN",
+      "service": "Septic inspection",
+      "cred": "MPCA L2401",
+      "rating": 4.9,
+      "reviews": 34,
+      "href": "/firms/kirk-flom-septic-service-sl2401/"
+    },
+    {
+      "name": "Kloeppner Services & Designs LLC",
+      "town": "Shoreview, MN",
+      "service": "Septic inspection",
+      "cred": "MPCA L4043",
+      "rating": 5.0,
+      "reviews": 30,
+      "href": "/firms/kloeppner-services-designs-llc-sl4043/"
+    },
+    {
+      "name": "KP Home Inspections",
+      "town": "Clear Lake, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00096",
+      "rating": 5.0,
+      "reviews": 520,
+      "href": "/firms/kp-home-inspections-m141/"
+    },
+    {
+      "name": "Lakes Area Septic LLC",
+      "town": "Crosslake, MN",
+      "service": "Septic inspection",
+      "cred": "MPCA L1840",
+      "rating": 4.9,
+      "reviews": 39,
+      "href": "/firms/lakes-area-septic-llc-sl1840/"
+    },
+    {
+      "name": "Lashinski Service, Inc.",
+      "town": "Ham Lake, MN",
+      "service": "Septic inspection",
+      "cred": "MPCA L4266",
+      "rating": 4.7,
+      "reviews": 41,
+      "href": "/firms/lashinski-service-inc-sl4266/"
+    },
+    {
+      "name": "Lifetime Home Services LLC",
+      "town": "Brookfield, WI",
+      "service": "Radon mitigation",
+      "cred": "MDH RMIT-00029 · +1 more",
+      "rating": 4.8,
+      "reviews": 100,
+      "href": "/firms/lifetime-home-services-llc-m150/"
+    },
+    {
+      "name": "Lifetime Radon Solutions Inc",
+      "town": "Brookfield, WI",
+      "service": "Radon mitigation",
+      "cred": "MDH RMIT-00135",
+      "rating": 4.9,
+      "reviews": 452,
+      "href": "/firms/lifetime-radon-solutions-inc-m151/"
+    },
+    {
+      "name": "Marigold Home Inspections",
+      "town": "Coon Rapids, MN",
+      "service": "Radon measurement · Radon mitigation",
+      "cred": "MDH RMEA-00635 · +17 more",
+      "rating": 4.9,
+      "reviews": 3832,
+      "href": "/firms/marigold-home-inspections-m155/"
+    },
+    {
+      "name": "McKinley Sewer Service",
+      "town": "Prior Lake, MN",
+      "service": "Septic inspection",
+      "cred": "MPCA L2899",
+      "rating": 4.9,
+      "reviews": 176,
+      "href": "/firms/mckinley-sewer-service-sl2899/"
+    },
+    {
+      "name": "Milind Angolkar",
+      "town": "Saint Paul, MN",
+      "service": "Saint Paul TISH",
+      "cred": "Saint Paul TISH",
+      "rating": 5.0,
+      "reviews": 5277,
+      "href": "/firms/milind-angolkar-structure-tech-home-inspections-t03/"
+    },
+    {
+      "name": "Mr Radon LLC",
+      "town": "Elko New Market, MN",
+      "service": "Radon measurement · Radon mitigation",
+      "cred": "MDH RMITS-00035",
+      "rating": 5.0,
+      "reviews": 43,
+      "href": "/firms/mr-radon-llc-m163/"
+    },
+    {
+      "name": "MSP Inspections LLC",
+      "town": "Eagan, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00222",
+      "rating": 5.0,
+      "reviews": 83,
+      "href": "/firms/msp-inspections-llc-m164/"
+    },
+    {
+      "name": "Nordic Inspections",
+      "town": "Fargo, ND",
+      "service": "Radon measurement · Radon mitigation",
+      "cred": "MDH RMEA-00421 · +4 more",
+      "rating": 5.0,
+      "reviews": 1471,
+      "href": "/firms/nordic-inspections-m167/"
+    },
+    {
+      "name": "Pillar to Post Home Inspectors - The Voyager Team",
+      "town": "Battle Lake, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00580",
+      "rating": 5.0,
+      "reviews": 89,
+      "href": "/firms/pillar-to-post-home-inspectors-the-voyager-team-m181/"
+    },
+    {
+      "name": "Prairie Home Inspections",
+      "town": "Forest Lake, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00621 · +2 more",
+      "rating": 5.0,
+      "reviews": 39,
+      "href": "/firms/prairie-home-inspections-m185/"
+    },
+    {
+      "name": "Precision Design & Inspection LLC",
+      "town": "Grand Rapids, MN",
+      "service": "Septic inspection",
+      "cred": "MPCA L4199",
+      "rating": 5.0,
+      "reviews": 36,
+      "href": "/firms/precision-design-inspection-llc-sl4199/"
+    },
+    {
+      "name": "Radon Armor LLC",
+      "town": "Inver Grove Heights, MN",
+      "service": "Radon mitigation",
+      "cred": "MDH RMITS-00031",
+      "rating": 5.0,
+      "reviews": 41,
+      "href": "/firms/radon-armor-llc-m203/"
+    },
+    {
+      "name": "Radon Associates LLC",
+      "town": "New Richmond, WI",
+      "service": "Radon measurement · Radon mitigation",
+      "cred": "MDH RMEA-00256 · +1 more",
+      "rating": 4.8,
+      "reviews": 24,
+      "href": "/firms/radon-associates-llc-m204/"
+    },
+    {
+      "name": "Rock Solid Home Inspections",
+      "town": "Maple Grove, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00567",
+      "rating": 4.9,
+      "reviews": 137,
+      "href": "/firms/rock-solid-home-inspections-m225/"
+    },
+    {
+      "name": "RockSolid Home Inspections",
+      "town": "Maple Grove, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00024",
+      "rating": 4.9,
+      "reviews": 137,
+      "href": "/firms/rocksolid-home-inspections-m226/"
+    },
+    {
+      "name": "RTCA Radon Testing Corporation of America Inc",
+      "town": "Elmsford, NY",
+      "service": "Radon lab",
+      "cred": "MDH radon license",
+      "rating": 4.9,
+      "reviews": 27,
+      "href": "/firms/rtca-radon-testing-corporation-of-america-inc-m228/"
+    },
+    {
+      "name": "Septic Check",
+      "town": "Milaca, MN",
+      "service": "Septic inspection",
+      "cred": "MPCA L2624",
+      "rating": 4.9,
+      "reviews": 749,
+      "href": "/firms/septic-check-sl2624/"
+    },
+    {
+      "name": "Solution Enhance LLC",
+      "town": "East Bethel, MN",
+      "service": "Radon measurement · Radon mitigation",
+      "cred": "MDH RMEA-00616 · +1 more",
+      "rating": 5.0,
+      "reviews": 56,
+      "href": "/firms/solution-enhance-llc-m234/"
+    },
+    {
+      "name": "Structure Tech",
+      "town": "St. Louis Park, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00427",
+      "rating": 5.0,
+      "reviews": 5277,
+      "href": "/firms/structure-tech-m238/"
+    },
+    {
+      "name": "Suburban Home Inspections Inc",
+      "town": "Woodbury, MN",
+      "service": "Radon measurement",
+      "cred": "MDH RMEA-00129",
+      "rating": 5.0,
+      "reviews": 48,
+      "href": "/firms/suburban-home-inspections-inc-m239/"
+    },
+    {
+      "name": "SWAT Environmental",
+      "town": "New Berlin, WI",
+      "service": "Radon mitigation",
+      "cred": "MDH RMIT-00063 · +4 more",
+      "rating": 4.8,
+      "reviews": 107,
+      "href": "/firms/swat-environmental-m240/"
+    },
+    {
+      "name": "Timber Lakes Septic Service, Inc.",
+      "town": "Aitkin, MN",
+      "service": "Septic inspection",
+      "cred": "MPCA L455",
+      "rating": 4.7,
+      "reviews": 33,
+      "href": "/firms/timber-lakes-septic-service-inc-sl455/"
+    },
+    {
+      "name": "Todd Kremer",
+      "town": "Saint Paul, MN",
+      "service": "Saint Paul TISH",
+      "cred": "Saint Paul TISH",
+      "rating": 4.8,
+      "reviews": 520,
+      "href": "/firms/todd-kremer-inspecta-homes-inc-t18/"
+    }
+  ]
+}

@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/lakes-area-home-inspection-m142/
 
 * Radon measurement
 * Fergus Falls, MN (Otter Tail County)
-* Phone: (218) 731-2897
 * Address: 1016 Redwood Ln, Fergus Falls, MN 56537
 * Google rating: 2.3 from 3 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/integri-spec-llc-m133/
 
 * Radon measurement
 * Winona, MN (Winona County)
-* Phone: (507) 458-4566
-* Website: https://www.integrispec.com
 * Address: 278 Mankato Ave, Suite 204, Winona, MN 55987
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

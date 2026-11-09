@@ -1,6 +1,6 @@
 ---
 title: "Tessa's Septic Design & Inspection LLC, Laporte MN"
-description: "Tessa's Septic Design & Inspection in Laporte, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Tessa's Septic Design & Inspection in Laporte, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/tessa-s-septic-design-inspection-llc-sl4267/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/tessa-s-septic-design-inspection-llc
 
 * Septic (SSTS) inspection
 * Laporte, MN (Hubbard County)
-* Phone: (218) 210-3480
-* Email: tessashepard123@gmail.com
 * Address: 42554 County 45, Laporte, MN 56461
 * MPCA SSTS licence L4267: Inspector (exp. 2026-12-14)
 * Also licensed: Designer, Installer, Pipelayer

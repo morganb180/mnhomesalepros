@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/total-outdoor-solutions-llc-sl4203/
 
 * Septic (SSTS) inspection
 * Isanti, MN (Isanti County)
-* Phone: (651) 276-5873
-* Email: eli@tosmn.com
 * Address: 4698 269th Ave NE, Isanti, MN 55040
 * MPCA SSTS licence L4203: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-05-01)
 * Also licensed: Designer, Installer, Service provider, Pipelayer

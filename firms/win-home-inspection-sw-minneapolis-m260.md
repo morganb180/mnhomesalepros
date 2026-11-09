@@ -1,6 +1,6 @@
 ---
 title: "WIN Home Inspection SW Minneapolis, Minneapolis MN"
-description: "WIN Home Inspection SW Minneapolis in Minneapolis, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
+description: "WIN Home Inspection SW Minneapolis in Minneapolis, MN: MDH licensed for radon measurement. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/win-home-inspection-sw-minneapolis-m260/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/win-home-inspection-sw-minneapolis-m
 
 * Radon measurement
 * Minneapolis, MN (Hennepin County)
-* Phone: (612) 940-5897
 * Address: 2501 Humboldt Ave S, Minneapolis, MN 55405
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/amerispec-inspection-services-m024/
 
 * Radon measurement
 * Minneapolis, MN (Hennepin County)
-* Phone: (763) 498-7845
 * Address: 321 W Diamond Lake Rd, Minneapolis, MN 55419
 * Google rating: 3.8 from 10 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/milind-angolkar-structure-tech-home-
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (952) 915-6466
-* Email: milind@structuretech1.com
 * Address: Saint Paul, MN
 * Google rating: 5.0 from 5277 reviews (as of Oct 18, 2026)
 * Saint Paul-approved Truth-in-Sale of Housing evaluator

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/homtech-inc-m112/
 
 * Radon measurement
 * Apple Valley, MN (Dakota County)
-* Phone: (612) 408-4000
-* Website: https://www.inspectwithkarl.com
 * Address: 6921 137th Ct W, Apple Valley, MN 55124
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

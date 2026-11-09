@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Midwest Sewer Services
 
 6616 Indian Wells Trail, Grant, MN 55110  
-☎ [(651) 492-7550](tel:6514927550)  
 ✉ Brian@midwestsoiltesting.com
 
 Certified staff: Brian L Humpal, Christopher R Uebe, Vincent W Humpal  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### SS Septic Solutions LLC
 
 14845 113th St S, Hastings, MN 55033  
-☎ [(651) 343-9117](tel:6513439117)  
 ✉ sssepticsolutions@gmail.com
 
 Certified staff: Shelley L Schlomka  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### David R. Brown
 
 PO Box 251026, Woodbury, MN 55125  
-☎ [(651) 788-3296](tel:6517883296)  
 ✉ drufusb1@yahoo.com
 
 Certified staff: David R Brown  
@@ -66,8 +63,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### 1st Defense Radon
 
 9120 Hillside Tr S, Cottage Grove, MN 55016  
-☎ [(651) 503-3131](tel:6515033131)  
-🌐 [firstdefenseradon.com](https://firstdefenseradon.com)
 
 1 MDH-licensed professional
 
@@ -81,8 +76,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### All-in-One Home Inspecting
 
 7985 113th St S, Cottage Grove, MN 55016  
-☎ [(651) 452-4663](tel:6514524663)  
-🌐 [allinonehomeinspecting.com](https://allinonehomeinspecting.com)
 
 1 MDH-licensed professional
 
@@ -96,8 +89,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Metro Mitigation
 
 7985 113th St S, Cottage Grove, MN 55016  
-☎ [(651) 371-5161](tel:6513715161)  
-🌐 [metromitigation.com](https://metromitigation.com)
 
 1 MDH-licensed professional
 
@@ -111,8 +102,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Prairie Home Inspections
 
 20756 Keewahtin Ave North, Forest Lake, MN 55025  
-☎ [(612) 250-9251](tel:6122509251)  
-🌐 [prairiehomeinspections.com](https://www.prairiehomeinspections.com)
 
 3 MDH-licensed professionals
 
@@ -128,8 +117,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### North Star Radon Solutions LLC
 
 8031 9th St Way N, Oakdale, MN 55128  
-☎ [(651) 483-5885](tel:6514835885)  
-🌐 [northstarradon.com](https://www.northstarradon.com)
 
 2 MDH-licensed professionals
 
@@ -144,8 +131,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Acer Home Inspections
 
 14042 Olinda Blvd North, Stillwater, MN 55082  
-☎ [(651) 592-8810](tel:6515928810)  
-🌐 [acerinspections.com](https://www.acerinspections.com)
 
 2 MDH-licensed professionals
 
@@ -160,7 +145,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Midland Inspections LLC
 
 2477 Lone Eagle Tr, Woodbury, MN 55129  
-☎ [(612) 282-3426](tel:6122823426)
 
 2 MDH-licensed professionals
 
@@ -175,8 +159,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Suburban Home Inspections Inc
 
 1209 Clearwater Dr, Woodbury, MN 55129  
-☎ [(651) 276-9918](tel:6512769918)  
-🌐 [homeinvestigator.com](https://www.homeinvestigator.com)
 
 1 MDH-licensed professional
 
@@ -189,7 +171,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Washington County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=washington)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=washington)
 
 ## Frequently asked questions
 
@@ -211,7 +193,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Washington County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Washington County, MN?
 

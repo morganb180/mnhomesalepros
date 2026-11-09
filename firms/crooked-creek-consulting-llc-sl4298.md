@@ -1,6 +1,6 @@
 ---
 title: "Crooked Creek Consulting LLC: Septic Inspector, Hinckley MN"
-description: "Crooked Creek Consulting in Hinckley, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Crooked Creek Consulting in Hinckley, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/crooked-creek-consulting-llc-sl4298/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/crooked-creek-consulting-llc-sl4298/
 
 * Septic (SSTS) inspection
 * Hinckley, MN (Pine County)
-* Phone: (320) 279-3353
-* Email: crookedcreek63@gmail.com
 * Address: 53329 Barns Spring Rd, Hinckley, MN 55037
 * MPCA SSTS licence L4298: Inspector (exp. 2027-05-19)
 * Also licensed: Designer, Installer, Pipelayer

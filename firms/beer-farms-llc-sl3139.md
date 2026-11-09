@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/beer-farms-llc-sl3139/
 
 * Septic (SSTS) inspection
 * Preston, MN (Fillmore County)
-* Phone: (507) 937-3168
-* Email: rodney.beer@frontiernet.net
 * Address: 18031 140th St, Preston, MN 55965
 * Google rating: 3.5 from 2 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L3139: Inspector (exp. 2027-07-13)

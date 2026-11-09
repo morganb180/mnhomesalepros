@@ -1,6 +1,6 @@
 ---
 title: "Glenn’s Fix It LLC, Hibbing, MN | MN Home Sale Pros"
-description: "Glenn’s Fix It in Hibbing, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Glenn’s Fix It in Hibbing, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/glenn-s-fix-it-llc-m085/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/glenn-s-fix-it-llc-m085/
 
 * Radon measurement, Radon mitigation
 * Hibbing, MN (St. Louis County)
-* Phone: (218) 969-5543
 * Address: 422 Highland Dr, Box 165, Hibbing, MN 55746
 * MDH radon: Multi Family Measurement, Multi Family Mitigation, Schools & Large Buildings Measurement, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): Statewide

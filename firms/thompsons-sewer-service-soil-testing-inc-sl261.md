@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/thompsons-sewer-service-soil-testing
 
 * Septic (SSTS) inspection
 * Rush City, MN (Chisago County)
-* Phone: (320) 358-9941
-* Email: pcthompson2010@hotmail.com
 * Address: 49861 Government Rd, Rush City, MN 55069
 * Google rating: 4.6 from 35 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L261: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-03-20)

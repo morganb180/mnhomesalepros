@@ -1,6 +1,6 @@
 ---
 title: "Northwoods Excavating Services: Septic Inspector, Bovey MN"
-description: "Northwoods Excavating Services in Bovey, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Northwoods Excavating Services in Bovey, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/northwoods-excavating-services-inc-sl1885/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/northwoods-excavating-services-inc-s
 
 * Septic (SSTS) inspection
 * Bovey, MN (Itasca County)
-* Phone: (218) 245-3659
 * Address: 41086 Scenic Hwy, Bovey, MN 55709
 * Google rating: 5.0 from 11 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1885: Inspector (exp. 2027-07-29)

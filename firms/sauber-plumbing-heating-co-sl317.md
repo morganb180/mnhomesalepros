@@ -1,6 +1,6 @@
 ---
 title: "Sauber Plumbing & Heating Co, Farmington MN"
-description: "Sauber Plumbing & Heating Co in Farmington, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Sauber Plumbing & Heating Co in Farmington, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/sauber-plumbing-heating-co-sl317/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/sauber-plumbing-heating-co-sl317/
 
 * Septic (SSTS) inspection
 * Farmington, MN (Dakota County)
-* Phone: (651) 463-7434
-* Email: jerry@sauber.us
 * Address: 100 Third St, Farmington, MN 55024
 * MPCA SSTS licence L317: Inspector (exp. 2027-03-31)
 * Also licensed: Designer, Installer, Pipelayer

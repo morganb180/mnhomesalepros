@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/wrm-services-inc-sl1921/
 
 * Septic (SSTS) inspection
 * Kimball, MN (Stearns County)
-* Phone: (320) 398-2705
-* Email: bernie@millerssewage.com
 * Address: 9075 155th St, Kimball, MN 55353
 * MPCA SSTS licence L1921: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-06-11)
 * Also licensed: Designer, Maintainer, Service provider

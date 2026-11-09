@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/todd-kremer-inspecta-homes-inc-t18/
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (651) 641-0641
-* Email: sabrina@inspectahomes.com
 * Address: Saint Paul, MN
 * Google rating: 4.8 from 520 reviews (as of Oct 18, 2026)
 * Saint Paul-approved Truth-in-Sale of Housing evaluator

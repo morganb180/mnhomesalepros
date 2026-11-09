@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/soderville-inc-sl600/
 
 * Septic (SSTS) inspection
 * Soderville, MN (Anoka County)
-* Phone: (763) 228-1004
-* Email: sodervilleinc@hotmail.com
 * Address: 17616 Hwy 65, Soderville, MN 55304
 * MPCA SSTS licence L600: Inspector (exp. 2029-02-18)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/presto-restoration-llc-dba-radon-be-
 
 * Radon measurement, Radon mitigation
 * Maple Grove, MN (Hennepin County)
-* Phone: (763) 316-5614
-* Website: https://www.radonbegone.us
 * Address: 10650 Cty Rd 81, Suite I, Maple Grove, MN 55369
 * Google rating: 5.0 from 6 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Mitigation, Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/minnesota-septic-inspection-sl4289/
 
 * Septic (SSTS) inspection
 * Randolph, MN (Dakota County)
-* Phone: (507) 581-2224
-* Email: volkertsheldon@gmail.com
 * Address: 29137 Northfield Blvd, Randolph, MN 55065
 * MPCA SSTS licence L4289: Inspector (exp. 2027-04-06)
 * bonded · insured

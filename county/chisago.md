@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Zierke Soil Testing, LLC
 
 28587 Jeffrey Ave, Chisago City, MN 55013  
-☎ [(651) 249-1346](tel:6512491346)  
 ✉ benzierke@gmail.com
 
 Certified staff: Benjamin J Zierke  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### AT Septic Inspection & Design Inc
 
 49861 Government Rd, Rush City, MN 55069  
-☎ [(320) 980-0235](tel:3209800235)  
 ✉ atsepticinspections@gmail.com
 
 Certified staff: Amy J Thompson  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Thompsons Sewer Service & Soil Testing Inc
 
 49861 Government Rd, Rush City, MN 55069  
-☎ [(320) 358-9941](tel:3203589941)  
 ✉ pcthompson2010@hotmail.com
 
 Certified staff: Amy J Thompson, Cindy L Thompson, Gerald P Thompson, Phillip E Thompson  
@@ -66,8 +63,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Solution Enhance LLC
 
 2816 183rd Ave NE, East Bethel, MN 55092  
-☎ [(651) 424-3075](tel:6514243075)  
-🌐 [solutionenhance.com](https://solutionenhance.com/)
 
 2 MDH-licensed professionals
 
@@ -82,8 +77,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Hss
 
 3140 Viking Blvd NE, Wyoming, MN 55092  
-☎ [(763) 434-3263](tel:7634343263)  
-🌐 [homesafetysolutionsinc.com](https://www.homesafetysolutionsinc.com/)
 
 2 MDH-licensed professionals
 
@@ -97,7 +90,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Chisago County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=chisago)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=chisago)
 
 ## Frequently asked questions
 
@@ -119,7 +112,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Chisago County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Chisago County, MN?
 

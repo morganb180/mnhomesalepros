@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/lakes-area-septic-llc-sl1840/
 
 * Septic (SSTS) inspection
 * Crosslake, MN (Crow Wing County)
-* Phone: (218) 851-1563
-* Email: amy.wannebo@gmail.com
 * Address: 37753 Ox Lake Landing, Crosslake, MN 56442
 * Google rating: 4.9 from 39 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1840: Inspector (exp. 2027-02-24)

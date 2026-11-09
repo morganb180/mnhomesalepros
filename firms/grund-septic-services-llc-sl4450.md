@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/grund-septic-services-llc-sl4450/
 
 * Septic (SSTS) inspection
 * Aitkin, MN (Aitkin County)
-* Phone: (507) 384-1256
-* Email: jody.grund@co.aitkin.mn.us
 * Address: 35831 295th St, Aitkin, MN 56431
 * MPCA SSTS licence L4450: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-06-10)
 * Also licensed: Service provider

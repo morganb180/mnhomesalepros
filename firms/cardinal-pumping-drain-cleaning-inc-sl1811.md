@@ -1,6 +1,6 @@
 ---
 title: "Cardinal Pumping & Drain Cleaning, Inc, Winona MN"
-description: "Cardinal Pumping & Drain Cleaning in Winona, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Cardinal Pumping & Drain Cleaning in Winona, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/cardinal-pumping-drain-cleaning-inc-sl1811/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/cardinal-pumping-drain-cleaning-inc-
 
 * Septic (SSTS) inspection
 * Winona, MN (Winona County)
-* Phone: (507) 454-7494
-* Email: mueller.larry@yahoo.com
 * Address: 30146 Northwood Dr, Winona, MN 55987
 * Google rating: 4.8 from 16 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1811: Inspector (exp. 2027-04-13)

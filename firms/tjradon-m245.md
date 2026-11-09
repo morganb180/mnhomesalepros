@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/tjradon-m245/
 
 * Radon measurement, Radon mitigation
 * South St. Paul, MN (Dakota County)
-* Phone: (651) 900-4227
-* Website: https://www.tjradon.com
 * Address: 600 13th Ave N, South St. Paul, MN 55075
 * MDH radon: Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 50 miles

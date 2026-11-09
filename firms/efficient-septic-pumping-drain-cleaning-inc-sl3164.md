@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/efficient-septic-pumping-drain-clean
 
 * Septic (SSTS) inspection
 * New London, MN (Kandiyohi County)
-* Phone: (320) 354-0108
-* Email: oakridgeconstruction@tds.net
 * Address: 604 4th Ave SW, New London, MN 56273
 * Google rating: 5.0 from 8 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L3164: Inspector (exp. 2028-04-04)

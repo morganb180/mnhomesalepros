@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Great Northern Septic, LLC
 
 28544 160th Ave SW, Crookston, MN 56716  
-☎ [(218) 289-6524](tel:2182896524)  
 ✉ maygra4263@gmail.com
 
 Certified staff: Brandon J Maygra  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Hensch's Septic Services LLC
 
 29808 270th St SW, Crookston, MN 56716  
-☎ [(218) 770-6612](tel:2187706612)  
 ✉ dylanhensch14@hotmail.com
 
 Certified staff: Dylan R Hensch  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Hedlund Backhoe Service
 
 235 Riverside Ave NE, McIntosh, MN 56556  
-☎ [(218) 563-2722](tel:2185632722)  
 ✉ hedlundbackhoe1@gmail.com
 
 Certified staff: Angel L Hedlund, Shawn A Hedlund  
@@ -65,7 +62,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Polk County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=polk)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=polk)
 
 ## Frequently asked questions
 
@@ -87,7 +84,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Polk County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Polk County, MN?
 

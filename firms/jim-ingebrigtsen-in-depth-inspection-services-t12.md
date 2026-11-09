@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/jim-ingebrigtsen-in-depth-inspection
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (612) 747-2387
-* Email: indepthinspections@gmail.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

@@ -1,6 +1,6 @@
 ---
 title: "Black Bear Builders, Elk River, MN | MN Home Sale Pros"
-description: "Black Bear Builders in Elk River, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Black Bear Builders in Elk River, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/black-bear-builders-m037/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/black-bear-builders-m037/
 
 * Radon measurement, Radon mitigation
 * Elk River, MN (Sherburne County)
-* Phone: (612) 282-7949
-* Website: https://blackbearbuildersmn.com
 * Address: 13333 179th Cir NW, Elk River, MN 55330
 * MDH radon: Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 50 miles

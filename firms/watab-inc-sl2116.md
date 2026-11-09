@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/watab-inc-sl2116/
 
 * Septic (SSTS) inspection
 * Saint Joseph, MN (Stearns County)
-* Phone: (320) 363-1300
-* Email: tim@watab.net
 * Address: 14234 Fruit Farm Rd, Saint Joseph, MN 56374
 * Google rating: 4.4 from 13 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2116: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-02-19)

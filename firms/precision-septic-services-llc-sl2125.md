@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/precision-septic-services-llc-sl2125
 
 * Septic (SSTS) inspection
 * Alden, MN (Freeborn County)
-* Phone: (507) 265-3965
-* Email: DougPSSLLC@wctatel.net
 * Address: 65497 170th St, Alden, MN 56009
 * MPCA SSTS licence L2125: Inspector, Intermediate Inspector (exp. 2027-08-12)
 * Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer

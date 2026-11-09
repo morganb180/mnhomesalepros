@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/maki-trucking-inc-sl4121/
 
 * Septic (SSTS) inspection
 * Cloquet, MN (Carlton County)
-* Phone: (218) 348-0612
-* Email: ken@kmaki.net
 * Address: PO Box 106, Cloquet, MN 55720
 * MPCA SSTS licence L4121: Inspector (exp. 2027-08-31)
 * Also licensed: Designer, Installer, Pipelayer

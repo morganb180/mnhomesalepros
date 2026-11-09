@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/mann-valley-llc-m154/
 
 * Radon measurement
 * River Falls, WI (Pierce County)
-* Phone: (612) 499-1858
-* Website: https://mannvalleyinspections.com
 * Address: 361 Mann Valley Dr, River Falls, WI 54022
 * MDH radon: Multi Family Measurement, Single Family Measurement
 * Service area (per MDH): Statewide

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/des-moines-radon-m063/
 
 * Radon measurement
 * Des Moines, IA (Polk County)
-* Phone: (515) 210-4407
-* Website: https://dsmradon.com
 * Address: 5644 NE 17th St, Des Moines, IA 50313
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): Statewide

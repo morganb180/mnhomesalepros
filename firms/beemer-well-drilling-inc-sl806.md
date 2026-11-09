@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/beemer-well-drilling-inc-sl806/
 
 * Septic (SSTS) inspection
 * Fairmont, MN (Martin County)
-* Phone: (507) 235-6779
-* Email: jasmine@beemer.us
 * Address: 1988 135th St, Fairmont, MN 56031
 * Google rating: 4.2 from 12 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L806: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-02-08)

@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Custom Septic Inc
 
 32749 199th Ave, Menahga, MN 56464  
-☎ [(218) 564-5800](tel:2185645800)  
 ✉ brad@customseptic.com
 
 Certified staff: Brad O Krotzer, Joshua D Ettesvold  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### L & B Excavating Inc
 
 PO Box 185, Menahga, MN 56464  
-☎ [(218) 564-5731](tel:2185645731)  
 ✉ leehenry1986@gmail.com
 
 Certified staff: Lee Hendrickson  
@@ -52,7 +50,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Wadena County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=wadena)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=wadena)
 
 ## Frequently asked questions
 
@@ -74,7 +72,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Wadena County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Wadena County, MN?
 

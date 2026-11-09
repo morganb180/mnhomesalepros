@@ -1,6 +1,6 @@
 ---
 title: "Northern Environmental Solutions LLC, Duluth MN"
-description: "Northern Environmental Solutions in Duluth, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Northern Environmental Solutions in Duluth, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/northern-environmental-solutions-llc-sl4072/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/northern-environmental-solutions-llc
 
 * Septic (SSTS) inspection
 * Duluth, MN (Saint Louis County)
-* Phone: (218) 600-8808
-* Email: aparrott004@gmail.com
 * Address: 3867 Sandberg Rd, Duluth, MN 55810
 * Google rating: 5.0 from 3 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L4072: Inspector (exp. 2027-08-20)

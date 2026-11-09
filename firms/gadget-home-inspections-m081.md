@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/gadget-home-inspections-m081/
 
 * Radon measurement
 * St. Paul, MN (Ramsey County)
-* Phone: (651) 245-8041
-* Website: https://www.gadgetinspections.com
 * Address: 1808 Hyacinth Ave E, St. Paul, MN 55119
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

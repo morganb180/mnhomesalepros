@@ -1,6 +1,6 @@
 ---
 title: "Schirmers Percolation Testing, Inc, Saint Michael MN"
-description: "Schirmers Percolation Testing in Saint Michael, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Schirmers Percolation Testing in Saint Michael, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/schirmers-percolation-testing-inc-sl394/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/schirmers-percolation-testing-inc-sl
 
 * Septic (SSTS) inspection
 * Saint Michael, MN (Wright County)
-* Phone: (763) 497-3566
-* Email: sptesting.wastewater@comcast.net
 * Address: 951 Katydid Ln NE, Saint Michael, MN 55376
 * Google rating: 3.9 from 7 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L394: Inspector (exp. 2027-04-07)

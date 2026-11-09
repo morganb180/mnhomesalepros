@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/w-roberts-excavating-llc-sl919/
 
 * Septic (SSTS) inspection
 * Pengilly, MN (Itasca County)
-* Phone: (218) 885-3434
-* Email: wrobertsexcavating@gmail.com
 * Address: 27390 State Hwy 65, Pengilly, MN 55775
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L919: Inspector (exp. 2027-04-27)

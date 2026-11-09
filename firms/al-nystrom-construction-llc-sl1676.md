@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/al-nystrom-construction-llc-sl1676/
 
 * Septic (SSTS) inspection
 * Remer, MN (Cass County)
-* Phone: (218) 820-0558
-* Email: atnystrom@msn.com
 * Address: PO Box 354, Remer, MN 56672
 * MPCA SSTS licence L1676: Inspector (exp. 2027-02-03)
 * Also licensed: Designer, Installer, Pipelayer

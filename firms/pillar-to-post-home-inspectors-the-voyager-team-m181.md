@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/pillar-to-post-home-inspectors-the-v
 
 * Radon measurement
 * Battle Lake, MN (Otter Tail County)
-* Phone: (218) 864-7100
-* Website: https://voyagerteam.pillartopost.com
 * Address: 17092 332nd Ave, Battle Lake, MN 56515
 * Google rating: 5.0 from 89 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

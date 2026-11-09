@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/katz-family-home-inspection-llc-m137
 
 * Radon measurement
 * Edina, MN (Hennepin County)
-* Phone: (952) 239-1053
-* Website: https://www.katzfamilyhomeinspection.com
 * Address: 6309 Mildred Ave, Edina, MN 55439
 * Google rating: 5.0 from 356 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

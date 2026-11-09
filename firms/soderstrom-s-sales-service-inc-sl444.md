@@ -1,6 +1,6 @@
 ---
 title: "Soderstrom's Sales & Service: Septic Inspector, Isanti MN"
-description: "Soderstrom's Sales & Service in Isanti, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Soderstrom's Sales & Service in Isanti, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/soderstrom-s-sales-service-inc-sl444/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/soderstrom-s-sales-service-inc-sl444
 
 * Septic (SSTS) inspection
 * Isanti, MN (Isanti County)
-* Phone: (763) 434-6140
-* Email: suarro1@netzero.net
 * Address: 3576 303rd Ave NW, Isanti, MN 55040
 * MPCA SSTS licence L444: Inspector (exp. 2027-09-14)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

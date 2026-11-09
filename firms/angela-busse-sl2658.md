@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/angela-busse-sl2658/
 
 * Septic (SSTS) inspection
 * Saint Cloud, MN (Sherburne County)
-* Phone: (320) 743-2482
-* Email: angelaannettebusse@gmail.com
 * Address: 10600 26th St SE, Saint Cloud, MN 56304
 * Google rating: 5.0 from 5 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2658: Inspector (exp. 2028-02-28)

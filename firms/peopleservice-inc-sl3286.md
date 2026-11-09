@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/peopleservice-inc-sl3286/
 
 * Septic (SSTS) inspection
 * Omaha, NE (Rock County)
-* Phone: (402) 344-4800
 * Address: 209 S 19th St Suite 555, Omaha, NE 68102
 * Google rating: 2.5 from 12 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L3286: Inspector (exp. 2029-09-17)

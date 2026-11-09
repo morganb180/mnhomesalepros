@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/horizon-inspections-llc-m113/
 
 * Radon measurement
 * Detroit Lakes, MN (Becker County)
-* Phone: (218) 303-7243
-* Website: https://whyhorizon.com
 * Address: PO Box 1465, Detroit Lakes, MN 56502
 * Google rating: 5.0 from 240 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/joshua-scott-lighthouse-home-inspect
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (651) 245-4594
-* Email: joshua@lhinspect.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

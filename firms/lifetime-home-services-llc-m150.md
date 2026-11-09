@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/lifetime-home-services-llc-m150/
 
 * Radon mitigation
 * Brookfield, WI (Waukesha County)
-* Phone: (262) 955-5701
 * Address: 3485 N 124th St, Brookfield, WI 53005
 * Google rating: 4.8 from 100 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Mitigation, Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation

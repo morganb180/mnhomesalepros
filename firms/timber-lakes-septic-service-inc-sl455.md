@@ -1,6 +1,6 @@
 ---
 title: "Timber Lakes Septic Service: Septic Inspector, Aitkin MN"
-description: "Timber Lakes Septic Service in Aitkin, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Timber Lakes Septic Service in Aitkin, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/timber-lakes-septic-service-inc-sl455/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/timber-lakes-septic-service-inc-sl45
 
 * Septic (SSTS) inspection
 * Aitkin, MN (Aitkin County)
-* Phone: (218) 927-6175
-* Email: tim@goblessewerservice.com
 * Address: 1037 1st St NW, Aitkin, MN 56431
 * Google rating: 4.7 from 33 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L455: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-04-02)

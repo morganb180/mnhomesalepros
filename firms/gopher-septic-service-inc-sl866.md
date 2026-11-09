@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/gopher-septic-service-inc-sl866/
 
 * Septic (SSTS) inspection
 * Rochester, MN (Olmsted County)
-* Phone: (507) 282-2243
-* Email: gopherseptic@gmail.com
 * Address: PO Box 9280, Rochester, MN 55903
 * MPCA SSTS licence L866: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2028-05-10)
 * Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer

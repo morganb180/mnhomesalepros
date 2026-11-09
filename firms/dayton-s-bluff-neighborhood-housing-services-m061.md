@@ -1,6 +1,6 @@
 ---
 title: "Dayton's Bluff Neighborhood Housing Services, St. Paul MN"
-description: "Dayton's Bluff Neighborhood Housing Services in St. Paul, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
+description: "Dayton's Bluff Neighborhood Housing Services in St. Paul, MN: MDH licensed for radon measurement. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/dayton-s-bluff-neighborhood-housing-services-m061/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/dayton-s-bluff-neighborhood-housing-
 
 * Radon measurement
 * St. Paul, MN (Ramsey County)
-* Phone: (651) 297-6222
 * Address: 823 E 7th St, St. Paul, MN 55106
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

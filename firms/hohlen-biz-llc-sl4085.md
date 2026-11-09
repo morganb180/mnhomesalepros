@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/hohlen-biz-llc-sl4085/
 
 * Septic (SSTS) inspection
 * Saint Cloud, MN (Stearns County)
-* Phone: (320) 200-8994
-* Email: keithhohlen@gmail.com
 * Address: 126 15th Ave N, Saint Cloud, MN 56303
 * MPCA SSTS licence L4085: Inspector (exp. 2027-10-04)
 * Also licensed: Designer, Installer, Pipelayer

@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/pat-mccabe-sl2034/
 
 * Septic (SSTS) inspection
 * Cleveland, MN (Le Sueur County)
-* Phone: (507) 931-5981
 * Address: 42998 261st Ave, Cleveland, MN 56017
 * MPCA SSTS licence L2034: Inspector (exp. 2029-07-20)
 * Also licensed: Designer, Installer, Pipelayer

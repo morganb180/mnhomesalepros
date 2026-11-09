@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/phb-excavating-llc-sl2053/
 
 * Septic (SSTS) inspection
 * Motley, MN (Cass County)
-* Phone: (218) 639-5007
-* Email: phbjerga@hotmail.com
 * Address: 11865 79th Ave SW, Motley, MN 56466
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2053: Inspector (exp. 2027-05-11)

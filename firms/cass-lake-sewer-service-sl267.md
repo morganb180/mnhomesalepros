@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/cass-lake-sewer-service-sl267/
 
 * Septic (SSTS) inspection
 * Laporte, MN (Hubbard County)
-* Phone: (218) 556-5229
-* Email: clssjeff@gmail.com
 * Address: 29315 470th St, Laporte, MN 56461
 * MPCA SSTS licence L267: Inspector (exp. 2026-11-07)
 * Also licensed: Designer, Installer, Pipelayer

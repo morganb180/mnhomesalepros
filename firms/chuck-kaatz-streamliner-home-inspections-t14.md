@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/chuck-kaatz-streamliner-home-inspect
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (612) 670-3831
-* Email: chuck@streamlinerinspections.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

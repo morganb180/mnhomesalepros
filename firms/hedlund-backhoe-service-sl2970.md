@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/hedlund-backhoe-service-sl2970/
 
 * Septic (SSTS) inspection
 * McIntosh, MN (Polk County)
-* Phone: (218) 563-2722
-* Email: hedlundbackhoe1@gmail.com
 * Address: 235 Riverside Ave NE, McIntosh, MN 56556
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2970: Inspector (exp. 2027-08-31)

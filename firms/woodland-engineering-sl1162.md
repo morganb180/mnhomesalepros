@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/woodland-engineering-sl1162/
 
 * Septic (SSTS) inspection
 * Maplewood, MN (Ramsey County)
-* Phone: (651) 704-9244
-* Email: gusta002@umn.edu
 * Address: 1725 Larpenteur Ave E, Maplewood, MN 55109
 * MPCA SSTS licence L1162: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2026-11-03)
 * Also licensed: Designer, Service provider

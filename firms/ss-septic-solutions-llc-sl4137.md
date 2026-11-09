@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ss-septic-solutions-llc-sl4137/
 
 * Septic (SSTS) inspection
 * Hastings, MN (Washington County)
-* Phone: (651) 343-9117
-* Email: sssepticsolutions@gmail.com
 * Address: 14845 113th St S, Hastings, MN 55033
 * MPCA SSTS licence L4137: Inspector (exp. 2026-11-05)
 * Also licensed: Designer, Installer, Pipelayer

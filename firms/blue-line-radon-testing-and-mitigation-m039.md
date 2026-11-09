@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/blue-line-radon-testing-and-mitigati
 
 * Radon measurement, Radon mitigation
 * Coon Rapids, MN (Anoka County)
-* Phone: (763) 202-9742
-* Website: https://bluelineradon.com
 * Address: 700 86th Ave NW, Coon Rapids, MN 55433
 * MDH radon: Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): Statewide

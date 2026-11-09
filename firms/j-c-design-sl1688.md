@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/j-c-design-sl1688/
 
 * Septic (SSTS) inspection
 * Iron Junction, MN (Saint Louis County)
-* Phone: (218) 404-3964
-* Email: janetcoon2019@gmail.com
 * Address: 8783 Iron Junction Rd, Iron Junction, MN 55751
 * MPCA SSTS licence L1688: Inspector (exp. 2027-05-08)
 * Also licensed: Designer

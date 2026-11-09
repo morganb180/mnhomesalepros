@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/hobs-excavating-inc-sl4189/
 
 * Septic (SSTS) inspection
 * Elk River, MN (Anoka County)
-* Phone: (763) 241-3908
-* Email: brian@hobs-excavating.com
 * Address: 20975 Engen Blvd NW, Elk River, MN 55330
 * MPCA SSTS licence L4189: Inspector (exp. 2028-11-05)
 * Also licensed: Designer, Installer, Pipelayer

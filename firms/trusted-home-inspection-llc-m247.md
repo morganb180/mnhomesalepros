@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/trusted-home-inspection-llc-m247/
 
 * Radon measurement
 * Apple Valley, MN (Dakota County)
-* Phone: (612) 224-6659
 * Address: 15221 Florist Cir, Apple Valley, MN 55124
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/elite-radon-m072/
 
 * Radon measurement, Radon mitigation
 * Maplewood, MN (Ramsey County)
-* Phone: (651) 236-0244
-* Website: https://www.eliteradonmn.com
 * Address: 2209 Payne Ave, Maplewood, MN 55117
 * Google rating: 5.0 from 10 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement, Single Family Mitigation

@@ -16,7 +16,7 @@ Listings come from public Minnesota records, all retrieved and checked on 2026-1
 ## What we don't verify
 
 * Workmanship, prices, insurance or availability.
-* Phone numbers and websites added later by a provider, until the claim process checks them against the official record.
+* We do not publish a firm's phone, email or website. A claim can correct the name, credential and address we show, after we check it against the official record.
 
 ## Corrections
 

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/renner-excavating-llc-sl2567/
 
 * Septic (SSTS) inspection
 * Audubon, MN (Becker County)
-* Phone: (218) 439-3514
-* Email: rjrenner@loretel.net
 * Address: 14306 County Hwy 11, Audubon, MN 56511
 * Google rating: 5.0 from 4 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2567: Inspector (exp. 2027-03-29)

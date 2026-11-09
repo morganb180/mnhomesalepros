@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/r-r-septic-sl2846/
 
 * Septic (SSTS) inspection
 * Onamia, MN (Mille Lacs County)
-* Phone: (320) 532-4968
-* Email: rstraka@hotmail.com
 * Address: 11603 290th St, Onamia, MN 56359
 * MPCA SSTS licence L2846: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2028-04-11)
 * Also licensed: Designer, Installer, Service provider, Pipelayer

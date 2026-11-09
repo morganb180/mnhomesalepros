@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/tri-county-septic-inspections-sl2776
 
 * Septic (SSTS) inspection
 * Motley, MN (Cass County)
-* Phone: (218) 352-6903
-* Email: gregkossan@gmail.com
 * Address: 10851 65th Ave SW, Motley, MN 56466
 * MPCA SSTS licence L2776: Inspector (exp. 2027-09-13)
 * bonded · insured

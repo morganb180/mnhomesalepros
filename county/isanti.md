@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Northside Septic Service LLC
 
 1301 245th Ave NE, Bethel, MN 55005  
-☎ [(763) 444-7898](tel:7634447898)  
 ✉ jcarpenter8998@yahoo.com
 
 Certified staff: Jacob C Carpenter, Kyle S Carpenter  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Boettcher Excavating and Septic LLC
 
 28995 Jodrell Dr NE, Cambridge, MN 55008  
-☎ [(763) 444-4930](tel:7634444930)  
 ✉ kristie@boettcherseptic.com
 
 Certified staff: Benjamin S Boettcher, Caleb L Boettcher, Lydia K Romo, Shannon L Boettcher  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Maple Ridge Sewer Inc
 
 PO Box 72, Cambridge, MN 55008  
-☎ [(763) 689-6803](tel:7636896803)  
 ✉ mapleridgesewer@gmail.com
 
 Certified staff: Richard A Weller  
@@ -62,7 +59,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### L&R Septic, LLC
 
 PO Box 61, Dalbo, MN 55017  
-☎ [(763) 242-7942](tel:7632427942)  
 ✉ outforthefall@gmail.com
 
 Certified staff: Robert F Potvin  
@@ -75,7 +71,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### MJL Contracting Inc
 
 5265 269th Ave NE, Isanti, MN 55040  
-☎ [(763) 444-6668](tel:7634446668)  
 ✉ mjlcontract@gmail.com
 
 Certified staff: Danielle Lang, Michael J Lang  
@@ -88,7 +83,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Soderstrom's Sales & Service, Inc.
 
 3576 303rd Ave NW, Isanti, MN 55040  
-☎ [(763) 434-6140](tel:7634346140)  
 ✉ suarro1@netzero.net
 
 Certified staff: Mark L Soderstrom  
@@ -101,7 +95,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Total Outdoor Solutions LLC
 
 4698 269th Ave NE, Isanti, MN 55040  
-☎ [(651) 276-5873](tel:6512765873)  
 ✉ eli@tosmn.com
 
 Certified staff: Elias C Giller, Michael J Jungbauer  
@@ -114,7 +107,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Ark Septic LLC
 
 PO Box 229, Zimmerman, MN 55398  
-☎ [(763) 257-4378](tel:7632574378)  
 ✉ arkseptic17@gmail.com
 
 Certified staff: Ashley R Krause  
@@ -131,8 +123,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Otter Home Inspection
 
 3625 409th Ave NW, Braham, MN 55006  
-☎ [(320) 703-8088](tel:3207038088)  
-🌐 [otterhomeinspections@gmail.com](https://otterhomeinspections@gmail.com)
 
 1 MDH-licensed professional
 
@@ -146,7 +136,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Tru-Mitigation
 
 23547 Washington St NE, East Bethel, MN 55008  
-☎ [(763) 381-4136](tel:7633814136)
 
 1 MDH-licensed professional
 
@@ -159,7 +148,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Isanti County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=isanti)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=isanti)
 
 ## Frequently asked questions
 
@@ -181,7 +170,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Isanti County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Isanti County, MN?
 

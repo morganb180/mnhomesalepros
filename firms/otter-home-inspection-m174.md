@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/otter-home-inspection-m174/
 
 * Radon measurement
 * Braham, MN (Isanti County)
-* Phone: (320) 703-8088
-* Website: https://otterhomeinspections@gmail.com
 * Address: 3625 409th Ave NW, Braham, MN 55006
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): Statewide

@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/air-chek-m015/
 
 * Radon analysis laboratory
 * Mills River, NC (Buncombe County)
-* Phone: (800) 247-2435
 * Address: 1936 Butler Bridge Rd, Mills River, NC 28759
 * MDH radon: Analysis laboratory
 * Service area (per MDH): Statewide (mail-in)

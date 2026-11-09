@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bbg-assessments-llc-m034/
 
 * Radon measurement
 * Dallas, TX (Dallas County)
-* Phone: (612) 219-9385
-* Website: https://www.bbgres.com
 * Address: 8343 Douglas Ave, Suite 700, Dallas, TX 75225
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): Statewide

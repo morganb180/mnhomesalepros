@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/midland-inspections-llc-m159/
 
 * Radon measurement
 * Woodbury, MN (Washington County)
-* Phone: (612) 282-3426
 * Address: 2477 Lone Eagle Tr, Woodbury, MN 55129
 * MDH radon: Single Family Measurement
 * Service area (per MDH): Statewide

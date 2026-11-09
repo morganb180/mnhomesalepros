@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/horseshoe-septic-service-sl617/
 
 * Septic (SSTS) inspection
 * Browerville, MN (Todd County)
-* Phone: (320) 594-2895
-* Email: rpbetsinger@gmail.com
 * Address: 31525 Killdeer Dr, Browerville, MN 56438
 * MPCA SSTS licence L617: Inspector (exp. 2027-03-15)
 * Also licensed: Maintainer

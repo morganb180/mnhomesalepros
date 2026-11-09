@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/radon-removal-inc-m213/
 
 * Radon mitigation
 * Maple Grove, MN (Hennepin County)
-* Phone: (952) 476-6226
-* Website: https://fixradon.com
 * Address: 13570 Grove Dr #254, Maple Grove, MN 55311
 * MDH radon: Multi Family Mitigation, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 50 miles

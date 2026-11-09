@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bluewater-professional-inspections-m
 
 * Radon measurement
 * Duluth, MN (St. Louis County)
-* Phone: (218) 343-5631
 * Address: 5220 Otsego St, Duluth, MN 55804
 * MDH radon: Single Family Measurement
 * Service area (per MDH): Statewide

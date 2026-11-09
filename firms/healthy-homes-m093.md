@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/healthy-homes-m093/
 
 * Radon measurement
 * Bloomington, MN (Hennepin County)
-* Phone: (952) 220-9409
 * Address: 2031 W Old Shakopee Apt#23, Bloomington, MN 55431
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

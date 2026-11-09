@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/absolute-septic-inc-sl2633/
 
 * Septic (SSTS) inspection
 * Milaca, MN (Mille Lacs County)
-* Phone: (320) 983-5280
-* Email: absoluteseptic@yahoo.com
 * Address: 12245 120th St, Milaca, MN 56353
 * Google rating: 4.8 from 16 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2633: Inspector (exp. 2027-08-14)

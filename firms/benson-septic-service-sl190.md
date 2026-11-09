@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/benson-septic-service-sl190/
 
 * Septic (SSTS) inspection
 * Welch, MN (Dakota County)
-* Phone: (651) 325-6555
-* Email: rogerwbenson@embarqmail.com
 * Address: 18070 218th St E, Welch, MN 55089
 * MPCA SSTS licence L190: Inspector (exp. 2027-03-13)
 * Also licensed: Designer, Installer, Service provider, Pipelayer

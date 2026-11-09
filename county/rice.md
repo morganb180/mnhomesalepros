@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Kirk Flom Septic Service
 
 23220 Glynview Trl, Faribault, MN 55021  
-☎ [(507) 334-7867](tel:5073347867)  
 ✉ KirkFlom@gmail.com
 
 Certified staff: Cami L Flom, Kirk W Flom  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### LaRoche's
 
 PO Box 1137, Faribault, MN 55021  
-☎ [(612) 310-2219](tel:6123102219)  
 ✉ jsnyder@lakestatelogistics.com
 
 Certified staff: George R La Roche Jr, Jacquelyn J Claypool, Michael L Borchert, Nathan P Snyder  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Lake State Environmental LLC
 
 1020 1st St NW, Faribault, MN 55021  
-☎ [(734) 678-0947](tel:7346780947)  
 ✉ ccentofanti@co.rice.mn.us
 
 Certified staff: Craig M Centofanti  
@@ -62,7 +59,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Unlimited Siteworks LLC
 
 20011 Cates Ave, Faribault, MN 55021  
-☎ [(507) 330-1393](tel:5073301393)  
 ✉ unlimitedsiteworks@gmail.com
 
 Certified staff: Gage S Bauer, Jason B Clarkin  
@@ -75,7 +71,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Dahle Enterprises of Morristown LLC
 
 PO Box 247, Morristown, MN 55052  
-☎ [(507) 685-2148](tel:5076852148)
 
 Certified staff: Jason P Heyer, Kyle D Green, Marilee A DeGroot, Matthew K Rossow, Scott C Meschke, Troy G Dahle  
 Also licensed: Designer, Installer, Maintainer, Pipelayer  
@@ -87,7 +82,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### MS Excavating Inc
 
 12125 70th St W, New Prague, MN 56071  
-☎ [(507) 744-2045](tel:5077442045)  
 ✉ ms\_excavating@yahoo.com
 
 Certified staff: Amy T Beatty, Michael J Skluzacek  
@@ -104,7 +98,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Keith Pumper Plumbing and Heating
 
 470 Railway St S, Suite A, Dundas, MN 55019  
-☎ [(507) 663-7870](tel:5076637870)
 
 1 MDH-licensed professional
 
@@ -118,8 +111,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Bauer Restoration
 
 933 Hulett Ave, Faribault, MN 55021  
-☎ [(507) 333-9838](tel:5073339838)  
-🌐 [bauerrestoration.com](https://www.bauerrestoration.com)
 
 2 MDH-licensed professionals
 
@@ -134,8 +125,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Willis Advantage LLC
 
 1448 Glynview Trail, Faribault, MN 55021  
-☎ [(507) 330-1657](tel:5073301657)  
-🌐 [willisadvantage.com](https://willisadvantage.com)
 
 1 MDH-licensed professional
 
@@ -149,8 +138,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Kopack Home Inspections LLC
 
 2215 Harbor Dr, Northfield, MN 55057  
-☎ [(651) 380-8306](tel:6513808306)  
-🌐 [bkopack@gmail.com](https://bkopack@gmail.com)
 
 1 MDH-licensed professional
 
@@ -164,8 +151,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Inspection WerX
 
 4380 Chester Ct, Webster, MN 55088  
-☎ [(612) 386-2660](tel:6123862660)  
-🌐 [inspectionwerx.com](https://www.inspectionwerx.com)
 
 1 MDH-licensed professional
 
@@ -178,7 +163,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Rice County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=rice)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=rice)
 
 ## Frequently asked questions
 
@@ -200,7 +185,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Rice County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Rice County, MN?
 

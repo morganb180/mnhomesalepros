@@ -1,6 +1,6 @@
 ---
 title: "3-D Construction & Enterprise LLLP, Cloquet MN"
-description: "3-D Construction & Enterprise LLLP in Cloquet, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "3-D Construction & Enterprise LLLP in Cloquet, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/3-d-construction-enterprise-lllp-sl233/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/3-d-construction-enterprise-lllp-sl2
 
 * Septic (SSTS) inspection
 * Cloquet, MN (Carlton County)
-* Phone: (218) 879-1730
 * Address: 501 Brookston Rd, Cloquet, MN 55720
 * MPCA SSTS licence L233: Inspector (exp. 2027-01-26)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

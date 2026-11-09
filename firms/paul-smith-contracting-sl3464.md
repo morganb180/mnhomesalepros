@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/paul-smith-contracting-sl3464/
 
 * Septic (SSTS) inspection
 * Nisswa, MN (Crow Wing County)
-* Phone: (218) 838-4369
-* Email: sodking13@gmail.com
 * Address: 23571 Mollie Lake Rd, Nisswa, MN 56468
 * MPCA SSTS licence L3464: Inspector (exp. 2027-08-01)
 * Also licensed: Designer, Installer, Pipelayer

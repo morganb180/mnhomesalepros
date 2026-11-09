@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/advanced-home-inspections-llc-m012/
 
 * Radon measurement
 * Onalaska, WI (La Crosse County)
-* Phone: (608) 792-3657
-* Website: https://www.advancedhomeinspectionsllc.com
 * Address: 119 9th Ave S, Onalaska, WI 54650
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

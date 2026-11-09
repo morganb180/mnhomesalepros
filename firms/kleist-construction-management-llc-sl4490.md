@@ -1,6 +1,6 @@
 ---
 title: "Kleist Construction Management LLC, Hastings MN"
-description: "Kleist Construction Management in Hastings, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Kleist Construction Management in Hastings, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/kleist-construction-management-llc-sl4490/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/kleist-construction-management-llc-s
 
 * Septic (SSTS) inspection
 * Hastings, MN (Dakota County)
-* Phone: (952) 484-0587
-* Email: kleistcmllc@gmail.com
 * Address: 10215 230th St E, Hastings, MN 55033
 * MPCA SSTS licence L4490: Inspector (exp. 2029-02-26)
 * bonded · insured

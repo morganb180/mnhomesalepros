@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/hometeam-inspection-service-m110/
 
 * Radon measurement
 * Pequot Lakes, MN (Crow Wing County)
-* Phone: (218) 825-7372
-* Website: https://hometeam.com/lakesarea
 * Address: 34043 W Clear Lake Rd, Pequot Lakes, MN 56472
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

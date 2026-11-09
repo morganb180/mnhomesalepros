@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/voss-plumbing-heating-of-paynesville
 
 * Radon measurement, Radon mitigation
 * Paynesville, MN (Stearns County)
-* Phone: (320) 243-3644
-* Website: https://www.vossplumbing.com
 * Address: PO Box 77 316 Business 23 E, Paynesville, MN 56362
 * Google rating: 4.3 from 22 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Measurement, Multi Family Mitigation, Schools & Large Buildings Measurement, Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation

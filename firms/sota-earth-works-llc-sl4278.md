@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/sota-earth-works-llc-sl4278/
 
 * Septic (SSTS) inspection
 * Zimmerman, MN (Sherburne County)
-* Email: jaymjohnson1987@gmail.com
 * Address: 27856 142nd St NW, Zimmerman, MN 55398
 * MPCA SSTS licence L4278: Inspector (exp. 2027-03-14)
 * Also licensed: Installer, Pipelayer

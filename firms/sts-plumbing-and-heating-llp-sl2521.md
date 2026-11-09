@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/sts-plumbing-and-heating-llp-sl2521/
 
 * Septic (SSTS) inspection
 * Mabel, MN (Fillmore County)
-* Phone: (507) 493-5282
 * Address: PO Box 54, Mabel, MN 55954
 * Google rating: 5.0 from 5 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L2521: Inspector (exp. 2029-01-30)

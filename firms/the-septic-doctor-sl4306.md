@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/the-septic-doctor-sl4306/
 
 * Septic (SSTS) inspection
 * Sandstone, MN (Pine County)
-* Phone: (763) 360-6887
-* Email: jessicasonsteby@gmail.com
 * Address: 201 Ct Ave S, Sandstone, MN 55072
 * MPCA SSTS licence L4306: Inspector (exp. 2027-06-02)
 * Also licensed: Designer

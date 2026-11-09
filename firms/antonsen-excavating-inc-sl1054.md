@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/antonsen-excavating-inc-sl1054/
 
 * Septic (SSTS) inspection
 * Deerwood, MN (Crow Wing County)
-* Phone: (218) 534-3355
-* Email: moryant@charter.net
 * Address: 17633 State Hwy 6, Deerwood, MN 56444
 * Google rating: 5.0 from 3 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1054: Inspector (exp. 2027-04-23)

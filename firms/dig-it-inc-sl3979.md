@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/dig-it-inc-sl3979/
 
 * Septic (SSTS) inspection
 * Goodland, MN (Itasca County)
-* Phone: (218) 969-4778
-* Email: jim@jamesfclark.com
 * Address: 14420 County Rd 577, Goodland, MN 55742
 * MPCA SSTS licence L3979: Inspector (exp. 2026-10-15)
 * Also licensed: Designer, Installer, Pipelayer

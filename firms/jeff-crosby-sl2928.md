@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/jeff-crosby-sl2928/
 
 * Septic (SSTS) inspection
 * Duluth, MN (Saint Louis County)
-* Phone: (218) 724-7566
 * Address: 1608 Middle Rd, Duluth, MN 55811
 * MPCA SSTS licence L2928: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-06-26)
 * Also licensed: Designer

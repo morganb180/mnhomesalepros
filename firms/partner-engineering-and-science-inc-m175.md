@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/partner-engineering-and-science-inc-
 
 * Radon measurement
 * Edina, MN (Hennepin County)
-* Phone: (800) 419-4923
-* Website: https://partneresi.com
 * Address: 6600 France Ave S, #680, Edina, MN 55435
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): Statewide

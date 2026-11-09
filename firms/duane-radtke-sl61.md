@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/duane-radtke-sl61/
 
 * Septic (SSTS) inspection
 * Hutchinson, MN (McLeod County)
-* Phone: (320) 237-1983
-* Email: radtke1@mediacombb.net
 * Address: 1600 8th Ave SW, Hutchinson, MN 55350
 * MPCA SSTS licence L61: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-03-15)
 * Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/cubed-b-llc-sl4142/
 
 * Septic (SSTS) inspection
 * Lake Park, MN (Becker County)
-* Phone: (218) 234-6906
-* Email: brant.bigger@gmail.com
 * Address: 13248 US Hwy 10, Lake Park, MN 56554
 * Google rating: 3.5 from 13 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L4142: Inspector (exp. 2026-12-08)

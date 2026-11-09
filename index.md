@@ -4,17 +4,14 @@ description: "MN Home Sale Pros is a free directory of MPCA-licensed septic (SST
 canonical: https://mnhomesalepros.com/
 ---
 
-# MN Home Sale Pros: find septic, radon and TISH inspectors in Minnesota
+# Hire a licensed Minnesota pro you can actually verify.
 
-MN Home Sale Pros is a free, independent directory of Minnesota home-sale inspection professionals: MPCA-licensed SSTS (septic) inspectors, MDH-licensed radon testers and mitigators, and Saint Paul-approved Truth-in-Sale-of-Housing (TISH) evaluators, organized by county.
+MN Home Sale Pros is a free directory of MPCA-licensed septic inspectors, MDH-licensed radon pros and Saint Paul-approved TISH evaluators. Every listing shows the credential from the public record. We connect you with up to 3 nearby licensed firms. They contact you directly.
 
-337 MPCA-licensed SSTS inspector businesses, 265 MDH-licensed radon businesses (383 professionals), and 37 Saint Paul TISH evaluators.
+337 MPCA-licensed SSTS inspector businesses, 265 MDH-licensed radon businesses (234 measurement, 96 mitigation, 14 labs; 383 professionals), and 37 Saint Paul TISH evaluators. Counts are from the septic, radon and Saint Paul lists in this directory. Records retrieved Oct 12, 2026.
 
-[**Septic (SSTS) inspectors**  
-337 businesses](https://mnhomesalepros.com/septic-inspectors/)[**Radon**  
-265 businesses](https://mnhomesalepros.com/radon/)[**TISH evaluators**  
-Saint Paul, Minneapolis](https://mnhomesalepros.com/truth-in-sale-of-housing/)[**By county**](https://mnhomesalepros.com/counties/)
+County and service lists are ordered by location and name. Firms can't pay to be ranked higher.
 
-## Find pros in your county
+The homepage also shows a random sample of firms with a Google rating of 4.7 or higher and at least 20 reviews, as of Oct 18, 2026 (67 firms in `api/firms.json`). That sample is not the directory order and not paid placement.
 
-Browse [all counties](https://mnhomesalepros.com/counties/) or read the [guides](https://mnhomesalepros.com/guides/).
+[Septic inspectors](https://mnhomesalepros.com/septic-inspectors/) · [Radon pros](https://mnhomesalepros.com/radon/) · [Saint Paul TISH](https://mnhomesalepros.com/truth-in-sale-of-housing/saint-paul/) · [Counties](https://mnhomesalepros.com/counties/) · [Quotes](https://mnhomesalepros.com/quotes/)

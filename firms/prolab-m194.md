@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/prolab-m194/
 
 * Radon analysis laboratory
 * Weston, FL (Broward County)
-* Phone: (954) 384-4446
 * Address: 1675 N Commerce Pkwy, Weston, FL 33326
 * Google rating: 3.6 from 131 reviews (as of Oct 18, 2026)
 * MDH radon: Analysis laboratory

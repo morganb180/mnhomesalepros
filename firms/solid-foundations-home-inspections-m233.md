@@ -1,6 +1,6 @@
 ---
 title: "Solid Foundations Home Inspections, Golden Valley MN"
-description: "Solid Foundations Home Inspections in Golden Valley, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
+description: "Solid Foundations Home Inspections in Golden Valley, MN: MDH licensed for radon measurement. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/solid-foundations-home-inspections-m233/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/solid-foundations-home-inspections-m
 
 * Radon measurement
 * Golden Valley, MN (Hennepin County)
-* Phone: (612) 328-2125
-* Website: https://www.solidfoundationshi.com
 * Address: 105 Quebec Ave S, Golden Valley, MN 55426
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

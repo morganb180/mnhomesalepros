@@ -1,6 +1,6 @@
 ---
 title: "Radon Associates LLC, New Richmond, WI | MN Home Sale Pros"
-description: "Radon Associates in New Richmond, WI: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Radon Associates in New Richmond, WI: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/radon-associates-llc-m204/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/radon-associates-llc-m204/
 
 * Radon measurement, Radon mitigation
 * New Richmond, WI (St. Croix County)
-* Phone: (866) 697-2366
-* Website: https://radonassociates.com
 * Address: 915 131st Ave, New Richmond, WI 54017
 * Google rating: 4.8 from 24 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement, Single Family Mitigation

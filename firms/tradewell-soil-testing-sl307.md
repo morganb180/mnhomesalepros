@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/tradewell-soil-testing-sl307/
 
 * Septic (SSTS) inspection
 * East Bethel, MN (Anoka County)
-* Phone: (763) 753-6222
 * Address: 18330 Dahlia St NW, East Bethel, MN 55011
 * MPCA SSTS licence L307: Inspector (exp. 2026-10-20)
 * Also licensed: Designer

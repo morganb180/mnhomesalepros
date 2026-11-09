@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Stantec Consulting Services Inc.
 
 PO Box 249, Maple Plain, MN 55359  
-☎ [(763) 479-4200](tel:7634794200)
 
 Certified staff: Eric M Blasing, Matthew T Summers PSS  
 Also licensed: Designer  
@@ -35,7 +34,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Halling Engineering, Inc.
 
 1121 Landings Ln, Watertown, MN 55388  
-☎ [(952) 440-1680](tel:9524401680)  
 ✉ grhalling@hallingeng.com
 
 Certified staff: Gregory R Halling PE  
@@ -52,8 +50,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Branch Property Investigations
 
 7460 Frontier Trail, Chanhassen, MN 55317  
-☎ [(612) 440-8466](tel:6124408466)  
-🌐 [branchinvestigations.com](https://www.branchinvestigations.com)
 
 4 MDH-licensed professionals
 
@@ -70,7 +66,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### MN Radon Experts
 
 8501 Powers Pl, Chanhassen, MN 55317  
-☎ [(612) 578-0456](tel:6125780456)
 
 1 MDH-licensed professional
 
@@ -84,8 +79,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Holm Inspections LLC
 
 314 Shady Ln, Nya, MN 55397  
-☎ [(507) 276-4238](tel:5072764238)  
-🌐 [holm-inspections.com](https://holm-inspections.com)
 
 1 MDH-licensed professional
 
@@ -99,8 +92,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### HomeSpex of Minnesota LLC
 
 1843 Campfire Dr E, Waconia, MN 55387  
-☎ [(507) 381-1418](tel:5073811418)  
-🌐 [homespexmn.com](https://www.homespexmn.com)
 
 1 MDH-licensed professional
 
@@ -113,7 +104,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Carver County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=carver)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=carver)
 
 ## Frequently asked questions
 
@@ -135,7 +126,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Carver County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Carver County, MN?
 

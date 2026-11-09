@@ -1,6 +1,6 @@
 ---
 title: "Quality Air & Water, d.b.a. Des Moines Radon, LLC, Des IA"
-description: "Quality Air & Water, d.b.a. Des Moines Radon in Des, IA: MDH licensed for radon measurement. Licence details, contact and the MDH source."
+description: "Quality Air & Water, d.b.a. Des Moines Radon in Des, IA: MDH licensed for radon measurement. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/quality-air-water-d-b-a-des-moines-radon-llc-m197/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/quality-air-water-d-b-a-des-moines-r
 
 * Radon measurement
 * Des, IA (Polk County)
-* Phone: (515) 210-4407
-* Website: https://dsmradon.com/
 * Address: 5644 NE 17th St, Des, IA 50313
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): Statewide

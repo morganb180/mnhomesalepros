@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### VIS Plumbing & Heating Inc
 
 PO Box 322, Lanesboro, MN 55949  
-☎ [(507) 467-2240](tel:5074672240)  
 ✉ visphinc@acegroup.cc
 
 Certified staff: Jon L Willford, Michael J Willford  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### STS Plumbing and Heating LLP
 
 PO Box 54, Mabel, MN 55954  
-☎ [(507) 493-5282](tel:5074935282)
 
 Certified staff: Matthew W Swenson, Michael D Dawley  
 Also licensed: Designer, Installer, Pipelayer  
@@ -48,7 +46,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Beer Farms LLC
 
 18031 140th St, Preston, MN 55965  
-☎ [(507) 937-3168](tel:5079373168)  
 ✉ rodney.beer@frontiernet.net
 
 Certified staff: K Rodney Beer, Matthew D Beer, Matthew S Fowler  
@@ -61,7 +58,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Gossman Dirtwork and Septic Services LLC
 
 25350 230th St, Preston, MN 55965  
-☎ [(507) 273-9746](tel:5072739746)  
 ✉ cstack115@gmail.com
 
 Certified staff: Cathy L Gossman  
@@ -77,7 +73,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Fillmore County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=fillmore)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=fillmore)
 
 ## Frequently asked questions
 
@@ -99,7 +95,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Fillmore County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Fillmore County, MN?
 

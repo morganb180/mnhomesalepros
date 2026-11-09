@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/tim-igoe-insight-home-inspections-ll
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (612) 229-3521
-* Email: tim@inspectinsight.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

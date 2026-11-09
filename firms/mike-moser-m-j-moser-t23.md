@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/mike-moser-m-j-moser-t23/
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (612) 386-4995
-* Email: gusbas@aol.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

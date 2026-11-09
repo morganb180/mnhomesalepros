@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/jd-services-sl2556/
 
 * Septic (SSTS) inspection
 * Little Falls, MN (Morrison County)
-* Phone: (320) 412-6573
-* Email: jdoble6573@gmail.com
 * Address: 603 13th St NW, Little Falls, MN 56345
 * MPCA SSTS licence L2556: Inspector (exp. 2027-05-02)
 * Also licensed: Designer, Installer, Pipelayer

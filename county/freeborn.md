@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### P & L Excavating LLC
 
 78782 255th St, Albert Lea, MN 56007  
-☎ [(507) 383-3385](tel:5073833385)  
 ✉ office@pandlexcavating.com
 
 Certified staff: Kyle J Ladlie, Zachary P Hansen  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Precision Septic Services LLC
 
 65497 170th St, Alden, MN 56009  
-☎ [(507) 265-3965](tel:5072653965)  
 ✉ DougPSSLLC@wctatel.net
 
 Certified staff: Doug S Kuethe  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Loverink Drainage Inc
 
 200 Zyder Zee Ave, Hollandale, MN 56045  
-☎ [(507) 473-0200](tel:5074730200)  
 ✉ loverink4@gmail.com
 
 Certified staff: Lee B Loverink  
@@ -66,8 +63,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Ameradon Services LLC
 
 208 Powers Ave N, Alden, MN 56009  
-☎ [(507) 402-4023](tel:5074024023)  
-🌐 [ameradon.com](https://www.ameradon.com)
 
 1 MDH-licensed professional
 
@@ -80,7 +75,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Freeborn County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=freeborn)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=freeborn)
 
 ## Frequently asked questions
 
@@ -102,7 +97,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Freeborn County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Freeborn County, MN?
 

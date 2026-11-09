@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/218-septic-llc-sl4197/
 
 * Septic (SSTS) inspection
 * Brainerd, MN (Crow Wing County)
-* Phone: (218) 851-2013
-* Email: 218septic@gmail.com
 * Address: 6585 Wetherbee Rd, Brainerd, MN 56401
 * MPCA SSTS licence L4197: Inspector (exp. 2027-03-03)
 * Also licensed: Designer

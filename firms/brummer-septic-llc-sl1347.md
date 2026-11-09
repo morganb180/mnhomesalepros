@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/brummer-septic-llc-sl1347/
 
 * Septic (SSTS) inspection
 * Brainerd, MN (Crow Wing County)
-* Phone: (218) 821-0704
-* Email: brummerseptic@gmail.com
 * Address: 14650 Agate Ridge Rd, Brainerd, MN 56401
 * MPCA SSTS licence L1347: Inspector (exp. 2027-05-20)
 * Also licensed: Designer

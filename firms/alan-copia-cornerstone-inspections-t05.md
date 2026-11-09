@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/alan-copia-cornerstone-inspections-t
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (612) 824-2000
-* Email: alanjcopia@gmail.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

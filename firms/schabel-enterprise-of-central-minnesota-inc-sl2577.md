@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/schabel-enterprise-of-central-minnes
 
 * Septic (SSTS) inspection
 * South Haven, MN (Stearns County)
-* Phone: (320) 980-2997
-* Email: jdbschabel@hotmail.com
 * Address: 15751 35th Ave, South Haven, MN 55382
 * MPCA SSTS licence L2577: Inspector (exp. 2027-05-02)
 * Also licensed: Designer, Installer, Pipelayer

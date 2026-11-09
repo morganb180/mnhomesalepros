@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Ohm Excavating LLC
 
 PO Box 273, Audubon, MN 56511  
-☎ [(218) 439-6428](tel:2184396428)  
 ✉ chris@ohmexcavating.com
 
 Certified staff: Chris M Ohm, Olivia G Ohm  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Ohm Septic Design & Inspection LLC
 
 PO Box 273, Audubon, MN 56511  
-☎ [(218) 439-6428](tel:2184396428)  
 ✉ chris@ohmexcavating.com
 
 Certified staff: Chris M Ohm, Olivia G Ohm  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Renner Excavating LLC
 
 14306 County Hwy 11, Audubon, MN 56511  
-☎ [(218) 439-3514](tel:2184393514)  
 ✉ rjrenner@loretel.net
 
 Certified staff: Rick A Renner  
@@ -62,7 +59,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### A1 Septic Service and Excavating LLC
 
 308 Shorewood Cir, Detroit Lakes, MN 56501  
-☎ [(218) 935-5981](tel:2189355981)  
 ✉ A1SepticServicesLLC@gmail.com
 
 Certified staff: Patricia M Stock  
@@ -75,7 +71,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Hough Inc of Detroit Lakes
 
 PO Box 2, Detroit Lakes, MN 56502  
-☎ [(218) 847-7391](tel:2188477391)  
 ✉ m.hough@houghinc.com
 
 Certified staff: Michael G Hough  
@@ -88,7 +83,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Stenger Excavating LLC
 
 35295 State Hwy 34, Detroit Lakes, MN 56501  
-☎ [(218) 847-2912](tel:2188472912)  
 ✉ steng\_sue@hotmail.com
 
 Certified staff: Christopher L Stenger, Timothy L Stenger  
@@ -101,7 +95,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Vareberg Backhoe Services
 
 19458 US Hwy 59, Detroit Lakes, MN 56501  
-☎ [(218) 847-7372](tel:2188477372)  
 ✉ richardvareberg@hotmail.com
 
 Certified staff: Richard A Vareberg  
@@ -114,7 +107,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### JenCo Services, LLC
 
 30694 137th St, Frazee, MN 56544  
-☎ [(218) 850-1248](tel:2188501248)  
 ✉ jenco.services.mn@gmail.com
 
 Certified staff: James R Piper, Torey A Sonnenberg  
@@ -127,7 +119,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Cubed B LLC
 
 13248 US Hwy 10, Lake Park, MN 56554  
-☎ [(218) 234-6906](tel:2182346906)  
 ✉ brant.bigger@gmail.com
 
 Certified staff: Brant B Bigger  
@@ -140,7 +131,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Deweys Septic Service LLC
 
 13384 County Hwy 4, Lake Park, MN 56554  
-☎ [(218) 532-2516](tel:2185322516)  
 ✉ tdsmith168@yahoo.com
 
 Certified staff: David L Ohm, Timothy D Smith  
@@ -153,7 +143,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Racer Construction Inc
 
 26299 Eagle Bay Ave, Osage, MN 56570  
-☎ [(218) 573-3452](tel:2185733452)  
 ✉ dozer\_man20@yahoo.com
 
 Certified staff: Jody A Yliniemi, Joshua A Yliniemi, Mason K Yliniemi  
@@ -166,7 +155,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Winterberger Inspections
 
 24685 Washington Dr, Osage, MN 56570  
-☎ [(218) 573-2275](tel:2185732275)  
 ✉ winterberger@arvig.net
 
 Certified staff: Alan Winterberger  
@@ -179,7 +167,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Darryl Bergstrom Backhoe Services
 
 36554 SW Height Of Land Dr, Rochert, MN 56578  
-☎ [(218) 847-0561](tel:2188470561)  
 ✉ drbergstrom@live.com
 
 Certified staff: Darryl W Bergstrom  
@@ -196,8 +183,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Horizon Inspections LLC
 
 PO Box 1465, Detroit Lakes, MN 56502  
-☎ [(218) 303-7243](tel:2183037243)  
-🌐 [whyhorizon.com](https://whyhorizon.com)
 
 1 MDH-licensed professional
 
@@ -211,8 +196,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Plains to Lakes Home Inspections LLC
 
 22857 Pearl Cir., Detroit Lakes, MN 56501  
-☎ [(218) 850-7188](tel:2188507188)  
-🌐 [ptlhomeinspections.com](https://www.ptlhomeinspections.com)
 
 1 MDH-licensed professional
 
@@ -225,7 +208,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Becker County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=becker)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=becker)
 
 ## Frequently asked questions
 
@@ -247,7 +230,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Becker County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Becker County, MN?
 

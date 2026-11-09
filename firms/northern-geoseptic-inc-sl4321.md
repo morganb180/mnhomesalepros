@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/northern-geoseptic-inc-sl4321/
 
 * Septic (SSTS) inspection
 * Ely, MN (Saint Louis County)
-* Phone: (218) 235-3491
-* Email: mtheiman7@gmail.com
 * Address: 201 E Boundary St, Ely, MN 55731
 * MPCA SSTS licence L4321: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2029-07-06)
 * Also licensed: Designer, Service provider

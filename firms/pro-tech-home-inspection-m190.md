@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/pro-tech-home-inspection-m190/
 
 * Radon measurement
 * Pelican Rapids, MN (Otter Tail County)
-* Phone: (218) 332-7222
-* Website: https://inspectionhomepros.com
 * Address: 23528 Moonlight Bay Rd, Pelican Rapids, MN 56572
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles, Statewide

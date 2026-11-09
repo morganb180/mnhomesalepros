@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/pillar-to-post-m178/
 
 * Radon measurement
 * Bemidji, MN (Beltrami County)
-* Phone: (218) 368-1926
 * Address: 51495 Tanager Dr, Bemidji, MN 56601
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

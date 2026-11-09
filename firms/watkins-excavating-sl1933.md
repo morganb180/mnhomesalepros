@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/watkins-excavating-sl1933/
 
 * Septic (SSTS) inspection
 * Vergas, MN (Otter Tail County)
-* Phone: (218) 342-2516
-* Email: awatkins@eot.com
 * Address: 29867 440th St, Vergas, MN 56587
 * Google rating: 4.5 from 2 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1933: Inspector (exp. 2026-10-19)

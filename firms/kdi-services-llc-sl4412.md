@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/kdi-services-llc-sl4412/
 
 * Septic (SSTS) inspection
 * Bemidji, MN (Beltrami County)
-* Phone: (218) 536-0326
-* Email: septic.kdiservices@gmail.com
 * Address: 6494 Mayflower Rd NW, Bemidji, MN 56601
 * MPCA SSTS licence L4412: Inspector (exp. 2027-09-19)
 * Also licensed: Designer

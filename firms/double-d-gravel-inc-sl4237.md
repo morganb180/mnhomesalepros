@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/double-d-gravel-inc-sl4237/
 
 * Septic (SSTS) inspection
 * Pipestone, MN (Pipestone County)
-* Phone: (507) 825-5552
-* Email: jamie@doubledgravelinc.com
 * Address: 611 4th St NE, Pipestone, MN 56164
 * Google rating: 4.9 from 14 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L4237: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-08-20)

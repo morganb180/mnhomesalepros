@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/o-neil-sewer-excavating-sl2132/
 
 * Septic (SSTS) inspection
 * Aitkin, MN (Aitkin County)
-* Phone: (218) 927-6070
 * Address: 37527 State Hwy 47, Aitkin, MN 56431
 * MPCA SSTS licence L2132: Inspector (exp. 2027-03-21)
 * Also licensed: Designer, Installer, Pipelayer

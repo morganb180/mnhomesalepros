@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/d-schlomka-inc-sl1106/
 
 * Septic (SSTS) inspection
 * Hinckley, MN (Pine County)
-* Phone: (320) 384-7911
 * Address: 41788 Fleming Logging Rd, Hinckley, MN 55037
 * MPCA SSTS licence L1106: Inspector (exp. 2028-05-27)
 * Also licensed: Designer, Installer, Pipelayer

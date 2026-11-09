@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/rtca-radon-testing-corporation-of-am
 
 * Radon analysis laboratory
 * Elmsford, NY (Westchester County)
-* Phone: (914) 345-3380
 * Address: 2 Hayes St, Elmsford, NY 10523
 * Google rating: 4.9 from 27 reviews (as of Oct 18, 2026)
 * MDH radon: Analysis laboratory

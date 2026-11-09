@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/radon-armor-llc-m203/
 
 * Radon mitigation
 * Inver Grove Heights, MN (Dakota County)
-* Phone: (651) 505-3555
-* Website: https://www.radonarmor.com
 * Address: 4035 78th St E, Inver Grove Heights, MN 55076
 * Google rating: 5.0 from 41 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement, Single Family Mitigation

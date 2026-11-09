@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/stewart-plumbing-inc-m236/
 
 * Radon mitigation
 * Rogers, MN (Hennepin County)
-* Phone: (763) 428-1833
-* Website: https://stewartplumbinginc.net
 * Address: 13025 George Weber Dr Suite 1, Rogers, MN 55374
 * Google rating: 4.6 from 40 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement, Single Family Mitigation

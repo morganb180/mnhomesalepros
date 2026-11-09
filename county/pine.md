@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Melzark Sewer & Excavation
 
 36395 Rutabaga Rd, Askov, MN 55704  
-☎ [(320) 292-6103](tel:3202926103)  
 ✉ melzarksewerandexcavation@yahoo.com
 
 Certified staff: Edward B Melzark, Edward E Melzark  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Roberts Excavating LLC
 
 37223 Rutabaga Rd, Askov, MN 55704  
-☎ [(320) 838-3464](tel:3208383464)
 
 Certified staff: Jesse A Roberts, Ronny D Roberts  
 Also licensed: Designer  
@@ -48,7 +46,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### JH Inspection & Design LLC
 
 29429 Monument Rd, Brook Park, MN 55007  
-☎ [(218) 537-1575](tel:2185371575)  
 ✉ j.hippen@yahoo.com
 
 Certified staff: Joel M Hippen  
@@ -61,7 +58,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### E Five Home Services LLC
 
 70332 Rhine Lake Rd, Finlayson, MN 55735  
-☎ [(320) 372-2411](tel:3203722411)  
 ✉ efive.home@gmail.com
 
 Certified staff: Shawn R Eckerman  
@@ -74,7 +70,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Crooked Creek Consulting LLC
 
 53329 Barns Spring Rd, Hinckley, MN 55037  
-☎ [(320) 279-3353](tel:3202793353)  
 ✉ crookedcreek63@gmail.com
 
 Certified staff: Jonathan M Nelson, Roger A Nelson  
@@ -87,7 +82,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### D. Schlomka Inc.
 
 41788 Fleming Logging Rd, Hinckley, MN 55037  
-☎ [(320) 384-7911](tel:3203847911)
 
 Certified staff: Dennis R Schlomka  
 Also licensed: Designer, Installer, Pipelayer  
@@ -99,7 +93,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Eiffler Septic Inspection & Design
 
 49501 Sweep Ln, Hinckley, MN 55037  
-☎ [(320) 674-4936](tel:3206744936)  
 ✉ emilycarlson94@gmail.com
 
 Certified staff: Emily D Eiffler  
@@ -111,7 +104,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Ramberg Soil Consulting
 
 55535 Fairfield Ave, Pine City, MN 55063  
-☎ [(320) 438-9318](tel:3204389318)  
 ✉ rambergsoilconsulting@gmail.com
 
 Certified staff: Donald J Ramberg Jr  
@@ -124,7 +116,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### The Septic Doctor
 
 201 Ct Ave S, Sandstone, MN 55072  
-☎ [(763) 360-6887](tel:7633606887)  
 ✉ jessicasonsteby@gmail.com
 
 Certified staff: Jessica L Sonsteby  
@@ -137,7 +128,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Precision Grade LLC
 
 19861 Denham Crossing Rd, Willow River, MN 55795  
-☎ [(218) 658-4601](tel:2186584601)  
 ✉ michael@precisiongradellc.com
 
 Certified staff: Michael D Mikrot, Shawn R Eckerman  
@@ -153,7 +143,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Pine County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=pine)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=pine)
 
 ## Frequently asked questions
 
@@ -175,7 +165,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Pine County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Pine County, MN?
 

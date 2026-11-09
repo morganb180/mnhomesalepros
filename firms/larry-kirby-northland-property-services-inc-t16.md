@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/larry-kirby-northland-property-servi
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (651) 208-8462
-* Email: lkirbyr@gmail.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Duane Radtke
 
 1600 8th Ave SW, Hutchinson, MN 55350  
-☎ [(320) 237-1983](tel:3202371983)  
 ✉ radtke1@mediacombb.net
 
 Certified staff: Brent M Radtke, Duane M Radtke  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Mid MN Septic Services
 
 22517 Tagus Ave, Hutchinson, MN 55350  
-☎ [(320) 234-7222](tel:3202347222)  
 ✉ bcassens14@gmail.com
 
 Certified staff: Austin D Dettman, Brandon B Cassens, Dale J Brenhaug, Robert R Billiet  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Chip's Septic Service, LLC
 
 16762 Babcock Ave, Lester Prairie, MN 55354  
-☎ [(952) 200-3176](tel:9522003176)  
 ✉ chipseptic@gmail.com
 
 Certified staff: James S Schilling, Pernel J Hentges  
@@ -66,7 +63,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Best Step Home Inspections
 
 511 E 16th St, Glencoe, MN 55336  
-☎ [(320) 282-7737](tel:3202827737)
 
 1 MDH-licensed professional
 
@@ -80,8 +76,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### INFOTEC Home Inspection LLC
 
 23502 215th St, Hutchinson, MN 55350  
-☎ [(320) 583-0232](tel:3205830232)  
-🌐 [infotecinspect.com](https://www.infotecinspect.com)
 
 1 MDH-licensed professional
 
@@ -94,7 +88,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in McLeod County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=mcleod)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=mcleod)
 
 ## Frequently asked questions
 
@@ -116,7 +110,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in McLeod County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border McLeod County, MN?
 

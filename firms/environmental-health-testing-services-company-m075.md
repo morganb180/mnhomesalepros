@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/environmental-health-testing-service
 
 * Radon measurement
 * Saint Louis Park, MN (Hennepin County)
-* Phone: (952) 297-5169
-* Website: https://www.ehtservices.com
 * Address: 2950 Aquila Ave S, Minneapoli, Saint Louis Park, MN 55426
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): Statewide

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/kidrowski-enterprises-llc-sl850/
 
 * Septic (SSTS) inspection
 * Clara City, MN (Chippewa County)
-* Phone: (320) 847-2184
-* Email: fkidro@hcinet.net
 * Address: 12030 10th St NE, Clara City, MN 56222
 * MPCA SSTS licence L850: Inspector (exp. 2027-04-05)
 * Also licensed: Designer, Installer, Pipelayer

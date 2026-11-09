@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/greg-lillemon-sl1224/
 
 * Septic (SSTS) inspection
 * Ashby, MN (Douglas County)
-* Phone: (218) 747-2504
-* Email: ggaj@prtel.com
 * Address: 19730 County Rd 1 NW, Ashby, MN 56309
 * MPCA SSTS licence L1224: Inspector (exp. 2027-06-11)
 * Also licensed: Designer

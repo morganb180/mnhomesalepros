@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/lakewood-septic-services-llc-sl4288/
 
 * Septic (SSTS) inspection
 * Ashby, MN (Grant County)
-* Phone: (320) 760-3200
-* Email: tpropst6@gmail.com
 * Address: 28555 Myrtle Beach Rd, Ashby, MN 56309
 * MPCA SSTS licence L4288: Inspector (exp. 2027-03-27)
 * Also licensed: Designer

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/mikes-mini-excavating-inc-sl2685/
 
 * Septic (SSTS) inspection
 * Fulda, MN (Nobles County)
-* Phone: (507) 370-1112
-* Email: mikesminiex@yahoo.com
 * Address: 31344 130th St, Fulda, MN 56131
 * MPCA SSTS licence L2685: Inspector (exp. 2027-04-21)
 * Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer

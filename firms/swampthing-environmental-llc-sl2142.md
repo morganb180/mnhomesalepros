@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/swampthing-environmental-llc-sl2142/
 
 * Septic (SSTS) inspection
 * Duluth, MN (Saint Louis County)
-* Phone: (218) 349-1612
-* Email: mitch@swampthing.biz
 * Address: 4057 Emerson Rd, Duluth, MN 55803
 * MPCA SSTS licence L2142: Inspector (exp. 2027-12-23)
 * Also licensed: Designer, Service provider

@@ -1,6 +1,6 @@
 ---
 title: "WSE Engineering Services LTD: Septic Inspector, Rochester MN"
-description: "WSE Engineering Services in Rochester, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "WSE Engineering Services in Rochester, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/wse-engineering-services-ltd-sl4208/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/wse-engineering-services-ltd-sl4208/
 
 * Septic (SSTS) inspection
 * Rochester, MN (Olmsted County)
-* Phone: (507) 525-2594
 * Address: 717 3rd Ave SE Suite 101, Rochester, MN 55904
 * MPCA SSTS licence L4208: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2029-02-14)
 * Also licensed: Designer, Service provider

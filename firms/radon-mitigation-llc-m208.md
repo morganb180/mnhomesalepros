@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/radon-mitigation-llc-m208/
 
 * Radon mitigation
 * Maple Lake, MN (Wright County)
-* Phone: (763) 295-5501
 * Address: 9888 Clementa Ave NW, Maple Lake, MN 55358
 * MDH radon: Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): Statewide

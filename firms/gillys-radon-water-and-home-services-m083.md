@@ -1,6 +1,6 @@
 ---
 title: "Gillys Radon, water and home services, Grand Rapids MN"
-description: "Gillys Radon, water and home services in Grand Rapids, MN: MDH licensed for radon measurement. Licence details, contact and the MDH source."
+description: "Gillys Radon, water and home services in Grand Rapids, MN: MDH licensed for radon measurement. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/gillys-radon-water-and-home-services-m083/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/gillys-radon-water-and-home-services
 
 * Radon measurement
 * Grand Rapids, MN (Itasca County)
-* Phone: (218) 360-9515
 * Address: 29897 LaPlant Rd, Grand Rapids, MN 55744
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

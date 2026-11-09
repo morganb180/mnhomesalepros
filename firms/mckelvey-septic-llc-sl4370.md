@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/mckelvey-septic-llc-sl4370/
 
 * Septic (SSTS) inspection
 * Browerville, MN (Todd County)
-* Phone: (320) 200-4355
-* Email: kevin@mckelveyseptic.com
 * Address: 25241 County 16, Browerville, MN 56438
 * MPCA SSTS licence L4370: Inspector (exp. 2027-04-14)
 * Also licensed: Designer

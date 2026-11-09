@@ -1,6 +1,6 @@
 ---
 title: "A1 Backhoe & Septic Service: Septic Inspector, Bemidji MN"
-description: "A1 Backhoe & Septic Service in Bemidji, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "A1 Backhoe & Septic Service in Bemidji, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/a1-backhoe-septic-service-llc-sl4134/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/a1-backhoe-septic-service-llc-sl4134
 
 * Septic (SSTS) inspection
 * Bemidji, MN (Beltrami County)
-* Phone: (218) 368-1569
-* Email: travis2115@icloud.com
 * Address: 1212 Balsam Rd NW, Bemidji, MN 56601
 * MPCA SSTS licence L4134: Inspector (exp. 2027-10-01)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

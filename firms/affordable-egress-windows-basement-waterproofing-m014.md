@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/affordable-egress-windows-basement-w
 
 * Radon measurement, Radon mitigation
 * Medina, MN (Hennepin County)
-* Phone: (763) 267-3891
-* Website: http://egresswindowsminneapolis.com
 * Address: 4035 Apache Dr, Medina, MN 55340
 * Google rating: 5.0 from 99 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement, Single Family Mitigation

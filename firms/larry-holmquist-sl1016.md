@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/larry-holmquist-sl1016/
 
 * Septic (SSTS) inspection
 * Grand Rapids, MN (Itasca County)
-* Phone: (218) 326-5293
 * Address: 20723 Happy Hollow Rd, Grand Rapids, MN 55744
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1016: Inspector (exp. 2027-04-17)

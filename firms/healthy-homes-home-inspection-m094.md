@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/healthy-homes-home-inspection-m094/
 
 * Radon measurement
 * Altura, MN (Winona County)
-* Phone: (507) 250-0522
-* Website: https://www.healthyhomeshomeinspectionrochester.com/
 * Address: 1100 Willow Rd, Altura, MN 55910
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/northern-testing-llc-sl243/
 
 * Septic (SSTS) inspection
 * Motley, MN (Morrison County)
-* Phone: (320) 360-6317
-* Email: jonl@brainerd.net
 * Address: 33316 60th Ave, Motley, MN 56466
 * MPCA SSTS licence L243: Inspector (exp. 2027-03-31)
 * Also licensed: Designer

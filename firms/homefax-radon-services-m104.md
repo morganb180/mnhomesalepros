@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/homefax-radon-services-m104/
 
 * Radon measurement
 * Minneapolis, MN (Hennepin County)
-* Phone: (612) 875-3017
 * Address: 5733 Juneau Ln N, Minneapolis, MN 55446
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles, Statewide

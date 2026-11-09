@@ -1,6 +1,6 @@
 ---
 title: "Boettcher Excavating and Septic LLC, Cambridge MN"
-description: "Boettcher Excavating and Septic in Cambridge, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Boettcher Excavating and Septic in Cambridge, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/boettcher-excavating-and-septic-llc-sl4229/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/boettcher-excavating-and-septic-llc-
 
 * Septic (SSTS) inspection
 * Cambridge, MN (Isanti County)
-* Phone: (763) 444-4930
-* Email: kristie@boettcherseptic.com
 * Address: 28995 Jodrell Dr NE, Cambridge, MN 55008
 * MPCA SSTS licence L4229: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2029-05-24)
 * Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer

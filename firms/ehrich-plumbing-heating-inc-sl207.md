@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ehrich-plumbing-heating-inc-sl207/
 
 * Septic (SSTS) inspection
 * Elmore, MN (Faribault County)
-* Phone: (507) 943-3267
 * Address: PO Box 446, Elmore, MN 56027
 * Google rating: 3.3 from 14 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L207: Inspector (exp. 2027-03-13)

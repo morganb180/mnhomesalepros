@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/hartert-septic-service-inc-sl1199/
 
 * Septic (SSTS) inspection
 * Kellogg, MN (Wabasha County)
-* Phone: (507) 767-4532
 * Address: 63665 172nd Ave, Kellogg, MN 55945
 * MPCA SSTS licence L1199: Inspector (exp. 2027-07-26)
 * Also licensed: Designer, Installer, Pipelayer

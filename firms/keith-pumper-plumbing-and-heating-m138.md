@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/keith-pumper-plumbing-and-heating-m1
 
 * Radon mitigation
 * Dundas, MN (Rice County)
-* Phone: (507) 663-7870
 * Address: 470 Railway St S, Suite A, Dundas, MN 55019
 * Google rating: 4.4 from 63 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement, Single Family Mitigation

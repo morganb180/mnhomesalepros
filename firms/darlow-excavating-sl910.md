@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/darlow-excavating-sl910/
 
 * Septic (SSTS) inspection
 * McGregor, MN (Aitkin County)
-* Phone: (218) 426-4320
-* Email: darlowexc@hotmail.com
 * Address: 48237 Lake Ave, McGregor, MN 55760
 * Google rating: 4.4 from 16 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L910: Inspector (exp. 2029-02-10)

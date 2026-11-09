@@ -1,6 +1,6 @@
 ---
 title: "ACB Estate Services, St. Paul, MN | MN Home Sale Pros"
-description: "ACB Estate Services in St. Paul, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "ACB Estate Services in St. Paul, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/acb-estate-services-m004/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/acb-estate-services-m004/
 
 * Radon measurement, Radon mitigation
 * St. Paul, MN (Ramsey County)
-* Phone: (651) 329-5159
-* Website: https://www.acbradon.com
 * Address: 706 Victoria St S, St. Paul, MN 55102
 * MDH radon: Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 50 miles

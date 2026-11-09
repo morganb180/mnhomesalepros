@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/james-m-jasper-sl2995/
 
 * Septic (SSTS) inspection
 * Jackson, MN (Jackson County)
-* Phone: (507) 840-0237
-* Email: mitchjasper@hotmail.com
 * Address: 616 1/2 2nd St, Jackson, MN 56143
 * MPCA SSTS licence L2995: Inspector (exp. 2027-01-02)
 * Also licensed: Designer, Installer, Pipelayer

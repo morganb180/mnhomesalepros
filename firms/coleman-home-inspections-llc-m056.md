@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/coleman-home-inspections-llc-m056/
 
 * Radon measurement
 * Esko, MN (Carlton County)
-* Phone: (218) 240-1984
 * Address: 174 W St Louis River Rd, Esko, MN 55733
 * Google rating: 4.8 from 117 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

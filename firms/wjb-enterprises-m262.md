@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/wjb-enterprises-m262/
 
 * Radon measurement
 * Andover, MN (Anoka County)
-* Phone: (612) 554-0805
 * Address: 2036 139th Ln NW, Andover, MN 55304
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

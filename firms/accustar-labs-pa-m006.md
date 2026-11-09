@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/accustar-labs-pa-m006/
 
 * Radon analysis laboratory
 * Harrisburg, PA (Dauphin County)
-* Phone: (800) 523-4964
 * Address: 6951 Allentown Blvd, Suite N, Harrisburg, PA 17112
 * MDH radon: Analysis laboratory
 * Service area (per MDH): Statewide (mail-in)

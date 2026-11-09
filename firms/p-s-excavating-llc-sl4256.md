@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/p-s-excavating-llc-sl4256/
 
 * Septic (SSTS) inspection
 * New Richland, MN (Waseca County)
-* Phone: (507) 461-1462
-* Email: schleicher.phillip@gmail.com
 * Address: 28330 128th St, New Richland, MN 56072
 * MPCA SSTS licence L4256: Inspector (exp. 2027-08-22)
 * Also licensed: Designer, Installer, Pipelayer

@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/angstrom-analytical-inc-m026/
 
 * Radon measurement
 * St. Louis Park, MN (Hennepin County)
-* Phone: (952) 252-0405
 * Address: 5001 Cedar Lake Rd, St. Louis Park, MN 55416
 * Google rating: 5.0 from 19 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement

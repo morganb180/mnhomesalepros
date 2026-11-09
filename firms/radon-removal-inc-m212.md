@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/radon-removal-inc-m212/
 
 * Radon mitigation
 * Plymouth, MN (Hennepin County)
-* Phone: (952) 476-6226
-* Website: https://fixradon.com
 * Address: 3300 Vicksburg Ln N #188, Plymouth, MN 55447
 * MDH radon: Multi Family Mitigation, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 50 miles

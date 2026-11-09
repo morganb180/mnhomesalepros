@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/problem-solved-h-i-s-llc-m192/
 
 * Radon measurement, Radon mitigation
 * Vadnais Heights, MN (Ramsey County)
-* Phone: (651) 308-1538
-* Website: https://problemsolvedhis.com
 * Address: 4233 Oakcrest Dr, Vadnais Heights, MN 55127
 * MDH radon: Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 100 miles

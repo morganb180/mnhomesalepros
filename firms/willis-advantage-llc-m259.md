@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/willis-advantage-llc-m259/
 
 * Radon measurement
 * Faribault, MN (Rice County)
-* Phone: (507) 330-1657
-* Website: https://willisadvantage.com
 * Address: 1448 Glynview Trail, Faribault, MN 55021
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

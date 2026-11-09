@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/melzark-sewer-excavation-sl368/
 
 * Septic (SSTS) inspection
 * Askov, MN (Pine County)
-* Phone: (320) 292-6103
-* Email: melzarksewerandexcavation@yahoo.com
 * Address: 36395 Rutabaga Rd, Askov, MN 55704
 * MPCA SSTS licence L368: Inspector (exp. 2027-07-25)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

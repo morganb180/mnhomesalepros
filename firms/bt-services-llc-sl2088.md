@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bt-services-llc-sl2088/
 
 * Septic (SSTS) inspection
 * Brainerd, MN (Crow Wing County)
-* Phone: (218) 831-6430
 * Address: PO Box 62, Brainerd, MN 56401
 * MPCA SSTS licence L2088: Inspector (exp. 2027-01-08)
 * Also licensed: Designer, Installer, Pipelayer

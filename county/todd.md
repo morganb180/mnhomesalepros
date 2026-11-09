@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Horseshoe Septic Service
 
 31525 Killdeer Dr, Browerville, MN 56438  
-☎ [(320) 594-2895](tel:3205942895)  
 ✉ rpbetsinger@gmail.com
 
 Certified staff: Robert P Betsinger  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### McKelvey Septic LLC
 
 25241 County 16, Browerville, MN 56438  
-☎ [(320) 200-4355](tel:3202004355)  
 ✉ kevin@mckelveyseptic.com
 
 Certified staff: Kevin L McKelvey  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Statema Backhoe Service LLC
 
 29165 County 18, Browerville, MN 56438  
-☎ [(320) 594-6347](tel:3205946347)  
 ✉ statemabackhoe@gmail.com
 
 Certified staff: Andrew C Statema, Steven J Statema  
@@ -62,7 +59,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Chad Twardowski Excavating Inc
 
 26808 County 30, Long Prairie, MN 56347  
-☎ [(320) 732-3809](tel:3207323809)  
 ✉ cgtward5@gmail.com
 
 Certified staff: Chad G Twardowski  
@@ -75,7 +71,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Marcyes Excavating Incorporated
 
 25116 213th Ave, Long Prairie, MN 56347  
-☎ [(320) 732-6689](tel:3207326689)  
 ✉ heather4@rea-alp.com
 
 Certified staff: Cody T Marcyes  
@@ -91,7 +86,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Todd County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=todd)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=todd)
 
 ## Frequently asked questions
 
@@ -113,7 +108,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Todd County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Todd County, MN?
 

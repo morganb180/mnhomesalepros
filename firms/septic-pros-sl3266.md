@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/septic-pros-sl3266/
 
 * Septic (SSTS) inspection
 * La Crescent, MN (Houston County)
-* Phone: (507) 894-4956
-* Email: jeffreyjerue@yahoo.com
 * Address: 5266 Tschumper Rd, La Crescent, MN 55947
 * Google rating: 5.0 from 10 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L3266: Inspector, Intermediate Inspector (exp. 2027-06-09)

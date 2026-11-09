@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/jim-weidner-diamonds-in-the-rough-in
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (612) 405-0207
-* Email: jdmover@gmail.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

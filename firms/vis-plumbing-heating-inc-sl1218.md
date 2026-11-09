@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/vis-plumbing-heating-inc-sl1218/
 
 * Septic (SSTS) inspection
 * Lanesboro, MN (Fillmore County)
-* Phone: (507) 467-2240
-* Email: visphinc@acegroup.cc
 * Address: PO Box 322, Lanesboro, MN 55949
 * Google rating: 4.3 from 16 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1218: Inspector (exp. 2027-06-11)

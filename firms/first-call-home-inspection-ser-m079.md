@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/first-call-home-inspection-ser-m079/
 
 * Radon measurement
 * Cedar, MN (Anoka County)
-* Phone: (651) 230-8483
 * Address: 20035 Madison St NE, Cedar, MN 55011
 * Google rating: 5.0 from 125 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

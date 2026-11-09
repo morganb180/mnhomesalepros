@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/straight-answer-home-inspections-llc
 
 * Radon measurement, Radon mitigation
 * Roberts, WI (St. Croix County)
-* Phone: (715) 529-1889
-* Website: https://straightanswerhomeinspections.com
 * Address: 774 107th St, Roberts, WI 54023
 * MDH radon: Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): Statewide

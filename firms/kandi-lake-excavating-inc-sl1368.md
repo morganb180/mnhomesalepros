@@ -1,6 +1,6 @@
 ---
 title: "Kandi-Lake Excavating: Septic Inspector, Lake Lillian MN"
-description: "Kandi-Lake Excavating in Lake Lillian, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Kandi-Lake Excavating in Lake Lillian, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/kandi-lake-excavating-inc-sl1368/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/kandi-lake-excavating-inc-sl1368/
 
 * Septic (SSTS) inspection
 * Lake Lillian, MN (Kandiyohi County)
-* Phone: (320) 995-6546
-* Email: makemomhappy@yahoo.com
 * Address: 6120 126th Ave SE, Lake Lillian, MN 56253
 * Google rating: 4.4 from 7 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1368: Inspector, Intermediate Inspector (exp. 2027-04-17)

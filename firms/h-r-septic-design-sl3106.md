@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/h-r-septic-design-sl3106/
 
 * Septic (SSTS) inspection
 * Bemidji, MN (Beltrami County)
-* Phone: (218) 759-0408
-* Email: kjramondo@gmail.com
 * Address: 10727 Nature Rd NW, Bemidji, MN 56601
 * MPCA SSTS licence L3106: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-05-27)
 * Also licensed: Designer, Service provider

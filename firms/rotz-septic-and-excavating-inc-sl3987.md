@@ -1,6 +1,6 @@
 ---
 title: "Rotz Septic and Excavating: Septic Inspector, Elk River MN"
-description: "Rotz Septic and Excavating in Elk River, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Rotz Septic and Excavating in Elk River, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/rotz-septic-and-excavating-inc-sl3987/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/rotz-septic-and-excavating-inc-sl398
 
 * Septic (SSTS) inspection
 * Elk River, MN (Sherburne County)
-* Phone: (763) 441-2119
 * Address: PO Box 513, Elk River, MN 55330
 * MPCA SSTS licence L3987: Inspector (exp. 2027-10-17)
 * Also licensed: Designer, Installer, Maintainer, Pipelayer

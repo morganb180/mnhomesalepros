@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/radonova-m218/
 
 * Radon analysis laboratory
 * Lombard, IL (DuPage County)
-* Phone: (800) 528-8327
 * Address: 1 E 22nd St, Suite 200, Lombard, IL 60148
 * MDH radon: Analysis laboratory
 * Service area (per MDH): Statewide (mail-in)

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/radon-removal-inc-m211/
 
 * Radon mitigation
 * Long Lake, MN (Hennepin County)
-* Phone: (952) 476-6226
-* Website: https://fixradon.com
 * Address: 525 Orchard Park Rd, Long Lake, MN 55356
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Mitigation, Single Family Measurement, Single Family Mitigation

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/soderstrom-septic-llc-sl4146/
 
 * Septic (SSTS) inspection
 * Mora, MN (Kanabec County)
-* Phone: (320) 515-1081
-* Email: soderstromseptic@gmail.com
 * Address: 1400 Maple Ave E, Mora, MN 55051
 * Google rating: 4.8 from 18 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L4146: Inspector (exp. 2027-04-14)

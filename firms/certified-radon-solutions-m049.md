@@ -1,6 +1,6 @@
 ---
 title: "Certified Radon Solutions, Rochester, MN | MN Home Sale Pros"
-description: "Certified Radon Solutions in Rochester, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Certified Radon Solutions in Rochester, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/certified-radon-solutions-m049/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/certified-radon-solutions-m049/
 
 * Radon measurement, Radon mitigation
 * Rochester, MN (Olmsted County)
-* Phone: (507) 259-1188
-* Website: https://www.radonsolutionsmn.com
 * Address: 4307 56th St Ln NW, Rochester, MN 55901
 * Google rating: 5.0 from 42 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement, Single Family Mitigation

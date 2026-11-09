@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/residential-inspection-service-m220/
 
 * Radon measurement
 * Edina, MN (Hennepin County)
-* Phone: (952) 929-7323
-* Website: https://www.inspectionsmn.com
 * Address: 5817 Hansen Rd, Edina, MN 55436
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

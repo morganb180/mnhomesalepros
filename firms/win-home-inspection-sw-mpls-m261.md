@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/win-home-inspection-sw-mpls-m261/
 
 * Radon measurement
 * Minneapolis, MN (Hennepin County)
-* Phone: (612) 940-5897
 * Address: 2501 Humboldt Ave S, Minneapolis, MN 55405
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 25 miles

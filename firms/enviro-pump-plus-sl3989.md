@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/enviro-pump-plus-sl3989/
 
 * Septic (SSTS) inspection
 * Balaton, MN (Lyon County)
-* Phone: (507) 734-4661
-* Email: kelly@enviro-pump.com
 * Address: PO Box 393, Balaton, MN 56115
 * MPCA SSTS licence L3989: Inspector (exp. 2027-02-05)
 * Also licensed: Maintainer

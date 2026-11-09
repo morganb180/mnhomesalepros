@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/four-diamonds-home-inspection-llc-m0
 
 * Radon measurement
 * Welcome, MN (Martin County)
-* Phone: (507) 848-9709
 * Address: 308 Dugan St S PO Box 145, Welcome, MN 56181
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Measurement, Single Family Measurement

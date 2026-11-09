@@ -1,6 +1,6 @@
 ---
 title: "Bishop Excavating Inc: Septic Inspector, Blooming Prairie MN"
-description: "Bishop Excavating in Blooming Prairie, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Bishop Excavating in Blooming Prairie, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/bishop-excavating-inc-sl1844/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bishop-excavating-inc-sl1844/
 
 * Septic (SSTS) inspection
 * Blooming Prairie, MN (Steele County)
-* Phone: (507) 583-2999
-* Email: ben@bishopexcavating.com
 * Address: 8043 158th St SE, Blooming Prairie, MN 55917
 * MPCA SSTS licence L1844: Inspector (exp. 2027-04-27)
 * Also licensed: Designer, Installer, Pipelayer

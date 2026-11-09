@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/custom-septic-inc-sl1744/
 
 * Septic (SSTS) inspection
 * Menahga, MN (Wadena County)
-* Phone: (218) 564-5800
-* Email: brad@customseptic.com
 * Address: 32749 199th Ave, Menahga, MN 56464
 * MPCA SSTS licence L1744: Inspector (exp. 2028-04-30)
 * Also licensed: Designer, Installer, Pipelayer

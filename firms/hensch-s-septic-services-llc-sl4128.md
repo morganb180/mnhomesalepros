@@ -1,6 +1,6 @@
 ---
 title: "Hensch's Septic Services LLC: Septic Inspector, Crookston MN"
-description: "Hensch's Septic Services in Crookston, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Hensch's Septic Services in Crookston, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/hensch-s-septic-services-llc-sl4128/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/hensch-s-septic-services-llc-sl4128/
 
 * Septic (SSTS) inspection
 * Crookston, MN (Polk County)
-* Phone: (218) 770-6612
-* Email: dylanhensch14@hotmail.com
 * Address: 29808 270th St SW, Crookston, MN 56716
 * MPCA SSTS licence L4128: Inspector (exp. 2028-08-03)
 * Also licensed: Designer

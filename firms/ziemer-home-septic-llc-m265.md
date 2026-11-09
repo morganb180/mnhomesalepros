@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ziemer-home-septic-llc-m265/
 
 * Radon measurement
 * Belgrade, MN (Stearns County)
-* Phone: (320) 220-3454
 * Address: 24406 10th St NE, Belgrade, MN 56312
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

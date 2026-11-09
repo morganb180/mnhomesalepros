@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/adamski-builders-llc-m009/
 
 * Radon mitigation
 * Duluth, MN (St. Louis County)
-* Phone: (218) 727-2495
-* Website: https://radonab.com
 * Address: 239 E Myrtle St, Duluth, MN 55811
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Mitigation, Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation

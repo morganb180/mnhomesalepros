@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/e-t-heating-and-cooling-sl4155/
 
 * Septic (SSTS) inspection
 * Milroy, MN (Redwood County)
-* Phone: (507) 530-4261
-* Email: etheatingandcooling@gmail.com
 * Address: 103 Euclid Ave, Milroy, MN 56263
 * MPCA SSTS licence L4155: Inspector (exp. 2029-03-26)
 * Also licensed: Designer, Installer, Pipelayer

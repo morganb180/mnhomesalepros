@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/valley-radon-mitigation-m253/
 
 * Radon mitigation
 * Fargo, ND (Cass County)
-* Phone: (701) 866-8901
 * Address: 5510 Sunflower Ln S, Fargo, ND 58104
 * MDH radon: Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 100 miles

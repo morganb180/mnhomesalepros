@@ -1,6 +1,6 @@
 ---
 title: "Bedrock Radon Mitigation, Buffalo, MN | MN Home Sale Pros"
-description: "Bedrock Radon Mitigation in Buffalo, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "Bedrock Radon Mitigation in Buffalo, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/bedrock-radon-mitigation-m035/
 ---
 
@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bedrock-radon-mitigation-m035/
 
 * Radon measurement, Radon mitigation
 * Buffalo, MN (Wright County)
-* Phone: (612) 369-6892
 * Address: 714 9th St NW, Buffalo, MN 55313
 * MDH radon: Multi Family Measurement, Multi Family Mitigation, Schools & Large Buildings Measurement, Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): Statewide

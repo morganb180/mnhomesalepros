@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/winter-septic-llc-sl4268/
 
 * Septic (SSTS) inspection
 * Walker, MN (Cass County)
-* Phone: (218) 252-4790
-* Email: winterseptic@outlook.com
 * Address: PO Box 51, Walker, MN 56484
 * MPCA SSTS licence L4268: Inspector (exp. 2026-11-01)
 * Also licensed: Designer

@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/nh-home-inspections-llc-m166/
 
 * Radon measurement
 * Mora, MN (Kanabec County)
-* Phone: (763) 333-6634
 * Address: 415 Fair Ave W, Mora, MN 55051
 * MDH radon: Single Family Measurement
 * Service area (per MDH): Statewide

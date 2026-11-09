@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/e-five-home-services-llc-sl4219/
 
 * Septic (SSTS) inspection
 * Finlayson, MN (Pine County)
-* Phone: (320) 372-2411
-* Email: efive.home@gmail.com
 * Address: 70332 Rhine Lake Rd, Finlayson, MN 55735
 * MPCA SSTS licence L4219: Inspector (exp. 2027-04-12)
 * Also licensed: Designer

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/jeff-manders-gadget-home-inspections
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (651) 245-8041
-* Email: jeff@gadgetinspections.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

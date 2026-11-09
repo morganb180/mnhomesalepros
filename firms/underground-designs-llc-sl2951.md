@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/underground-designs-llc-sl2951/
 
 * Septic (SSTS) inspection
 * Pequot Lakes, MN (Crow Wing County)
-* Phone: (218) 831-3980
-* Email: sethgravdahl@gmail.com
 * Address: 10199 Ossawinnamakee Rd, Pequot Lakes, MN 56472
 * MPCA SSTS licence L2951: Inspector (exp. 2028-07-02)
 * Also licensed: Designer, Installer, Pipelayer

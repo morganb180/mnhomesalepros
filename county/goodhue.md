@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Environmental Design Group Inc
 
 30581 Wild Turkey Ct, Frontenac, MN 55026  
-☎ [(651) 341-6938](tel:6513416938)  
 ✉ septicandwell@gmail.com
 
 Certified staff: Chris A Bosshart, Ryan M Langhans  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Bruce's Backhoe Service
 
 36130 Cty 2 Blvd, Goodhue, MN 55027  
-☎ [(651) 923-4190](tel:6519234190)
 
 Certified staff: Bruce W Holst  
 Also licensed: Designer, Installer, Pipelayer  
@@ -48,7 +46,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Voight Electric & Construction Inc
 
 32977 County 7 Blvd, Goodhue, MN 55027  
-☎ [(651) 258-4012](tel:6512584012)  
 ✉ voightelectric@sleepyeyetel.net
 
 Certified staff: Daniel J Voight  
@@ -61,7 +58,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### MJS of Red Wing Inc
 
 PO Box 46, Red Wing, MN 55066  
-☎ [(651) 388-6473](tel:6513886473)  
 ✉ mjsofredwing@yahoo.com
 
 Certified staff: David F Klair, Debbie J Kull, James K Kull, Larry S Kull  
@@ -74,7 +70,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### EcoSense Septic Services, LLC
 
 32075 County 7 Blvd, Welch, MN 55089  
-☎ [(612) 201-5217](tel:6122015217)  
 ✉ ecosenseseptic@gmail.com
 
 Certified staff: Montana D Sense  
@@ -91,8 +86,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Radon Defense Systems
 
 11467 260th St E, Cannon Falls, MN 55009  
-☎ [(612) 369-1422](tel:6123691422)  
-🌐 [radondefensesystems.com](https://www.radondefensesystems.com)
 
 1 MDH-licensed professional
 
@@ -106,8 +99,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Northwoods Home Inspection Group LLC
 
 50710 20th Ave, Kenyon, MN 55946  
-☎ [(651) 212-1035](tel:6512121035)  
-🌐 [northwoodsinspections.com](https://northwoodsinspections.com)
 
 2 MDH-licensed professionals
 
@@ -122,7 +113,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Olander Home Inspection Services LLC
 
 31109 Ski Rd Trail, Red Wing, MN 55066  
-☎ [(651) 301-2224](tel:6513012224)
 
 1 MDH-licensed professional
 
@@ -135,7 +125,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Goodhue County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=goodhue)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=goodhue)
 
 ## Frequently asked questions
 
@@ -157,7 +147,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Goodhue County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Goodhue County, MN?
 

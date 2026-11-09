@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/harbaugh-septic-llc-sl4218/
 
 * Septic (SSTS) inspection
 * Mantorville, MN (Dodge County)
-* Phone: (507) 358-0107
-* Email: elizabeth.harbaugh@co.dodge.mn.us
 * Address: 59775 272nd Ave, Mantorville, MN 55955
 * MPCA SSTS licence L4218: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-04-11)
 * Also licensed: Service provider

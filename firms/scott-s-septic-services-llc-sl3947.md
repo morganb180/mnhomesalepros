@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/scott-s-septic-services-llc-sl3947/
 
 * Septic (SSTS) inspection
 * Ashby, MN (Grant County)
-* Phone: (218) 747-2099
-* Email: scottsseptic@outlook.com
 * Address: 201 Meadow Cir, Ashby, MN 56309
 * MPCA SSTS licence L3947: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-05-10)
 * Also licensed: Designer, Maintainer, Service provider

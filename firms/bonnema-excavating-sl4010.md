@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bonnema-excavating-sl4010/
 
 * Septic (SSTS) inspection
 * Raymond, MN (Chippewa County)
-* Phone: (320) 212-9572
-* Email: peter@bonnx.com
 * Address: 186 Hwy 23 SE, Raymond, MN 56282
 * MPCA SSTS licence L4010: Inspector (exp. 2027-05-03)
 * Also licensed: Designer, Installer, Service provider, Pipelayer

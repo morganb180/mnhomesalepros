@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/scc-llc-sl4245/
 
 * Septic (SSTS) inspection
 * Longville, MN (Cass County)
-* Phone: (612) 221-4548
-* Email: Will@stoneseptic.com
 * Address: PO Box 46, Longville, MN 56655
 * MPCA SSTS licence L4245: Inspector (exp. 2029-06-28)
 * Also licensed: Designer, Installer, Pipelayer

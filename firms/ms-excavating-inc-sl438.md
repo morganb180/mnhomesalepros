@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ms-excavating-inc-sl438/
 
 * Septic (SSTS) inspection
 * New Prague, MN (Rice County)
-* Phone: (507) 744-2045
-* Email: ms_excavating@yahoo.com
 * Address: 12125 70th St W, New Prague, MN 56071
 * Google rating: 4.4 from 7 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L438: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-02-03)

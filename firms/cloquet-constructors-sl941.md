@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/cloquet-constructors-sl941/
 
 * Septic (SSTS) inspection
 * Cloquet, MN (Saint Louis County)
-* Phone: (218) 879-1608
-* Email: rvukonich3@gmail.com
 * Address: 8432 Surakka Rd, Cloquet, MN 55720
 * MPCA SSTS licence L941: Inspector (exp. 2027-05-01)
 * Also licensed: Designer, Installer, Pipelayer

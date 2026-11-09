@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/adam-kawlewski-m008/
 
 * Radon measurement
 * Inver Grove Heights, MN (Dakota County)
-* Phone: (320) 761-6686
 * Address: 9689 Cedarwood Ct, Inver Grove Heights, MN 55076
 * MDH radon: Single Family Measurement
 * Service area (per MDH): Statewide

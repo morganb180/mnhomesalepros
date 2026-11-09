@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/voidprotect-environmental-llc-m255/
 
 * Radon measurement, Radon mitigation
 * Louisville, KY (Jefferson County)
-* Phone: (502) 496-4383
 * Address: 435 N Whittington Pkwy Suite 275, Louisville, KY 40222
 * MDH radon: Multi Family Measurement, Multi Family Mitigation, Schools & Large Buildings Measurement, Schools & Large Buildings Mitigation, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): Statewide

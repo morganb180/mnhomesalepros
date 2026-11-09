@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/haas-home-inspections-l-l-c-m088/
 
 * Radon measurement
 * Courtland, MN (Nicollet County)
-* Phone: (507) 304-3500
 * Address: 107 Lagoon Dr, Courtland, MN 56021
 * MDH radon: Single Family Measurement
 * Service area (per MDH): Statewide

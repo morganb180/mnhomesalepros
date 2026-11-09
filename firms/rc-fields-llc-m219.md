@@ -1,6 +1,6 @@
 ---
 title: "RC Fields LLC, Maple Grove, MN | MN Home Sale Pros"
-description: "RC Fields in Maple Grove, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "RC Fields in Maple Grove, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/rc-fields-llc-m219/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/rc-fields-llc-m219/
 
 * Radon measurement, Radon mitigation
 * Maple Grove, MN (Hennepin County)
-* Phone: (612) 812-4977
-* Website: https://www.rcfieldshomeinspections.com
 * Address: 14960 75th Ave N, Maple Grove, MN 55311
 * MDH radon: Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 100 miles

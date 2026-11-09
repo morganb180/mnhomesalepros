@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/consulting-solutions-inc-m057/
 
 * Radon measurement
 * Chicago, IL (Cook County)
-* Phone: (184) 769-0090
-* Website: https://consultingsolutionsinc.com/
 * Address: 401 N Michigan Ave Suite 1200, Chicago, IL 60611
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement
 * Service area (per MDH): Statewide

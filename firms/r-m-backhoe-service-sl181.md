@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/r-m-backhoe-service-sl181/
 
 * Septic (SSTS) inspection
 * Medford, MN (Steele County)
-* Phone: (507) 451-6164
 * Address: 2300 NW 50th St, Medford, MN 55049
 * Google rating: 3.0 from 2 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L181: Inspector (exp. 2027-04-21)

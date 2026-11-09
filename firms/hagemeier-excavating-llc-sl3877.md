@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/hagemeier-excavating-llc-sl3877/
 
 * Septic (SSTS) inspection
 * Albany, MN (Stearns County)
-* Phone: (320) 248-9097
-* Email: lucy@hagemeierexcavating.com
 * Address: 27043 County Rd 23, Albany, MN 56307
 * MPCA SSTS licence L3877: Inspector (exp. 2027-04-20)
 * Also licensed: Designer, Installer, Pipelayer

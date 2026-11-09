@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/north-star-radon-solutions-llc-m168/
 
 * Radon measurement, Radon mitigation
 * Oakdale, MN (Washington County)
-* Phone: (651) 483-5885
-* Website: https://www.northstarradon.com
 * Address: 8031 9th St Way N, Oakdale, MN 55128
 * MDH radon: Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 50 miles

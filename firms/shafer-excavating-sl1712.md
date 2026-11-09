@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/shafer-excavating-sl1712/
 
 * Septic (SSTS) inspection
 * Hackensack, MN (Cass County)
-* Phone: (218) 675-6776
-* Email: septologist@gmail.com
 * Address: 3109 State Hwy 371 NW, Hackensack, MN 56452
 * MPCA SSTS licence L1712: Inspector (exp. 2028-04-22)
 * Also licensed: Designer, Installer, Pipelayer

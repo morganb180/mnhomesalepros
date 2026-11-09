@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/emsl-analytical-inc-m073/
 
 * Radon analysis laboratory
 * Cinnaminson, NJ (Burlington County)
-* Phone: (856) 303-2500
 * Address: 200 Route 130 N, Cinnaminson, NJ 08077
 * MDH radon: Analysis laboratory
 * Service area (per MDH): Statewide (mail-in)

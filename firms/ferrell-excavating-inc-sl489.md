@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ferrell-excavating-inc-sl489/
 
 * Septic (SSTS) inspection
 * Maple Lake, MN (Wright County)
-* Phone: (612) 501-6240
-* Email: chrisferrellmn@yahoo.com
 * Address: 11151 Hollister Ave NW, Maple Lake, MN 55358
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L489: Inspector (exp. 2027-04-10)

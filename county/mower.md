@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### Bruce Bucknell Construction, Inc.
 
 31901 770th Ave, Racine, MN 55967  
-☎ [(507) 533-8830](tel:5075338830)  
 ✉ bbconstruction8830@gmail.com
 
 Certified staff: Bruce E Bucknell, Todd E Bucknell  
@@ -36,7 +35,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Eric Boe and Sons LLC
 
 16173 620th Ave, Rose Creek, MN 55970  
-☎ [(507) 438-9851](tel:5074389851)  
 ✉ ericboe16@hotmail.com
 
 Certified staff: Eric R Boe  
@@ -49,7 +47,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Bustad Dozing & Excavating Inc.
 
 16790 720th Ave, Taopi, MN 55977  
-☎ [(507) 438-6394](tel:5074386394)  
 ✉ bustaddozing@gmail.com
 
 Certified staff: Benjamin S Hoth, Terry L Petersen  
@@ -66,8 +63,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Chaps Home Inspection
 
 66985 210th St, Elkton, MN 55933  
-☎ [(507) 438-2129](tel:5074382129)  
-🌐 [chapshomeinspection.com](https://chapshomeinspection.com)
 
 1 MDH-licensed professional
 
@@ -80,7 +75,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Mower County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=mower)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=mower)
 
 ## Frequently asked questions
 
@@ -102,7 +97,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Mower County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Mower County, MN?
 

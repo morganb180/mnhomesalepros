@@ -1,6 +1,6 @@
 ---
 title: "Handyside Civil Solutions PLLC: Septic Inspector, Lengby MN"
-description: "Handyside Civil Solutions in Lengby, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Handyside Civil Solutions in Lengby, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/handyside-civil-solutions-pllc-sl4458/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/handyside-civil-solutions-pllc-sl445
 
 * Septic (SSTS) inspection
 * Lengby, MN (Mahnomen County)
-* Phone: (218) 261-0390
-* Email: loganhandyside3@gmail.com
 * Address: 1014 300th Ave, Lengby, MN 56651
 * MPCA SSTS licence L4458: Inspector (exp. 2027-04-01)
 * Also licensed: Designer

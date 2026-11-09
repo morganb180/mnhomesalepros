@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/holm-inspections-llc-m098/
 
 * Radon measurement
 * Nya, MN (Carver County)
-* Phone: (507) 276-4238
-* Website: https://holm-inspections.com
 * Address: 314 Shady Ln, Nya, MN 55397
 * Google rating: 5.0 from 3 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

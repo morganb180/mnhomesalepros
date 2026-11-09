@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/x2-home-solutions-m263/
 
 * Radon measurement
 * Saint Paul, MN (Dakota County)
-* Phone: (612) 268-0517
-* Website: https://x2homesolutions.com
 * Address: 12746 Diamond Path, Saint Paul, MN 55124
 * MDH radon: Multi Family Measurement, Single Family Measurement
 * Service area (per MDH): Statewide

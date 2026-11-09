@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/heartland-mechanical-inc-sl328/
 
 * Septic (SSTS) inspection
 * Balaton, MN (Lyon County)
-* Phone: (507) 828-0527
-* Email: mitchell.holm@outlook.com
 * Address: 1001 Spink Lake Ave, Balaton, MN 56115
 * MPCA SSTS licence L328: Inspector (exp. 2027-03-31)
 * Also licensed: Designer, Installer, Pipelayer

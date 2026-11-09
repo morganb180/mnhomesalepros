@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/cs-septic-designs-llc-sl4395/
 
 * Septic (SSTS) inspection
 * Pierz, MN (Morrison County)
-* Phone: (320) 333-7966
-* Email: cssepticdesigns@gmail.com
 * Address: 27143 326th Ave, Pierz, MN 56364
 * MPCA SSTS licence L4395: Inspector (exp. 2027-07-01)
 * Also licensed: Designer

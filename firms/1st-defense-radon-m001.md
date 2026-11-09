@@ -1,6 +1,6 @@
 ---
 title: "1st Defense Radon, Cottage Grove, MN | MN Home Sale Pros"
-description: "1st Defense Radon in Cottage Grove, MN: MDH licensed for radon measurement and radon mitigation. Licence details, contact and the MDH source."
+description: "1st Defense Radon in Cottage Grove, MN: MDH licensed for radon measurement and radon mitigation. Licence details, address and the MDH source."
 canonical: https://mnhomesalepros.com/firms/1st-defense-radon-m001/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/1st-defense-radon-m001/
 
 * Radon measurement, Radon mitigation
 * Cottage Grove, MN (Washington County)
-* Phone: (651) 503-3131
-* Website: https://firstdefenseradon.com
 * Address: 9120 Hillside Tr S, Cottage Grove, MN 55016
 * MDH radon: Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 50 miles

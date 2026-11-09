@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/novagroup-gbc-m171/
 
 * Radon measurement
 * St. Louis Park, MN (Hennepin County)
-* Phone: (952) 448-9393
 * Address: 5320 W 23rd St, St. Louis Park, MN 55416
 * Google rating: 4.3 from 6 reviews (as of Oct 18, 2026)
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement

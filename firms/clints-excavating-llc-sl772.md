@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/clints-excavating-llc-sl772/
 
 * Septic (SSTS) inspection
 * Saint Cloud, MN (Sherburne County)
-* Phone: (320) 743-3435
-* Email: snowplowed@aol.com
 * Address: 8972 27th St SE, Saint Cloud, MN 56304
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L772: Inspector (exp. 2027-07-21)

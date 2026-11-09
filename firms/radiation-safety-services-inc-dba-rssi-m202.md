@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/radiation-safety-services-inc-dba-rs
 
 * Radon analysis laboratory
 * Morton Grove, IL (Cook County)
-* Phone: (847) 965-1999
 * Address: 6312 Oakton St, Morton Grove, IL 60053
 * Google rating: 3.0 from 2 reviews (as of Oct 18, 2026)
 * MDH radon: Analysis laboratory

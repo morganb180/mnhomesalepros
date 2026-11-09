@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/smitten-home-inspection-m232/
 
 * Radon measurement
 * Brooklyn Park, MN (Hennepin County)
-* Phone: (612) 701-3952
-* Website: https://smittenhomeinspection.com
 * Address: 3751 102nd Ln N, Brooklyn Park, MN 55443
 * Google rating: 5.0 from 2 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

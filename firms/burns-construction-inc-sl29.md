@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/burns-construction-inc-sl29/
 
 * Septic (SSTS) inspection
 * Le Sueur, MN (Le Sueur County)
-* Phone: (507) 665-6022
-* Email: burnsconstructioninc@gmail.com
 * Address: 25362 320th St, Le Sueur, MN 56058
 * Google rating: 4.5 from 2 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L29: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2029-03-13)

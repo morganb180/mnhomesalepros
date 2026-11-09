@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/inspectech-m122/
 
 * Radon measurement
 * Rogers, MN (Hennepin County)
-* Phone: (763) 744-6304
 * Address: 19720 Jackie Ln, Rogers, MN 55374
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

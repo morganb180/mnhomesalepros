@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/best-step-home-inspections-m036/
 
 * Radon measurement
 * Glencoe, MN (McLeod County)
-* Phone: (320) 282-7737
 * Address: 511 E 16th St, Glencoe, MN 55336
 * MDH radon: Single Family Measurement
 * Service area (per MDH): Statewide

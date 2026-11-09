@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/northside-septic-service-llc-sl930/
 
 * Septic (SSTS) inspection
 * Bethel, MN (Isanti County)
-* Phone: (763) 444-7898
-* Email: jcarpenter8998@yahoo.com
 * Address: 1301 245th Ave NE, Bethel, MN 55005
 * MPCA SSTS licence L930: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-03-16)
 * Also licensed: Designer, Installer, Maintainer, Service provider, Pipelayer

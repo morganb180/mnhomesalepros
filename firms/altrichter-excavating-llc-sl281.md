@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/altrichter-excavating-llc-sl281/
 
 * Septic (SSTS) inspection
 * Cushing, MN (Morrison County)
-* Phone: (218) 575-2124
-* Email: altric@brainerd.net
 * Address: 6685 330th St, Cushing, MN 56443
 * Google rating: 4.9 from 14 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L281: Inspector (exp. 2027-03-13)

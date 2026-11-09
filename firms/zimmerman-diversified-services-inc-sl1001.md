@@ -1,6 +1,6 @@
 ---
 title: "Zimmerman Diversified Services, Inc., Richmond MN"
-description: "Zimmerman Diversified Services in Richmond, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Zimmerman Diversified Services in Richmond, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/zimmerman-diversified-services-inc-sl1001/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/zimmerman-diversified-services-inc-s
 
 * Septic (SSTS) inspection
 * Richmond, MN (Stearns County)
-* Phone: (320) 597-3458
-* Email: zdi@netlinkcom.com
 * Address: 19623 State Hwy 22, Richmond, MN 56368
 * Google rating: 3.7 from 6 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L1001: Inspector (exp. 2028-04-18)

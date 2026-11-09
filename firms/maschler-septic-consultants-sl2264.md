@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/maschler-septic-consultants-sl2264/
 
 * Septic (SSTS) inspection
 * Brainerd, MN (Crow Wing County)
-* Phone: (218) 839-3042
-* Email: lamaschler@gmail.com
 * Address: 16333 County Rd 142, Brainerd, MN 56401
 * MPCA SSTS licence L2264: Inspector (exp. 2027-01-18)
 * Also licensed: Designer, Installer, Pipelayer

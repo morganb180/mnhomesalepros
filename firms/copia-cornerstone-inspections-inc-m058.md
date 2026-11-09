@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/copia-cornerstone-inspections-inc-m0
 
 * Radon measurement
 * Minneapolis, MN (Hennepin County)
-* Phone: (612) 824-2000
 * Address: 4830 Grand Ave S, Minneapolis, MN 55419
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

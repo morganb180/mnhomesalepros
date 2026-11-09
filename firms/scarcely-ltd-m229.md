@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/scarcely-ltd-m229/
 
 * Radon measurement, Radon mitigation
 * Marshall, MN (Lyon County)
-* Phone: (507) 929-9870
-* Website: https://www.scarcelyltd.com
 * Address: 2847 269th Ave, Marshall, MN 56258
 * MDH radon: Multi Family Measurement, Schools & Large Buildings Measurement, Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 50 miles

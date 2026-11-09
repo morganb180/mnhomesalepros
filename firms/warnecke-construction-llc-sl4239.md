@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/warnecke-construction-llc-sl4239/
 
 * Septic (SSTS) inspection
 * Silver Bay, MN (Lake County)
-* Phone: (218) 220-7159
-* Email: chase.warnecke@gmail.com
 * Address: 4504 Lax Lake Rd, Silver Bay, MN 55614
 * MPCA SSTS licence L4239: Inspector (exp. 2028-06-28)
 * Also licensed: Designer, Installer, Pipelayer

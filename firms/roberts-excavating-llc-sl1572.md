@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/roberts-excavating-llc-sl1572/
 
 * Septic (SSTS) inspection
 * Askov, MN (Pine County)
-* Phone: (320) 838-3464
 * Address: 37223 Rutabaga Rd, Askov, MN 55704
 * MPCA SSTS licence L1572: Inspector (exp. 2029-04-20)
 * Also licensed: Designer

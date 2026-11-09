@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/twin-cities-radon-services-m249/
 
 * Radon mitigation
 * Otsego, MN (Sherburne County)
-* Phone: (612) 245-3222
-* Website: https://www.twincitiesradonservices.com
 * Address: 14705 87th Ct NE, Otsego, MN 55330
 * MDH radon: Single Family Measurement, Single Family Mitigation
 * Service area (per MDH): 50 miles

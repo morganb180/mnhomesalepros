@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/ohm-septic-llc-sl4493/
 
 * Septic (SSTS) inspection
 * Grand Rapids, MN (Itasca County)
-* Phone: (218) 439-6428
-* Email: chris@ohmexcavating.com
 * Address: PO Box 26, Grand Rapids, MN 55744
 * Google rating: 5.0 from 1 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L4493: Inspector (exp. 2027-03-24)

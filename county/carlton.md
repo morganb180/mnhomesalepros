@@ -23,7 +23,6 @@ Minnesota has no single statewide septic-at-sale rule, but many counties and cit
 ### 3-D Construction & Enterprise LLLP
 
 501 Brookston Rd, Cloquet, MN 55720  
-☎ [(218) 879-1730](tel:2188791730)
 
 Certified staff: Daniel K Follett, Dustin K Follett  
 Also licensed: Designer, Installer, Maintainer, Pipelayer  
@@ -35,7 +34,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Critical Hit Design & Inspection LLC
 
 2745 Hwy 210, Cloquet, MN 55720  
-☎ [(218) 260-9477](tel:2182609477)  
 ✉ criticalhitssts@gmail.com
 
 Certified staff: Jason D Walsh  
@@ -48,7 +46,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Maki Trucking Inc.
 
 PO Box 106, Cloquet, MN 55720  
-☎ [(218) 348-0612](tel:2183480612)  
 ✉ ken@kmaki.net
 
 Certified staff: Alicia L Maki, Kenneth L Maki  
@@ -65,8 +62,6 @@ Source: [MPCA SSTS](https://services.pca.state.mn.us/api/doc/v1/ssts/licensed-bu
 ### Armstrong Home Inspection Service, LLC
 
 3514 Freeman Rd, Cloquet, MN 55720  
-☎ [(218) 390-2166](tel:2183902166)  
-🌐 [armstronghomeinspectionsvc.com](https://armstronghomeinspectionsvc.com)
 
 1 MDH-licensed professional
 
@@ -80,7 +75,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Coleman Home Inspections LLC
 
 174 W St Louis River Rd, Esko, MN 55733  
-☎ [(218) 240-1984](tel:2182401984)
 
 1 MDH-licensed professional
 
@@ -94,8 +88,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Rock Hill Radon
 
 2 Keanu Ln, Esko, MN 55733  
-☎ [(218) 310-8732](tel:2183108732)  
-🌐 [rockhillradon.com](http://www.rockhillradon.com)
 
 1 MDH-licensed professional
 
@@ -108,7 +100,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in Carlton County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=carlton)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=carlton)
 
 ## Frequently asked questions
 
@@ -130,7 +122,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in Carlton County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border Carlton County, MN?
 

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/patrick-leahy-accuspec-home-inspecti
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (651) 398-6754
-* Email: patleahy@accuspechome.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

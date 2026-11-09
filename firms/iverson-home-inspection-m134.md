@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/iverson-home-inspection-m134/
 
 * Radon measurement
 * Kasson, MN (Dodge County)
-* Phone: (507) 696-7557
 * Address: 27055 655th St, Kasson, MN 55944
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

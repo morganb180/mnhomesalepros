@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/national-property-inspections-m165/
 
 * Radon measurement
 * Sartell, MN (Stearns County)
-* Phone: (320) 761-0077
 * Address: 713 19th Ave N, Sartell, MN 56377
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

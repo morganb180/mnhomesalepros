@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/prairie-home-inspections-m185/
 
 * Radon measurement
 * Forest Lake, MN (Washington County)
-* Phone: (612) 250-9251
-* Website: https://www.prairiehomeinspections.com
 * Address: 20756 Keewahtin Ave North, Forest Lake, MN 55025
 * Google rating: 5.0 from 39 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

@@ -67,7 +67,6 @@ Reviewed by MN Home Sale Pros staff
 ### Accustar Labs - MA
 
 2 Saber Way, Ward Hill, MA 01835  
-☎ [(888) 480-8812](tel:8884808812)
 
 1 MDH-licensed professional
 
@@ -81,7 +80,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Accustar Labs - PA
 
 6951 Allentown Blvd, Suite N, Harrisburg, PA 17112  
-☎ [(800) 523-4964](tel:8005234964)
 
 1 MDH-licensed professional
 
@@ -95,8 +93,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Advanced Home Inspections LLC
 
 119 9th Ave S, Onalaska, WI 54650  
-☎ [(608) 792-3657](tel:6087923657)  
-🌐 [advancedhomeinspectionsllc.com](https://www.advancedhomeinspectionsllc.com)
 
 1 MDH-licensed professional
 
@@ -110,7 +106,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Air Chek
 
 1936 Butler Bridge Rd, Mills River, NC 28759  
-☎ [(800) 247-2435](tel:8002472435)
 
 1 MDH-licensed professional
 
@@ -124,8 +119,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### BBG Assessments LLC
 
 8343 Douglas Ave, Suite 700, Dallas, TX 75225  
-☎ [(612) 219-9385](tel:6122199385)  
-🌐 [bbgres.com](https://www.bbgres.com)
 
 1 MDH-licensed professional
 
@@ -139,8 +132,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Blue Door Home Inspections LLC
 
 3333 Desert Star Ln, Grand Forks, ND 58201  
-☎ [(701) 740-0980](tel:7017400980)  
-🌐 [bluedoorinspects.com](https://bluedoorinspects.com)
 
 1 MDH-licensed professional
 
@@ -154,8 +145,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Consulting Solutions Inc.
 
 401 N Michigan Ave Suite 1200, Chicago, IL 60611  
-☎ [(184) 769-0090](tel:1847690090)  
-🌐 [consultingsolutionsinc.com](https://consultingsolutionsinc.com/)
 
 4 MDH-licensed professionals
 
@@ -172,7 +161,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Dakota Radon Services
 
 5217 W Ponderosa Dr, Horace, ND 58047  
-☎ [(701) 320-1296](tel:7013201296)
 
 1 MDH-licensed professional
 
@@ -186,8 +174,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Des Moines Radon
 
 5644 NE 17th St, Des Moines, IA 50313  
-☎ [(515) 210-4407](tel:5152104407)  
-🌐 [dsmradon.com](https://dsmradon.com)
 
 1 MDH-licensed professional
 
@@ -201,7 +187,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Dwella Inspections
 
 1367 Elm Cir N, Fargo, ND 58102  
-☎ [(701) 400-7854](tel:7014007854)
 
 1 MDH-licensed professional
 
@@ -215,7 +200,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### EMSL Analytical Inc
 
 200 Route 130 N, Cinnaminson, NJ 08077  
-☎ [(856) 303-2500](tel:8563032500)
 
 1 MDH-licensed professional
 
@@ -229,7 +213,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Ecosense, Inc.
 
 1777 Hamilton Ave #2180, San Jose, CA 95125  
-☎ [(678) 983-9312](tel:6789839312)
 
 1 MDH-licensed professional
 
@@ -243,8 +226,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Element Radon Services
 
 11000 46th Ave N, Grand Forks, ND 58203  
-☎ [(701) 740-8161](tel:7017408161)  
-🌐 [elementradonservices.net](https://www.elementradonservices.net)
 
 2 MDH-licensed professionals
 
@@ -259,7 +240,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Environmental Testing and Consulting
 
 38900 W Huron River Dr, Romulus, MI 48174  
-☎ [(734) 955-6600](tel:7349556600)
 
 2 MDH-licensed professionals
 
@@ -274,7 +254,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Eurofins Environment Testing Radon LLC
 
 2501 Mayes Rd, Suite 100, Carrollton, TX 75006  
-☎ [(972) 236-7130](tel:9722367130)
 
 1 MDH-licensed professional
 
@@ -288,8 +267,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Inspector Rob Agency LLC
 
 PO Box 307, Superior, WI 54880  
-☎ [(218) 393-6482](tel:2183936482)  
-🌐 [inspectorrob.com](https://inspectorrob.com)
 
 1 MDH-licensed professional
 
@@ -303,8 +280,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### JC Radon Services LLC
 
 S3208 Jumbeck Ln, Fountain City, WI 54629  
-☎ [(507) 458-2730](tel:5074582730)  
-🌐 [jcradonservices.com](https://www.jcradonservices.com)
 
 1 MDH-licensed professional
 
@@ -318,8 +293,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Langer Construction Inc
 
 303 270th St, Wilson, WI 54027  
-☎ [(651) 261-1830](tel:6512611830)  
-🌐 [langer-radon.com](https://langer-radon.com)
 
 2 MDH-licensed professionals
 
@@ -334,7 +307,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Lifetime Home Services LLC
 
 3485 N 124th St, Brookfield, WI 53005  
-☎ [(262) 955-5701](tel:2629555701)
 
 2 MDH-licensed professionals
 
@@ -349,8 +321,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Lifetime Radon Solutions Inc
 
 3485 N 124th St, Brookfield, WI 53005  
-☎ [(262) 955-5701](tel:2629555701)  
-🌐 [lifetimeradon.com](https://www.lifetimeradon.com)
 
 1 MDH-licensed professional
 
@@ -364,8 +334,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Mann Valley LLC
 
 361 Mann Valley Dr, River Falls, WI 54022  
-☎ [(612) 499-1858](tel:6124991858)  
-🌐 [mannvalleyinspections.com](https://mannvalleyinspections.com)
 
 1 MDH-licensed professional
 
@@ -379,7 +347,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Miles Inspections
 
 627 Spruce Dr, Hudson, WI 54016  
-☎ [(715) 651-1972](tel:7156511972)
 
 1 MDH-licensed professional
 
@@ -393,8 +360,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Nordic Inspections
 
 3312 39th St South, Fargo, ND 58104  
-☎ [(701) 566-1446](tel:7015661446)  
-🌐 [nordiccompaniesinc.com](http://www.nordiccompaniesinc.com/)
 
 5 MDH-licensed professionals
 
@@ -412,7 +377,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Pillar to Post Dalchow Team
 
 925 Waxon Ln, Hudson, WI 54016  
-☎ [(715) 338-6485](tel:7153386485)
 
 1 MDH-licensed professional
 
@@ -426,7 +390,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### PriorityLab, LLC
 
 3301 NW 55th St, Fort Lauderdale, FL 33309  
-☎ [(317) 853-2172](tel:3178532172)
 
 1 MDH-licensed professional
 
@@ -440,7 +403,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### ProLab
 
 1675 N Commerce Pkwy, Weston, FL 33326  
-☎ [(954) 384-4446](tel:9543844446)
 
 1 MDH-licensed professional
 
@@ -454,7 +416,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Protect Environmental
 
 9822 Bluegrass Pkwy, Louisville, KY 40299  
-☎ [(502) 496-4383](tel:5024964383)
 
 1 MDH-licensed professional
 
@@ -468,8 +429,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Quality Air & Water, d.b.a. Des Moines Radon, LLC
 
 5644 NE 17th St, Des, IA 50313  
-☎ [(515) 210-4407](tel:5152104407)  
-🌐 [dsmradon.com](https://dsmradon.com/)
 
 1 MDH-licensed professional
 
@@ -483,8 +442,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Quality First Inspections llc
 
 617 Center St S, Wahpeton, ND 58075  
-☎ [(701) 640-9395](tel:7016409395)  
-🌐 [qualityfirstinspections.com](https://qualityfirstinspections.com/)
 
 1 MDH-licensed professional
 
@@ -498,7 +455,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### RAdata Analytical Lab
 
 27 Ironia Rd Unit 2, Flanders, NJ 07836  
-☎ [(973) 927-9985](tel:9739279985)
 
 1 MDH-licensed professional
 
@@ -512,7 +468,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### RTCA Radon Testing Corporation of America Inc
 
 2 Hayes St, Elmsford, NY 10523  
-☎ [(914) 345-3380](tel:9143453380)
 
 1 MDH-licensed professional
 
@@ -526,7 +481,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Radalink Inc
 
 5599 Peachtree Rd, Atlanta, GA 30341  
-☎ [(770) 457-1944](tel:7704571944)
 
 1 MDH-licensed professional
 
@@ -540,7 +494,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Radiation Safety Services Inc dba RSSI
 
 6312 Oakton St, Morton Grove, IL 60053  
-☎ [(847) 965-1999](tel:8479651999)
 
 1 MDH-licensed professional
 
@@ -554,8 +507,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Radon Associates LLC
 
 915 131st Ave, New Richmond, WI 54017  
-☎ [(866) 697-2366](tel:8666972366)  
-🌐 [radonassociates.com](https://radonassociates.com)
 
 2 MDH-licensed professionals
 
@@ -570,8 +521,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Radon Crew, LLC
 
 48337 253rd St, Garretson, SD 57030  
-☎ [(605) 359-0461](tel:6053590461)  
-🌐 [radoncrew.com](https://www.radoncrew.com)
 
 1 MDH-licensed professional
 
@@ -585,7 +534,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Radon Remedies
 
 4113 Carmell Pl, West Fargo, ND 58078  
-☎ [(701) 997-1335](tel:7019971335)
 
 1 MDH-licensed professional
 
@@ -599,7 +547,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Radonova
 
 1 E 22nd St, Suite 200, Lombard, IL 60148  
-☎ [(800) 528-8327](tel:8005288327)
 
 1 MDH-licensed professional
 
@@ -613,7 +560,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### SWAT Environmental
 
 16680 W Cleveland Ave, Suite C, New Berlin, WI 53151  
-☎ [(262) 754-2211](tel:2627542211)
 
 5 MDH-licensed professionals
 
@@ -631,8 +577,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Straight Answer Home Inspections LLC
 
 774 107th St, Roberts, WI 54023  
-☎ [(715) 529-1889](tel:7155291889)  
-🌐 [straightanswerhomeinspections.com](https://straightanswerhomeinspections.com)
 
 1 MDH-licensed professional
 
@@ -646,7 +590,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### VOIDProtect Environmental, LLC
 
 435 N Whittington Pkwy Suite 275, Louisville, KY 40222  
-☎ [(502) 496-4383](tel:5024964383)
 
 1 MDH-licensed professional
 
@@ -660,7 +603,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Valley Radon Mitigation
 
 5510 Sunflower Ln S, Fargo, ND 58104  
-☎ [(701) 866-8901](tel:7018668901)
 
 1 MDH-licensed professional
 
@@ -674,7 +616,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Wild Daisy Home Inspections LLC
 
 925 Waxon Ln, Hudson, WI 54022  
-☎ [(651) 578-1672](tel:6515781672)
 
 1 MDH-licensed professional
 

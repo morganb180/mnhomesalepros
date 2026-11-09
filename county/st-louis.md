@@ -25,8 +25,6 @@ None list a St. Louis County address. Use the [statewide list](https://mnhomesal
 ### Adamski Builders LLC
 
 239 E Myrtle St, Duluth, MN 55811  
-☎ [(218) 727-2495](tel:2187272495)  
-🌐 [radonab.com](https://radonab.com)
 
 1 MDH-licensed professional
 
@@ -40,7 +38,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Bluewater Professional Inspections
 
 5220 Otsego St, Duluth, MN 55804  
-☎ [(218) 343-5631](tel:2183435631)
 
 1 MDH-licensed professional
 
@@ -54,7 +51,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Van Dyke Home Inspections LLC
 
 2003 Minnesota Ave, Duluth, MN 55802  
-☎ [(218) 391-0356](tel:2183910356)
 
 1 MDH-licensed professional
 
@@ -68,7 +64,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Glenn’s Fix It LLC
 
 422 Highland Dr, Box 165, Hibbing, MN 55746  
-☎ [(218) 969-5543](tel:2189695543)
 
 1 MDH-licensed professional
 
@@ -82,7 +77,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Institute for Environmental Assessment
 
 5525 Emerald Ave, Mountain Iron, MN 55768  
-☎ [(763) 315-7900](tel:7633157900)
 
 1 MDH-licensed professional
 
@@ -96,8 +90,6 @@ Source: [MDH Radon Service Providers](https://radon.web.health.state.mn.us/servi
 ### Advanced Radon Solutions
 
 914 Bass Blvd, Proctor, MN 55810  
-☎ [(218) 491-3752](tel:2184913752)  
-🌐 [advancedradonsolutions.net](https://www.advancedradonsolutions.net)
 
 2 MDH-licensed professionals
 
@@ -111,7 +103,7 @@ Data last verified 2026-10-12 against MPCA's SSTS licensed-business data and MDH
 
 ## Want licensed pros in St. Louis County to contact you?
 
-Tell us the service you need and the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer it, and they contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=st-louis)
+Tell us the service you need and the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer it. They contact you directly. Free, no obligation. [Request quotes](https://mnhomesalepros.com/quotes/?county=st-louis)
 
 ## Frequently asked questions
 
@@ -133,7 +125,7 @@ No. Under the Minnesota Radon Awareness Act ([Minn. Stat. § 144.496](https://ww
 
 **How do I get quotes from licensed pros in St. Louis County?**
 
-Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We send your request to up to 3 licensed pros nearest you that offer that service, and they contact you directly. It's free, and there's no obligation.
+Use the free [quote form](https://mnhomesalepros.com/quotes/). Pick the service and enter the property's ZIP code. We connect you with up to 3 nearby licensed firms that offer that service. They contact you directly. It's free, and there's no obligation.
 
 ## Which counties border St. Louis County, MN?
 

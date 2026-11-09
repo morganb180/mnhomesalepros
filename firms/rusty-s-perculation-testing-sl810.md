@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/rusty-s-perculation-testing-sl810/
 
 * Septic (SSTS) inspection
 * Hanover, MN (Wright County)
-* Phone: (763) 498-8779
 * Address: 11481 Riverview Rd NE, Hanover, MN 55341
 * Google rating: 5.0 from 3 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L810: Inspector (exp. 2027-05-05)

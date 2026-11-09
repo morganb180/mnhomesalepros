@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/bill-yares-twin-cities-home-evaluati
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (612) 822-2020
-* Email: yares.bill@tche.biz
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

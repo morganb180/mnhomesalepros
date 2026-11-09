@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/infotec-home-inspection-llc-m120/
 
 * Radon measurement
 * Hutchinson, MN (McLeod County)
-* Phone: (320) 583-0232
-* Website: https://www.infotecinspect.com
 * Address: 23502 215th St, Hutchinson, MN 55350
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 50 miles

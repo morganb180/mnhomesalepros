@@ -8,7 +8,6 @@ canonical: https://mnhomesalepros.com/firms/homesight-inspection-inc-m108/
 
 * Radon measurement
 * Inver Grove Heights, MN (Dakota County)
-* Phone: (952) 201-2181
 * Address: 5838 Blackshire Path, Inver Grove Heights, MN 55076
 * MDH radon: Single Family Measurement
 * Service area (per MDH): 100 miles

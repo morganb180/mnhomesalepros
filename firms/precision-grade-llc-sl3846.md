@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/precision-grade-llc-sl3846/
 
 * Septic (SSTS) inspection
 * Willow River, MN (Pine County)
-* Phone: (218) 658-4601
-* Email: michael@precisiongradellc.com
 * Address: 19861 Denham Crossing Rd, Willow River, MN 55795
 * MPCA SSTS licence L3846: Inspector (exp. 2027-09-24)
 * Also licensed: Designer, Installer, Service provider, Pipelayer

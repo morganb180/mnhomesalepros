@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/a1-services-inc-sl315/
 
 * Septic (SSTS) inspection
 * Eveleth, MN (Saint Louis County)
-* Phone: (218) 744-4443
-* Email: james@a1servicesmn.com
 * Address: 2715 Hwy 37, Eveleth, MN 55734
 * Google rating: 5.0 from 148 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L315: Inspector (exp. 2027-03-25)

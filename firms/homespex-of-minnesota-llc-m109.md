@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/homespex-of-minnesota-llc-m109/
 
 * Radon measurement
 * Waconia, MN (Carver County)
-* Phone: (507) 381-1418
-* Website: https://www.homespexmn.com
 * Address: 1843 Campfire Dr E, Waconia, MN 55387
 * Google rating: 5.0 from 19 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

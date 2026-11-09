@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/roisum-llc-sl4095/
 
 * Septic (SSTS) inspection
 * Erhard, MN (Otter Tail County)
-* Phone: (218) 849-8921
-* Email: trevor.roisum@gmail.com
 * Address: 19368 County Hwy 24, Erhard, MN 56534
 * MPCA SSTS licence L4095: Inspector (exp. 2027-02-11)
 * Also licensed: Designer, Installer, Pipelayer

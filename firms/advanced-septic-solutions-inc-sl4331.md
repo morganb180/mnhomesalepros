@@ -1,6 +1,6 @@
 ---
 title: "Advanced Septic Solutions: Septic Inspector, Montgomery MN"
-description: "Advanced Septic Solutions in Montgomery, MN: MPCA licensed for septic (SSTS) inspection. Licence details, contact and the MPCA source."
+description: "Advanced Septic Solutions in Montgomery, MN: MPCA licensed for septic (SSTS) inspection. Licence details, address and the MPCA source."
 canonical: https://mnhomesalepros.com/firms/advanced-septic-solutions-inc-sl4331/
 ---
 
@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/advanced-septic-solutions-inc-sl4331
 
 * Septic (SSTS) inspection
 * Montgomery, MN (Le Sueur County)
-* Phone: (507) 301-9548
-* Email: rynd1686@gmail.com
 * Address: 36180 183rd Ave, Montgomery, MN 56069
 * MPCA SSTS licence L4331: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2027-09-20)
 * Also licensed: Designer, Installer, Service provider, Pipelayer

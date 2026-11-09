@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/brian-devery-apple-home-inspections-
 
 * Saint Paul TISH evaluation
 * Saint Paul, MN (Ramsey County)
-* Phone: (651) 644-3999
-* Email: brian.inspect@gmail.com
 * Address: Saint Paul, MN
 * Saint Paul-approved Truth-in-Sale of Housing evaluator
 

@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/kopack-home-inspections-llc-m140/
 
 * Radon measurement
 * Northfield, MN (Rice County)
-* Phone: (651) 380-8306
-* Website: https://bkopack@gmail.com
 * Address: 2215 Harbor Dr, Northfield, MN 55057
 * Google rating: 5.0 from 5 reviews (as of Oct 18, 2026)
 * MDH radon: Single Family Measurement

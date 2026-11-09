@@ -8,8 +8,6 @@ canonical: https://mnhomesalepros.com/firms/lashinski-service-inc-sl4266/
 
 * Septic (SSTS) inspection
 * Ham Lake, MN (Anoka County)
-* Phone: (763) 434-3915
-* Email: rlashinski@gmail.com
 * Address: 1244 Crosstown Blvd NE, Ham Lake, MN 55304
 * Google rating: 4.7 from 41 reviews (as of Oct 18, 2026)
 * MPCA SSTS licence L4266: Inspector, Intermediate Inspector, Advanced Inspector (exp. 2026-12-14)
