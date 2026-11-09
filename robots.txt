@@ -61,7 +61,3 @@ Content-Signal: ai-train=yes, search=yes, ai-input=yes
 Allow: /
 
 Sitemap: https://mnhomesalepros.com/sitemap.xml
-
-# Not a public feed. Contact details withheld from pages.
-User-agent: *
-Disallow: /data/withheld-contact.json
