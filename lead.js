@@ -12,7 +12,7 @@ function cslug(c){return String(c||"").toLowerCase().replace(/[^a-z]+/g,"-")}
 var NEXT="<h3 class=\"lf-h\">What happens next</h3><ol><li>They contact you directly.</li><li>Ask each for its licence number (MPCA, MDH or Saint Paul TISH) and a written quote. Tell them your closing or listing date.</li></ol>";
 forms.forEach(function(f){var src=f.querySelector("[name=source]");if(src)src.value=location.pathname;
  var id=f.querySelector("[name=idem]");if(id&&!id.value)id.value=uid();
- f.addEventListener("focusin",loadTS,{once:true});f.addEventListener("pointerenter",loadTS,{once:true});
+ f.addEventListener("focusin",loadTS,{once:true});f.addEventListener("change",loadTS,{once:true}); /* Turnstile loads on first focus or change, never on hover */
  var cs=f.querySelector("select[name=county]");if(cs&&pre&&!cs.value)cs.value=pre;
  var fi=f.querySelector("input[name=firm]"),fid=q.get("firm"),fr=fid&&(window.NET_FIRMS||{})[fid];
  if(fi&&fr){var SL={"s": "septic inspection", "t": "radon testing", "m": "radon mitigation", "h": "Saint Paul TISH evaluation"},SN={"s": "septic", "t": "radon_test", "m": "radon_mitigation", "h": "tish"},fn=fr[0],sv=fr[1];fi.value=fid;var fl=f.querySelector(".lf-firm");if(fl){fl.innerHTML='We connect you with <strong>'+esc(fn)+'</strong> and up to 2 other nearby licensed firms. They contact you directly.';fl.hidden=false}var r0=f.querySelector('input[name=need][value="'+SN[sv[0]]+'"]');if(r0&&!f.querySelector("input[name=need]:checked"))r0.checked=true}
